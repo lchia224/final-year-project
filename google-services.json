@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "477263071231",
+    "firebase_url": "https://fitness-diary-653c2.firebaseio.com",
+    "project_id": "fitness-diary-653c2",
+    "storage_bucket": "fitness-diary-653c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477263071231:android:3997b1d4eadcda3a9509ca",
+        "android_client_info": {
+          "package_name": "com.companyname.fitness_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477263071231-t53ii9duiqfmkq2k510dra8pkq5och2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.fitness_diary",
+            "certificate_hash": "a5500c256f13c960459eea6e47eb14e7f2831613"
+          }
+        },
+        {
+          "client_id": "477263071231-ssfs0fca3v7td52lpmoc8p7336lqo08d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr8UZlPvW4pDOgvyf434A26rEFxy5t34k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477263071231-ssfs0fca3v7td52lpmoc8p7336lqo08d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
