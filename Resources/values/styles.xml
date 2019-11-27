@@ -1,5 +1,4 @@
 <resources>
-
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
@@ -8,4 +7,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="FitnessTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/fitnessPrimary</item>
+        <item name="colorPrimaryDark">@color/fitnessPrimaryDark</item>
+        <item name="colorAccent">@color/fitnessAccent</item>    
+    </style>
 </resources>

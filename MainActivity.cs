@@ -8,7 +8,7 @@ using Firebase.Database;
 
 namespace Fitness_Diary
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
+    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = false)]
     public class MainActivity : AppCompatActivity
     {
         Button btntestConnection;
