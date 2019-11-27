@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace Fitness_Diary.Activities
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/FitnessTheme", MainLauncher = true)]
+    [Activity(Label = "@string/app_name", Theme = "@style/FitnessTheme", MainLauncher = false)]
     public class LoginActivity : Activity
     {
         protected override void OnCreate(Bundle savedInstanceState)
