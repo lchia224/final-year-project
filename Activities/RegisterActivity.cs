@@ -7,19 +7,20 @@ using Android.App;
 using Android.Content;
 using Android.OS;
 using Android.Runtime;
+using Android.Support.V7.App;
 using Android.Views;
 using Android.Widget;
 
 namespace Fitness_Diary.Activities
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/FitnessTheme", MainLauncher = true)]
-    public class LoginActivity : Activity
+    [Activity(Label = "@string/app_name", Theme = "@style/FitnessTheme", MainLauncher = false)]
+    public class RegisterActivity : AppCompatActivity
     {
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
 
-            SetContentView(Resource.Layout.login);
+            SetContentView(Resource.Layout.register);
         }
     }
 }
