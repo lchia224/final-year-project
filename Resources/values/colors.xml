@@ -6,8 +6,9 @@
     <color name="colorAccent">#3498db</color>
   
     <color name="fitnessPrimary">#434343</color>
-    <color name="fitnessPrimaryDark">#EFEFEF</color>
+    <color name="fitnessPrimaryDark">#E2E2E2</color>
     <color name="fitnessAccent">#FF8900</color>
     <color name="fitnessAccentClick">#A25508</color>
     <color name="fitnessWhite">#fff</color>
+    <color name="fitnessBlue">#3498db</color>
 </resources>

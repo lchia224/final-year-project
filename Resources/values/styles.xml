@@ -12,4 +12,15 @@
         <item name="colorPrimaryDark">@color/fitnessPrimaryDark</item>
         <item name="colorAccent">@color/fitnessAccent</item>    
     </style>
+
+  <style name="FitnessTheme.ActionBar.Transparent" parent="FitnessTheme">
+    <item name="colorPrimary">@android:color/transparent</item>
+  </style>
+
+  <style name="NavigationTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">@color/fitnessAccent</item>
+    <item name="colorPrimaryDark">@color/fitnessAccent</item>
+    <item name="colorAccent">@color/fitnessAccent</item>
+  </style>
+  
 </resources>
