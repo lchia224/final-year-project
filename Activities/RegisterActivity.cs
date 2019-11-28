@@ -16,10 +16,11 @@ using Firebase.Database;
 using Firebase;
 using Java.Lang;
 using Fitness_Diary.EventListeners;
+using Java.Util;
 
 namespace Fitness_Diary.Activities
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/FitnessTheme", MainLauncher = true)]
+    [Activity(Label = "@string/app_name", Theme = "@style/FitnessTheme", MainLauncher = false)]
     public class RegisterActivity : AppCompatActivity
     {
         TextInputLayout fullNameText;
@@ -27,10 +28,15 @@ namespace Fitness_Diary.Activities
         TextInputLayout passwordText;
         Button registerButton;
         CoordinatorLayout rootView;
+        TextView clickToLoginText;
 
         FirebaseAuth mAuth;
         FirebaseDatabase database;
         TaskCompletionListener taskCompletionListener = new TaskCompletionListener();
+        string fullname, email, password;
+
+        ISharedPreferences preferences = Application.Context.GetSharedPreferences("userinfo", FileCreationMode.Private);
+        ISharedPreferencesEditor editor;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -45,13 +51,15 @@ namespace Fitness_Diary.Activities
 
         void ConnectControl()
         {
-            fullNameText = (TextInputLayout)FindViewById(Resource.Id.txtFullName);
-            emailText = (TextInputLayout)FindViewById(Resource.Id.txtEmail);
-            passwordText = (TextInputLayout)FindViewById(Resource.Id.txtPassword);
+            fullNameText = (TextInputLayout)FindViewById(Resource.Id.txtRegisterFullName);
+            emailText = (TextInputLayout)FindViewById(Resource.Id.txtRegisterEmail);
+            passwordText = (TextInputLayout)FindViewById(Resource.Id.txtRegisterPassword);
             rootView = (CoordinatorLayout)FindViewById(Resource.Id.rootView);
-            registerButton = (Button)FindViewById(Resource.Id.btnregister);
+            registerButton = (Button)FindViewById(Resource.Id.btnRegister);
+            clickToLoginText = (TextView)FindViewById(Resource.Id.txtClickToLogin);
 
             registerButton.Click += RegisterButton_Click;
+            clickToLoginText.Click += ClickToLoginText_Click;
         }
 
         //initializing firebase
@@ -79,11 +87,16 @@ namespace Fitness_Diary.Activities
             }
         }
 
+        //already registered text view click event
+        private void ClickToLoginText_Click(object sender, EventArgs e)
+        {
+            StartActivity(typeof(LoginActivity));
+            Finish();
+        }
+
         //register button click event
         private void RegisterButton_Click(object sender, EventArgs e)
-        {
-            string fullname, email, password;
-
+        {           
             fullname = fullNameText.EditText.Text;
             email = emailText.EditText.Text;
             password = passwordText.EditText.Text;
@@ -96,7 +109,7 @@ namespace Fitness_Diary.Activities
             }
             else if(!email.Contains("@"))
             {
-                Snackbar.Make(rootView, "Please enter a valid email", Snackbar.LengthShort).Show();
+                Snackbar.Make(rootView, "Please enter a valid email contain @", Snackbar.LengthShort).Show();
                 return;
             }
             else if(password.Length < 6)
@@ -127,6 +140,30 @@ namespace Fitness_Diary.Activities
         private void TaskCompletionListener_Success(object sender, EventArgs e)
         {
             Snackbar.Make(rootView, "User registration was successful", Snackbar.LengthShort).Show();
+
+            //Creating HashMap to store user information to Firebase
+            HashMap userMap = new HashMap();
+            userMap.Put("fullname", fullname);
+            userMap.Put("email", email);
+
+            //sets user's id to be the unique id in database
+            DatabaseReference userReference = database.GetReference("users/" + mAuth.CurrentUser.Uid);
+            userReference.SetValue(userMap);
+        }
+
+        //saving user information to shared preference when internet is down
+        void SaveToSharedPreference()
+        {
+            editor = preferences.Edit();
+
+            editor.PutString("fullname", fullname);
+            editor.PutString("email", email);
+            editor.Apply();
+        }
+
+        void RetrieveData()
+        {
+            string email = preferences.GetString("email", "");
         }
     }
 }

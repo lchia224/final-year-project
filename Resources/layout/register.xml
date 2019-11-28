@@ -34,6 +34,17 @@
             android:textColor="@color/fitnessWhite"
          />
 
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="28dp"
+            android:text="Register"
+            android:textColor="@color/fitnessWhite"
+            android:gravity="center"
+            android:layout_above="@id/circleImageView1"
+            android:layout_alignParentTop="true"
+        />
+
     </RelativeLayout>
 
     <LinearLayout
@@ -46,7 +57,7 @@
         >
 
         <android.support.design.widget.TextInputLayout
-            android:id="@+id/txtFullName"
+            android:id="@+id/txtRegisterFullName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             >
@@ -60,7 +71,7 @@
         </android.support.design.widget.TextInputLayout>
 
         <android.support.design.widget.TextInputLayout
-            android:id="@+id/txtEmail"
+            android:id="@+id/txtRegisterEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             >
@@ -74,7 +85,7 @@
         </android.support.design.widget.TextInputLayout>
 
         <android.support.design.widget.TextInputLayout
-            android:id="@+id/txtPassword"
+            android:id="@+id/txtRegisterPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             >
@@ -92,7 +103,7 @@
             android:layout_height="match_parent"
         >
             <Button
-                android:id="@+id/btnregister"
+                android:id="@+id/btnRegister"
                 android:layout_width="300dp"
                 android:layout_height="45dp"
                 android:layout_centerInParent="true"
@@ -102,12 +113,13 @@
             />
 
             <TextView
+                android:id="@+id/txtClickToLogin"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:gravity="center"
-                android:layout_marginTop="8dp"
+                android:layout_marginTop="10dp"
                 android:layout_below="@+id/btnregister"
-                android:text="@string/register_click"
+                android:text="@string/login_click"
             />
 
         </RelativeLayout>
