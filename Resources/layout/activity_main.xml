@@ -1,31 +1,17 @@
 
-<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/drawerLayout"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    android:fitsSystemWindows="true"
-    >
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
 
-    <LinearLayout
-        android:orientation="vertical"
+    <Button
+        android:id="@+id/mybutton"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-        <include
-            layout="@layout/include_main"
-        />      
-    </LinearLayout>
-
-    <android.support.design.widget.NavigationView
-        android:id="@+id/navView"
-        android:layout_width="300dp"
-        android:layout_height="match_parent"
-        android:background="@color/fitnessWhite"
-        android:layout_gravity="start"
-        app:headerLayout="@layout/nav_header"
-        app:menu="@menu/navmenu"
-        app:theme="@style/NavigationTheme"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Test Connection"
     />
 
-</android.support.v4.widget.DrawerLayout>
+</RelativeLayout>
