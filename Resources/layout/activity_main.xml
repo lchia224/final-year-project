@@ -1,17 +1,35 @@
 
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:orientation="vertical"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical">
 
-    <Button
-        android:id="@+id/mybutton"
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="20dp"
-        android:text="Test Connection"
-    />
+        android:layout_height="match_parent"
+        >
 
-</RelativeLayout>
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/bnve"
+            android:layout_alignParentTop="true"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        />
+
+        <com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx
+            android:id="@+id/bnve"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/fitnessPrimary"
+            app:itemIconTint="@color/fitnessWhite"
+            app:itemTextColor="@color/fitnessWhite"
+            app:menu="@menu/bottom_nav"
+        />
+
+    </RelativeLayout>
+</LinearLayout>
