@@ -949,6 +949,26 @@
           "build/MonoAndroid90/Xamarin.GooglePlayServices.Flags.targets": {}
         }
       },
+      "Xamarin.GooglePlayServices.Maps/71.1610.0": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Build.Download": "0.4.11",
+          "Xamarin.GooglePlayServices.Base": "71.1610.0",
+          "Xamarin.GooglePlayServices.Basement": "71.1620.0"
+        },
+        "frameworkAssemblies": [
+          "Java.Interop"
+        ],
+        "compile": {
+          "lib/monoandroid90/Xamarin.GooglePlayServices.Maps.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid90/Xamarin.GooglePlayServices.Maps.dll": {}
+        },
+        "build": {
+          "build/MonoAndroid90/Xamarin.GooglePlayServices.Maps.targets": {}
+        }
+      },
       "Xamarin.GooglePlayServices.Tasks/71.1601.0": {
         "type": "package",
         "dependencies": {
@@ -1871,6 +1891,19 @@
         "xamarin.googleplayservices.flags.nuspec"
       ]
     },
+    "Xamarin.GooglePlayServices.Maps/71.1610.0": {
+      "sha512": "zU0haiLNzg++mDqVMg36yhHVBiRYM9u3O7vgTLEp+fgDN3Nh133k5SJtjHBhooXxZ/2tFvaYWakHvF4kzqIw1A==",
+      "type": "package",
+      "path": "xamarin.googleplayservices.maps/71.1610.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/MonoAndroid90/Xamarin.GooglePlayServices.Maps.targets",
+        "lib/monoandroid90/Xamarin.GooglePlayServices.Maps.dll",
+        "xamarin.googleplayservices.maps.71.1610.0.nupkg.sha512",
+        "xamarin.googleplayservices.maps.nuspec"
+      ]
+    },
     "Xamarin.GooglePlayServices.Tasks/71.1601.0": {
       "sha512": "1+vlOECCQhcIhnuzBW72sXTWdsR9hvNqa/jre61R7IuG+UkqREnL+Zm9jaG1i/dLBV9hUlzAikbxvM+wYqLjpQ==",
       "type": "package",
@@ -1891,7 +1924,9 @@
       "Refractored.Controls.CircleImageView >= 1.0.1",
       "Xamarin.Android.Support.Design >= 28.0.0.1",
       "Xamarin.Firebase.Auth >= 71.1605.0",
-      "Xamarin.Firebase.Database >= 71.1601.0"
+      "Xamarin.Firebase.Database >= 71.1601.0",
+      "Xamarin.GooglePlayServices.Base >= 71.1610.0",
+      "Xamarin.GooglePlayServices.Maps >= 71.1610.0"
     ]
   },
   "packageFolders": {
@@ -1951,6 +1986,14 @@
           "Xamarin.Firebase.Database": {
             "target": "Package",
             "version": "[71.1601.0, )"
+          },
+          "Xamarin.GooglePlayServices.Base": {
+            "target": "Package",
+            "version": "[71.1610.0, )"
+          },
+          "Xamarin.GooglePlayServices.Maps": {
+            "target": "Package",
+            "version": "[71.1610.0, )"
           }
         }
       }

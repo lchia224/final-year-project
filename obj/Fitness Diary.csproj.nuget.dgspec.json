@@ -57,6 +57,14 @@
             "Xamarin.Firebase.Database": {
               "target": "Package",
               "version": "[71.1601.0, )"
+            },
+            "Xamarin.GooglePlayServices.Base": {
+              "target": "Package",
+              "version": "[71.1610.0, )"
+            },
+            "Xamarin.GooglePlayServices.Maps": {
+              "target": "Package",
+              "version": "[71.1610.0, )"
             }
           }
         }
