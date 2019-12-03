@@ -13,16 +13,23 @@ using Android.Views;
 using Android.Widget;
 using Android.Gms.Maps.Model;
 using Android;
-using Android.Gms.Location.Places.UI;
-using Android.Gms.Location.Places;
 using Android.Gms.Location;
 using Android.Content.PM;
 using Fitness_Diary.Helpers;
+using Google.Places;
 
 namespace Fitness_Diary.Fragments
 {
     public class MapFragment : Android.Support.V4.App.Fragment, IOnMapReadyCallback
     {
+        //Layouts
+        RelativeLayout layoutStartDestination;
+        RelativeLayout layoutEndDestination;
+
+        //TextViews
+        TextView startDestinationText;
+        TextView endDestinationText;
+
         GoogleMap mainMap;
 
         readonly string[] permissionGroupLocation = { Manifest.Permission.AccessCoarseLocation, Manifest.Permission.AccessFineLocation };
@@ -46,15 +53,65 @@ namespace Fitness_Diary.Fragments
             // Use this to return your custom view for this Fragment
             View view = inflater.Inflate(Resource.Layout.map, container, false);
 
+            //Map
             SupportMapFragment mapFragment = (SupportMapFragment)ChildFragmentManager.FindFragmentById(Resource.Id.map);
-            mapFragment.GetMapAsync(this);
 
+            //Place
+            if (!PlacesApi.IsInitialized)
+            {
+                PlacesApi.Initialize(Activity, "AIzaSyBYxu6LmRE5baH64VLCfgZFJo1xaImdZw4");
+            }
+
+            //TextViews
+            startDestinationText = view.FindViewById<TextView>(Resource.Id.txtStartDestination);
+            endDestinationText = view.FindViewById<TextView>(Resource.Id.txtEndDestination);
+
+            //Layouts
+            layoutStartDestination = view.FindViewById<RelativeLayout>(Resource.Id.layoutStartDestination);
+            layoutEndDestination = view.FindViewById<RelativeLayout>(Resource.Id.layoutEndDestination);
+
+            //Methods
+            mapFragment.GetMapAsync(this);
             CheckLocationPermission();
             CreateLocationRequest();
             GetMyLocation();
             StartLocationUpdates();
 
+            //Events
+            layoutStartDestination.Click += LayoutStartDestination_Click;
+            layoutEndDestination.Click += LayoutEndDestination_Click;
+
             return view;
+        }
+
+        private void LayoutStartDestination_Click(object sender, EventArgs e)
+        {
+            List<Place.Field> fields = new List<Place.Field>();
+            fields.Add(Place.Field.Id);
+            fields.Add(Place.Field.Name);
+            fields.Add(Place.Field.LatLng);
+            fields.Add(Place.Field.Address);
+
+            Intent intent = new Autocomplete.IntentBuilder(AutocompleteActivityMode.Overlay, fields)
+                .SetCountry("UK")
+                .Build(Activity);
+
+            StartActivityForResult(intent, 1);
+        }
+
+        private void LayoutEndDestination_Click(object sender, EventArgs e)
+        {
+            List<Place.Field> fields = new List<Place.Field>();
+            fields.Add(Place.Field.Id);
+            fields.Add(Place.Field.Name);
+            fields.Add(Place.Field.LatLng);
+            fields.Add(Place.Field.Address);
+
+            Intent intent = new Autocomplete.IntentBuilder(AutocompleteActivityMode.Overlay, fields)
+                .SetCountry("UK")
+                .Build(Activity);
+
+            StartActivityForResult(intent, 2);
         }
 
         public void OnMapReady(GoogleMap googleMap)
@@ -149,6 +206,24 @@ namespace Fitness_Diary.Fragments
             mLastLocation = e.Location;
             LatLng myPosition = new LatLng(mLastLocation.Latitude, mLastLocation.Longitude);
             mainMap.AnimateCamera(CameraUpdateFactory.NewLatLngZoom(myPosition, 17));
+        }
+
+        public override void OnActivityResult(int requestCode, int resultCode, Intent data)
+        {
+            base.OnActivityResult(requestCode, resultCode, data);
+
+            if(requestCode == 1)
+            {
+                var place = Autocomplete.GetPlaceFromIntent(data);
+                startDestinationText.Text = place.Address.ToString();
+                mainMap.AnimateCamera(CameraUpdateFactory.NewLatLngZoom(place.LatLng, 18));
+            }
+            if (requestCode == 2)
+            {
+                var place = Autocomplete.GetPlaceFromIntent(data);
+                endDestinationText.Text = place.Address.ToString();
+                mainMap.AnimateCamera(CameraUpdateFactory.NewLatLngZoom(place.LatLng, 18));
+            }
         }
     }
 }

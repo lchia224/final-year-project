@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[28.0.0.1, )"
             },
+            "Xamarin.Android.Volley": {
+              "target": "Package",
+              "version": "[1.1.1.1, )"
+            },
             "Xamarin.Essentials": {
               "target": "Package",
               "version": "[1.2.0, )"
@@ -66,6 +70,10 @@
               "target": "Package",
               "version": "[71.1601.0, )"
             },
+            "Xamarin.Google.Android.Places": {
+              "target": "Package",
+              "version": "[1.1.0.2, )"
+            },
             "Xamarin.GooglePlayServices.Base": {
               "target": "Package",
               "version": "[71.1610.0, )"
@@ -77,10 +85,6 @@
             "Xamarin.GooglePlayServices.Maps": {
               "target": "Package",
               "version": "[71.1610.0, )"
-            },
-            "Xamarin.GooglePlayServices.Places": {
-              "target": "Package",
-              "version": "[71.1600.0, )"
             }
           }
         }

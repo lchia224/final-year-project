@@ -11,6 +11,7 @@ using Fitness_Diary.Fragments;
 using Android.Graphics;
 using Android.Support.V4.View;
 using Com.Ittianyu.Bottomnavigationviewex;
+using Android.Content;
 
 namespace Fitness_Diary
 {
@@ -131,6 +132,11 @@ namespace Fitness_Diary
             adapter.AddFragment(dietPlannerFragment, "Diet Planner");
             adapter.AddFragment(helpFragment, "Help & Support");
             viewpager.Adapter = adapter;
+        }
+
+        protected override void OnActivityResult(int requestCode, [GeneratedEnum] Result resultCode, Intent data)
+        {
+            base.OnActivityResult(requestCode, resultCode, data);
         }
     }
 }
