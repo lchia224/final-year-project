@@ -73,6 +73,7 @@
     <Compile Include="Fragments\DietPlannerFragment.cs" />
     <Compile Include="Fragments\HelpFragment.cs" />
     <Compile Include="Fragments\MapFragment.cs" />
+    <Compile Include="Helpers\LocationCallbackHelper.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -82,6 +83,7 @@
     <None Include="Resources\AboutResources.txt" />
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Assets\AboutAssets.txt" />
+    <AndroidResource Include="Resources\raw\retromapstyle.json" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\values\colors.xml" />
