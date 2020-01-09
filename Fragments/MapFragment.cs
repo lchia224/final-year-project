@@ -17,6 +17,7 @@ using Android.Gms.Location;
 using Android.Content.PM;
 using Fitness_Diary.Helpers;
 using Google.Places;
+using Android.Graphics;
 
 namespace Fitness_Diary.Fragments
 {
@@ -29,6 +30,24 @@ namespace Fitness_Diary.Fragments
         //TextViews
         TextView startDestinationText;
         TextView endDestinationText;
+
+        //ImageView
+        ImageView centreMarker;
+
+        //Buttons
+        RadioButton startRadio;
+        RadioButton endRadio;
+
+        //Helpers
+        MapFunctionHelper mapHelper;
+
+        //TripDetails
+        LatLng startLocationLatlng;
+        LatLng endLocationLatlng;
+
+        //Flags
+        int addressRequest = 1;
+        bool takeAddressFromSearch;
 
         GoogleMap mainMap;
 
@@ -66,6 +85,13 @@ namespace Fitness_Diary.Fragments
             startDestinationText = view.FindViewById<TextView>(Resource.Id.txtStartDestination);
             endDestinationText = view.FindViewById<TextView>(Resource.Id.txtEndDestination);
 
+            //Buttons
+            startRadio = view.FindViewById<RadioButton>(Resource.Id.rbtnStartDestination);
+            endRadio = view.FindViewById<RadioButton>(Resource.Id.rbtnEndDestination);
+
+            //ImageView
+            centreMarker = view.FindViewById<ImageView>(Resource.Id.centreMarker);
+
             //Layouts
             layoutStartDestination = view.FindViewById<RelativeLayout>(Resource.Id.layoutStartDestination);
             layoutEndDestination = view.FindViewById<RelativeLayout>(Resource.Id.layoutEndDestination);
@@ -80,8 +106,28 @@ namespace Fitness_Diary.Fragments
             //Events
             layoutStartDestination.Click += LayoutStartDestination_Click;
             layoutEndDestination.Click += LayoutEndDestination_Click;
+            startRadio.Click += StartRadio_Click;
+            endRadio.Click += EndRadio_Click;
 
             return view;
+        }
+
+        private void StartRadio_Click(object sender, EventArgs e)
+        {
+            addressRequest = 1;
+            startRadio.Checked = true;
+            endRadio.Checked = false;
+            takeAddressFromSearch = false;
+            centreMarker.SetColorFilter(Color.DarkGreen);
+        }
+
+        private void EndRadio_Click(object sender, EventArgs e)
+        {
+            addressRequest = 2;
+            endRadio.Checked = true;
+            startRadio.Checked = false;
+            takeAddressFromSearch = false;
+            centreMarker.SetColorFilter(Color.Red);
         }
 
         private void LayoutStartDestination_Click(object sender, EventArgs e)
@@ -117,8 +163,28 @@ namespace Fitness_Diary.Fragments
         public void OnMapReady(GoogleMap googleMap)
         {
             bool success = googleMap.SetMapStyle(MapStyleOptions.LoadRawResourceStyle(Activity, Resource.Raw.retromapstyle));
-
             mainMap = googleMap;
+            mainMap.CameraIdle += MainMap_CameraIdle;
+            string mapkey = Resources.GetString(Resource.String.map_key);
+            mapHelper = new MapFunctionHelper(mapkey);
+        }
+
+        //method to get current position when camera is idle
+        async void MainMap_CameraIdle(object sender, EventArgs e)
+        {
+            if(!takeAddressFromSearch)
+            {
+                if (addressRequest == 1)
+                {
+                    startLocationLatlng = mainMap.CameraPosition.Target;
+                    startDestinationText.Text = await mapHelper.FindCoordinateAddress(startLocationLatlng);
+                }
+                else if (addressRequest == 2)
+                {
+                    endLocationLatlng = mainMap.CameraPosition.Target;
+                    endDestinationText.Text = await mapHelper.FindCoordinateAddress(endLocationLatlng);
+                }
+            }
         }
 
         //requesting for location permissions
@@ -214,15 +280,25 @@ namespace Fitness_Diary.Fragments
 
             if(requestCode == 1)
             {
+                takeAddressFromSearch = true;
+                startRadio.Checked = false;
+                endRadio.Checked = false;
+
                 var place = Autocomplete.GetPlaceFromIntent(data);
                 startDestinationText.Text = place.Address.ToString();
                 mainMap.AnimateCamera(CameraUpdateFactory.NewLatLngZoom(place.LatLng, 18));
+                centreMarker.SetColorFilter(Color.DarkGreen);
             }
             if (requestCode == 2)
             {
+                takeAddressFromSearch = true;
+                startRadio.Checked = false;
+                endRadio.Checked = false;
+
                 var place = Autocomplete.GetPlaceFromIntent(data);
                 endDestinationText.Text = place.Address.ToString();
                 mainMap.AnimateCamera(CameraUpdateFactory.NewLatLngZoom(place.LatLng, 18));
+                centreMarker.SetColorFilter(Color.Red);
             }
         }
     }
