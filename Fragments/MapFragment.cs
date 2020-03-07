@@ -18,6 +18,8 @@ using Android.Content.PM;
 using Fitness_Diary.Helpers;
 using Google.Places;
 using Android.Graphics;
+using System.Timers;
+using Android.Support.Design.Widget;
 
 namespace Fitness_Diary.Fragments
 {
@@ -27,9 +29,13 @@ namespace Fitness_Diary.Fragments
         RelativeLayout layoutStartDestination;
         RelativeLayout layoutEndDestination;
 
+        //Bottomsheets
+        BottomSheetBehavior timerBottomSheetBehaviour;
+
         //TextViews
         TextView startDestinationText;
         TextView endDestinationText;
+        TextView TimerText;
 
         //ImageView
         ImageView centreMarker;
@@ -37,6 +43,8 @@ namespace Fitness_Diary.Fragments
         //Buttons
         RadioButton startRadio;
         RadioButton endRadio;
+        Button mapStartButton;
+        Button mapDoneButton;
 
         //Helpers
         MapFunctionHelper mapHelper;
@@ -48,6 +56,9 @@ namespace Fitness_Diary.Fragments
         //Flags
         int addressRequest = 1;
         bool takeAddressFromSearch;
+
+        //Timer
+        Timer timer;
 
         GoogleMap mainMap;
 
@@ -61,6 +72,8 @@ namespace Fitness_Diary.Fragments
         static int UPDATE_INTERVAL = 5; //5 seconds current location updates
         static int FASTEST_INTERVAL = 5; // 5 seconds current location update
         static int DISPLACEMENT = 3; //3 meters distance before location gets updated
+
+        int sec = 0, min = 0, hr = 0;
 
         public override void OnCreate(Bundle savedInstanceState)
         {
@@ -84,10 +97,13 @@ namespace Fitness_Diary.Fragments
             //TextViews
             startDestinationText = view.FindViewById<TextView>(Resource.Id.txtStartDestination);
             endDestinationText = view.FindViewById<TextView>(Resource.Id.txtEndDestination);
+            TimerText = view.FindViewById<TextView>(Resource.Id.txtTimer);
 
             //Buttons
             startRadio = view.FindViewById<RadioButton>(Resource.Id.rbtnStartDestination);
             endRadio = view.FindViewById<RadioButton>(Resource.Id.rbtnEndDestination);
+            mapStartButton = view.FindViewById<Button>(Resource.Id.btnMapStart);
+            mapDoneButton = view.FindViewById<Button>(Resource.Id.btnMapDone);
 
             //ImageView
             centreMarker = view.FindViewById<ImageView>(Resource.Id.centreMarker);
@@ -95,6 +111,10 @@ namespace Fitness_Diary.Fragments
             //Layouts
             layoutStartDestination = view.FindViewById<RelativeLayout>(Resource.Id.layoutStartDestination);
             layoutEndDestination = view.FindViewById<RelativeLayout>(Resource.Id.layoutEndDestination);
+
+            //Bottomsheets
+            FrameLayout timerView = view.FindViewById<FrameLayout>(Resource.Id.timer_bottomsheet);
+            timerBottomSheetBehaviour = BottomSheetBehavior.From(timerView);
 
             //Methods
             mapFragment.GetMapAsync(this);
@@ -109,7 +129,38 @@ namespace Fitness_Diary.Fragments
             startRadio.Click += StartRadio_Click;
             endRadio.Click += EndRadio_Click;
 
+            mapStartButton.Click += delegate
+            {
+                timerBottomSheetBehaviour.State = BottomSheetBehavior.StateExpanded;
+
+                timer = new Timer();
+                timer.Interval = 1000; // 1 second
+                timer.Elapsed += Timer_Elapsed;
+                timer.Start();
+            };
+
             return view;
+        }
+
+        void mapButtonStartSet()
+        {
+            mapStartButton.Visibility = ViewStates.Visible;
+        }
+
+        private void Timer_Elapsed(object sender, ElapsedEventArgs e)
+        {
+            sec++;
+            if (sec == 60)
+            {
+                min++;
+                sec = 0;
+            }
+            if (min == 60)
+            {
+                hr++;
+                min = 0;
+            }
+            Activity.RunOnUiThread(() => { TimerText.Text = $"{hr} : {min} : {sec}"; });
         }
 
         private void StartRadio_Click(object sender, EventArgs e)
@@ -183,6 +234,7 @@ namespace Fitness_Diary.Fragments
                 {
                     endLocationLatlng = mainMap.CameraPosition.Target;
                     endDestinationText.Text = await mapHelper.FindCoordinateAddress(endLocationLatlng);
+                    mapButtonStartSet();
                 }
             }
         }
@@ -299,6 +351,7 @@ namespace Fitness_Diary.Fragments
                 endDestinationText.Text = place.Address.ToString();
                 mainMap.AnimateCamera(CameraUpdateFactory.NewLatLngZoom(place.LatLng, 18));
                 centreMarker.SetColorFilter(Color.Red);
+                mapButtonStartSet();
             }
         }
     }
