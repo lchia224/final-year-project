@@ -234,7 +234,7 @@ namespace Fitness_Diary.Fragments
                 {
                     endLocationLatlng = mainMap.CameraPosition.Target;
                     endDestinationText.Text = await mapHelper.FindCoordinateAddress(endLocationLatlng);
-                    mapButtonStartSet();
+                    //mapButtonStartSet();
                 }
             }
         }
@@ -351,7 +351,7 @@ namespace Fitness_Diary.Fragments
                 endDestinationText.Text = place.Address.ToString();
                 mainMap.AnimateCamera(CameraUpdateFactory.NewLatLngZoom(place.LatLng, 18));
                 centreMarker.SetColorFilter(Color.Red);
-                mapButtonStartSet();
+                //mapButtonStartSet();
             }
         }
     }
