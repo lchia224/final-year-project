@@ -39,6 +39,7 @@ namespace Fitness_Diary.Fragments
 
         //ImageView
         ImageView centreMarker;
+        ImageView runCentreMarker;
 
         //Buttons
         RadioButton startRadio;
@@ -107,6 +108,7 @@ namespace Fitness_Diary.Fragments
 
             //ImageView
             centreMarker = view.FindViewById<ImageView>(Resource.Id.centreMarker);
+            runCentreMarker = view.FindViewById<ImageView>(Resource.Id.runCentreMarker);
 
             //Layouts
             layoutStartDestination = view.FindViewById<RelativeLayout>(Resource.Id.layoutStartDestination);
@@ -128,23 +130,64 @@ namespace Fitness_Diary.Fragments
             layoutEndDestination.Click += LayoutEndDestination_Click;
             startRadio.Click += StartRadio_Click;
             endRadio.Click += EndRadio_Click;
-
-            mapStartButton.Click += delegate
-            {
-                timerBottomSheetBehaviour.State = BottomSheetBehavior.StateExpanded;
-
-                timer = new Timer();
-                timer.Interval = 1000; // 1 second
-                timer.Elapsed += Timer_Elapsed;
-                timer.Start();
-            };
+            mapStartButton.Click += MapStartButton_Click;
 
             return view;
+        } 
+
+        async void MapStartButton_Click(object sender, EventArgs e)
+        {
+
+            mapStartButton.Text = "Please wait...";
+            mapStartButton.Enabled = false;
+
+            if (endDestinationText.Text != "Ending Destination")
+            {
+                string json;
+                json = await mapHelper.GetDirectionJsonAsync(startLocationLatlng, endLocationLatlng);
+
+                if ((!string.IsNullOrEmpty(json)))
+                {
+                    mapHelper.DrawRouteOnMap(json);
+                    DisableMapFunctions();
+
+                    await mapHelper.FindCoordinateAddress(startLocationLatlng);
+
+                    DisplayTimerBottomSheet();
+                }
+            }
+            else
+            {
+                DisableMapFunctions();
+
+                DisplayTimerBottomSheet();
+            }        
         }
 
         void mapButtonStartSet()
         {
             mapStartButton.Visibility = ViewStates.Visible;
+        }
+
+        void DisplayTimerBottomSheet()
+        {
+            timerBottomSheetBehaviour.State = BottomSheetBehavior.StateExpanded;
+
+            timer = new Timer();
+            timer.Interval = 1000; // 1 second
+            timer.Elapsed += Timer_Elapsed;
+            timer.Start();
+        }
+
+        void DisableMapFunctions()
+        {
+            layoutEndDestination.Clickable = false;
+            layoutStartDestination.Clickable = false;
+            startRadio.Enabled = false;
+            endRadio.Enabled = false;
+            takeAddressFromSearch = true;
+            centreMarker.Visibility = ViewStates.Invisible;
+            runCentreMarker.Visibility = ViewStates.Visible;
         }
 
         private void Timer_Elapsed(object sender, ElapsedEventArgs e)
@@ -217,26 +260,7 @@ namespace Fitness_Diary.Fragments
             mainMap = googleMap;
             mainMap.CameraIdle += MainMap_CameraIdle;
             string mapkey = Resources.GetString(Resource.String.map_key);
-            mapHelper = new MapFunctionHelper(mapkey);
-        }
-
-        //method to get current position when camera is idle
-        async void MainMap_CameraIdle(object sender, EventArgs e)
-        {
-            if(!takeAddressFromSearch)
-            {
-                if (addressRequest == 1)
-                {
-                    startLocationLatlng = mainMap.CameraPosition.Target;
-                    startDestinationText.Text = await mapHelper.FindCoordinateAddress(startLocationLatlng);
-                }
-                else if (addressRequest == 2)
-                {
-                    endLocationLatlng = mainMap.CameraPosition.Target;
-                    endDestinationText.Text = await mapHelper.FindCoordinateAddress(endLocationLatlng);
-                    //mapButtonStartSet();
-                }
-            }
+            mapHelper = new MapFunctionHelper(mapkey, mainMap);
         }
 
         //requesting for location permissions
@@ -308,13 +332,15 @@ namespace Fitness_Diary.Fragments
         //creating message if permissions were accepted or declined
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Permission[] grantResults)
         {
-            if(grantResults[0] == (int)Android.Content.PM.Permission.Granted)
+            if(grantResults.Length > 1)
             {
-                Toast.MakeText(Activity, "Permission was granted", ToastLength.Short).Show();
-            }
-            else
-            {
-                Toast.MakeText(Activity, "Permission was denied", ToastLength.Short).Show();
+                Toast.MakeText(Activity, "Permission was denied", ToastLength.Long).Show();
+
+                if (grantResults[0] == Permission.Granted)
+                {
+                    Toast.MakeText(Activity, "Permission was granted", ToastLength.Long).Show();
+                    StartLocationUpdates();
+                }
             }
         }
 
@@ -326,6 +352,26 @@ namespace Fitness_Diary.Fragments
             mainMap.AnimateCamera(CameraUpdateFactory.NewLatLngZoom(myPosition, 17));
         }
 
+        //method to get current position when camera is idle
+        async void MainMap_CameraIdle(object sender, EventArgs e)
+        {
+            if (!takeAddressFromSearch)
+            {
+                if (addressRequest == 1)
+                {
+                    startLocationLatlng = mainMap.CameraPosition.Target;
+                    startDestinationText.Text = await mapHelper.FindCoordinateAddress(startLocationLatlng);
+                }
+                else if (addressRequest == 2)
+                {
+                    endLocationLatlng = mainMap.CameraPosition.Target;
+                    endDestinationText.Text = await mapHelper.FindCoordinateAddress(endLocationLatlng);
+                    //mapButtonStartSet();
+                }
+            }
+        }
+
+        //Place search auto complete
         public override void OnActivityResult(int requestCode, int resultCode, Intent data)
         {
             base.OnActivityResult(requestCode, resultCode, data);
@@ -338,6 +384,7 @@ namespace Fitness_Diary.Fragments
 
                 var place = Autocomplete.GetPlaceFromIntent(data);
                 startDestinationText.Text = place.Address.ToString();
+                startLocationLatlng = place.LatLng;
                 mainMap.AnimateCamera(CameraUpdateFactory.NewLatLngZoom(place.LatLng, 18));
                 centreMarker.SetColorFilter(Color.DarkGreen);
             }
@@ -349,6 +396,7 @@ namespace Fitness_Diary.Fragments
 
                 var place = Autocomplete.GetPlaceFromIntent(data);
                 endDestinationText.Text = place.Address.ToString();
+                endLocationLatlng = place.LatLng;
                 mainMap.AnimateCamera(CameraUpdateFactory.NewLatLngZoom(place.LatLng, 18));
                 centreMarker.SetColorFilter(Color.Red);
                 //mapButtonStartSet();

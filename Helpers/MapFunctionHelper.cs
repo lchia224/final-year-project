@@ -83,7 +83,7 @@ namespace Fitness_Diary.Helpers
             string mode = "mode=walking";
 
             //Building the parameters to the webservice
-            string parameters = str_origin + "&" + str_destination + "&" + "&" + mode;
+            string parameters = str_origin + "&" + str_destination + "&" + "&" + mode + "&key=";
 
             //Output format
             string output = "json";
@@ -91,7 +91,7 @@ namespace Fitness_Diary.Helpers
             string key = mapkey;
 
             //Building the final url string
-            string url = "http://maps.googleapis.com/maps/api/directions/" + output + "?"  + parameters + key;
+            string url = "https://maps.googleapis.com/maps/api/directions/" + output + "?"  + parameters + key;
 
             string json = "";
             json = await GetGeoJsonAsync(url);
@@ -117,7 +117,7 @@ namespace Fitness_Diary.Helpers
             PolylineOptions polylineOptions = new PolylineOptions()
                 .AddAll(routeList)
                 .InvokeWidth(10)
-                .InvokeColor(Color.Teal)
+                .InvokeColor(Color.Cyan)
                 .InvokeStartCap(new SquareCap())
                 .InvokeEndCap(new SquareCap())
                 .InvokeJointType(JointType.Round)
@@ -137,7 +137,7 @@ namespace Fitness_Diary.Helpers
 
             //End marker options
             MarkerOptions endMarkerOptions = new MarkerOptions();
-            endMarkerOptions.SetPosition(startPoint);
+            endMarkerOptions.SetPosition(endPoint);
             endMarkerOptions.SetTitle("End Location");
             endMarkerOptions.SetIcon(BitmapDescriptorFactory.DefaultMarker(BitmapDescriptorFactory.HueRed));
 

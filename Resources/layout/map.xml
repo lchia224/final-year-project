@@ -134,6 +134,15 @@
             android:src="@drawable/greenmarker"
         />
 
+        <ImageView
+            android:id="@+id/runCentreMarker"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:src="@drawable/baseline_directions_run_black_24"
+            android:visibility="invisible"
+        />
+
         <RelativeLayout
             android:id="@+id/myLocation"
             android:layout_width="35dp"
