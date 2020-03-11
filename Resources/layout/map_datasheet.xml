@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/datasheet_bottomsheet"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:behavior_hideable="true"
+    app:behavior_peekHeight="0dp"
+    app:layout_behavior="android.support.design.widget.BottomSheetBehavior">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/fitnessPrimaryDark"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@color/fitnessPrimary"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_weight="0.6"
+            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:minWidth="25px"
+            android:minHeight="25px">
+
+            <TextView
+                android:id="@+id/txtTotalTime"
+                android:text="Stop time"
+                android:textColor="#fff"
+                android:textSize="18dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="330.5dp"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/txtTotalTime"
+                android:text="Distance"
+                android:textColor="#fff"
+                android:textSize="18dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="330.5dp"
+                android:layout_height="wrap_content"/>
+
+            <TextView
+                android:id="@+id/txtTotalTime"
+                android:text="Speed"
+                android:textColor="#fff"
+                android:textSize="18dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_width="330.5dp"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnDatasheetDone"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="Done"
+            android:textAllCaps="false"
+            android:textColor="@color/fitnessWhite"
+            android:background="@drawable/fitness_round_button"
+            android:drawableLeft="@drawable/baseline_directions_run_black_24"       
+            android:paddingLeft="10dp"
+            android:paddingRight="30dp"
+            android:paddingTop="8dp"
+            android:paddingBottom="8dp"
+            android:elevation="2dp"
+            android:translationZ="2dp"/>
+
+    </LinearLayout>
+
+</FrameLayout>

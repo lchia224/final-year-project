@@ -185,6 +185,7 @@
     </FrameLayout>
 
     <include layout="@layout/map_timer"/>
+    <include layout="@layout/map_datasheet"/>
 
 </android.support.design.widget.CoordinatorLayout>
 

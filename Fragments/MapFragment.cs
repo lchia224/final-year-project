@@ -31,11 +31,13 @@ namespace Fitness_Diary.Fragments
 
         //Bottomsheets
         BottomSheetBehavior timerBottomSheetBehaviour;
+        BottomSheetBehavior datasheetBottomSheetBehaviour;
 
         //TextViews
         TextView startDestinationText;
         TextView endDestinationText;
         TextView TimerText;
+        TextView TimerTotalText;
 
         //ImageView
         ImageView centreMarker;
@@ -99,6 +101,8 @@ namespace Fitness_Diary.Fragments
             startDestinationText = view.FindViewById<TextView>(Resource.Id.txtStartDestination);
             endDestinationText = view.FindViewById<TextView>(Resource.Id.txtEndDestination);
             TimerText = view.FindViewById<TextView>(Resource.Id.txtTimer);
+            TimerTotalText = view.FindViewById<TextView>(Resource.Id.txtTotalTime);
+            
 
             //Buttons
             startRadio = view.FindViewById<RadioButton>(Resource.Id.rbtnStartDestination);
@@ -117,6 +121,8 @@ namespace Fitness_Diary.Fragments
             //Bottomsheets
             FrameLayout timerView = view.FindViewById<FrameLayout>(Resource.Id.timer_bottomsheet);
             timerBottomSheetBehaviour = BottomSheetBehavior.From(timerView);
+            FrameLayout datasheetView = view.FindViewById<FrameLayout>(Resource.Id.datasheet_bottomsheet);
+            datasheetBottomSheetBehaviour = BottomSheetBehavior.From(datasheetView);
 
             //Methods
             mapFragment.GetMapAsync(this);
@@ -132,8 +138,20 @@ namespace Fitness_Diary.Fragments
             endRadio.Click += EndRadio_Click;
             mapStartButton.Click += MapStartButton_Click;
 
+            mapDoneButton.Click += MapDoneButton_Click;
+
             return view;
-        } 
+        }
+
+        private void MapDoneButton_Click(object sender, EventArgs e)
+        {
+            timerBottomSheetBehaviour.State = BottomSheetBehavior.StateCollapsed;
+            datasheetBottomSheetBehaviour.State = BottomSheetBehavior.StateExpanded;
+
+            TimerTotalText.Text = "Time Taken: " + hr.ToString() + ":" + min.ToString() + ":" + sec.ToString();
+
+            timer.Stop();
+        }
 
         async void MapStartButton_Click(object sender, EventArgs e)
         {
@@ -334,11 +352,11 @@ namespace Fitness_Diary.Fragments
         {
             if(grantResults.Length > 1)
             {
-                Toast.MakeText(Activity, "Permission was denied", ToastLength.Long).Show();
+                Toast.MakeText(Activity, "Permission was granted", ToastLength.Long).Show();
 
                 if (grantResults[0] == Permission.Granted)
                 {
-                    Toast.MakeText(Activity, "Permission was granted", ToastLength.Long).Show();
+                    Toast.MakeText(Activity, "Permission was denied", ToastLength.Long).Show();
                     StartLocationUpdates();
                 }
             }
