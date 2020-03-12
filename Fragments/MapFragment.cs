@@ -38,6 +38,8 @@ namespace Fitness_Diary.Fragments
         TextView endDestinationText;
         TextView TimerText;
         TextView TimerTotalText;
+        TextView DistanceTotalText;
+        TextView SpeedText;
 
         //ImageView
         ImageView centreMarker;
@@ -76,7 +78,7 @@ namespace Fitness_Diary.Fragments
         static int FASTEST_INTERVAL = 5; // 5 seconds current location update
         static int DISPLACEMENT = 3; //3 meters distance before location gets updated
 
-        int sec = 0, min = 0, hr = 0;
+        double sec = 0, min = 0, hr = 0;
 
         public override void OnCreate(Bundle savedInstanceState)
         {
@@ -102,6 +104,8 @@ namespace Fitness_Diary.Fragments
             endDestinationText = view.FindViewById<TextView>(Resource.Id.txtEndDestination);
             TimerText = view.FindViewById<TextView>(Resource.Id.txtTimer);
             TimerTotalText = view.FindViewById<TextView>(Resource.Id.txtTotalTime);
+            DistanceTotalText = view.FindViewById<TextView>(Resource.Id.txtTotalDistance);
+            SpeedText = view.FindViewById<TextView>(Resource.Id.txtSpeed);
             
 
             //Buttons
@@ -148,9 +152,35 @@ namespace Fitness_Diary.Fragments
             timerBottomSheetBehaviour.State = BottomSheetBehavior.StateCollapsed;
             datasheetBottomSheetBehaviour.State = BottomSheetBehavior.StateExpanded;
 
-            TimerTotalText.Text = "Time Taken: " + hr.ToString() + ":" + min.ToString() + ":" + sec.ToString();
+            if (endDestinationText.Text != "Ending Destination")
+            {
+                TimerTotalText.Text = "Time Taken: " + hr.ToString() + ":" + min.ToString() + ":" + sec.ToString();
+                DistanceTotalText.Text = "Distance Travelled: " + mapHelper.CalculateDistance().ToString() + "km";
+                SpeedText.Text = "Speed: " + calculateSpeed().ToString() + "km/m";
+            } else
+            {
+                TimerTotalText.Text = "Time Taken: " + hr.ToString() + ":" + min.ToString() + ":" + sec.ToString();
+                DistanceTotalText.Text = null;
+                SpeedText.Text = null;
+            }
 
             timer.Stop();
+        }
+
+        private double calculateSpeed()
+        {
+            double hoursToMin;
+            double secToMin;
+            double totalTime;
+            double distance = mapHelper.CalculateDistance();
+
+            hoursToMin = hr * 60;
+            secToMin = sec / 60;
+            totalTime = hoursToMin + secToMin + min;
+
+            double speed = distance / totalTime;
+
+            return speed;
         }
 
         async void MapStartButton_Click(object sender, EventArgs e)

@@ -25,6 +25,9 @@ namespace Fitness_Diary.Helpers
         string mapkey;
         GoogleMap map;
 
+        public double distance;
+        public string distanceString;
+
         public MapFunctionHelper(string mMapkey, GoogleMap mMap)
         {
             mapkey = mMapkey;
@@ -157,6 +160,18 @@ namespace Fitness_Diary.Helpers
             map.AnimateCamera(CameraUpdateFactory.NewLatLngBounds(routeBound, 470));
             map.SetPadding(40, 70, 40, 70);
             startMarker.ShowInfoWindow();
+
+            distance = directionData.routes[0].legs[0].distance.value;
+            distanceString = directionData.routes[0].legs[0].distance.text;
+
+        }
+
+        public double CalculateDistance()
+        {
+            double km = (distance / 1000); //converting from metres to km
+
+            return km;
+
         }
     }
 }
