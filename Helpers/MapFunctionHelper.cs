@@ -166,6 +166,11 @@ namespace Fitness_Diary.Helpers
 
         }
 
+        public void ResetRoute()
+        {
+            map.Clear();
+        }
+
         public double CalculateDistance()
         {
             double km = (distance / 1000); //converting from metres to km

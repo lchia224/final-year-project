@@ -25,6 +25,10 @@ namespace Fitness_Diary.Fragments
 {
     public class MapFragment : Android.Support.V4.App.Fragment, IOnMapReadyCallback
     {
+        //Fragment Transaction
+        SupportMapFragment mapFragment;
+        Android.Support.V4.App.FragmentTransaction fragmentTransaction;
+
         //Layouts
         RelativeLayout layoutStartDestination;
         RelativeLayout layoutEndDestination;
@@ -50,6 +54,7 @@ namespace Fitness_Diary.Fragments
         RadioButton endRadio;
         Button mapStartButton;
         Button mapDoneButton;
+        Button datasheetDoneButton;
 
         //Helpers
         MapFunctionHelper mapHelper;
@@ -91,7 +96,7 @@ namespace Fitness_Diary.Fragments
             View view = inflater.Inflate(Resource.Layout.map, container, false);
 
             //Map
-            SupportMapFragment mapFragment = (SupportMapFragment)ChildFragmentManager.FindFragmentById(Resource.Id.map);
+            mapFragment = (SupportMapFragment)ChildFragmentManager.FindFragmentById(Resource.Id.map);
 
             //Place
             if (!PlacesApi.IsInitialized)
@@ -113,6 +118,7 @@ namespace Fitness_Diary.Fragments
             endRadio = view.FindViewById<RadioButton>(Resource.Id.rbtnEndDestination);
             mapStartButton = view.FindViewById<Button>(Resource.Id.btnMapStart);
             mapDoneButton = view.FindViewById<Button>(Resource.Id.btnMapDone);
+            datasheetDoneButton = view.FindViewById<Button>(Resource.Id.btnDatasheetDone);
 
             //ImageView
             centreMarker = view.FindViewById<ImageView>(Resource.Id.centreMarker);
@@ -141,10 +147,21 @@ namespace Fitness_Diary.Fragments
             startRadio.Click += StartRadio_Click;
             endRadio.Click += EndRadio_Click;
             mapStartButton.Click += MapStartButton_Click;
+            datasheetDoneButton.Click += DatasheetDoneButton_Click;
 
             mapDoneButton.Click += MapDoneButton_Click;
 
             return view;
+        }
+
+        private void DatasheetDoneButton_Click(object sender, EventArgs e)
+        {
+            datasheetBottomSheetBehaviour.State = BottomSheetBehavior.StateCollapsed;
+            mapStartButton.RefreshDrawableState();
+            mapStartButton.Enabled = true;
+            mapStartButton.Text = "Start";
+            EnableMapFunctions();
+            mapHelper.ResetRoute();
         }
 
         private void MapDoneButton_Click(object sender, EventArgs e)
@@ -236,6 +253,16 @@ namespace Fitness_Diary.Fragments
             takeAddressFromSearch = true;
             centreMarker.Visibility = ViewStates.Invisible;
             runCentreMarker.Visibility = ViewStates.Visible;
+        }
+        void EnableMapFunctions()
+        {
+            layoutEndDestination.Clickable = true;
+            layoutStartDestination.Clickable = true;
+            startRadio.Enabled = true;
+            endRadio.Enabled = true;
+            takeAddressFromSearch = false;
+            centreMarker.Visibility = ViewStates.Visible;
+            runCentreMarker.Visibility = ViewStates.Invisible;
         }
 
         private void Timer_Elapsed(object sender, ElapsedEventArgs e)
