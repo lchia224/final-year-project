@@ -162,6 +162,9 @@ namespace Fitness_Diary.Fragments
             mapStartButton.Text = "Start";
             EnableMapFunctions();
             mapHelper.ResetRoute();
+            sec = 0;
+            min = 0;
+            hr = 0;
         }
 
         private void MapDoneButton_Click(object sender, EventArgs e)
@@ -181,7 +184,7 @@ namespace Fitness_Diary.Fragments
                 SpeedText.Text = null;
             }
 
-            timer.Stop();
+            timer.Dispose();
         }
 
         private double calculateSpeed()
