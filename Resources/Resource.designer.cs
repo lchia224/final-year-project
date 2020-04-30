@@ -26,6 +26,72 @@ namespace Fitness_Diary
 		
 		public static void UpdateIdValues()
 		{
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar1 = global::Fitness_Diary.Resource.Drawable.Avatar1;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar10 = global::Fitness_Diary.Resource.Drawable.Avatar10;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar11 = global::Fitness_Diary.Resource.Drawable.Avatar11;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar12 = global::Fitness_Diary.Resource.Drawable.Avatar12;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar13 = global::Fitness_Diary.Resource.Drawable.Avatar13;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar14 = global::Fitness_Diary.Resource.Drawable.Avatar14;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar15 = global::Fitness_Diary.Resource.Drawable.Avatar15;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar16 = global::Fitness_Diary.Resource.Drawable.Avatar16;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar17 = global::Fitness_Diary.Resource.Drawable.Avatar17;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar18 = global::Fitness_Diary.Resource.Drawable.Avatar18;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar19 = global::Fitness_Diary.Resource.Drawable.Avatar19;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar2 = global::Fitness_Diary.Resource.Drawable.Avatar2;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar20 = global::Fitness_Diary.Resource.Drawable.Avatar20;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar21 = global::Fitness_Diary.Resource.Drawable.Avatar21;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar22 = global::Fitness_Diary.Resource.Drawable.Avatar22;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar23 = global::Fitness_Diary.Resource.Drawable.Avatar23;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar24 = global::Fitness_Diary.Resource.Drawable.Avatar24;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar25 = global::Fitness_Diary.Resource.Drawable.Avatar25;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar26 = global::Fitness_Diary.Resource.Drawable.Avatar26;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar27 = global::Fitness_Diary.Resource.Drawable.Avatar27;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar28 = global::Fitness_Diary.Resource.Drawable.Avatar28;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar29 = global::Fitness_Diary.Resource.Drawable.Avatar29;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar3 = global::Fitness_Diary.Resource.Drawable.Avatar3;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar30 = global::Fitness_Diary.Resource.Drawable.Avatar30;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar4 = global::Fitness_Diary.Resource.Drawable.Avatar4;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar5 = global::Fitness_Diary.Resource.Drawable.Avatar5;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar6 = global::Fitness_Diary.Resource.Drawable.Avatar6;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar7 = global::Fitness_Diary.Resource.Drawable.Avatar7;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar8 = global::Fitness_Diary.Resource.Drawable.Avatar8;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.Avatar9 = global::Fitness_Diary.Resource.Drawable.Avatar9;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.input_layout_drop_down_icon = global::Fitness_Diary.Resource.Drawable.input_layout_drop_down_icon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglecollapseicon = global::Fitness_Diary.Resource.Drawable.inputlayout_togglecollapseicon;
+			global::Syncfusion.XForms.Android.Core.Resource.Drawable.inputlayout_togglevisibleicon = global::Fitness_Diary.Resource.Drawable.inputlayout_togglevisibleicon;
+			global::Com.Syncfusion.Schedule.Resource.Attribute.allowAppointmentDrag = global::Fitness_Diary.Resource.Attribute.allowAppointmentDrag;
+			global::Com.Syncfusion.Schedule.Resource.Attribute.enableNavigation = global::Fitness_Diary.Resource.Attribute.enableNavigation;
+			global::Com.Syncfusion.Schedule.Resource.Attribute.scheduleDateHeaderFormat = global::Fitness_Diary.Resource.Attribute.scheduleDateHeaderFormat;
+			global::Com.Syncfusion.Schedule.Resource.Attribute.scheduleFirstDayOfWeek = global::Fitness_Diary.Resource.Attribute.scheduleFirstDayOfWeek;
+			global::Com.Syncfusion.Schedule.Resource.Attribute.scheduleHeaderHeight = global::Fitness_Diary.Resource.Attribute.scheduleHeaderHeight;
+			global::Com.Syncfusion.Schedule.Resource.Attribute.scheduleView = global::Fitness_Diary.Resource.Attribute.scheduleView;
+			global::Com.Syncfusion.Schedule.Resource.Attribute.timeInterval = global::Fitness_Diary.Resource.Attribute.timeInterval;
+			global::Com.Syncfusion.Schedule.Resource.Attribute.timeIntervalHeight = global::Fitness_Diary.Resource.Attribute.timeIntervalHeight;
+			global::Com.Syncfusion.Schedule.Resource.Attribute.timeZone = global::Fitness_Diary.Resource.Attribute.timeZone;
+			global::Com.Syncfusion.Schedule.Resource.Attribute.viewHeaderHeight = global::Fitness_Diary.Resource.Attribute.viewHeaderHeight;
+			global::Com.Syncfusion.Schedule.Resource.Drawable.arrow_down = global::Fitness_Diary.Resource.Drawable.arrow_down;
+			global::Com.Syncfusion.Schedule.Resource.Drawable.arrow_up = global::Fitness_Diary.Resource.Drawable.arrow_up;
+			global::Com.Syncfusion.Schedule.Resource.Drawable.Recurrence = global::Fitness_Diary.Resource.Drawable.Recurrence;
+			global::Com.Syncfusion.Schedule.Resource.Id.dayView = global::Fitness_Diary.Resource.Id.dayView;
+			global::Com.Syncfusion.Schedule.Resource.Id.monthView = global::Fitness_Diary.Resource.Id.monthView;
+			global::Com.Syncfusion.Schedule.Resource.Id.weekView = global::Fitness_Diary.Resource.Id.weekView;
+			global::Com.Syncfusion.Schedule.Resource.Id.workWeekView = global::Fitness_Diary.Resource.Id.workWeekView;
+			global::Com.Syncfusion.Schedule.Resource.String.NoResources = global::Fitness_Diary.Resource.String.NoResources;
+			global::Com.Syncfusion.Schedule.Resource.String.NoSelectedDate = global::Fitness_Diary.Resource.String.NoSelectedDate;
+			global::Com.Syncfusion.Schedule.Resource.String.No_Appointments = global::Fitness_Diary.Resource.String.No_Appointments;
+			global::Com.Syncfusion.Schedule.Resource.String.all_day = global::Fitness_Diary.Resource.String.all_day;
+			global::Com.Syncfusion.Schedule.Resource.String.library_name = global::Fitness_Diary.Resource.String.library_name;
+			global::Com.Syncfusion.Schedule.Resource.Styleable.SfSchedule = global::Fitness_Diary.Resource.Styleable.SfSchedule;
+			global::Com.Syncfusion.Schedule.Resource.Styleable.SfSchedule_allowAppointmentDrag = global::Fitness_Diary.Resource.Styleable.SfSchedule_allowAppointmentDrag;
+			global::Com.Syncfusion.Schedule.Resource.Styleable.SfSchedule_enableNavigation = global::Fitness_Diary.Resource.Styleable.SfSchedule_enableNavigation;
+			global::Com.Syncfusion.Schedule.Resource.Styleable.SfSchedule_scheduleDateHeaderFormat = global::Fitness_Diary.Resource.Styleable.SfSchedule_scheduleDateHeaderFormat;
+			global::Com.Syncfusion.Schedule.Resource.Styleable.SfSchedule_scheduleFirstDayOfWeek = global::Fitness_Diary.Resource.Styleable.SfSchedule_scheduleFirstDayOfWeek;
+			global::Com.Syncfusion.Schedule.Resource.Styleable.SfSchedule_scheduleHeaderHeight = global::Fitness_Diary.Resource.Styleable.SfSchedule_scheduleHeaderHeight;
+			global::Com.Syncfusion.Schedule.Resource.Styleable.SfSchedule_scheduleView = global::Fitness_Diary.Resource.Styleable.SfSchedule_scheduleView;
+			global::Com.Syncfusion.Schedule.Resource.Styleable.SfSchedule_timeInterval = global::Fitness_Diary.Resource.Styleable.SfSchedule_timeInterval;
+			global::Com.Syncfusion.Schedule.Resource.Styleable.SfSchedule_timeIntervalHeight = global::Fitness_Diary.Resource.Styleable.SfSchedule_timeIntervalHeight;
+			global::Com.Syncfusion.Schedule.Resource.Styleable.SfSchedule_timeZone = global::Fitness_Diary.Resource.Styleable.SfSchedule_timeZone;
+			global::Com.Syncfusion.Schedule.Resource.Styleable.SfSchedule_viewHeaderHeight = global::Fitness_Diary.Resource.Styleable.SfSchedule_viewHeaderHeight;
 			global::Xamarin.Essentials.Resource.Attribute.alpha = global::Fitness_Diary.Resource.Attribute.alpha;
 			global::Xamarin.Essentials.Resource.Attribute.coordinatorLayoutStyle = global::Fitness_Diary.Resource.Attribute.coordinatorLayoutStyle;
 			global::Xamarin.Essentials.Resource.Attribute.font = global::Fitness_Diary.Resource.Attribute.font;
@@ -208,6 +274,2568 @@ namespace Fitness_Diary
 			global::Xamarin.Essentials.Resource.Styleable.GradientColorItem = global::Fitness_Diary.Resource.Styleable.GradientColorItem;
 			global::Xamarin.Essentials.Resource.Styleable.GradientColorItem_android_color = global::Fitness_Diary.Resource.Styleable.GradientColorItem_android_color;
 			global::Xamarin.Essentials.Resource.Styleable.GradientColorItem_android_offset = global::Fitness_Diary.Resource.Styleable.GradientColorItem_android_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_in = global::Fitness_Diary.Resource.Animation.abc_fade_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_out = global::Fitness_Diary.Resource.Animation.abc_fade_out;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::Fitness_Diary.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_popup_enter = global::Fitness_Diary.Resource.Animation.abc_popup_enter;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_popup_exit = global::Fitness_Diary.Resource.Animation.abc_popup_exit;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::Fitness_Diary.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_in_bottom = global::Fitness_Diary.Resource.Animation.abc_slide_in_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_in_top = global::Fitness_Diary.Resource.Animation.abc_slide_in_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_bottom = global::Fitness_Diary.Resource.Animation.abc_slide_out_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_top = global::Fitness_Diary.Resource.Animation.abc_slide_out_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_tooltip_enter = global::Fitness_Diary.Resource.Animation.abc_tooltip_enter;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_tooltip_exit = global::Fitness_Diary.Resource.Animation.abc_tooltip_exit;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_in = global::Fitness_Diary.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_out = global::Fitness_Diary.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_in = global::Fitness_Diary.Resource.Animation.design_snackbar_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_out = global::Fitness_Diary.Resource.Animation.design_snackbar_out;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromLeft = global::Fitness_Diary.Resource.Animation.EnterFromLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromRight = global::Fitness_Diary.Resource.Animation.EnterFromRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToLeft = global::Fitness_Diary.Resource.Animation.ExitToLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToRight = global::Fitness_Diary.Resource.Animation.ExitToRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_appbar_state_list_animator = global::Fitness_Diary.Resource.Animator.design_appbar_state_list_animator;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_fab_hide_motion_spec = global::Fitness_Diary.Resource.Animator.design_fab_hide_motion_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_fab_show_motion_spec = global::Fitness_Diary.Resource.Animator.design_fab_show_motion_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_btn_state_list_anim = global::Fitness_Diary.Resource.Animator.mtrl_btn_state_list_anim;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_btn_unelevated_state_list_anim = global::Fitness_Diary.Resource.Animator.mtrl_btn_unelevated_state_list_anim;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_chip_state_list_anim = global::Fitness_Diary.Resource.Animator.mtrl_chip_state_list_anim;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_hide_motion_spec = global::Fitness_Diary.Resource.Animator.mtrl_fab_hide_motion_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_show_motion_spec = global::Fitness_Diary.Resource.Animator.mtrl_fab_show_motion_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec = global::Fitness_Diary.Resource.Animator.mtrl_fab_transformation_sheet_collapse_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec = global::Fitness_Diary.Resource.Animator.mtrl_fab_transformation_sheet_expand_spec;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarDivider = global::Fitness_Diary.Resource.Attribute.actionBarDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarItemBackground = global::Fitness_Diary.Resource.Attribute.actionBarItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarPopupTheme = global::Fitness_Diary.Resource.Attribute.actionBarPopupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::Fitness_Diary.Resource.Attribute.actionBarSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSplitStyle = global::Fitness_Diary.Resource.Attribute.actionBarSplitStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarStyle = global::Fitness_Diary.Resource.Attribute.actionBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabBarStyle = global::Fitness_Diary.Resource.Attribute.actionBarTabBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabStyle = global::Fitness_Diary.Resource.Attribute.actionBarTabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabTextStyle = global::Fitness_Diary.Resource.Attribute.actionBarTabTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTheme = global::Fitness_Diary.Resource.Attribute.actionBarTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarWidgetTheme = global::Fitness_Diary.Resource.Attribute.actionBarWidgetTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionButtonStyle = global::Fitness_Diary.Resource.Attribute.actionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionDropDownStyle = global::Fitness_Diary.Resource.Attribute.actionDropDownStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionLayout = global::Fitness_Diary.Resource.Attribute.actionLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionMenuTextAppearance = global::Fitness_Diary.Resource.Attribute.actionMenuTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionMenuTextColor = global::Fitness_Diary.Resource.Attribute.actionMenuTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeBackground = global::Fitness_Diary.Resource.Attribute.actionModeBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCloseButtonStyle = global::Fitness_Diary.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCloseDrawable = global::Fitness_Diary.Resource.Attribute.actionModeCloseDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCopyDrawable = global::Fitness_Diary.Resource.Attribute.actionModeCopyDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCutDrawable = global::Fitness_Diary.Resource.Attribute.actionModeCutDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeFindDrawable = global::Fitness_Diary.Resource.Attribute.actionModeFindDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModePasteDrawable = global::Fitness_Diary.Resource.Attribute.actionModePasteDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModePopupWindowStyle = global::Fitness_Diary.Resource.Attribute.actionModePopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeSelectAllDrawable = global::Fitness_Diary.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeShareDrawable = global::Fitness_Diary.Resource.Attribute.actionModeShareDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeSplitBackground = global::Fitness_Diary.Resource.Attribute.actionModeSplitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeStyle = global::Fitness_Diary.Resource.Attribute.actionModeStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeWebSearchDrawable = global::Fitness_Diary.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionOverflowButtonStyle = global::Fitness_Diary.Resource.Attribute.actionOverflowButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionOverflowMenuStyle = global::Fitness_Diary.Resource.Attribute.actionOverflowMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionProviderClass = global::Fitness_Diary.Resource.Attribute.actionProviderClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionViewClass = global::Fitness_Diary.Resource.Attribute.actionViewClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.activityChooserViewStyle = global::Fitness_Diary.Resource.Attribute.activityChooserViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::Fitness_Diary.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogCenterButtons = global::Fitness_Diary.Resource.Attribute.alertDialogCenterButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogStyle = global::Fitness_Diary.Resource.Attribute.alertDialogStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogTheme = global::Fitness_Diary.Resource.Attribute.alertDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.allowStacking = global::Fitness_Diary.Resource.Attribute.allowStacking;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alpha = global::Fitness_Diary.Resource.Attribute.alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alphabeticModifiers = global::Fitness_Diary.Resource.Attribute.alphabeticModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.arrowHeadLength = global::Fitness_Diary.Resource.Attribute.arrowHeadLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.arrowShaftLength = global::Fitness_Diary.Resource.Attribute.arrowShaftLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoCompleteTextViewStyle = global::Fitness_Diary.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeMaxTextSize = global::Fitness_Diary.Resource.Attribute.autoSizeMaxTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeMinTextSize = global::Fitness_Diary.Resource.Attribute.autoSizeMinTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizePresetSizes = global::Fitness_Diary.Resource.Attribute.autoSizePresetSizes;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeStepGranularity = global::Fitness_Diary.Resource.Attribute.autoSizeStepGranularity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeTextType = global::Fitness_Diary.Resource.Attribute.autoSizeTextType;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.background = global::Fitness_Diary.Resource.Attribute.background;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundSplit = global::Fitness_Diary.Resource.Attribute.backgroundSplit;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundStacked = global::Fitness_Diary.Resource.Attribute.backgroundStacked;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundTint = global::Fitness_Diary.Resource.Attribute.backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundTintMode = global::Fitness_Diary.Resource.Attribute.backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.barLength = global::Fitness_Diary.Resource.Attribute.barLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_autoHide = global::Fitness_Diary.Resource.Attribute.behavior_autoHide;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_fitToContents = global::Fitness_Diary.Resource.Attribute.behavior_fitToContents;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_hideable = global::Fitness_Diary.Resource.Attribute.behavior_hideable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_overlapTop = global::Fitness_Diary.Resource.Attribute.behavior_overlapTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_peekHeight = global::Fitness_Diary.Resource.Attribute.behavior_peekHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_skipCollapsed = global::Fitness_Diary.Resource.Attribute.behavior_skipCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderWidth = global::Fitness_Diary.Resource.Attribute.borderWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderlessButtonStyle = global::Fitness_Diary.Resource.Attribute.borderlessButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomAppBarStyle = global::Fitness_Diary.Resource.Attribute.bottomAppBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomNavigationStyle = global::Fitness_Diary.Resource.Attribute.bottomNavigationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetDialogTheme = global::Fitness_Diary.Resource.Attribute.bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetStyle = global::Fitness_Diary.Resource.Attribute.bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxBackgroundColor = global::Fitness_Diary.Resource.Attribute.boxBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxBackgroundMode = global::Fitness_Diary.Resource.Attribute.boxBackgroundMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCollapsedPaddingTop = global::Fitness_Diary.Resource.Attribute.boxCollapsedPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusBottomEnd = global::Fitness_Diary.Resource.Attribute.boxCornerRadiusBottomEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusBottomStart = global::Fitness_Diary.Resource.Attribute.boxCornerRadiusBottomStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusTopEnd = global::Fitness_Diary.Resource.Attribute.boxCornerRadiusTopEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxCornerRadiusTopStart = global::Fitness_Diary.Resource.Attribute.boxCornerRadiusTopStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxStrokeColor = global::Fitness_Diary.Resource.Attribute.boxStrokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.boxStrokeWidth = global::Fitness_Diary.Resource.Attribute.boxStrokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarButtonStyle = global::Fitness_Diary.Resource.Attribute.buttonBarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::Fitness_Diary.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::Fitness_Diary.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::Fitness_Diary.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarStyle = global::Fitness_Diary.Resource.Attribute.buttonBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonGravity = global::Fitness_Diary.Resource.Attribute.buttonGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonIconDimen = global::Fitness_Diary.Resource.Attribute.buttonIconDimen;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonPanelSideLayout = global::Fitness_Diary.Resource.Attribute.buttonPanelSideLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyle = global::Fitness_Diary.Resource.Attribute.buttonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyleSmall = global::Fitness_Diary.Resource.Attribute.buttonStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonTint = global::Fitness_Diary.Resource.Attribute.buttonTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonTintMode = global::Fitness_Diary.Resource.Attribute.buttonTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardBackgroundColor = global::Fitness_Diary.Resource.Attribute.cardBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardCornerRadius = global::Fitness_Diary.Resource.Attribute.cardCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardElevation = global::Fitness_Diary.Resource.Attribute.cardElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardMaxElevation = global::Fitness_Diary.Resource.Attribute.cardMaxElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardPreventCornerOverlap = global::Fitness_Diary.Resource.Attribute.cardPreventCornerOverlap;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardUseCompatPadding = global::Fitness_Diary.Resource.Attribute.cardUseCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardViewStyle = global::Fitness_Diary.Resource.Attribute.cardViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkboxStyle = global::Fitness_Diary.Resource.Attribute.checkboxStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedChip = global::Fitness_Diary.Resource.Attribute.checkedChip;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedIcon = global::Fitness_Diary.Resource.Attribute.checkedIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedIconEnabled = global::Fitness_Diary.Resource.Attribute.checkedIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedIconVisible = global::Fitness_Diary.Resource.Attribute.checkedIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedTextViewStyle = global::Fitness_Diary.Resource.Attribute.checkedTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipBackgroundColor = global::Fitness_Diary.Resource.Attribute.chipBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipCornerRadius = global::Fitness_Diary.Resource.Attribute.chipCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipEndPadding = global::Fitness_Diary.Resource.Attribute.chipEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipGroupStyle = global::Fitness_Diary.Resource.Attribute.chipGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIcon = global::Fitness_Diary.Resource.Attribute.chipIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconEnabled = global::Fitness_Diary.Resource.Attribute.chipIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconSize = global::Fitness_Diary.Resource.Attribute.chipIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconTint = global::Fitness_Diary.Resource.Attribute.chipIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipIconVisible = global::Fitness_Diary.Resource.Attribute.chipIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipMinHeight = global::Fitness_Diary.Resource.Attribute.chipMinHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipSpacing = global::Fitness_Diary.Resource.Attribute.chipSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipSpacingHorizontal = global::Fitness_Diary.Resource.Attribute.chipSpacingHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipSpacingVertical = global::Fitness_Diary.Resource.Attribute.chipSpacingVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStandaloneStyle = global::Fitness_Diary.Resource.Attribute.chipStandaloneStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStartPadding = global::Fitness_Diary.Resource.Attribute.chipStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStrokeColor = global::Fitness_Diary.Resource.Attribute.chipStrokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStrokeWidth = global::Fitness_Diary.Resource.Attribute.chipStrokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.chipStyle = global::Fitness_Diary.Resource.Attribute.chipStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIcon = global::Fitness_Diary.Resource.Attribute.closeIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconEnabled = global::Fitness_Diary.Resource.Attribute.closeIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconEndPadding = global::Fitness_Diary.Resource.Attribute.closeIconEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconSize = global::Fitness_Diary.Resource.Attribute.closeIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconStartPadding = global::Fitness_Diary.Resource.Attribute.closeIconStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconTint = global::Fitness_Diary.Resource.Attribute.closeIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIconVisible = global::Fitness_Diary.Resource.Attribute.closeIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeItemLayout = global::Fitness_Diary.Resource.Attribute.closeItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseContentDescription = global::Fitness_Diary.Resource.Attribute.collapseContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseIcon = global::Fitness_Diary.Resource.Attribute.collapseIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleGravity = global::Fitness_Diary.Resource.Attribute.collapsedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleTextAppearance = global::Fitness_Diary.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.color = global::Fitness_Diary.Resource.Attribute.color;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorAccent = global::Fitness_Diary.Resource.Attribute.colorAccent;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorBackgroundFloating = global::Fitness_Diary.Resource.Attribute.colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorButtonNormal = global::Fitness_Diary.Resource.Attribute.colorButtonNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlActivated = global::Fitness_Diary.Resource.Attribute.colorControlActivated;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlHighlight = global::Fitness_Diary.Resource.Attribute.colorControlHighlight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlNormal = global::Fitness_Diary.Resource.Attribute.colorControlNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorError = global::Fitness_Diary.Resource.Attribute.colorError;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimary = global::Fitness_Diary.Resource.Attribute.colorPrimary;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimaryDark = global::Fitness_Diary.Resource.Attribute.colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSecondary = global::Fitness_Diary.Resource.Attribute.colorSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSwitchThumbNormal = global::Fitness_Diary.Resource.Attribute.colorSwitchThumbNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.commitIcon = global::Fitness_Diary.Resource.Attribute.commitIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentDescription = global::Fitness_Diary.Resource.Attribute.contentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetEnd = global::Fitness_Diary.Resource.Attribute.contentInsetEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetEndWithActions = global::Fitness_Diary.Resource.Attribute.contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetLeft = global::Fitness_Diary.Resource.Attribute.contentInsetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetRight = global::Fitness_Diary.Resource.Attribute.contentInsetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetStart = global::Fitness_Diary.Resource.Attribute.contentInsetStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetStartWithNavigation = global::Fitness_Diary.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPadding = global::Fitness_Diary.Resource.Attribute.contentPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingBottom = global::Fitness_Diary.Resource.Attribute.contentPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingLeft = global::Fitness_Diary.Resource.Attribute.contentPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingRight = global::Fitness_Diary.Resource.Attribute.contentPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingTop = global::Fitness_Diary.Resource.Attribute.contentPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentScrim = global::Fitness_Diary.Resource.Attribute.contentScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.controlBackground = global::Fitness_Diary.Resource.Attribute.controlBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.coordinatorLayoutStyle = global::Fitness_Diary.Resource.Attribute.coordinatorLayoutStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cornerRadius = global::Fitness_Diary.Resource.Attribute.cornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterEnabled = global::Fitness_Diary.Resource.Attribute.counterEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterMaxLength = global::Fitness_Diary.Resource.Attribute.counterMaxLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterOverflowTextAppearance = global::Fitness_Diary.Resource.Attribute.counterOverflowTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterTextAppearance = global::Fitness_Diary.Resource.Attribute.counterTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.customNavigationLayout = global::Fitness_Diary.Resource.Attribute.customNavigationLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.defaultQueryHint = global::Fitness_Diary.Resource.Attribute.defaultQueryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogCornerRadius = global::Fitness_Diary.Resource.Attribute.dialogCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogPreferredPadding = global::Fitness_Diary.Resource.Attribute.dialogPreferredPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogTheme = global::Fitness_Diary.Resource.Attribute.dialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.displayOptions = global::Fitness_Diary.Resource.Attribute.displayOptions;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.divider = global::Fitness_Diary.Resource.Attribute.divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerHorizontal = global::Fitness_Diary.Resource.Attribute.dividerHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerPadding = global::Fitness_Diary.Resource.Attribute.dividerPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerVertical = global::Fitness_Diary.Resource.Attribute.dividerVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.drawableSize = global::Fitness_Diary.Resource.Attribute.drawableSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.drawerArrowStyle = global::Fitness_Diary.Resource.Attribute.drawerArrowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dropDownListViewStyle = global::Fitness_Diary.Resource.Attribute.dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::Fitness_Diary.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextBackground = global::Fitness_Diary.Resource.Attribute.editTextBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextColor = global::Fitness_Diary.Resource.Attribute.editTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextStyle = global::Fitness_Diary.Resource.Attribute.editTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.elevation = global::Fitness_Diary.Resource.Attribute.elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.enforceMaterialTheme = global::Fitness_Diary.Resource.Attribute.enforceMaterialTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.enforceTextAppearance = global::Fitness_Diary.Resource.Attribute.enforceTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.errorEnabled = global::Fitness_Diary.Resource.Attribute.errorEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.errorTextAppearance = global::Fitness_Diary.Resource.Attribute.errorTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::Fitness_Diary.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expanded = global::Fitness_Diary.Resource.Attribute.expanded;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleGravity = global::Fitness_Diary.Resource.Attribute.expandedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMargin = global::Fitness_Diary.Resource.Attribute.expandedTitleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginBottom = global::Fitness_Diary.Resource.Attribute.expandedTitleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginEnd = global::Fitness_Diary.Resource.Attribute.expandedTitleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginStart = global::Fitness_Diary.Resource.Attribute.expandedTitleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginTop = global::Fitness_Diary.Resource.Attribute.expandedTitleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleTextAppearance = global::Fitness_Diary.Resource.Attribute.expandedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabAlignmentMode = global::Fitness_Diary.Resource.Attribute.fabAlignmentMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleMargin = global::Fitness_Diary.Resource.Attribute.fabCradleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleRoundedCornerRadius = global::Fitness_Diary.Resource.Attribute.fabCradleRoundedCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCradleVerticalOffset = global::Fitness_Diary.Resource.Attribute.fabCradleVerticalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabCustomSize = global::Fitness_Diary.Resource.Attribute.fabCustomSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabSize = global::Fitness_Diary.Resource.Attribute.fabSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollEnabled = global::Fitness_Diary.Resource.Attribute.fastScrollEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::Fitness_Diary.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::Fitness_Diary.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalThumbDrawable = global::Fitness_Diary.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalTrackDrawable = global::Fitness_Diary.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.firstBaselineToTopHeight = global::Fitness_Diary.Resource.Attribute.firstBaselineToTopHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.floatingActionButtonStyle = global::Fitness_Diary.Resource.Attribute.floatingActionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.font = global::Fitness_Diary.Resource.Attribute.font;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontFamily = global::Fitness_Diary.Resource.Attribute.fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderAuthority = global::Fitness_Diary.Resource.Attribute.fontProviderAuthority;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderCerts = global::Fitness_Diary.Resource.Attribute.fontProviderCerts;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderFetchStrategy = global::Fitness_Diary.Resource.Attribute.fontProviderFetchStrategy;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderFetchTimeout = global::Fitness_Diary.Resource.Attribute.fontProviderFetchTimeout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderPackage = global::Fitness_Diary.Resource.Attribute.fontProviderPackage;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderQuery = global::Fitness_Diary.Resource.Attribute.fontProviderQuery;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontStyle = global::Fitness_Diary.Resource.Attribute.fontStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontVariationSettings = global::Fitness_Diary.Resource.Attribute.fontVariationSettings;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontWeight = global::Fitness_Diary.Resource.Attribute.fontWeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.foregroundInsidePadding = global::Fitness_Diary.Resource.Attribute.foregroundInsidePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.gapBetweenBars = global::Fitness_Diary.Resource.Attribute.gapBetweenBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.goIcon = global::Fitness_Diary.Resource.Attribute.goIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.headerLayout = global::Fitness_Diary.Resource.Attribute.headerLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.height = global::Fitness_Diary.Resource.Attribute.height;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperText = global::Fitness_Diary.Resource.Attribute.helperText;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperTextEnabled = global::Fitness_Diary.Resource.Attribute.helperTextEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.helperTextTextAppearance = global::Fitness_Diary.Resource.Attribute.helperTextTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideMotionSpec = global::Fitness_Diary.Resource.Attribute.hideMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideOnContentScroll = global::Fitness_Diary.Resource.Attribute.hideOnContentScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideOnScroll = global::Fitness_Diary.Resource.Attribute.hideOnScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintAnimationEnabled = global::Fitness_Diary.Resource.Attribute.hintAnimationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintEnabled = global::Fitness_Diary.Resource.Attribute.hintEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintTextAppearance = global::Fitness_Diary.Resource.Attribute.hintTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.homeAsUpIndicator = global::Fitness_Diary.Resource.Attribute.homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.homeLayout = global::Fitness_Diary.Resource.Attribute.homeLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hoveredFocusedTranslationZ = global::Fitness_Diary.Resource.Attribute.hoveredFocusedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.icon = global::Fitness_Diary.Resource.Attribute.icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconEndPadding = global::Fitness_Diary.Resource.Attribute.iconEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconGravity = global::Fitness_Diary.Resource.Attribute.iconGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconPadding = global::Fitness_Diary.Resource.Attribute.iconPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconSize = global::Fitness_Diary.Resource.Attribute.iconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconStartPadding = global::Fitness_Diary.Resource.Attribute.iconStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTint = global::Fitness_Diary.Resource.Attribute.iconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTintMode = global::Fitness_Diary.Resource.Attribute.iconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconifiedByDefault = global::Fitness_Diary.Resource.Attribute.iconifiedByDefault;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.imageButtonStyle = global::Fitness_Diary.Resource.Attribute.imageButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.indeterminateProgressStyle = global::Fitness_Diary.Resource.Attribute.indeterminateProgressStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.initialActivityCount = global::Fitness_Diary.Resource.Attribute.initialActivityCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.insetForeground = global::Fitness_Diary.Resource.Attribute.insetForeground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.isLightTheme = global::Fitness_Diary.Resource.Attribute.isLightTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemBackground = global::Fitness_Diary.Resource.Attribute.itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemHorizontalPadding = global::Fitness_Diary.Resource.Attribute.itemHorizontalPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemHorizontalTranslationEnabled = global::Fitness_Diary.Resource.Attribute.itemHorizontalTranslationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconPadding = global::Fitness_Diary.Resource.Attribute.itemIconPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconSize = global::Fitness_Diary.Resource.Attribute.itemIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconTint = global::Fitness_Diary.Resource.Attribute.itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemPadding = global::Fitness_Diary.Resource.Attribute.itemPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemSpacing = global::Fitness_Diary.Resource.Attribute.itemSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearance = global::Fitness_Diary.Resource.Attribute.itemTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearanceActive = global::Fitness_Diary.Resource.Attribute.itemTextAppearanceActive;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearanceInactive = global::Fitness_Diary.Resource.Attribute.itemTextAppearanceInactive;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextColor = global::Fitness_Diary.Resource.Attribute.itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.keylines = global::Fitness_Diary.Resource.Attribute.keylines;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.labelVisibilityMode = global::Fitness_Diary.Resource.Attribute.labelVisibilityMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lastBaselineToBottomHeight = global::Fitness_Diary.Resource.Attribute.lastBaselineToBottomHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout = global::Fitness_Diary.Resource.Attribute.layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layoutManager = global::Fitness_Diary.Resource.Attribute.layoutManager;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_anchor = global::Fitness_Diary.Resource.Attribute.layout_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_anchorGravity = global::Fitness_Diary.Resource.Attribute.layout_anchorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_behavior = global::Fitness_Diary.Resource.Attribute.layout_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_collapseMode = global::Fitness_Diary.Resource.Attribute.layout_collapseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::Fitness_Diary.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_dodgeInsetEdges = global::Fitness_Diary.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_insetEdge = global::Fitness_Diary.Resource.Attribute.layout_insetEdge;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_keyline = global::Fitness_Diary.Resource.Attribute.layout_keyline;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollFlags = global::Fitness_Diary.Resource.Attribute.layout_scrollFlags;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollInterpolator = global::Fitness_Diary.Resource.Attribute.layout_scrollInterpolator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.liftOnScroll = global::Fitness_Diary.Resource.Attribute.liftOnScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lineHeight = global::Fitness_Diary.Resource.Attribute.lineHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.lineSpacing = global::Fitness_Diary.Resource.Attribute.lineSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::Fitness_Diary.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listDividerAlertDialog = global::Fitness_Diary.Resource.Attribute.listDividerAlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listItemLayout = global::Fitness_Diary.Resource.Attribute.listItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listLayout = global::Fitness_Diary.Resource.Attribute.listLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listMenuViewStyle = global::Fitness_Diary.Resource.Attribute.listMenuViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPopupWindowStyle = global::Fitness_Diary.Resource.Attribute.listPopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeight = global::Fitness_Diary.Resource.Attribute.listPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeightLarge = global::Fitness_Diary.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeightSmall = global::Fitness_Diary.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::Fitness_Diary.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemPaddingRight = global::Fitness_Diary.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.logo = global::Fitness_Diary.Resource.Attribute.logo;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.logoDescription = global::Fitness_Diary.Resource.Attribute.logoDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.materialButtonStyle = global::Fitness_Diary.Resource.Attribute.materialButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.materialCardViewStyle = global::Fitness_Diary.Resource.Attribute.materialCardViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxActionInlineWidth = global::Fitness_Diary.Resource.Attribute.maxActionInlineWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxButtonHeight = global::Fitness_Diary.Resource.Attribute.maxButtonHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxImageSize = global::Fitness_Diary.Resource.Attribute.maxImageSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.measureWithLargestChild = global::Fitness_Diary.Resource.Attribute.measureWithLargestChild;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.menu = global::Fitness_Diary.Resource.Attribute.menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.multiChoiceItemLayout = global::Fitness_Diary.Resource.Attribute.multiChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationContentDescription = global::Fitness_Diary.Resource.Attribute.navigationContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationIcon = global::Fitness_Diary.Resource.Attribute.navigationIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationMode = global::Fitness_Diary.Resource.Attribute.navigationMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationViewStyle = global::Fitness_Diary.Resource.Attribute.navigationViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.numericModifiers = global::Fitness_Diary.Resource.Attribute.numericModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.overlapAnchor = global::Fitness_Diary.Resource.Attribute.overlapAnchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingBottomNoButtons = global::Fitness_Diary.Resource.Attribute.paddingBottomNoButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingEnd = global::Fitness_Diary.Resource.Attribute.paddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingStart = global::Fitness_Diary.Resource.Attribute.paddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingTopNoTitle = global::Fitness_Diary.Resource.Attribute.paddingTopNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelBackground = global::Fitness_Diary.Resource.Attribute.panelBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelMenuListTheme = global::Fitness_Diary.Resource.Attribute.panelMenuListTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelMenuListWidth = global::Fitness_Diary.Resource.Attribute.panelMenuListWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleContentDescription = global::Fitness_Diary.Resource.Attribute.passwordToggleContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleDrawable = global::Fitness_Diary.Resource.Attribute.passwordToggleDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleEnabled = global::Fitness_Diary.Resource.Attribute.passwordToggleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleTint = global::Fitness_Diary.Resource.Attribute.passwordToggleTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleTintMode = global::Fitness_Diary.Resource.Attribute.passwordToggleTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupMenuStyle = global::Fitness_Diary.Resource.Attribute.popupMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupTheme = global::Fitness_Diary.Resource.Attribute.popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupWindowStyle = global::Fitness_Diary.Resource.Attribute.popupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.preserveIconSpacing = global::Fitness_Diary.Resource.Attribute.preserveIconSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.pressedTranslationZ = global::Fitness_Diary.Resource.Attribute.pressedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.progressBarPadding = global::Fitness_Diary.Resource.Attribute.progressBarPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.progressBarStyle = global::Fitness_Diary.Resource.Attribute.progressBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.queryBackground = global::Fitness_Diary.Resource.Attribute.queryBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.queryHint = global::Fitness_Diary.Resource.Attribute.queryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.radioButtonStyle = global::Fitness_Diary.Resource.Attribute.radioButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyle = global::Fitness_Diary.Resource.Attribute.ratingBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyleIndicator = global::Fitness_Diary.Resource.Attribute.ratingBarStyleIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyleSmall = global::Fitness_Diary.Resource.Attribute.ratingBarStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.reverseLayout = global::Fitness_Diary.Resource.Attribute.reverseLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.rippleColor = global::Fitness_Diary.Resource.Attribute.rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimAnimationDuration = global::Fitness_Diary.Resource.Attribute.scrimAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimBackground = global::Fitness_Diary.Resource.Attribute.scrimBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::Fitness_Diary.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchHintIcon = global::Fitness_Diary.Resource.Attribute.searchHintIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchIcon = global::Fitness_Diary.Resource.Attribute.searchIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchViewStyle = global::Fitness_Diary.Resource.Attribute.searchViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.seekBarStyle = global::Fitness_Diary.Resource.Attribute.seekBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.selectableItemBackground = global::Fitness_Diary.Resource.Attribute.selectableItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::Fitness_Diary.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showAsAction = global::Fitness_Diary.Resource.Attribute.showAsAction;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showDividers = global::Fitness_Diary.Resource.Attribute.showDividers;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showMotionSpec = global::Fitness_Diary.Resource.Attribute.showMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showText = global::Fitness_Diary.Resource.Attribute.showText;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showTitle = global::Fitness_Diary.Resource.Attribute.showTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleChoiceItemLayout = global::Fitness_Diary.Resource.Attribute.singleChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleLine = global::Fitness_Diary.Resource.Attribute.singleLine;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleSelection = global::Fitness_Diary.Resource.Attribute.singleSelection;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.snackbarButtonStyle = global::Fitness_Diary.Resource.Attribute.snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.snackbarStyle = global::Fitness_Diary.Resource.Attribute.snackbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spanCount = global::Fitness_Diary.Resource.Attribute.spanCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinBars = global::Fitness_Diary.Resource.Attribute.spinBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinnerDropDownItemStyle = global::Fitness_Diary.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinnerStyle = global::Fitness_Diary.Resource.Attribute.spinnerStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.splitTrack = global::Fitness_Diary.Resource.Attribute.splitTrack;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.srcCompat = global::Fitness_Diary.Resource.Attribute.srcCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.stackFromEnd = global::Fitness_Diary.Resource.Attribute.stackFromEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_above_anchor = global::Fitness_Diary.Resource.Attribute.state_above_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsed = global::Fitness_Diary.Resource.Attribute.state_collapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsible = global::Fitness_Diary.Resource.Attribute.state_collapsible;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_liftable = global::Fitness_Diary.Resource.Attribute.state_liftable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_lifted = global::Fitness_Diary.Resource.Attribute.state_lifted;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarBackground = global::Fitness_Diary.Resource.Attribute.statusBarBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarScrim = global::Fitness_Diary.Resource.Attribute.statusBarScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.strokeColor = global::Fitness_Diary.Resource.Attribute.strokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.strokeWidth = global::Fitness_Diary.Resource.Attribute.strokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subMenuArrow = global::Fitness_Diary.Resource.Attribute.subMenuArrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.submitBackground = global::Fitness_Diary.Resource.Attribute.submitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitle = global::Fitness_Diary.Resource.Attribute.subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextAppearance = global::Fitness_Diary.Resource.Attribute.subtitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextColor = global::Fitness_Diary.Resource.Attribute.subtitleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextStyle = global::Fitness_Diary.Resource.Attribute.subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.suggestionRowLayout = global::Fitness_Diary.Resource.Attribute.suggestionRowLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchMinWidth = global::Fitness_Diary.Resource.Attribute.switchMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchPadding = global::Fitness_Diary.Resource.Attribute.switchPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchStyle = global::Fitness_Diary.Resource.Attribute.switchStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchTextAppearance = global::Fitness_Diary.Resource.Attribute.switchTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabBackground = global::Fitness_Diary.Resource.Attribute.tabBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabContentStart = global::Fitness_Diary.Resource.Attribute.tabContentStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabGravity = global::Fitness_Diary.Resource.Attribute.tabGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIconTint = global::Fitness_Diary.Resource.Attribute.tabIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIconTintMode = global::Fitness_Diary.Resource.Attribute.tabIconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicator = global::Fitness_Diary.Resource.Attribute.tabIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorAnimationDuration = global::Fitness_Diary.Resource.Attribute.tabIndicatorAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorColor = global::Fitness_Diary.Resource.Attribute.tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorFullWidth = global::Fitness_Diary.Resource.Attribute.tabIndicatorFullWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorGravity = global::Fitness_Diary.Resource.Attribute.tabIndicatorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorHeight = global::Fitness_Diary.Resource.Attribute.tabIndicatorHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabInlineLabel = global::Fitness_Diary.Resource.Attribute.tabInlineLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMaxWidth = global::Fitness_Diary.Resource.Attribute.tabMaxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMinWidth = global::Fitness_Diary.Resource.Attribute.tabMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMode = global::Fitness_Diary.Resource.Attribute.tabMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPadding = global::Fitness_Diary.Resource.Attribute.tabPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingBottom = global::Fitness_Diary.Resource.Attribute.tabPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingEnd = global::Fitness_Diary.Resource.Attribute.tabPaddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingStart = global::Fitness_Diary.Resource.Attribute.tabPaddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingTop = global::Fitness_Diary.Resource.Attribute.tabPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabRippleColor = global::Fitness_Diary.Resource.Attribute.tabRippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabSelectedTextColor = global::Fitness_Diary.Resource.Attribute.tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabStyle = global::Fitness_Diary.Resource.Attribute.tabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextAppearance = global::Fitness_Diary.Resource.Attribute.tabTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextColor = global::Fitness_Diary.Resource.Attribute.tabTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabUnboundedRipple = global::Fitness_Diary.Resource.Attribute.tabUnboundedRipple;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAllCaps = global::Fitness_Diary.Resource.Attribute.textAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceBody1 = global::Fitness_Diary.Resource.Attribute.textAppearanceBody1;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceBody2 = global::Fitness_Diary.Resource.Attribute.textAppearanceBody2;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceButton = global::Fitness_Diary.Resource.Attribute.textAppearanceButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceCaption = global::Fitness_Diary.Resource.Attribute.textAppearanceCaption;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline1 = global::Fitness_Diary.Resource.Attribute.textAppearanceHeadline1;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline2 = global::Fitness_Diary.Resource.Attribute.textAppearanceHeadline2;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline3 = global::Fitness_Diary.Resource.Attribute.textAppearanceHeadline3;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline4 = global::Fitness_Diary.Resource.Attribute.textAppearanceHeadline4;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline5 = global::Fitness_Diary.Resource.Attribute.textAppearanceHeadline5;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceHeadline6 = global::Fitness_Diary.Resource.Attribute.textAppearanceHeadline6;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::Fitness_Diary.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItem = global::Fitness_Diary.Resource.Attribute.textAppearanceListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSecondary = global::Fitness_Diary.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSmall = global::Fitness_Diary.Resource.Attribute.textAppearanceListItemSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceOverline = global::Fitness_Diary.Resource.Attribute.textAppearanceOverline;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::Fitness_Diary.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::Fitness_Diary.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::Fitness_Diary.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::Fitness_Diary.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSubtitle1 = global::Fitness_Diary.Resource.Attribute.textAppearanceSubtitle1;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSubtitle2 = global::Fitness_Diary.Resource.Attribute.textAppearanceSubtitle2;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorAlertDialogListItem = global::Fitness_Diary.Resource.Attribute.textColorAlertDialogListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorSearchUrl = global::Fitness_Diary.Resource.Attribute.textColorSearchUrl;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textEndPadding = global::Fitness_Diary.Resource.Attribute.textEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textInputStyle = global::Fitness_Diary.Resource.Attribute.textInputStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textStartPadding = global::Fitness_Diary.Resource.Attribute.textStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.theme = global::Fitness_Diary.Resource.Attribute.theme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thickness = global::Fitness_Diary.Resource.Attribute.thickness;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTextPadding = global::Fitness_Diary.Resource.Attribute.thumbTextPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTint = global::Fitness_Diary.Resource.Attribute.thumbTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTintMode = global::Fitness_Diary.Resource.Attribute.thumbTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMark = global::Fitness_Diary.Resource.Attribute.tickMark;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMarkTint = global::Fitness_Diary.Resource.Attribute.tickMarkTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMarkTintMode = global::Fitness_Diary.Resource.Attribute.tickMarkTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tint = global::Fitness_Diary.Resource.Attribute.tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tintMode = global::Fitness_Diary.Resource.Attribute.tintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.title = global::Fitness_Diary.Resource.Attribute.title;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleEnabled = global::Fitness_Diary.Resource.Attribute.titleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargin = global::Fitness_Diary.Resource.Attribute.titleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginBottom = global::Fitness_Diary.Resource.Attribute.titleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginEnd = global::Fitness_Diary.Resource.Attribute.titleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginStart = global::Fitness_Diary.Resource.Attribute.titleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginTop = global::Fitness_Diary.Resource.Attribute.titleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargins = global::Fitness_Diary.Resource.Attribute.titleMargins;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextAppearance = global::Fitness_Diary.Resource.Attribute.titleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextColor = global::Fitness_Diary.Resource.Attribute.titleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextStyle = global::Fitness_Diary.Resource.Attribute.titleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarId = global::Fitness_Diary.Resource.Attribute.toolbarId;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::Fitness_Diary.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarStyle = global::Fitness_Diary.Resource.Attribute.toolbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipForegroundColor = global::Fitness_Diary.Resource.Attribute.tooltipForegroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipFrameBackground = global::Fitness_Diary.Resource.Attribute.tooltipFrameBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipText = global::Fitness_Diary.Resource.Attribute.tooltipText;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.track = global::Fitness_Diary.Resource.Attribute.track;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.trackTint = global::Fitness_Diary.Resource.Attribute.trackTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.trackTintMode = global::Fitness_Diary.Resource.Attribute.trackTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ttcIndex = global::Fitness_Diary.Resource.Attribute.ttcIndex;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.useCompatPadding = global::Fitness_Diary.Resource.Attribute.useCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.viewInflaterClass = global::Fitness_Diary.Resource.Attribute.viewInflaterClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.voiceIcon = global::Fitness_Diary.Resource.Attribute.voiceIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBar = global::Fitness_Diary.Resource.Attribute.windowActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBarOverlay = global::Fitness_Diary.Resource.Attribute.windowActionBarOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionModeOverlay = global::Fitness_Diary.Resource.Attribute.windowActionModeOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedHeightMajor = global::Fitness_Diary.Resource.Attribute.windowFixedHeightMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedHeightMinor = global::Fitness_Diary.Resource.Attribute.windowFixedHeightMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedWidthMajor = global::Fitness_Diary.Resource.Attribute.windowFixedWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedWidthMinor = global::Fitness_Diary.Resource.Attribute.windowFixedWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowMinWidthMajor = global::Fitness_Diary.Resource.Attribute.windowMinWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowMinWidthMinor = global::Fitness_Diary.Resource.Attribute.windowMinWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowNoTitle = global::Fitness_Diary.Resource.Attribute.windowNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::Fitness_Diary.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::Fitness_Diary.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::Fitness_Diary.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.mtrl_btn_textappearance_all_caps = global::Fitness_Diary.Resource.Boolean.mtrl_btn_textappearance_all_caps;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::Fitness_Diary.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::Fitness_Diary.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::Fitness_Diary.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_btn_colored_text_material = global::Fitness_Diary.Resource.Color.abc_btn_colored_text_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_color_highlight_material = global::Fitness_Diary.Resource.Color.abc_color_highlight_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_hint_foreground_material_dark = global::Fitness_Diary.Resource.Color.abc_hint_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_hint_foreground_material_light = global::Fitness_Diary.Resource.Color.abc_hint_foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_input_method_navigation_guard = global::Fitness_Diary.Resource.Color.abc_input_method_navigation_guard;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::Fitness_Diary.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::Fitness_Diary.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_material_dark = global::Fitness_Diary.Resource.Color.abc_primary_text_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_material_light = global::Fitness_Diary.Resource.Color.abc_primary_text_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text = global::Fitness_Diary.Resource.Color.abc_search_url_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_normal = global::Fitness_Diary.Resource.Color.abc_search_url_text_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_pressed = global::Fitness_Diary.Resource.Color.abc_search_url_text_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_selected = global::Fitness_Diary.Resource.Color.abc_search_url_text_selected;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_secondary_text_material_dark = global::Fitness_Diary.Resource.Color.abc_secondary_text_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_secondary_text_material_light = global::Fitness_Diary.Resource.Color.abc_secondary_text_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_btn_checkable = global::Fitness_Diary.Resource.Color.abc_tint_btn_checkable;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_default = global::Fitness_Diary.Resource.Color.abc_tint_default;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_edittext = global::Fitness_Diary.Resource.Color.abc_tint_edittext;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_seek_thumb = global::Fitness_Diary.Resource.Color.abc_tint_seek_thumb;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_spinner = global::Fitness_Diary.Resource.Color.abc_tint_spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_switch_track = global::Fitness_Diary.Resource.Color.abc_tint_switch_track;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.accent_material_dark = global::Fitness_Diary.Resource.Color.accent_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.accent_material_light = global::Fitness_Diary.Resource.Color.accent_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_floating_material_dark = global::Fitness_Diary.Resource.Color.background_floating_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_floating_material_light = global::Fitness_Diary.Resource.Color.background_floating_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_material_dark = global::Fitness_Diary.Resource.Color.background_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_material_light = global::Fitness_Diary.Resource.Color.background_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_disabled_material_dark = global::Fitness_Diary.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_disabled_material_light = global::Fitness_Diary.Resource.Color.bright_foreground_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_inverse_material_dark = global::Fitness_Diary.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_inverse_material_light = global::Fitness_Diary.Resource.Color.bright_foreground_inverse_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_material_dark = global::Fitness_Diary.Resource.Color.bright_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_material_light = global::Fitness_Diary.Resource.Color.bright_foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.button_material_dark = global::Fitness_Diary.Resource.Color.button_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.button_material_light = global::Fitness_Diary.Resource.Color.button_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_dark_background = global::Fitness_Diary.Resource.Color.cardview_dark_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_light_background = global::Fitness_Diary.Resource.Color.cardview_light_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_end_color = global::Fitness_Diary.Resource.Color.cardview_shadow_end_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_start_color = global::Fitness_Diary.Resource.Color.cardview_shadow_start_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_bottom_navigation_shadow_color = global::Fitness_Diary.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_default_color_primary = global::Fitness_Diary.Resource.Color.design_default_color_primary;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_default_color_primary_dark = global::Fitness_Diary.Resource.Color.design_default_color_primary_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_error = global::Fitness_Diary.Resource.Color.design_error;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_end_color = global::Fitness_Diary.Resource.Color.design_fab_shadow_end_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_mid_color = global::Fitness_Diary.Resource.Color.design_fab_shadow_mid_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_start_color = global::Fitness_Diary.Resource.Color.design_fab_shadow_start_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_end_inner_color = global::Fitness_Diary.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_end_outer_color = global::Fitness_Diary.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_top_inner_color = global::Fitness_Diary.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_top_outer_color = global::Fitness_Diary.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_snackbar_background_color = global::Fitness_Diary.Resource.Color.design_snackbar_background_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_tint_password_toggle = global::Fitness_Diary.Resource.Color.design_tint_password_toggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_disabled_material_dark = global::Fitness_Diary.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_disabled_material_light = global::Fitness_Diary.Resource.Color.dim_foreground_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_dark = global::Fitness_Diary.Resource.Color.dim_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_light = global::Fitness_Diary.Resource.Color.dim_foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.error_color_material_dark = global::Fitness_Diary.Resource.Color.error_color_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.error_color_material_light = global::Fitness_Diary.Resource.Color.error_color_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_dark = global::Fitness_Diary.Resource.Color.foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_light = global::Fitness_Diary.Resource.Color.foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.highlighted_text_material_dark = global::Fitness_Diary.Resource.Color.highlighted_text_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.highlighted_text_material_light = global::Fitness_Diary.Resource.Color.highlighted_text_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_800 = global::Fitness_Diary.Resource.Color.material_blue_grey_800;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_900 = global::Fitness_Diary.Resource.Color.material_blue_grey_900;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_950 = global::Fitness_Diary.Resource.Color.material_blue_grey_950;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_deep_teal_200 = global::Fitness_Diary.Resource.Color.material_deep_teal_200;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_deep_teal_500 = global::Fitness_Diary.Resource.Color.material_deep_teal_500;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_100 = global::Fitness_Diary.Resource.Color.material_grey_100;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_300 = global::Fitness_Diary.Resource.Color.material_grey_300;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_50 = global::Fitness_Diary.Resource.Color.material_grey_50;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_600 = global::Fitness_Diary.Resource.Color.material_grey_600;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_800 = global::Fitness_Diary.Resource.Color.material_grey_800;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_850 = global::Fitness_Diary.Resource.Color.material_grey_850;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_900 = global::Fitness_Diary.Resource.Color.material_grey_900;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_bottom_nav_colored_item_tint = global::Fitness_Diary.Resource.Color.mtrl_bottom_nav_colored_item_tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_bottom_nav_item_tint = global::Fitness_Diary.Resource.Color.mtrl_bottom_nav_item_tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_bg_color_disabled = global::Fitness_Diary.Resource.Color.mtrl_btn_bg_color_disabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_bg_color_selector = global::Fitness_Diary.Resource.Color.mtrl_btn_bg_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_ripple_color = global::Fitness_Diary.Resource.Color.mtrl_btn_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_stroke_color_selector = global::Fitness_Diary.Resource.Color.mtrl_btn_stroke_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_text_btn_ripple_color = global::Fitness_Diary.Resource.Color.mtrl_btn_text_btn_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_text_color_disabled = global::Fitness_Diary.Resource.Color.mtrl_btn_text_color_disabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_text_color_selector = global::Fitness_Diary.Resource.Color.mtrl_btn_text_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_btn_transparent_bg_color = global::Fitness_Diary.Resource.Color.mtrl_btn_transparent_bg_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_background_color = global::Fitness_Diary.Resource.Color.mtrl_chip_background_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_close_icon_tint = global::Fitness_Diary.Resource.Color.mtrl_chip_close_icon_tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_ripple_color = global::Fitness_Diary.Resource.Color.mtrl_chip_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_chip_text_color = global::Fitness_Diary.Resource.Color.mtrl_chip_text_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_fab_ripple_color = global::Fitness_Diary.Resource.Color.mtrl_fab_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_scrim_color = global::Fitness_Diary.Resource.Color.mtrl_scrim_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_colored_ripple_color = global::Fitness_Diary.Resource.Color.mtrl_tabs_colored_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_icon_color_selector = global::Fitness_Diary.Resource.Color.mtrl_tabs_icon_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_icon_color_selector_colored = global::Fitness_Diary.Resource.Color.mtrl_tabs_icon_color_selector_colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_legacy_text_color_selector = global::Fitness_Diary.Resource.Color.mtrl_tabs_legacy_text_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_tabs_ripple_color = global::Fitness_Diary.Resource.Color.mtrl_tabs_ripple_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_text_btn_text_color_selector = global::Fitness_Diary.Resource.Color.mtrl_text_btn_text_color_selector;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_default_box_stroke_color = global::Fitness_Diary.Resource.Color.mtrl_textinput_default_box_stroke_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_disabled_color = global::Fitness_Diary.Resource.Color.mtrl_textinput_disabled_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_filled_box_default_background_color = global::Fitness_Diary.Resource.Color.mtrl_textinput_filled_box_default_background_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.mtrl_textinput_hovered_box_stroke_color = global::Fitness_Diary.Resource.Color.mtrl_textinput_hovered_box_stroke_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_action_color_filter = global::Fitness_Diary.Resource.Color.notification_action_color_filter;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_icon_bg_color = global::Fitness_Diary.Resource.Color.notification_icon_bg_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_material_background_media_default_color = global::Fitness_Diary.Resource.Color.notification_material_background_media_default_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_dark_material_dark = global::Fitness_Diary.Resource.Color.primary_dark_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_dark_material_light = global::Fitness_Diary.Resource.Color.primary_dark_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_material_dark = global::Fitness_Diary.Resource.Color.primary_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_material_light = global::Fitness_Diary.Resource.Color.primary_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_default_material_dark = global::Fitness_Diary.Resource.Color.primary_text_default_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_default_material_light = global::Fitness_Diary.Resource.Color.primary_text_default_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_dark = global::Fitness_Diary.Resource.Color.primary_text_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_light = global::Fitness_Diary.Resource.Color.primary_text_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_dark = global::Fitness_Diary.Resource.Color.ripple_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_light = global::Fitness_Diary.Resource.Color.ripple_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_default_material_dark = global::Fitness_Diary.Resource.Color.secondary_text_default_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_default_material_light = global::Fitness_Diary.Resource.Color.secondary_text_default_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_disabled_material_dark = global::Fitness_Diary.Resource.Color.secondary_text_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_disabled_material_light = global::Fitness_Diary.Resource.Color.secondary_text_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_disabled_material_dark = global::Fitness_Diary.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_disabled_material_light = global::Fitness_Diary.Resource.Color.switch_thumb_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_material_dark = global::Fitness_Diary.Resource.Color.switch_thumb_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_material_light = global::Fitness_Diary.Resource.Color.switch_thumb_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_dark = global::Fitness_Diary.Resource.Color.switch_thumb_normal_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_light = global::Fitness_Diary.Resource.Color.switch_thumb_normal_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_dark = global::Fitness_Diary.Resource.Color.tooltip_background_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_light = global::Fitness_Diary.Resource.Color.tooltip_background_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::Fitness_Diary.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::Fitness_Diary.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_height_material = global::Fitness_Diary.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::Fitness_Diary.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::Fitness_Diary.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_elevation_material = global::Fitness_Diary.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::Fitness_Diary.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::Fitness_Diary.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::Fitness_Diary.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::Fitness_Diary.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::Fitness_Diary.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::Fitness_Diary.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::Fitness_Diary.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_height_material = global::Fitness_Diary.Resource.Dimension.abc_action_button_min_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_material = global::Fitness_Diary.Resource.Dimension.abc_action_button_min_width_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::Fitness_Diary.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::Fitness_Diary.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_alert_dialog_button_dimen = global::Fitness_Diary.Resource.Dimension.abc_alert_dialog_button_dimen;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::Fitness_Diary.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_vertical_material = global::Fitness_Diary.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::Fitness_Diary.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_padding_vertical_material = global::Fitness_Diary.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::Fitness_Diary.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_config_prefDialogWidth = global::Fitness_Diary.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_corner_material = global::Fitness_Diary.Resource.Dimension.abc_control_corner_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_inset_material = global::Fitness_Diary.Resource.Dimension.abc_control_inset_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_padding_material = global::Fitness_Diary.Resource.Dimension.abc_control_padding_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_corner_radius_material = global::Fitness_Diary.Resource.Dimension.abc_dialog_corner_radius_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::Fitness_Diary.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::Fitness_Diary.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::Fitness_Diary.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::Fitness_Diary.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::Fitness_Diary.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::Fitness_Diary.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_min_width_major = global::Fitness_Diary.Resource.Dimension.abc_dialog_min_width_major;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_min_width_minor = global::Fitness_Diary.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_padding_material = global::Fitness_Diary.Resource.Dimension.abc_dialog_padding_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_padding_top_material = global::Fitness_Diary.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_title_divider_material = global::Fitness_Diary.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::Fitness_Diary.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::Fitness_Diary.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::Fitness_Diary.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::Fitness_Diary.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::Fitness_Diary.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::Fitness_Diary.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::Fitness_Diary.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::Fitness_Diary.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_floating_window_z = global::Fitness_Diary.Resource.Dimension.abc_floating_window_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::Fitness_Diary.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_panel_menu_list_width = global::Fitness_Diary.Resource.Dimension.abc_panel_menu_list_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_progress_bar_height_material = global::Fitness_Diary.Resource.Dimension.abc_progress_bar_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_search_view_preferred_height = global::Fitness_Diary.Resource.Dimension.abc_search_view_preferred_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_search_view_preferred_width = global::Fitness_Diary.Resource.Dimension.abc_search_view_preferred_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::Fitness_Diary.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::Fitness_Diary.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::Fitness_Diary.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_switch_padding = global::Fitness_Diary.Resource.Dimension.abc_switch_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_body_1_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_body_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_body_2_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_body_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_button_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_button_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_caption_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_caption_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_1_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_display_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_2_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_display_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_3_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_display_3_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_4_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_display_4_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_headline_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_headline_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_large_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_large_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_medium_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_medium_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_menu_header_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_menu_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_menu_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_small_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_small_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_subhead_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_subhead_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::Fitness_Diary.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material = global::Fitness_Diary.Resource.Dimension.abc_text_size_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::Fitness_Diary.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_compat_inset_shadow = global::Fitness_Diary.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_default_elevation = global::Fitness_Diary.Resource.Dimension.cardview_default_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_default_radius = global::Fitness_Diary.Resource.Dimension.cardview_default_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_inset_horizontal_material = global::Fitness_Diary.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_inset_vertical_material = global::Fitness_Diary.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_horizontal_material = global::Fitness_Diary.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_vertical_material = global::Fitness_Diary.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_control_corner_material = global::Fitness_Diary.Resource.Dimension.compat_control_corner_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_notification_large_icon_max_height = global::Fitness_Diary.Resource.Dimension.compat_notification_large_icon_max_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_notification_large_icon_max_width = global::Fitness_Diary.Resource.Dimension.compat_notification_large_icon_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_appbar_elevation = global::Fitness_Diary.Resource.Dimension.design_appbar_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::Fitness_Diary.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_item_min_width = global::Fitness_Diary.Resource.Dimension.design_bottom_navigation_active_item_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::Fitness_Diary.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_elevation = global::Fitness_Diary.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_height = global::Fitness_Diary.Resource.Dimension.design_bottom_navigation_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_icon_size = global::Fitness_Diary.Resource.Dimension.design_bottom_navigation_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::Fitness_Diary.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::Fitness_Diary.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_margin = global::Fitness_Diary.Resource.Dimension.design_bottom_navigation_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_shadow_height = global::Fitness_Diary.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_text_size = global::Fitness_Diary.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::Fitness_Diary.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_sheet_peek_height_min = global::Fitness_Diary.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_border_width = global::Fitness_Diary.Resource.Dimension.design_fab_border_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_elevation = global::Fitness_Diary.Resource.Dimension.design_fab_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_image_size = global::Fitness_Diary.Resource.Dimension.design_fab_image_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_mini = global::Fitness_Diary.Resource.Dimension.design_fab_size_mini;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_normal = global::Fitness_Diary.Resource.Dimension.design_fab_size_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_translation_z_hovered_focused = global::Fitness_Diary.Resource.Dimension.design_fab_translation_z_hovered_focused;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_translation_z_pressed = global::Fitness_Diary.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_elevation = global::Fitness_Diary.Resource.Dimension.design_navigation_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_padding = global::Fitness_Diary.Resource.Dimension.design_navigation_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_size = global::Fitness_Diary.Resource.Dimension.design_navigation_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_item_horizontal_padding = global::Fitness_Diary.Resource.Dimension.design_navigation_item_horizontal_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_item_icon_padding = global::Fitness_Diary.Resource.Dimension.design_navigation_item_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_max_width = global::Fitness_Diary.Resource.Dimension.design_navigation_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_padding_bottom = global::Fitness_Diary.Resource.Dimension.design_navigation_padding_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::Fitness_Diary.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::Fitness_Diary.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::Fitness_Diary.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_elevation = global::Fitness_Diary.Resource.Dimension.design_snackbar_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::Fitness_Diary.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_max_width = global::Fitness_Diary.Resource.Dimension.design_snackbar_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_min_width = global::Fitness_Diary.Resource.Dimension.design_snackbar_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::Fitness_Diary.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical = global::Fitness_Diary.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::Fitness_Diary.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_text_size = global::Fitness_Diary.Resource.Dimension.design_snackbar_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_max_width = global::Fitness_Diary.Resource.Dimension.design_tab_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_scrollable_min_width = global::Fitness_Diary.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size = global::Fitness_Diary.Resource.Dimension.design_tab_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size_2line = global::Fitness_Diary.Resource.Dimension.design_tab_text_size_2line;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_textinput_caption_translate_y = global::Fitness_Diary.Resource.Dimension.design_textinput_caption_translate_y;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_dark = global::Fitness_Diary.Resource.Dimension.disabled_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_light = global::Fitness_Diary.Resource.Dimension.disabled_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_default_thickness = global::Fitness_Diary.Resource.Dimension.fastscroll_default_thickness;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_margin = global::Fitness_Diary.Resource.Dimension.fastscroll_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_minimum_range = global::Fitness_Diary.Resource.Dimension.fastscroll_minimum_range;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_colored = global::Fitness_Diary.Resource.Dimension.highlight_alpha_material_colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_dark = global::Fitness_Diary.Resource.Dimension.highlight_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_light = global::Fitness_Diary.Resource.Dimension.highlight_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_alpha_material_dark = global::Fitness_Diary.Resource.Dimension.hint_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_alpha_material_light = global::Fitness_Diary.Resource.Dimension.hint_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_pressed_alpha_material_dark = global::Fitness_Diary.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_pressed_alpha_material_light = global::Fitness_Diary.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::Fitness_Diary.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::Fitness_Diary.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::Fitness_Diary.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode = global::Fitness_Diary.Resource.Dimension.mtrl_bottomappbar_fabOffsetEndMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin = global::Fitness_Diary.Resource.Dimension.mtrl_bottomappbar_fab_cradle_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius = global::Fitness_Diary.Resource.Dimension.mtrl_bottomappbar_fab_cradle_rounded_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset = global::Fitness_Diary.Resource.Dimension.mtrl_bottomappbar_fab_cradle_vertical_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_bottomappbar_height = global::Fitness_Diary.Resource.Dimension.mtrl_bottomappbar_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_corner_radius = global::Fitness_Diary.Resource.Dimension.mtrl_btn_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_dialog_btn_min_width = global::Fitness_Diary.Resource.Dimension.mtrl_btn_dialog_btn_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_disabled_elevation = global::Fitness_Diary.Resource.Dimension.mtrl_btn_disabled_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_disabled_z = global::Fitness_Diary.Resource.Dimension.mtrl_btn_disabled_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_elevation = global::Fitness_Diary.Resource.Dimension.mtrl_btn_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_focused_z = global::Fitness_Diary.Resource.Dimension.mtrl_btn_focused_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_hovered_z = global::Fitness_Diary.Resource.Dimension.mtrl_btn_hovered_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_icon_btn_padding_left = global::Fitness_Diary.Resource.Dimension.mtrl_btn_icon_btn_padding_left;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_icon_padding = global::Fitness_Diary.Resource.Dimension.mtrl_btn_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_inset = global::Fitness_Diary.Resource.Dimension.mtrl_btn_inset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_letter_spacing = global::Fitness_Diary.Resource.Dimension.mtrl_btn_letter_spacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_bottom = global::Fitness_Diary.Resource.Dimension.mtrl_btn_padding_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_left = global::Fitness_Diary.Resource.Dimension.mtrl_btn_padding_left;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_right = global::Fitness_Diary.Resource.Dimension.mtrl_btn_padding_right;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_padding_top = global::Fitness_Diary.Resource.Dimension.mtrl_btn_padding_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_pressed_z = global::Fitness_Diary.Resource.Dimension.mtrl_btn_pressed_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_stroke_size = global::Fitness_Diary.Resource.Dimension.mtrl_btn_stroke_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_btn_icon_padding = global::Fitness_Diary.Resource.Dimension.mtrl_btn_text_btn_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_btn_padding_left = global::Fitness_Diary.Resource.Dimension.mtrl_btn_text_btn_padding_left;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_btn_padding_right = global::Fitness_Diary.Resource.Dimension.mtrl_btn_text_btn_padding_right;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_text_size = global::Fitness_Diary.Resource.Dimension.mtrl_btn_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_btn_z = global::Fitness_Diary.Resource.Dimension.mtrl_btn_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_card_elevation = global::Fitness_Diary.Resource.Dimension.mtrl_card_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_card_spacing = global::Fitness_Diary.Resource.Dimension.mtrl_card_spacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_chip_pressed_translation_z = global::Fitness_Diary.Resource.Dimension.mtrl_chip_pressed_translation_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_chip_text_size = global::Fitness_Diary.Resource.Dimension.mtrl_chip_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_fab_elevation = global::Fitness_Diary.Resource.Dimension.mtrl_fab_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_fab_translation_z_hovered_focused = global::Fitness_Diary.Resource.Dimension.mtrl_fab_translation_z_hovered_focused;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_fab_translation_z_pressed = global::Fitness_Diary.Resource.Dimension.mtrl_fab_translation_z_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_navigation_elevation = global::Fitness_Diary.Resource.Dimension.mtrl_navigation_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_navigation_item_horizontal_padding = global::Fitness_Diary.Resource.Dimension.mtrl_navigation_item_horizontal_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_navigation_item_icon_padding = global::Fitness_Diary.Resource.Dimension.mtrl_navigation_item_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_snackbar_background_corner_radius = global::Fitness_Diary.Resource.Dimension.mtrl_snackbar_background_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_snackbar_margin = global::Fitness_Diary.Resource.Dimension.mtrl_snackbar_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_bottom_offset = global::Fitness_Diary.Resource.Dimension.mtrl_textinput_box_bottom_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_corner_radius_medium = global::Fitness_Diary.Resource.Dimension.mtrl_textinput_box_corner_radius_medium;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_corner_radius_small = global::Fitness_Diary.Resource.Dimension.mtrl_textinput_box_corner_radius_small;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_label_cutout_padding = global::Fitness_Diary.Resource.Dimension.mtrl_textinput_box_label_cutout_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_padding_end = global::Fitness_Diary.Resource.Dimension.mtrl_textinput_box_padding_end;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_stroke_width_default = global::Fitness_Diary.Resource.Dimension.mtrl_textinput_box_stroke_width_default;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_box_stroke_width_focused = global::Fitness_Diary.Resource.Dimension.mtrl_textinput_box_stroke_width_focused;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding = global::Fitness_Diary.Resource.Dimension.mtrl_textinput_outline_box_expanded_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.mtrl_toolbar_default_height = global::Fitness_Diary.Resource.Dimension.mtrl_toolbar_default_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_icon_size = global::Fitness_Diary.Resource.Dimension.notification_action_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_text_size = global::Fitness_Diary.Resource.Dimension.notification_action_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_big_circle_margin = global::Fitness_Diary.Resource.Dimension.notification_big_circle_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_content_margin_start = global::Fitness_Diary.Resource.Dimension.notification_content_margin_start;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_large_icon_height = global::Fitness_Diary.Resource.Dimension.notification_large_icon_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_large_icon_width = global::Fitness_Diary.Resource.Dimension.notification_large_icon_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_main_column_padding_top = global::Fitness_Diary.Resource.Dimension.notification_main_column_padding_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_media_narrow_margin = global::Fitness_Diary.Resource.Dimension.notification_media_narrow_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_right_icon_size = global::Fitness_Diary.Resource.Dimension.notification_right_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_right_side_padding_top = global::Fitness_Diary.Resource.Dimension.notification_right_side_padding_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_small_icon_background_padding = global::Fitness_Diary.Resource.Dimension.notification_small_icon_background_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_small_icon_size_as_large = global::Fitness_Diary.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_subtext_size = global::Fitness_Diary.Resource.Dimension.notification_subtext_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad = global::Fitness_Diary.Resource.Dimension.notification_top_pad;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad_large_text = global::Fitness_Diary.Resource.Dimension.notification_top_pad_large_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_corner_radius = global::Fitness_Diary.Resource.Dimension.subtitle_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_outline_width = global::Fitness_Diary.Resource.Dimension.subtitle_outline_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_shadow_offset = global::Fitness_Diary.Resource.Dimension.subtitle_shadow_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.subtitle_shadow_radius = global::Fitness_Diary.Resource.Dimension.subtitle_shadow_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_corner_radius = global::Fitness_Diary.Resource.Dimension.tooltip_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_horizontal_padding = global::Fitness_Diary.Resource.Dimension.tooltip_horizontal_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_margin = global::Fitness_Diary.Resource.Dimension.tooltip_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::Fitness_Diary.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_precise_anchor_threshold = global::Fitness_Diary.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_vertical_padding = global::Fitness_Diary.Resource.Dimension.tooltip_vertical_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_y_offset_non_touch = global::Fitness_Diary.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_y_offset_touch = global::Fitness_Diary.Resource.Dimension.tooltip_y_offset_touch;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_action_bar_item_background_material = global::Fitness_Diary.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_borderless_material = global::Fitness_Diary.Resource.Drawable.abc_btn_borderless_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_material = global::Fitness_Diary.Resource.Drawable.abc_btn_check_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::Fitness_Diary.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::Fitness_Diary.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_colored_material = global::Fitness_Diary.Resource.Drawable.abc_btn_colored_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::Fitness_Diary.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_material = global::Fitness_Diary.Resource.Drawable.abc_btn_radio_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::Fitness_Diary.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::Fitness_Diary.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::Fitness_Diary.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::Fitness_Diary.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_internal_bg = global::Fitness_Diary.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_top_material = global::Fitness_Diary.Resource.Drawable.abc_cab_background_top_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_control_background_material = global::Fitness_Diary.Resource.Drawable.abc_control_background_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_dialog_material_background = global::Fitness_Diary.Resource.Drawable.abc_dialog_material_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_edit_text_material = global::Fitness_Diary.Resource.Drawable.abc_edit_text_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_ab_back_material = global::Fitness_Diary.Resource.Drawable.abc_ic_ab_back_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::Fitness_Diary.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_clear_material = global::Fitness_Diary.Resource.Drawable.abc_ic_clear_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_go_search_api_material = global::Fitness_Diary.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::Fitness_Diary.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_overflow_material = global::Fitness_Diary.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::Fitness_Diary.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_search_api_material = global::Fitness_Diary.Resource.Drawable.abc_ic_search_api_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_16dp = global::Fitness_Diary.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_36dp = global::Fitness_Diary.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_48dp = global::Fitness_Diary.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::Fitness_Diary.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::Fitness_Diary.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_48dp = global::Fitness_Diary.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::Fitness_Diary.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_dark = global::Fitness_Diary.Resource.Drawable.abc_item_background_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_light = global::Fitness_Diary.Resource.Drawable.abc_item_background_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_divider_material = global::Fitness_Diary.Resource.Drawable.abc_list_divider_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_focused_holo = global::Fitness_Diary.Resource.Drawable.abc_list_focused_holo;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_longpressed_holo = global::Fitness_Diary.Resource.Drawable.abc_list_longpressed_holo;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::Fitness_Diary.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_pressed_holo_light = global::Fitness_Diary.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::Fitness_Diary.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::Fitness_Diary.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::Fitness_Diary.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::Fitness_Diary.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_holo_dark = global::Fitness_Diary.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_holo_light = global::Fitness_Diary.Resource.Drawable.abc_list_selector_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::Fitness_Diary.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::Fitness_Diary.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::Fitness_Diary.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_material = global::Fitness_Diary.Resource.Drawable.abc_ratingbar_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_small_material = global::Fitness_Diary.Resource.Drawable.abc_ratingbar_small_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::Fitness_Diary.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::Fitness_Diary.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_thumb_material = global::Fitness_Diary.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_tick_mark_material = global::Fitness_Diary.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_track_material = global::Fitness_Diary.Resource.Drawable.abc_seekbar_track_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::Fitness_Diary.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::Fitness_Diary.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_switch_thumb_material = global::Fitness_Diary.Resource.Drawable.abc_switch_thumb_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_material = global::Fitness_Diary.Resource.Drawable.abc_tab_indicator_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_cursor_material = global::Fitness_Diary.Resource.Drawable.abc_text_cursor_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::Fitness_Diary.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::Fitness_Diary.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::Fitness_Diary.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::Fitness_Diary.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::Fitness_Diary.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::Fitness_Diary.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::Fitness_Diary.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_material = global::Fitness_Diary.Resource.Drawable.abc_textfield_search_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_vector_test = global::Fitness_Diary.Resource.Drawable.abc_vector_test;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.avd_hide_password = global::Fitness_Diary.Resource.Drawable.avd_hide_password;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.avd_show_password = global::Fitness_Diary.Resource.Drawable.avd_show_password;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_bottom_navigation_item_background = global::Fitness_Diary.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_fab_background = global::Fitness_Diary.Resource.Drawable.design_fab_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_ic_visibility = global::Fitness_Diary.Resource.Drawable.design_ic_visibility;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_ic_visibility_off = global::Fitness_Diary.Resource.Drawable.design_ic_visibility_off;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_password_eye = global::Fitness_Diary.Resource.Drawable.design_password_eye;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_snackbar_background = global::Fitness_Diary.Resource.Drawable.design_snackbar_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_checked_black = global::Fitness_Diary.Resource.Drawable.ic_mtrl_chip_checked_black;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_checked_circle = global::Fitness_Diary.Resource.Drawable.ic_mtrl_chip_checked_circle;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.ic_mtrl_chip_close_circle = global::Fitness_Diary.Resource.Drawable.ic_mtrl_chip_close_circle;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_snackbar_background = global::Fitness_Diary.Resource.Drawable.mtrl_snackbar_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.mtrl_tabs_default_indicator = global::Fitness_Diary.Resource.Drawable.mtrl_tabs_default_indicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.navigation_empty_icon = global::Fitness_Diary.Resource.Drawable.navigation_empty_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_action_background = global::Fitness_Diary.Resource.Drawable.notification_action_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg = global::Fitness_Diary.Resource.Drawable.notification_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low = global::Fitness_Diary.Resource.Drawable.notification_bg_low;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low_normal = global::Fitness_Diary.Resource.Drawable.notification_bg_low_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low_pressed = global::Fitness_Diary.Resource.Drawable.notification_bg_low_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_normal = global::Fitness_Diary.Resource.Drawable.notification_bg_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_normal_pressed = global::Fitness_Diary.Resource.Drawable.notification_bg_normal_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_icon_background = global::Fitness_Diary.Resource.Drawable.notification_icon_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_template_icon_bg = global::Fitness_Diary.Resource.Drawable.notification_template_icon_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_template_icon_low_bg = global::Fitness_Diary.Resource.Drawable.notification_template_icon_low_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_tile_bg = global::Fitness_Diary.Resource.Drawable.notification_tile_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::Fitness_Diary.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_dark = global::Fitness_Diary.Resource.Drawable.tooltip_frame_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_light = global::Fitness_Diary.Resource.Drawable.tooltip_frame_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.ALT = global::Fitness_Diary.Resource.Id.ALT;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.CTRL = global::Fitness_Diary.Resource.Id.CTRL;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.FUNCTION = global::Fitness_Diary.Resource.Id.FUNCTION;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.META = global::Fitness_Diary.Resource.Id.META;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.SHIFT = global::Fitness_Diary.Resource.Id.SHIFT;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.SYM = global::Fitness_Diary.Resource.Id.SYM;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action0 = global::Fitness_Diary.Resource.Id.action0;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar = global::Fitness_Diary.Resource.Id.action_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_activity_content = global::Fitness_Diary.Resource.Id.action_bar_activity_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_container = global::Fitness_Diary.Resource.Id.action_bar_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_root = global::Fitness_Diary.Resource.Id.action_bar_root;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_spinner = global::Fitness_Diary.Resource.Id.action_bar_spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_subtitle = global::Fitness_Diary.Resource.Id.action_bar_subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_title = global::Fitness_Diary.Resource.Id.action_bar_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_container = global::Fitness_Diary.Resource.Id.action_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_context_bar = global::Fitness_Diary.Resource.Id.action_context_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_divider = global::Fitness_Diary.Resource.Id.action_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_image = global::Fitness_Diary.Resource.Id.action_image;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_menu_divider = global::Fitness_Diary.Resource.Id.action_menu_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_menu_presenter = global::Fitness_Diary.Resource.Id.action_menu_presenter;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_bar = global::Fitness_Diary.Resource.Id.action_mode_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_bar_stub = global::Fitness_Diary.Resource.Id.action_mode_bar_stub;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_close_button = global::Fitness_Diary.Resource.Id.action_mode_close_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_text = global::Fitness_Diary.Resource.Id.action_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.actions = global::Fitness_Diary.Resource.Id.actions;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.activity_chooser_view_content = global::Fitness_Diary.Resource.Id.activity_chooser_view_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.add = global::Fitness_Diary.Resource.Id.add;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.alertTitle = global::Fitness_Diary.Resource.Id.alertTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.all = global::Fitness_Diary.Resource.Id.all;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.always = global::Fitness_Diary.Resource.Id.always;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.async = global::Fitness_Diary.Resource.Id.async;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.auto = global::Fitness_Diary.Resource.Id.auto;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.beginning = global::Fitness_Diary.Resource.Id.beginning;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.blocking = global::Fitness_Diary.Resource.Id.blocking;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.bottom = global::Fitness_Diary.Resource.Id.bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.bottomtab_navarea = global::Fitness_Diary.Resource.Id.bottomtab_navarea;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.bottomtab_tabbar = global::Fitness_Diary.Resource.Id.bottomtab_tabbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.buttonPanel = global::Fitness_Diary.Resource.Id.buttonPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.cancel_action = global::Fitness_Diary.Resource.Id.cancel_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.center = global::Fitness_Diary.Resource.Id.center;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.center_horizontal = global::Fitness_Diary.Resource.Id.center_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.center_vertical = global::Fitness_Diary.Resource.Id.center_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.checkbox = global::Fitness_Diary.Resource.Id.checkbox;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.chronometer = global::Fitness_Diary.Resource.Id.chronometer;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.clip_horizontal = global::Fitness_Diary.Resource.Id.clip_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.clip_vertical = global::Fitness_Diary.Resource.Id.clip_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.collapseActionView = global::Fitness_Diary.Resource.Id.collapseActionView;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.container = global::Fitness_Diary.Resource.Id.container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.content = global::Fitness_Diary.Resource.Id.content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.contentPanel = global::Fitness_Diary.Resource.Id.contentPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.coordinator = global::Fitness_Diary.Resource.Id.coordinator;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.custom = global::Fitness_Diary.Resource.Id.custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.customPanel = global::Fitness_Diary.Resource.Id.customPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.decor_content_parent = global::Fitness_Diary.Resource.Id.decor_content_parent;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.default_activity_button = global::Fitness_Diary.Resource.Id.default_activity_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_bottom_sheet = global::Fitness_Diary.Resource.Id.design_bottom_sheet;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_action_area = global::Fitness_Diary.Resource.Id.design_menu_item_action_area;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_action_area_stub = global::Fitness_Diary.Resource.Id.design_menu_item_action_area_stub;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_text = global::Fitness_Diary.Resource.Id.design_menu_item_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_navigation_view = global::Fitness_Diary.Resource.Id.design_navigation_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.disableHome = global::Fitness_Diary.Resource.Id.disableHome;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.edit_query = global::Fitness_Diary.Resource.Id.edit_query;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.end = global::Fitness_Diary.Resource.Id.end;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.end_padder = global::Fitness_Diary.Resource.Id.end_padder;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.enterAlways = global::Fitness_Diary.Resource.Id.enterAlways;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.enterAlwaysCollapsed = global::Fitness_Diary.Resource.Id.enterAlwaysCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.exitUntilCollapsed = global::Fitness_Diary.Resource.Id.exitUntilCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.expand_activities_button = global::Fitness_Diary.Resource.Id.expand_activities_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.expanded_menu = global::Fitness_Diary.Resource.Id.expanded_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.fill = global::Fitness_Diary.Resource.Id.fill;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_horizontal = global::Fitness_Diary.Resource.Id.fill_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_vertical = global::Fitness_Diary.Resource.Id.fill_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.filled = global::Fitness_Diary.Resource.Id.filled;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.@fixed = global::Fitness_Diary.Resource.Id.@fixed;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_appbar = global::Fitness_Diary.Resource.Id.flyoutcontent_appbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_recycler = global::Fitness_Diary.Resource.Id.flyoutcontent_recycler;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.forever = global::Fitness_Diary.Resource.Id.forever;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.ghost_view = global::Fitness_Diary.Resource.Id.ghost_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.group_divider = global::Fitness_Diary.Resource.Id.group_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.home = global::Fitness_Diary.Resource.Id.home;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.homeAsUp = global::Fitness_Diary.Resource.Id.homeAsUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.icon = global::Fitness_Diary.Resource.Id.icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.icon_group = global::Fitness_Diary.Resource.Id.icon_group;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.ifRoom = global::Fitness_Diary.Resource.Id.ifRoom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.image = global::Fitness_Diary.Resource.Id.image;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.info = global::Fitness_Diary.Resource.Id.info;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.italic = global::Fitness_Diary.Resource.Id.italic;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.item_touch_helper_previous_elevation = global::Fitness_Diary.Resource.Id.item_touch_helper_previous_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.labeled = global::Fitness_Diary.Resource.Id.labeled;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.largeLabel = global::Fitness_Diary.Resource.Id.largeLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.left = global::Fitness_Diary.Resource.Id.left;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.line1 = global::Fitness_Diary.Resource.Id.line1;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.line3 = global::Fitness_Diary.Resource.Id.line3;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.listMode = global::Fitness_Diary.Resource.Id.listMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.list_item = global::Fitness_Diary.Resource.Id.list_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_appbar = global::Fitness_Diary.Resource.Id.main_appbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_scrollview = global::Fitness_Diary.Resource.Id.main_scrollview;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_tablayout = global::Fitness_Diary.Resource.Id.main_tablayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_toolbar = global::Fitness_Diary.Resource.Id.main_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.masked = global::Fitness_Diary.Resource.Id.masked;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.media_actions = global::Fitness_Diary.Resource.Id.media_actions;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.message = global::Fitness_Diary.Resource.Id.message;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.middle = global::Fitness_Diary.Resource.Id.middle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.mini = global::Fitness_Diary.Resource.Id.mini;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.mtrl_child_content_container = global::Fitness_Diary.Resource.Id.mtrl_child_content_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.mtrl_internal_children_alpha_tag = global::Fitness_Diary.Resource.Id.mtrl_internal_children_alpha_tag;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.multiply = global::Fitness_Diary.Resource.Id.multiply;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.navigation_header_container = global::Fitness_Diary.Resource.Id.navigation_header_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.never = global::Fitness_Diary.Resource.Id.never;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.none = global::Fitness_Diary.Resource.Id.none;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.normal = global::Fitness_Diary.Resource.Id.normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_background = global::Fitness_Diary.Resource.Id.notification_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column = global::Fitness_Diary.Resource.Id.notification_main_column;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column_container = global::Fitness_Diary.Resource.Id.notification_main_column_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.outline = global::Fitness_Diary.Resource.Id.outline;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.parallax = global::Fitness_Diary.Resource.Id.parallax;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.parentPanel = global::Fitness_Diary.Resource.Id.parentPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.parent_matrix = global::Fitness_Diary.Resource.Id.parent_matrix;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.pin = global::Fitness_Diary.Resource.Id.pin;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.progress_circular = global::Fitness_Diary.Resource.Id.progress_circular;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.progress_horizontal = global::Fitness_Diary.Resource.Id.progress_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.radio = global::Fitness_Diary.Resource.Id.radio;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.right = global::Fitness_Diary.Resource.Id.right;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.right_icon = global::Fitness_Diary.Resource.Id.right_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.right_side = global::Fitness_Diary.Resource.Id.right_side;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.save_image_matrix = global::Fitness_Diary.Resource.Id.save_image_matrix;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.save_non_transition_alpha = global::Fitness_Diary.Resource.Id.save_non_transition_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.save_scale_type = global::Fitness_Diary.Resource.Id.save_scale_type;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.screen = global::Fitness_Diary.Resource.Id.screen;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scroll = global::Fitness_Diary.Resource.Id.scroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorDown = global::Fitness_Diary.Resource.Id.scrollIndicatorDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorUp = global::Fitness_Diary.Resource.Id.scrollIndicatorUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollView = global::Fitness_Diary.Resource.Id.scrollView;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollable = global::Fitness_Diary.Resource.Id.scrollable;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_badge = global::Fitness_Diary.Resource.Id.search_badge;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_bar = global::Fitness_Diary.Resource.Id.search_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_button = global::Fitness_Diary.Resource.Id.search_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_close_btn = global::Fitness_Diary.Resource.Id.search_close_btn;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_edit_frame = global::Fitness_Diary.Resource.Id.search_edit_frame;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_go_btn = global::Fitness_Diary.Resource.Id.search_go_btn;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_mag_icon = global::Fitness_Diary.Resource.Id.search_mag_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_plate = global::Fitness_Diary.Resource.Id.search_plate;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_src_text = global::Fitness_Diary.Resource.Id.search_src_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_voice_btn = global::Fitness_Diary.Resource.Id.search_voice_btn;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.select_dialog_listview = global::Fitness_Diary.Resource.Id.select_dialog_listview;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.selected = global::Fitness_Diary.Resource.Id.selected;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_appbar = global::Fitness_Diary.Resource.Id.shellcontent_appbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_scrollview = global::Fitness_Diary.Resource.Id.shellcontent_scrollview;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_toolbar = global::Fitness_Diary.Resource.Id.shellcontent_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.shortcut = global::Fitness_Diary.Resource.Id.shortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.showCustom = global::Fitness_Diary.Resource.Id.showCustom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.showHome = global::Fitness_Diary.Resource.Id.showHome;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.showTitle = global::Fitness_Diary.Resource.Id.showTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.smallLabel = global::Fitness_Diary.Resource.Id.smallLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snackbar_action = global::Fitness_Diary.Resource.Id.snackbar_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snackbar_text = global::Fitness_Diary.Resource.Id.snackbar_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snap = global::Fitness_Diary.Resource.Id.snap;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snapMargins = global::Fitness_Diary.Resource.Id.snapMargins;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.spacer = global::Fitness_Diary.Resource.Id.spacer;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.split_action_bar = global::Fitness_Diary.Resource.Id.split_action_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.src_atop = global::Fitness_Diary.Resource.Id.src_atop;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.src_in = global::Fitness_Diary.Resource.Id.src_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.src_over = global::Fitness_Diary.Resource.Id.src_over;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.start = global::Fitness_Diary.Resource.Id.start;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.status_bar_latest_event_content = global::Fitness_Diary.Resource.Id.status_bar_latest_event_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.stretch = global::Fitness_Diary.Resource.Id.stretch;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.submenuarrow = global::Fitness_Diary.Resource.Id.submenuarrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.submit_area = global::Fitness_Diary.Resource.Id.submit_area;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tabMode = global::Fitness_Diary.Resource.Id.tabMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_transition_group = global::Fitness_Diary.Resource.Id.tag_transition_group;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_event_manager = global::Fitness_Diary.Resource.Id.tag_unhandled_key_event_manager;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_unhandled_key_listeners = global::Fitness_Diary.Resource.Id.tag_unhandled_key_listeners;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.text = global::Fitness_Diary.Resource.Id.text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.text2 = global::Fitness_Diary.Resource.Id.text2;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoButtons = global::Fitness_Diary.Resource.Id.textSpacerNoButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoTitle = global::Fitness_Diary.Resource.Id.textSpacerNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textStart = global::Fitness_Diary.Resource.Id.textStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.text_input_password_toggle = global::Fitness_Diary.Resource.Id.text_input_password_toggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_counter = global::Fitness_Diary.Resource.Id.textinput_counter;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_error = global::Fitness_Diary.Resource.Id.textinput_error;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_helper_text = global::Fitness_Diary.Resource.Id.textinput_helper_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.time = global::Fitness_Diary.Resource.Id.time;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.title = global::Fitness_Diary.Resource.Id.title;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.titleDividerNoCustom = global::Fitness_Diary.Resource.Id.titleDividerNoCustom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.title_template = global::Fitness_Diary.Resource.Id.title_template;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.top = global::Fitness_Diary.Resource.Id.top;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.topPanel = global::Fitness_Diary.Resource.Id.topPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.touch_outside = global::Fitness_Diary.Resource.Id.touch_outside;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_current_scene = global::Fitness_Diary.Resource.Id.transition_current_scene;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_layout_save = global::Fitness_Diary.Resource.Id.transition_layout_save;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_position = global::Fitness_Diary.Resource.Id.transition_position;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_scene_layoutid_cache = global::Fitness_Diary.Resource.Id.transition_scene_layoutid_cache;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_transform = global::Fitness_Diary.Resource.Id.transition_transform;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.uniform = global::Fitness_Diary.Resource.Id.uniform;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.unlabeled = global::Fitness_Diary.Resource.Id.unlabeled;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.up = global::Fitness_Diary.Resource.Id.up;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.useLogo = global::Fitness_Diary.Resource.Id.useLogo;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.view_offset_helper = global::Fitness_Diary.Resource.Id.view_offset_helper;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.visible = global::Fitness_Diary.Resource.Id.visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.withText = global::Fitness_Diary.Resource.Id.withText;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.wrap_content = global::Fitness_Diary.Resource.Id.wrap_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityDefaultDur = global::Fitness_Diary.Resource.Integer.abc_config_activityDefaultDur;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityShortDur = global::Fitness_Diary.Resource.Integer.abc_config_activityShortDur;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.app_bar_elevation_anim_duration = global::Fitness_Diary.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.bottom_sheet_slide_duration = global::Fitness_Diary.Resource.Integer.bottom_sheet_slide_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.cancel_button_image_alpha = global::Fitness_Diary.Resource.Integer.cancel_button_image_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.config_tooltipAnimTime = global::Fitness_Diary.Resource.Integer.config_tooltipAnimTime;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.design_snackbar_text_max_lines = global::Fitness_Diary.Resource.Integer.design_snackbar_text_max_lines;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.design_tab_indicator_anim_duration_ms = global::Fitness_Diary.Resource.Integer.design_tab_indicator_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.hide_password_duration = global::Fitness_Diary.Resource.Integer.hide_password_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_btn_anim_delay_ms = global::Fitness_Diary.Resource.Integer.mtrl_btn_anim_delay_ms;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_btn_anim_duration_ms = global::Fitness_Diary.Resource.Integer.mtrl_btn_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_chip_anim_duration = global::Fitness_Diary.Resource.Integer.mtrl_chip_anim_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.mtrl_tab_indicator_anim_duration_ms = global::Fitness_Diary.Resource.Integer.mtrl_tab_indicator_anim_duration_ms;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.show_password_duration = global::Fitness_Diary.Resource.Integer.show_password_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.status_bar_notification_info_maxnum = global::Fitness_Diary.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_fast_out_linear_in = global::Fitness_Diary.Resource.Interpolator.mtrl_fast_out_linear_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_fast_out_slow_in = global::Fitness_Diary.Resource.Interpolator.mtrl_fast_out_slow_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_linear = global::Fitness_Diary.Resource.Interpolator.mtrl_linear;
+			global::Xamarin.Forms.Platform.Android.Resource.Interpolator.mtrl_linear_out_slow_in = global::Fitness_Diary.Resource.Interpolator.mtrl_linear_out_slow_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_title_item = global::Fitness_Diary.Resource.Layout.abc_action_bar_title_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_up_container = global::Fitness_Diary.Resource.Layout.abc_action_bar_up_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_menu_item_layout = global::Fitness_Diary.Resource.Layout.abc_action_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_menu_layout = global::Fitness_Diary.Resource.Layout.abc_action_menu_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_mode_bar = global::Fitness_Diary.Resource.Layout.abc_action_mode_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_mode_close_item_material = global::Fitness_Diary.Resource.Layout.abc_action_mode_close_item_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_activity_chooser_view = global::Fitness_Diary.Resource.Layout.abc_activity_chooser_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::Fitness_Diary.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::Fitness_Diary.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_material = global::Fitness_Diary.Resource.Layout.abc_alert_dialog_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_title_material = global::Fitness_Diary.Resource.Layout.abc_alert_dialog_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_cascading_menu_item_layout = global::Fitness_Diary.Resource.Layout.abc_cascading_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_dialog_title_material = global::Fitness_Diary.Resource.Layout.abc_dialog_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_expanded_menu_layout = global::Fitness_Diary.Resource.Layout.abc_expanded_menu_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_checkbox = global::Fitness_Diary.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_icon = global::Fitness_Diary.Resource.Layout.abc_list_menu_item_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_layout = global::Fitness_Diary.Resource.Layout.abc_list_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_radio = global::Fitness_Diary.Resource.Layout.abc_list_menu_item_radio;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_popup_menu_header_item_layout = global::Fitness_Diary.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_popup_menu_item_layout = global::Fitness_Diary.Resource.Layout.abc_popup_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_content_include = global::Fitness_Diary.Resource.Layout.abc_screen_content_include;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_simple = global::Fitness_Diary.Resource.Layout.abc_screen_simple;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::Fitness_Diary.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_toolbar = global::Fitness_Diary.Resource.Layout.abc_screen_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::Fitness_Diary.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_view = global::Fitness_Diary.Resource.Layout.abc_search_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_select_dialog_material = global::Fitness_Diary.Resource.Layout.abc_select_dialog_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_tooltip = global::Fitness_Diary.Resource.Layout.abc_tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.BottomTabLayout = global::Fitness_Diary.Resource.Layout.BottomTabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_navigation_item = global::Fitness_Diary.Resource.Layout.design_bottom_navigation_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_sheet_dialog = global::Fitness_Diary.Resource.Layout.design_bottom_sheet_dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_snackbar = global::Fitness_Diary.Resource.Layout.design_layout_snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_snackbar_include = global::Fitness_Diary.Resource.Layout.design_layout_snackbar_include;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_tab_icon = global::Fitness_Diary.Resource.Layout.design_layout_tab_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_tab_text = global::Fitness_Diary.Resource.Layout.design_layout_tab_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_menu_item_action_area = global::Fitness_Diary.Resource.Layout.design_menu_item_action_area;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item = global::Fitness_Diary.Resource.Layout.design_navigation_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_header = global::Fitness_Diary.Resource.Layout.design_navigation_item_header;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_separator = global::Fitness_Diary.Resource.Layout.design_navigation_item_separator;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_subheader = global::Fitness_Diary.Resource.Layout.design_navigation_item_subheader;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu = global::Fitness_Diary.Resource.Layout.design_navigation_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu_item = global::Fitness_Diary.Resource.Layout.design_navigation_menu_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_text_input_password_icon = global::Fitness_Diary.Resource.Layout.design_text_input_password_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.FlyoutContent = global::Fitness_Diary.Resource.Layout.FlyoutContent;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.mtrl_layout_snackbar = global::Fitness_Diary.Resource.Layout.mtrl_layout_snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.mtrl_layout_snackbar_include = global::Fitness_Diary.Resource.Layout.mtrl_layout_snackbar_include;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_action = global::Fitness_Diary.Resource.Layout.notification_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_action_tombstone = global::Fitness_Diary.Resource.Layout.notification_action_tombstone;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_media_action = global::Fitness_Diary.Resource.Layout.notification_media_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_media_cancel_action = global::Fitness_Diary.Resource.Layout.notification_media_cancel_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media = global::Fitness_Diary.Resource.Layout.notification_template_big_media;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_custom = global::Fitness_Diary.Resource.Layout.notification_template_big_media_custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_narrow = global::Fitness_Diary.Resource.Layout.notification_template_big_media_narrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_narrow_custom = global::Fitness_Diary.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_custom_big = global::Fitness_Diary.Resource.Layout.notification_template_custom_big;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_icon_group = global::Fitness_Diary.Resource.Layout.notification_template_icon_group;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_lines_media = global::Fitness_Diary.Resource.Layout.notification_template_lines_media;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_media = global::Fitness_Diary.Resource.Layout.notification_template_media;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_media_custom = global::Fitness_Diary.Resource.Layout.notification_template_media_custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_chronometer = global::Fitness_Diary.Resource.Layout.notification_template_part_chronometer;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_time = global::Fitness_Diary.Resource.Layout.notification_template_part_time;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.RootLayout = global::Fitness_Diary.Resource.Layout.RootLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_item_material = global::Fitness_Diary.Resource.Layout.select_dialog_item_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_multichoice_material = global::Fitness_Diary.Resource.Layout.select_dialog_multichoice_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_singlechoice_material = global::Fitness_Diary.Resource.Layout.select_dialog_singlechoice_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.ShellContent = global::Fitness_Diary.Resource.Layout.ShellContent;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::Fitness_Diary.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_home_description = global::Fitness_Diary.Resource.String.abc_action_bar_home_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_up_description = global::Fitness_Diary.Resource.String.abc_action_bar_up_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_menu_overflow_description = global::Fitness_Diary.Resource.String.abc_action_menu_overflow_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_mode_done = global::Fitness_Diary.Resource.String.abc_action_mode_done;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_activity_chooser_view_see_all = global::Fitness_Diary.Resource.String.abc_activity_chooser_view_see_all;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_activitychooserview_choose_application = global::Fitness_Diary.Resource.String.abc_activitychooserview_choose_application;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_capital_off = global::Fitness_Diary.Resource.String.abc_capital_off;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_capital_on = global::Fitness_Diary.Resource.String.abc_capital_on;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_body_1_material = global::Fitness_Diary.Resource.String.abc_font_family_body_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_body_2_material = global::Fitness_Diary.Resource.String.abc_font_family_body_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_button_material = global::Fitness_Diary.Resource.String.abc_font_family_button_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_caption_material = global::Fitness_Diary.Resource.String.abc_font_family_caption_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_1_material = global::Fitness_Diary.Resource.String.abc_font_family_display_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_2_material = global::Fitness_Diary.Resource.String.abc_font_family_display_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_3_material = global::Fitness_Diary.Resource.String.abc_font_family_display_3_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_4_material = global::Fitness_Diary.Resource.String.abc_font_family_display_4_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_headline_material = global::Fitness_Diary.Resource.String.abc_font_family_headline_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_menu_material = global::Fitness_Diary.Resource.String.abc_font_family_menu_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_subhead_material = global::Fitness_Diary.Resource.String.abc_font_family_subhead_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_title_material = global::Fitness_Diary.Resource.String.abc_font_family_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_alt_shortcut_label = global::Fitness_Diary.Resource.String.abc_menu_alt_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_ctrl_shortcut_label = global::Fitness_Diary.Resource.String.abc_menu_ctrl_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_delete_shortcut_label = global::Fitness_Diary.Resource.String.abc_menu_delete_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_enter_shortcut_label = global::Fitness_Diary.Resource.String.abc_menu_enter_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_function_shortcut_label = global::Fitness_Diary.Resource.String.abc_menu_function_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_meta_shortcut_label = global::Fitness_Diary.Resource.String.abc_menu_meta_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_shift_shortcut_label = global::Fitness_Diary.Resource.String.abc_menu_shift_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_space_shortcut_label = global::Fitness_Diary.Resource.String.abc_menu_space_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_menu_sym_shortcut_label = global::Fitness_Diary.Resource.String.abc_menu_sym_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_prepend_shortcut_label = global::Fitness_Diary.Resource.String.abc_prepend_shortcut_label;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_search_hint = global::Fitness_Diary.Resource.String.abc_search_hint;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_clear = global::Fitness_Diary.Resource.String.abc_searchview_description_clear;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_query = global::Fitness_Diary.Resource.String.abc_searchview_description_query;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_search = global::Fitness_Diary.Resource.String.abc_searchview_description_search;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_submit = global::Fitness_Diary.Resource.String.abc_searchview_description_submit;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_voice = global::Fitness_Diary.Resource.String.abc_searchview_description_voice;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with = global::Fitness_Diary.Resource.String.abc_shareactionprovider_share_with;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with_application = global::Fitness_Diary.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_toolbar_collapse_description = global::Fitness_Diary.Resource.String.abc_toolbar_collapse_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.appbar_scrolling_view_behavior = global::Fitness_Diary.Resource.String.appbar_scrolling_view_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.bottom_sheet_behavior = global::Fitness_Diary.Resource.String.bottom_sheet_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_content_description = global::Fitness_Diary.Resource.String.character_counter_content_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_pattern = global::Fitness_Diary.Resource.String.character_counter_pattern;
+			global::Xamarin.Forms.Platform.Android.Resource.String.fab_transformation_scrim_behavior = global::Fitness_Diary.Resource.String.fab_transformation_scrim_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.fab_transformation_sheet_behavior = global::Fitness_Diary.Resource.String.fab_transformation_sheet_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.hide_bottom_view_on_scroll_behavior = global::Fitness_Diary.Resource.String.hide_bottom_view_on_scroll_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.mtrl_chip_close_icon_content_description = global::Fitness_Diary.Resource.String.mtrl_chip_close_icon_content_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.password_toggle_content_description = global::Fitness_Diary.Resource.String.password_toggle_content_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye = global::Fitness_Diary.Resource.String.path_password_eye;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_strike_through = global::Fitness_Diary.Resource.String.path_password_eye_mask_strike_through;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_visible = global::Fitness_Diary.Resource.String.path_password_eye_mask_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_strike_through = global::Fitness_Diary.Resource.String.path_password_strike_through;
+			global::Xamarin.Forms.Platform.Android.Resource.String.search_menu_title = global::Fitness_Diary.Resource.String.search_menu_title;
+			global::Xamarin.Forms.Platform.Android.Resource.String.status_bar_notification_info_overflow = global::Fitness_Diary.Resource.String.status_bar_notification_info_overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat = global::Fitness_Diary.Resource.Style.AlertDialog_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat_Light = global::Fitness_Diary.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Dialog = global::Fitness_Diary.Resource.Style.Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::Fitness_Diary.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Tooltip = global::Fitness_Diary.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::Fitness_Diary.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat = global::Fitness_Diary.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::Fitness_Diary.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::Fitness_Diary.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::Fitness_Diary.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_Tooltip = global::Fitness_Diary.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_CardView = global::Fitness_Diary.Resource.Style.Base_CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::Fitness_Diary.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::Fitness_Diary.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Fitness_Diary.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Fitness_Diary.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Fitness_Diary.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::Fitness_Diary.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::Fitness_Diary.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Bridge = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_CompactMenu = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge = global::Fitness_Diary.Resource.Style.Base_Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::Fitness_Diary.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::Fitness_Diary.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::Fitness_Diary.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::Fitness_Diary.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::Fitness_Diary.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::Fitness_Diary.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::Fitness_Diary.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog = global::Fitness_Diary.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert = global::Fitness_Diary.Resource.Style.Base_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents = global::Fitness_Diary.Resource.Style.Base_V14_Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge = global::Fitness_Diary.Resource.Style.Base_V14_Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog = global::Fitness_Diary.Resource.Style.Base_V14_Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light = global::Fitness_Diary.Resource.Style.Base_V14_Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge = global::Fitness_Diary.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Fitness_Diary.Resource.Style.Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog = global::Fitness_Diary.Resource.Style.Base_V14_Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog = global::Fitness_Diary.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert = global::Fitness_Diary.Resource.Style.Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat = global::Fitness_Diary.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::Fitness_Diary.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::Fitness_Diary.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::Fitness_Diary.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::Fitness_Diary.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat = global::Fitness_Diary.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::Fitness_Diary.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat = global::Fitness_Diary.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::Fitness_Diary.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat = global::Fitness_Diary.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat_Light = global::Fitness_Diary.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::Fitness_Diary.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V28_Theme_AppCompat = global::Fitness_Diary.Resource.Style.Base_V28_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V28_Theme_AppCompat_Light = global::Fitness_Diary.Resource.Style.Base_V28_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat = global::Fitness_Diary.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::Fitness_Diary.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::Fitness_Diary.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::Fitness_Diary.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::Fitness_Diary.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::Fitness_Diary.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::Fitness_Diary.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::Fitness_Diary.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::Fitness_Diary.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_Design_TabLayout = global::Fitness_Diary.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_Chip = global::Fitness_Diary.Resource.Style.Base_Widget_MaterialComponents_Chip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText = global::Fitness_Diary.Resource.Style.Base_Widget_MaterialComponents_TextInputEditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout = global::Fitness_Diary.Resource.Style.Base_Widget_MaterialComponents_TextInputLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView = global::Fitness_Diary.Resource.Style.CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Dark = global::Fitness_Diary.Resource.Style.CardView_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Light = global::Fitness_Diary.Resource.Style.CardView_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat = global::Fitness_Diary.Resource.Style.Platform_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat_Light = global::Fitness_Diary.Resource.Style.Platform_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents = global::Fitness_Diary.Resource.Style.Platform_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Dialog = global::Fitness_Diary.Resource.Style.Platform_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Light = global::Fitness_Diary.Resource.Style.Platform_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_MaterialComponents_Light_Dialog = global::Fitness_Diary.Resource.Style.Platform_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::Fitness_Diary.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::Fitness_Diary.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::Fitness_Diary.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat = global::Fitness_Diary.Resource.Style.Platform_V21_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat_Light = global::Fitness_Diary.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V25_AppCompat = global::Fitness_Diary.Resource.Style.Platform_V25_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V25_AppCompat_Light = global::Fitness_Diary.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::Fitness_Diary.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::Fitness_Diary.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::Fitness_Diary.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::Fitness_Diary.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::Fitness_Diary.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Button = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Tooltip = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::Fitness_Diary.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification = global::Fitness_Diary.Resource.Style.TextAppearance_Compat_Notification;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Info = global::Fitness_Diary.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::Fitness_Diary.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::Fitness_Diary.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::Fitness_Diary.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Media = global::Fitness_Diary.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Time = global::Fitness_Diary.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::Fitness_Diary.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Title = global::Fitness_Diary.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::Fitness_Diary.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::Fitness_Diary.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter = global::Fitness_Diary.Resource.Style.TextAppearance_Design_Counter;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::Fitness_Diary.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Error = global::Fitness_Diary.Resource.Style.TextAppearance_Design_Error;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_HelperText = global::Fitness_Diary.Resource.Style.TextAppearance_Design_HelperText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Hint = global::Fitness_Diary.Resource.Style.TextAppearance_Design_Hint;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::Fitness_Diary.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Tab = global::Fitness_Diary.Resource.Style.TextAppearance_Design_Tab;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Body1 = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Body1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Body2 = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Body2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Button = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Caption = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Caption;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Chip = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Chip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline1 = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Headline1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline2 = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Headline2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline3 = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Headline3;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline4 = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Headline4;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline5 = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Headline5;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Headline6 = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Headline6;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Overline = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Overline;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Subtitle1 = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Subtitle1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Subtitle2 = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Subtitle2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_MaterialComponents_Tab = global::Fitness_Diary.Resource.Style.TextAppearance_MaterialComponents_Tab;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::Fitness_Diary.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::Fitness_Diary.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::Fitness_Diary.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat = global::Fitness_Diary.Resource.Style.Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::Fitness_Diary.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight = global::Fitness_Diary.Resource.Style.Theme_AppCompat_DayNight;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::Fitness_Diary.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::Fitness_Diary.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::Fitness_Diary.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::Fitness_Diary.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::Fitness_Diary.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::Fitness_Diary.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog = global::Fitness_Diary.Resource.Style.Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::Fitness_Diary.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::Fitness_Diary.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::Fitness_Diary.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light = global::Fitness_Diary.Resource.Style.Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::Fitness_Diary.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::Fitness_Diary.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::Fitness_Diary.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::Fitness_Diary.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::Fitness_Diary.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::Fitness_Diary.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::Fitness_Diary.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design = global::Fitness_Diary.Resource.Style.Theme_Design;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::Fitness_Diary.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light = global::Fitness_Diary.Resource.Style.Theme_Design_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::Fitness_Diary.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::Fitness_Diary.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_NoActionBar = global::Fitness_Diary.Resource.Style.Theme_Design_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_BottomSheetDialog = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Bridge = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_CompactMenu = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_Alert = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_DialogWhenLarge = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Bridge = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Light_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Light_DarkActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_Light_NoActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge = global::Fitness_Diary.Resource.Style.Theme_MaterialComponents_NoActionBar_Bridge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat = global::Fitness_Diary.Resource.Style.ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::Fitness_Diary.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::Fitness_Diary.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::Fitness_Diary.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::Fitness_Diary.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::Fitness_Diary.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::Fitness_Diary.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents = global::Fitness_Diary.Resource.Style.ThemeOverlay_MaterialComponents;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar = global::Fitness_Diary.Resource.Style.ThemeOverlay_MaterialComponents_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dark = global::Fitness_Diary.Resource.Style.ThemeOverlay_MaterialComponents_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar = global::Fitness_Diary.Resource.Style.ThemeOverlay_MaterialComponents_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dialog = global::Fitness_Diary.Resource.Style.ThemeOverlay_MaterialComponents_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert = global::Fitness_Diary.Resource.Style.ThemeOverlay_MaterialComponents_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_Light = global::Fitness_Diary.Resource.Style.ThemeOverlay_MaterialComponents_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText = global::Fitness_Diary.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = global::Fitness_Diary.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = global::Fitness_Diary.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = global::Fitness_Diary.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::Fitness_Diary.Resource.Style.ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionMode = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::Fitness_Diary.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Small = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::Fitness_Diary.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::Fitness_Diary.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::Fitness_Diary.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::Fitness_Diary.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::Fitness_Diary.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_EditText = global::Fitness_Diary.Resource.Style.Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ImageButton = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListMenuView = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::Fitness_Diary.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::Fitness_Diary.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::Fitness_Diary.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::Fitness_Diary.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar = global::Fitness_Diary.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::Fitness_Diary.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::Fitness_Diary.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SearchView = global::Fitness_Diary.Resource.Style.Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::Fitness_Diary.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SeekBar = global::Fitness_Diary.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::Fitness_Diary.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::Fitness_Diary.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::Fitness_Diary.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Compat_NotificationActionContainer = global::Fitness_Diary.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Compat_NotificationActionText = global::Fitness_Diary.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_AppBarLayout = global::Fitness_Diary.Resource.Style.Widget_Design_AppBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomNavigationView = global::Fitness_Diary.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::Fitness_Diary.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::Fitness_Diary.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_FloatingActionButton = global::Fitness_Diary.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_NavigationView = global::Fitness_Diary.Resource.Style.Widget_Design_NavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::Fitness_Diary.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_Snackbar = global::Fitness_Diary.Resource.Style.Widget_Design_Snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TabLayout = global::Fitness_Diary.Resource.Style.Widget_Design_TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TextInputLayout = global::Fitness_Diary.Resource.Style.Widget_Design_TextInputLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomAppBar = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_BottomAppBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_BottomAppBar_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomNavigationView = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_BottomNavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_BottomNavigationView_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_BottomSheet_Modal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_Icon = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Button_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Button_OutlinedButton_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Button_TextButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Button_TextButton_Dialog_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Button_TextButton_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Button_UnelevatedButton_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_CardView = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Action = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Chip_Action;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Choice = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Chip_Choice;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Entry = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Chip_Entry;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Chip_Filter = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Chip_Filter;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_ChipGroup = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_ChipGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_FloatingActionButton = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_FloatingActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_NavigationView = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_NavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Snackbar = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Snackbar_FullWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TabLayout = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TabLayout_Colored = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_TabLayout_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_TextInputEditText_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_TextInputLayout_FilledBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_MaterialComponents_Toolbar = global::Fitness_Diary.Resource.Style.Widget_MaterialComponents_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Support_CoordinatorLayout = global::Fitness_Diary.Resource.Style.Widget_Support_CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar = global::Fitness_Diary.Resource.Styleable.ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_background = global::Fitness_Diary.Resource.Styleable.ActionBar_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundSplit = global::Fitness_Diary.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundStacked = global::Fitness_Diary.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::Fitness_Diary.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::Fitness_Diary.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::Fitness_Diary.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetRight = global::Fitness_Diary.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetStart = global::Fitness_Diary.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::Fitness_Diary.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::Fitness_Diary.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_displayOptions = global::Fitness_Diary.Resource.Styleable.ActionBar_displayOptions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_divider = global::Fitness_Diary.Resource.Styleable.ActionBar_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_elevation = global::Fitness_Diary.Resource.Styleable.ActionBar_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_height = global::Fitness_Diary.Resource.Styleable.ActionBar_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::Fitness_Diary.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::Fitness_Diary.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_homeLayout = global::Fitness_Diary.Resource.Styleable.ActionBar_homeLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_icon = global::Fitness_Diary.Resource.Styleable.ActionBar_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::Fitness_Diary.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_itemPadding = global::Fitness_Diary.Resource.Styleable.ActionBar_itemPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_logo = global::Fitness_Diary.Resource.Styleable.ActionBar_logo;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_navigationMode = global::Fitness_Diary.Resource.Styleable.ActionBar_navigationMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_popupTheme = global::Fitness_Diary.Resource.Styleable.ActionBar_popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_progressBarPadding = global::Fitness_Diary.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_progressBarStyle = global::Fitness_Diary.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_subtitle = global::Fitness_Diary.Resource.Styleable.ActionBar_subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::Fitness_Diary.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_title = global::Fitness_Diary.Resource.Styleable.ActionBar_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_titleTextStyle = global::Fitness_Diary.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout = global::Fitness_Diary.Resource.Styleable.ActionBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::Fitness_Diary.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView = global::Fitness_Diary.Resource.Styleable.ActionMenuItemView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::Fitness_Diary.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuView = global::Fitness_Diary.Resource.Styleable.ActionMenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode = global::Fitness_Diary.Resource.Styleable.ActionMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_background = global::Fitness_Diary.Resource.Styleable.ActionMode_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_backgroundSplit = global::Fitness_Diary.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_closeItemLayout = global::Fitness_Diary.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_height = global::Fitness_Diary.Resource.Styleable.ActionMode_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::Fitness_Diary.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_titleTextStyle = global::Fitness_Diary.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView = global::Fitness_Diary.Resource.Styleable.ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::Fitness_Diary.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::Fitness_Diary.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog = global::Fitness_Diary.Resource.Styleable.AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_android_layout = global::Fitness_Diary.Resource.Styleable.AlertDialog_android_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_buttonIconDimen = global::Fitness_Diary.Resource.Styleable.AlertDialog_buttonIconDimen;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::Fitness_Diary.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listItemLayout = global::Fitness_Diary.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listLayout = global::Fitness_Diary.Resource.Styleable.AlertDialog_listLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::Fitness_Diary.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_showTitle = global::Fitness_Diary.Resource.Styleable.AlertDialog_showTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::Fitness_Diary.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableCompat_android_constantSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableCompat_android_dither;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableCompat_android_enterFadeDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableCompat_android_exitFadeDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableCompat_android_variablePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableCompat_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableItem = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableItem_android_drawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableItem_android_id = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableItem_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableTransition;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableTransition_android_drawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableTransition_android_fromId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableTransition_android_reversible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId = global::Fitness_Diary.Resource.Styleable.AnimatedStateListDrawableTransition_android_toId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout = global::Fitness_Diary.Resource.Styleable.AppBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_background = global::Fitness_Diary.Resource.Styleable.AppBarLayout_android_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::Fitness_Diary.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::Fitness_Diary.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_elevation = global::Fitness_Diary.Resource.Styleable.AppBarLayout_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_expanded = global::Fitness_Diary.Resource.Styleable.AppBarLayout_expanded;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_liftOnScroll = global::Fitness_Diary.Resource.Styleable.AppBarLayout_liftOnScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates = global::Fitness_Diary.Resource.Styleable.AppBarLayoutStates;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::Fitness_Diary.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::Fitness_Diary.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_liftable = global::Fitness_Diary.Resource.Styleable.AppBarLayoutStates_state_liftable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_lifted = global::Fitness_Diary.Resource.Styleable.AppBarLayoutStates_state_lifted;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout = global::Fitness_Diary.Resource.Styleable.AppBarLayout_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::Fitness_Diary.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::Fitness_Diary.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView = global::Fitness_Diary.Resource.Styleable.AppCompatImageView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_android_src = global::Fitness_Diary.Resource.Styleable.AppCompatImageView_android_src;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::Fitness_Diary.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_tint = global::Fitness_Diary.Resource.Styleable.AppCompatImageView_tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_tintMode = global::Fitness_Diary.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar = global::Fitness_Diary.Resource.Styleable.AppCompatSeekBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_android_thumb = global::Fitness_Diary.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMark = global::Fitness_Diary.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::Fitness_Diary.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::Fitness_Diary.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper = global::Fitness_Diary.Resource.Styleable.AppCompatTextHelper;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::Fitness_Diary.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::Fitness_Diary.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::Fitness_Diary.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::Fitness_Diary.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::Fitness_Diary.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::Fitness_Diary.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::Fitness_Diary.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView = global::Fitness_Diary.Resource.Styleable.AppCompatTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::Fitness_Diary.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::Fitness_Diary.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::Fitness_Diary.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::Fitness_Diary.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::Fitness_Diary.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::Fitness_Diary.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight = global::Fitness_Diary.Resource.Styleable.AppCompatTextView_firstBaselineToTopHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_fontFamily = global::Fitness_Diary.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight = global::Fitness_Diary.Resource.Styleable.AppCompatTextView_lastBaselineToBottomHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_lineHeight = global::Fitness_Diary.Resource.Styleable.AppCompatTextView_lineHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::Fitness_Diary.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme = global::Fitness_Diary.Resource.Styleable.AppCompatTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorError = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_colorError;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogCornerRadius = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_dialogCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_viewInflaterClass = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_viewInflaterClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::Fitness_Diary.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar = global::Fitness_Diary.Resource.Styleable.BottomAppBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_backgroundTint = global::Fitness_Diary.Resource.Styleable.BottomAppBar_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabAlignmentMode = global::Fitness_Diary.Resource.Styleable.BottomAppBar_fabAlignmentMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabCradleMargin = global::Fitness_Diary.Resource.Styleable.BottomAppBar_fabCradleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius = global::Fitness_Diary.Resource.Styleable.BottomAppBar_fabCradleRoundedCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset = global::Fitness_Diary.Resource.Styleable.BottomAppBar_fabCradleVerticalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomAppBar_hideOnScroll = global::Fitness_Diary.Resource.Styleable.BottomAppBar_hideOnScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView = global::Fitness_Diary.Resource.Styleable.BottomNavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_elevation = global::Fitness_Diary.Resource.Styleable.BottomNavigationView_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemBackground = global::Fitness_Diary.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled = global::Fitness_Diary.Resource.Styleable.BottomNavigationView_itemHorizontalTranslationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemIconSize = global::Fitness_Diary.Resource.Styleable.BottomNavigationView_itemIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemIconTint = global::Fitness_Diary.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive = global::Fitness_Diary.Resource.Styleable.BottomNavigationView_itemTextAppearanceActive;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive = global::Fitness_Diary.Resource.Styleable.BottomNavigationView_itemTextAppearanceInactive;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextColor = global::Fitness_Diary.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_labelVisibilityMode = global::Fitness_Diary.Resource.Styleable.BottomNavigationView_labelVisibilityMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_menu = global::Fitness_Diary.Resource.Styleable.BottomNavigationView_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::Fitness_Diary.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents = global::Fitness_Diary.Resource.Styleable.BottomSheetBehavior_Layout_behavior_fitToContents;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::Fitness_Diary.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::Fitness_Diary.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::Fitness_Diary.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ButtonBarLayout = global::Fitness_Diary.Resource.Styleable.ButtonBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::Fitness_Diary.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView = global::Fitness_Diary.Resource.Styleable.CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_android_minHeight = global::Fitness_Diary.Resource.Styleable.CardView_android_minHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_android_minWidth = global::Fitness_Diary.Resource.Styleable.CardView_android_minWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardBackgroundColor = global::Fitness_Diary.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardCornerRadius = global::Fitness_Diary.Resource.Styleable.CardView_cardCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardElevation = global::Fitness_Diary.Resource.Styleable.CardView_cardElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardMaxElevation = global::Fitness_Diary.Resource.Styleable.CardView_cardMaxElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::Fitness_Diary.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::Fitness_Diary.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPadding = global::Fitness_Diary.Resource.Styleable.CardView_contentPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingBottom = global::Fitness_Diary.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingLeft = global::Fitness_Diary.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingRight = global::Fitness_Diary.Resource.Styleable.CardView_contentPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingTop = global::Fitness_Diary.Resource.Styleable.CardView_contentPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip = global::Fitness_Diary.Resource.Styleable.Chip;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_checkable = global::Fitness_Diary.Resource.Styleable.Chip_android_checkable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_ellipsize = global::Fitness_Diary.Resource.Styleable.Chip_android_ellipsize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_maxWidth = global::Fitness_Diary.Resource.Styleable.Chip_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_text = global::Fitness_Diary.Resource.Styleable.Chip_android_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_android_textAppearance = global::Fitness_Diary.Resource.Styleable.Chip_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_checkedIcon = global::Fitness_Diary.Resource.Styleable.Chip_checkedIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_checkedIconEnabled = global::Fitness_Diary.Resource.Styleable.Chip_checkedIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_checkedIconVisible = global::Fitness_Diary.Resource.Styleable.Chip_checkedIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipBackgroundColor = global::Fitness_Diary.Resource.Styleable.Chip_chipBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipCornerRadius = global::Fitness_Diary.Resource.Styleable.Chip_chipCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipEndPadding = global::Fitness_Diary.Resource.Styleable.Chip_chipEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIcon = global::Fitness_Diary.Resource.Styleable.Chip_chipIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconEnabled = global::Fitness_Diary.Resource.Styleable.Chip_chipIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconSize = global::Fitness_Diary.Resource.Styleable.Chip_chipIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconTint = global::Fitness_Diary.Resource.Styleable.Chip_chipIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipIconVisible = global::Fitness_Diary.Resource.Styleable.Chip_chipIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipMinHeight = global::Fitness_Diary.Resource.Styleable.Chip_chipMinHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipStartPadding = global::Fitness_Diary.Resource.Styleable.Chip_chipStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipStrokeColor = global::Fitness_Diary.Resource.Styleable.Chip_chipStrokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_chipStrokeWidth = global::Fitness_Diary.Resource.Styleable.Chip_chipStrokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIcon = global::Fitness_Diary.Resource.Styleable.Chip_closeIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconEnabled = global::Fitness_Diary.Resource.Styleable.Chip_closeIconEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconEndPadding = global::Fitness_Diary.Resource.Styleable.Chip_closeIconEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconSize = global::Fitness_Diary.Resource.Styleable.Chip_closeIconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconStartPadding = global::Fitness_Diary.Resource.Styleable.Chip_closeIconStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconTint = global::Fitness_Diary.Resource.Styleable.Chip_closeIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_closeIconVisible = global::Fitness_Diary.Resource.Styleable.Chip_closeIconVisible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_hideMotionSpec = global::Fitness_Diary.Resource.Styleable.Chip_hideMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_iconEndPadding = global::Fitness_Diary.Resource.Styleable.Chip_iconEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_iconStartPadding = global::Fitness_Diary.Resource.Styleable.Chip_iconStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_rippleColor = global::Fitness_Diary.Resource.Styleable.Chip_rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_showMotionSpec = global::Fitness_Diary.Resource.Styleable.Chip_showMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_textEndPadding = global::Fitness_Diary.Resource.Styleable.Chip_textEndPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Chip_textStartPadding = global::Fitness_Diary.Resource.Styleable.Chip_textStartPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup = global::Fitness_Diary.Resource.Styleable.ChipGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_checkedChip = global::Fitness_Diary.Resource.Styleable.ChipGroup_checkedChip;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacing = global::Fitness_Diary.Resource.Styleable.ChipGroup_chipSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacingHorizontal = global::Fitness_Diary.Resource.Styleable.ChipGroup_chipSpacingHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_chipSpacingVertical = global::Fitness_Diary.Resource.Styleable.ChipGroup_chipSpacingVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleLine = global::Fitness_Diary.Resource.Styleable.ChipGroup_singleLine;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ChipGroup_singleSelection = global::Fitness_Diary.Resource.Styleable.ChipGroup_singleSelection;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::Fitness_Diary.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem = global::Fitness_Diary.Resource.Styleable.ColorStateListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_alpha = global::Fitness_Diary.Resource.Styleable.ColorStateListItem_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::Fitness_Diary.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_android_color = global::Fitness_Diary.Resource.Styleable.ColorStateListItem_android_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton = global::Fitness_Diary.Resource.Styleable.CompoundButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_android_button = global::Fitness_Diary.Resource.Styleable.CompoundButton_android_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_buttonTint = global::Fitness_Diary.Resource.Styleable.CompoundButton_buttonTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::Fitness_Diary.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout = global::Fitness_Diary.Resource.Styleable.CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_keylines = global::Fitness_Diary.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::Fitness_Diary.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout = global::Fitness_Diary.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::Fitness_Diary.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::Fitness_Diary.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::Fitness_Diary.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::Fitness_Diary.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::Fitness_Diary.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::Fitness_Diary.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::Fitness_Diary.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme = global::Fitness_Diary.Resource.Styleable.DesignTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::Fitness_Diary.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::Fitness_Diary.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle = global::Fitness_Diary.Resource.Styleable.DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::Fitness_Diary.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::Fitness_Diary.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::Fitness_Diary.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_color = global::Fitness_Diary.Resource.Styleable.DrawerArrowToggle_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::Fitness_Diary.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::Fitness_Diary.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::Fitness_Diary.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::Fitness_Diary.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton = global::Fitness_Diary.Resource.Styleable.FloatingActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_elevation = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabCustomSize = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_fabCustomSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabSize = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_hideMotionSpec = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_hideMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_hoveredFocusedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_maxImageSize = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_maxImageSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_showMotionSpec = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_showMotionSpec;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::Fitness_Diary.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout = global::Fitness_Diary.Resource.Styleable.FlowLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout_itemSpacing = global::Fitness_Diary.Resource.Styleable.FlowLayout_itemSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FlowLayout_lineSpacing = global::Fitness_Diary.Resource.Styleable.FlowLayout_lineSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily = global::Fitness_Diary.Resource.Styleable.FontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::Fitness_Diary.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::Fitness_Diary.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::Fitness_Diary.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::Fitness_Diary.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::Fitness_Diary.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::Fitness_Diary.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont = global::Fitness_Diary.Resource.Styleable.FontFamilyFont;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_font = global::Fitness_Diary.Resource.Styleable.FontFamilyFont_android_font;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontStyle = global::Fitness_Diary.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontVariationSettings = global::Fitness_Diary.Resource.Styleable.FontFamilyFont_android_fontVariationSettings;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontWeight = global::Fitness_Diary.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_ttcIndex = global::Fitness_Diary.Resource.Styleable.FontFamilyFont_android_ttcIndex;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_font = global::Fitness_Diary.Resource.Styleable.FontFamilyFont_font;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontStyle = global::Fitness_Diary.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontVariationSettings = global::Fitness_Diary.Resource.Styleable.FontFamilyFont_fontVariationSettings;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::Fitness_Diary.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_ttcIndex = global::Fitness_Diary.Resource.Styleable.FontFamilyFont_ttcIndex;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout = global::Fitness_Diary.Resource.Styleable.ForegroundLinearLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::Fitness_Diary.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::Fitness_Diary.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::Fitness_Diary.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor = global::Fitness_Diary.Resource.Styleable.GradientColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerColor = global::Fitness_Diary.Resource.Styleable.GradientColor_android_centerColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerX = global::Fitness_Diary.Resource.Styleable.GradientColor_android_centerX;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_centerY = global::Fitness_Diary.Resource.Styleable.GradientColor_android_centerY;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_endColor = global::Fitness_Diary.Resource.Styleable.GradientColor_android_endColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_endX = global::Fitness_Diary.Resource.Styleable.GradientColor_android_endX;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_endY = global::Fitness_Diary.Resource.Styleable.GradientColor_android_endY;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_gradientRadius = global::Fitness_Diary.Resource.Styleable.GradientColor_android_gradientRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startColor = global::Fitness_Diary.Resource.Styleable.GradientColor_android_startColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startX = global::Fitness_Diary.Resource.Styleable.GradientColor_android_startX;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_startY = global::Fitness_Diary.Resource.Styleable.GradientColor_android_startY;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_tileMode = global::Fitness_Diary.Resource.Styleable.GradientColor_android_tileMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColor_android_type = global::Fitness_Diary.Resource.Styleable.GradientColor_android_type;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem = global::Fitness_Diary.Resource.Styleable.GradientColorItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_color = global::Fitness_Diary.Resource.Styleable.GradientColorItem_android_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.GradientColorItem_android_offset = global::Fitness_Diary.Resource.Styleable.GradientColorItem_android_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_divider = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::Fitness_Diary.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow = global::Fitness_Diary.Resource.Styleable.ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::Fitness_Diary.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::Fitness_Diary.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton = global::Fitness_Diary.Resource.Styleable.MaterialButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetBottom = global::Fitness_Diary.Resource.Styleable.MaterialButton_android_insetBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetLeft = global::Fitness_Diary.Resource.Styleable.MaterialButton_android_insetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetRight = global::Fitness_Diary.Resource.Styleable.MaterialButton_android_insetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_android_insetTop = global::Fitness_Diary.Resource.Styleable.MaterialButton_android_insetTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_backgroundTint = global::Fitness_Diary.Resource.Styleable.MaterialButton_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_backgroundTintMode = global::Fitness_Diary.Resource.Styleable.MaterialButton_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_cornerRadius = global::Fitness_Diary.Resource.Styleable.MaterialButton_cornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_icon = global::Fitness_Diary.Resource.Styleable.MaterialButton_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconGravity = global::Fitness_Diary.Resource.Styleable.MaterialButton_iconGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconPadding = global::Fitness_Diary.Resource.Styleable.MaterialButton_iconPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconSize = global::Fitness_Diary.Resource.Styleable.MaterialButton_iconSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconTint = global::Fitness_Diary.Resource.Styleable.MaterialButton_iconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_iconTintMode = global::Fitness_Diary.Resource.Styleable.MaterialButton_iconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_rippleColor = global::Fitness_Diary.Resource.Styleable.MaterialButton_rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_strokeColor = global::Fitness_Diary.Resource.Styleable.MaterialButton_strokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialButton_strokeWidth = global::Fitness_Diary.Resource.Styleable.MaterialButton_strokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialCardView = global::Fitness_Diary.Resource.Styleable.MaterialCardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialCardView_strokeColor = global::Fitness_Diary.Resource.Styleable.MaterialCardView_strokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialCardView_strokeWidth = global::Fitness_Diary.Resource.Styleable.MaterialCardView_strokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_chipGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_chipStandaloneStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_chipStyle = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_chipStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorAccent = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_colorAccent;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorPrimary = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_colorPrimary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_colorSecondary = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_colorSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_editTextStyle = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_editTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_floatingActionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_materialButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_materialCardViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_navigationViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_scrimBackground = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_scrimBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_tabStyle = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_tabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1 = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody1;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2 = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textAppearanceBody2;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textAppearanceButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textAppearanceCaption;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1 = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline1;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2 = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline2;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3 = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline3;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4 = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline4;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5 = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline5;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6 = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textAppearanceHeadline6;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textAppearanceOverline;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1 = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle1;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2 = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textAppearanceSubtitle2;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MaterialComponentsTheme_textInputStyle = global::Fitness_Diary.Resource.Styleable.MaterialComponentsTheme_textInputStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup = global::Fitness_Diary.Resource.Styleable.MenuGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::Fitness_Diary.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_enabled = global::Fitness_Diary.Resource.Styleable.MenuGroup_android_enabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_id = global::Fitness_Diary.Resource.Styleable.MenuGroup_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::Fitness_Diary.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::Fitness_Diary.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_visible = global::Fitness_Diary.Resource.Styleable.MenuGroup_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem = global::Fitness_Diary.Resource.Styleable.MenuItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionLayout = global::Fitness_Diary.Resource.Styleable.MenuItem_actionLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionProviderClass = global::Fitness_Diary.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionViewClass = global::Fitness_Diary.Resource.Styleable.MenuItem_actionViewClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_alphabeticModifiers = global::Fitness_Diary.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::Fitness_Diary.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_checkable = global::Fitness_Diary.Resource.Styleable.MenuItem_android_checkable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_checked = global::Fitness_Diary.Resource.Styleable.MenuItem_android_checked;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_enabled = global::Fitness_Diary.Resource.Styleable.MenuItem_android_enabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_icon = global::Fitness_Diary.Resource.Styleable.MenuItem_android_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_id = global::Fitness_Diary.Resource.Styleable.MenuItem_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_menuCategory = global::Fitness_Diary.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::Fitness_Diary.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_onClick = global::Fitness_Diary.Resource.Styleable.MenuItem_android_onClick;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::Fitness_Diary.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_title = global::Fitness_Diary.Resource.Styleable.MenuItem_android_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::Fitness_Diary.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_visible = global::Fitness_Diary.Resource.Styleable.MenuItem_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_contentDescription = global::Fitness_Diary.Resource.Styleable.MenuItem_contentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_iconTint = global::Fitness_Diary.Resource.Styleable.MenuItem_iconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_iconTintMode = global::Fitness_Diary.Resource.Styleable.MenuItem_iconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_numericModifiers = global::Fitness_Diary.Resource.Styleable.MenuItem_numericModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_showAsAction = global::Fitness_Diary.Resource.Styleable.MenuItem_showAsAction;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_tooltipText = global::Fitness_Diary.Resource.Styleable.MenuItem_tooltipText;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView = global::Fitness_Diary.Resource.Styleable.MenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_headerBackground = global::Fitness_Diary.Resource.Styleable.MenuView_android_headerBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::Fitness_Diary.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemBackground = global::Fitness_Diary.Resource.Styleable.MenuView_android_itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::Fitness_Diary.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::Fitness_Diary.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_verticalDivider = global::Fitness_Diary.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::Fitness_Diary.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::Fitness_Diary.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_subMenuArrow = global::Fitness_Diary.Resource.Styleable.MenuView_subMenuArrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView = global::Fitness_Diary.Resource.Styleable.NavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_background = global::Fitness_Diary.Resource.Styleable.NavigationView_android_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::Fitness_Diary.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_maxWidth = global::Fitness_Diary.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_elevation = global::Fitness_Diary.Resource.Styleable.NavigationView_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_headerLayout = global::Fitness_Diary.Resource.Styleable.NavigationView_headerLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemBackground = global::Fitness_Diary.Resource.Styleable.NavigationView_itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemHorizontalPadding = global::Fitness_Diary.Resource.Styleable.NavigationView_itemHorizontalPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemIconPadding = global::Fitness_Diary.Resource.Styleable.NavigationView_itemIconPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemIconTint = global::Fitness_Diary.Resource.Styleable.NavigationView_itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::Fitness_Diary.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextColor = global::Fitness_Diary.Resource.Styleable.NavigationView_itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_menu = global::Fitness_Diary.Resource.Styleable.NavigationView_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow = global::Fitness_Diary.Resource.Styleable.PopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::Fitness_Diary.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::Fitness_Diary.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::Fitness_Diary.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState = global::Fitness_Diary.Resource.Styleable.PopupWindowBackgroundState;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::Fitness_Diary.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView = global::Fitness_Diary.Resource.Styleable.RecycleListView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::Fitness_Diary.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::Fitness_Diary.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView = global::Fitness_Diary.Resource.Styleable.RecyclerView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_android_descendantFocusability = global::Fitness_Diary.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_android_orientation = global::Fitness_Diary.Resource.Styleable.RecyclerView_android_orientation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollEnabled = global::Fitness_Diary.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::Fitness_Diary.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::Fitness_Diary.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::Fitness_Diary.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::Fitness_Diary.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_layoutManager = global::Fitness_Diary.Resource.Styleable.RecyclerView_layoutManager;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_reverseLayout = global::Fitness_Diary.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_spanCount = global::Fitness_Diary.Resource.Styleable.RecyclerView_spanCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::Fitness_Diary.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::Fitness_Diary.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::Fitness_Diary.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Layout = global::Fitness_Diary.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::Fitness_Diary.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView = global::Fitness_Diary.Resource.Styleable.SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_focusable = global::Fitness_Diary.Resource.Styleable.SearchView_android_focusable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_imeOptions = global::Fitness_Diary.Resource.Styleable.SearchView_android_imeOptions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_inputType = global::Fitness_Diary.Resource.Styleable.SearchView_android_inputType;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_maxWidth = global::Fitness_Diary.Resource.Styleable.SearchView_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_closeIcon = global::Fitness_Diary.Resource.Styleable.SearchView_closeIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_commitIcon = global::Fitness_Diary.Resource.Styleable.SearchView_commitIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_defaultQueryHint = global::Fitness_Diary.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_goIcon = global::Fitness_Diary.Resource.Styleable.SearchView_goIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::Fitness_Diary.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_layout = global::Fitness_Diary.Resource.Styleable.SearchView_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_queryBackground = global::Fitness_Diary.Resource.Styleable.SearchView_queryBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_queryHint = global::Fitness_Diary.Resource.Styleable.SearchView_queryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_searchHintIcon = global::Fitness_Diary.Resource.Styleable.SearchView_searchHintIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_searchIcon = global::Fitness_Diary.Resource.Styleable.SearchView_searchIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_submitBackground = global::Fitness_Diary.Resource.Styleable.SearchView_submitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::Fitness_Diary.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_voiceIcon = global::Fitness_Diary.Resource.Styleable.SearchView_voiceIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar = global::Fitness_Diary.Resource.Styleable.Snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarButtonStyle = global::Fitness_Diary.Resource.Styleable.Snackbar_snackbarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Snackbar_snackbarStyle = global::Fitness_Diary.Resource.Styleable.Snackbar_snackbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout = global::Fitness_Diary.Resource.Styleable.SnackbarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::Fitness_Diary.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_elevation = global::Fitness_Diary.Resource.Styleable.SnackbarLayout_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::Fitness_Diary.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner = global::Fitness_Diary.Resource.Styleable.Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::Fitness_Diary.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_entries = global::Fitness_Diary.Resource.Styleable.Spinner_android_entries;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_popupBackground = global::Fitness_Diary.Resource.Styleable.Spinner_android_popupBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_prompt = global::Fitness_Diary.Resource.Styleable.Spinner_android_prompt;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_popupTheme = global::Fitness_Diary.Resource.Styleable.Spinner_popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable = global::Fitness_Diary.Resource.Styleable.StateListDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_constantSize = global::Fitness_Diary.Resource.Styleable.StateListDrawable_android_constantSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_dither = global::Fitness_Diary.Resource.Styleable.StateListDrawable_android_dither;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_enterFadeDuration = global::Fitness_Diary.Resource.Styleable.StateListDrawable_android_enterFadeDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_exitFadeDuration = global::Fitness_Diary.Resource.Styleable.StateListDrawable_android_exitFadeDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_variablePadding = global::Fitness_Diary.Resource.Styleable.StateListDrawable_android_variablePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawable_android_visible = global::Fitness_Diary.Resource.Styleable.StateListDrawable_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem = global::Fitness_Diary.Resource.Styleable.StateListDrawableItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.StateListDrawableItem_android_drawable = global::Fitness_Diary.Resource.Styleable.StateListDrawableItem_android_drawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat = global::Fitness_Diary.Resource.Styleable.SwitchCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOff = global::Fitness_Diary.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOn = global::Fitness_Diary.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_thumb = global::Fitness_Diary.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_showText = global::Fitness_Diary.Resource.Styleable.SwitchCompat_showText;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_splitTrack = global::Fitness_Diary.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::Fitness_Diary.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchPadding = global::Fitness_Diary.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::Fitness_Diary.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::Fitness_Diary.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTint = global::Fitness_Diary.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTintMode = global::Fitness_Diary.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_track = global::Fitness_Diary.Resource.Styleable.SwitchCompat_track;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_trackTint = global::Fitness_Diary.Resource.Styleable.SwitchCompat_trackTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_trackTintMode = global::Fitness_Diary.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem = global::Fitness_Diary.Resource.Styleable.TabItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_icon = global::Fitness_Diary.Resource.Styleable.TabItem_android_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_layout = global::Fitness_Diary.Resource.Styleable.TabItem_android_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_text = global::Fitness_Diary.Resource.Styleable.TabItem_android_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout = global::Fitness_Diary.Resource.Styleable.TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabBackground = global::Fitness_Diary.Resource.Styleable.TabLayout_tabBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabContentStart = global::Fitness_Diary.Resource.Styleable.TabLayout_tabContentStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabGravity = global::Fitness_Diary.Resource.Styleable.TabLayout_tabGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIconTint = global::Fitness_Diary.Resource.Styleable.TabLayout_tabIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIconTintMode = global::Fitness_Diary.Resource.Styleable.TabLayout_tabIconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicator = global::Fitness_Diary.Resource.Styleable.TabLayout_tabIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration = global::Fitness_Diary.Resource.Styleable.TabLayout_tabIndicatorAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::Fitness_Diary.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorFullWidth = global::Fitness_Diary.Resource.Styleable.TabLayout_tabIndicatorFullWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorGravity = global::Fitness_Diary.Resource.Styleable.TabLayout_tabIndicatorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::Fitness_Diary.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabInlineLabel = global::Fitness_Diary.Resource.Styleable.TabLayout_tabInlineLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::Fitness_Diary.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMinWidth = global::Fitness_Diary.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMode = global::Fitness_Diary.Resource.Styleable.TabLayout_tabMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPadding = global::Fitness_Diary.Resource.Styleable.TabLayout_tabPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::Fitness_Diary.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::Fitness_Diary.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::Fitness_Diary.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::Fitness_Diary.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabRippleColor = global::Fitness_Diary.Resource.Styleable.TabLayout_tabRippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::Fitness_Diary.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::Fitness_Diary.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextColor = global::Fitness_Diary.Resource.Styleable.TabLayout_tabTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabUnboundedRipple = global::Fitness_Diary.Resource.Styleable.TabLayout_tabUnboundedRipple;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance = global::Fitness_Diary.Resource.Styleable.TextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_fontFamily = global::Fitness_Diary.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::Fitness_Diary.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::Fitness_Diary.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::Fitness_Diary.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::Fitness_Diary.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColor = global::Fitness_Diary.Resource.Styleable.TextAppearance_android_textColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColorHint = global::Fitness_Diary.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColorLink = global::Fitness_Diary.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textSize = global::Fitness_Diary.Resource.Styleable.TextAppearance_android_textSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textStyle = global::Fitness_Diary.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_typeface = global::Fitness_Diary.Resource.Styleable.TextAppearance_android_typeface;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_fontFamily = global::Fitness_Diary.Resource.Styleable.TextAppearance_fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_textAllCaps = global::Fitness_Diary.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout = global::Fitness_Diary.Resource.Styleable.TextInputLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_hint = global::Fitness_Diary.Resource.Styleable.TextInputLayout_android_hint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::Fitness_Diary.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxBackgroundColor = global::Fitness_Diary.Resource.Styleable.TextInputLayout_boxBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxBackgroundMode = global::Fitness_Diary.Resource.Styleable.TextInputLayout_boxBackgroundMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop = global::Fitness_Diary.Resource.Styleable.TextInputLayout_boxCollapsedPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd = global::Fitness_Diary.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart = global::Fitness_Diary.Resource.Styleable.TextInputLayout_boxCornerRadiusBottomStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd = global::Fitness_Diary.Resource.Styleable.TextInputLayout_boxCornerRadiusTopEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart = global::Fitness_Diary.Resource.Styleable.TextInputLayout_boxCornerRadiusTopStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxStrokeColor = global::Fitness_Diary.Resource.Styleable.TextInputLayout_boxStrokeColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_boxStrokeWidth = global::Fitness_Diary.Resource.Styleable.TextInputLayout_boxStrokeWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::Fitness_Diary.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::Fitness_Diary.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::Fitness_Diary.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::Fitness_Diary.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::Fitness_Diary.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::Fitness_Diary.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperText = global::Fitness_Diary.Resource.Styleable.TextInputLayout_helperText;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperTextEnabled = global::Fitness_Diary.Resource.Styleable.TextInputLayout_helperTextEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_helperTextTextAppearance = global::Fitness_Diary.Resource.Styleable.TextInputLayout_helperTextTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::Fitness_Diary.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::Fitness_Diary.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::Fitness_Diary.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::Fitness_Diary.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::Fitness_Diary.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::Fitness_Diary.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::Fitness_Diary.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::Fitness_Diary.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement = global::Fitness_Diary.Resource.Styleable.ThemeEnforcement;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_android_textAppearance = global::Fitness_Diary.Resource.Styleable.ThemeEnforcement_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme = global::Fitness_Diary.Resource.Styleable.ThemeEnforcement_enforceMaterialTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ThemeEnforcement_enforceTextAppearance = global::Fitness_Diary.Resource.Styleable.ThemeEnforcement_enforceTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar = global::Fitness_Diary.Resource.Styleable.Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_gravity = global::Fitness_Diary.Resource.Styleable.Toolbar_android_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_minHeight = global::Fitness_Diary.Resource.Styleable.Toolbar_android_minHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_buttonGravity = global::Fitness_Diary.Resource.Styleable.Toolbar_buttonGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::Fitness_Diary.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_collapseIcon = global::Fitness_Diary.Resource.Styleable.Toolbar_collapseIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::Fitness_Diary.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::Fitness_Diary.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::Fitness_Diary.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetRight = global::Fitness_Diary.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetStart = global::Fitness_Diary.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::Fitness_Diary.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_logo = global::Fitness_Diary.Resource.Styleable.Toolbar_logo;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_logoDescription = global::Fitness_Diary.Resource.Styleable.Toolbar_logoDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::Fitness_Diary.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::Fitness_Diary.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_navigationIcon = global::Fitness_Diary.Resource.Styleable.Toolbar_navigationIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_popupTheme = global::Fitness_Diary.Resource.Styleable.Toolbar_popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitle = global::Fitness_Diary.Resource.Styleable.Toolbar_subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::Fitness_Diary.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::Fitness_Diary.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_title = global::Fitness_Diary.Resource.Styleable.Toolbar_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargin = global::Fitness_Diary.Resource.Styleable.Toolbar_titleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::Fitness_Diary.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::Fitness_Diary.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginStart = global::Fitness_Diary.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginTop = global::Fitness_Diary.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargins = global::Fitness_Diary.Resource.Styleable.Toolbar_titleMargins;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::Fitness_Diary.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextColor = global::Fitness_Diary.Resource.Styleable.Toolbar_titleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View = global::Fitness_Diary.Resource.Styleable.View;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_focusable = global::Fitness_Diary.Resource.Styleable.View_android_focusable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_theme = global::Fitness_Diary.Resource.Styleable.View_android_theme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingEnd = global::Fitness_Diary.Resource.Styleable.View_paddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingStart = global::Fitness_Diary.Resource.Styleable.View_paddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_theme = global::Fitness_Diary.Resource.Styleable.View_theme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper = global::Fitness_Diary.Resource.Styleable.ViewBackgroundHelper;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::Fitness_Diary.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::Fitness_Diary.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::Fitness_Diary.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat = global::Fitness_Diary.Resource.Styleable.ViewStubCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_id = global::Fitness_Diary.Resource.Styleable.ViewStubCompat_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::Fitness_Diary.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_layout = global::Fitness_Diary.Resource.Styleable.ViewStubCompat_android_layout;
 		}
 		
 		public partial class Animation
@@ -260,6 +2888,18 @@ namespace Fitness_Diary
 			
 			// aapt resource value: 0x7F01000F
 			public const int design_snackbar_out = 2130771983;
+			
+			// aapt resource value: 0x7F010010
+			public const int EnterFromLeft = 2130771984;
+			
+			// aapt resource value: 0x7F010011
+			public const int EnterFromRight = 2130771985;
+			
+			// aapt resource value: 0x7F010012
+			public const int ExitToLeft = 2130771986;
+			
+			// aapt resource value: 0x7F010013
+			public const int ExitToRight = 2130771987;
 			
 			static Animation()
 			{
@@ -432,1423 +3072,1495 @@ namespace Fitness_Diary
 			public const int alertDialogTheme = 2130903077;
 			
 			// aapt resource value: 0x7F030026
-			public const int allowStacking = 2130903078;
+			public const int allowAppointmentDrag = 2130903078;
 			
 			// aapt resource value: 0x7F030027
-			public const int alpha = 2130903079;
+			public const int allowStacking = 2130903079;
 			
 			// aapt resource value: 0x7F030028
-			public const int alphabeticModifiers = 2130903080;
+			public const int alpha = 2130903080;
 			
 			// aapt resource value: 0x7F030029
-			public const int ambientEnabled = 2130903081;
+			public const int alphabeticModifiers = 2130903081;
 			
 			// aapt resource value: 0x7F03002A
-			public const int arrowHeadLength = 2130903082;
+			public const int ambientEnabled = 2130903082;
 			
 			// aapt resource value: 0x7F03002B
-			public const int arrowShaftLength = 2130903083;
+			public const int arrowHeadLength = 2130903083;
 			
 			// aapt resource value: 0x7F03002C
-			public const int autoCompleteTextViewStyle = 2130903084;
+			public const int arrowShaftLength = 2130903084;
 			
 			// aapt resource value: 0x7F03002D
-			public const int autoSizeMaxTextSize = 2130903085;
+			public const int autoCompleteTextViewStyle = 2130903085;
 			
 			// aapt resource value: 0x7F03002E
-			public const int autoSizeMinTextSize = 2130903086;
+			public const int autoSizeMaxTextSize = 2130903086;
 			
 			// aapt resource value: 0x7F03002F
-			public const int autoSizePresetSizes = 2130903087;
+			public const int autoSizeMinTextSize = 2130903087;
 			
 			// aapt resource value: 0x7F030030
-			public const int autoSizeStepGranularity = 2130903088;
+			public const int autoSizePresetSizes = 2130903088;
 			
 			// aapt resource value: 0x7F030031
-			public const int autoSizeTextType = 2130903089;
+			public const int autoSizeStepGranularity = 2130903089;
 			
 			// aapt resource value: 0x7F030032
-			public const int background = 2130903090;
+			public const int autoSizeTextType = 2130903090;
 			
 			// aapt resource value: 0x7F030033
-			public const int backgroundSplit = 2130903091;
+			public const int background = 2130903091;
 			
 			// aapt resource value: 0x7F030034
-			public const int backgroundStacked = 2130903092;
+			public const int backgroundSplit = 2130903092;
 			
 			// aapt resource value: 0x7F030035
-			public const int backgroundTint = 2130903093;
+			public const int backgroundStacked = 2130903093;
 			
 			// aapt resource value: 0x7F030036
-			public const int backgroundTintMode = 2130903094;
+			public const int backgroundTint = 2130903094;
 			
 			// aapt resource value: 0x7F030037
-			public const int barLength = 2130903095;
+			public const int backgroundTintMode = 2130903095;
 			
 			// aapt resource value: 0x7F030038
-			public const int behavior_autoHide = 2130903096;
+			public const int barLength = 2130903096;
 			
 			// aapt resource value: 0x7F030039
-			public const int behavior_fitToContents = 2130903097;
+			public const int behavior_autoHide = 2130903097;
 			
 			// aapt resource value: 0x7F03003A
-			public const int behavior_hideable = 2130903098;
+			public const int behavior_fitToContents = 2130903098;
 			
 			// aapt resource value: 0x7F03003B
-			public const int behavior_overlapTop = 2130903099;
+			public const int behavior_hideable = 2130903099;
 			
 			// aapt resource value: 0x7F03003C
-			public const int behavior_peekHeight = 2130903100;
+			public const int behavior_overlapTop = 2130903100;
 			
 			// aapt resource value: 0x7F03003D
-			public const int behavior_skipCollapsed = 2130903101;
-			
-			// aapt resource value: 0x7F03003F
-			public const int borderlessButtonStyle = 2130903103;
+			public const int behavior_peekHeight = 2130903101;
 			
 			// aapt resource value: 0x7F03003E
-			public const int borderWidth = 2130903102;
+			public const int behavior_skipCollapsed = 2130903102;
 			
 			// aapt resource value: 0x7F030040
-			public const int bottomAppBarStyle = 2130903104;
+			public const int borderlessButtonStyle = 2130903104;
+			
+			// aapt resource value: 0x7F03003F
+			public const int borderWidth = 2130903103;
 			
 			// aapt resource value: 0x7F030041
-			public const int bottomNavigationStyle = 2130903105;
+			public const int bottomAppBarStyle = 2130903105;
 			
 			// aapt resource value: 0x7F030042
-			public const int bottomSheetDialogTheme = 2130903106;
+			public const int bottomNavigationStyle = 2130903106;
 			
 			// aapt resource value: 0x7F030043
-			public const int bottomSheetStyle = 2130903107;
+			public const int bottomSheetDialogTheme = 2130903107;
 			
 			// aapt resource value: 0x7F030044
-			public const int boxBackgroundColor = 2130903108;
+			public const int bottomSheetStyle = 2130903108;
 			
 			// aapt resource value: 0x7F030045
-			public const int boxBackgroundMode = 2130903109;
+			public const int boxBackgroundColor = 2130903109;
 			
 			// aapt resource value: 0x7F030046
-			public const int boxCollapsedPaddingTop = 2130903110;
+			public const int boxBackgroundMode = 2130903110;
 			
 			// aapt resource value: 0x7F030047
-			public const int boxCornerRadiusBottomEnd = 2130903111;
+			public const int boxCollapsedPaddingTop = 2130903111;
 			
 			// aapt resource value: 0x7F030048
-			public const int boxCornerRadiusBottomStart = 2130903112;
+			public const int boxCornerRadiusBottomEnd = 2130903112;
 			
 			// aapt resource value: 0x7F030049
-			public const int boxCornerRadiusTopEnd = 2130903113;
+			public const int boxCornerRadiusBottomStart = 2130903113;
 			
 			// aapt resource value: 0x7F03004A
-			public const int boxCornerRadiusTopStart = 2130903114;
+			public const int boxCornerRadiusTopEnd = 2130903114;
 			
 			// aapt resource value: 0x7F03004B
-			public const int boxStrokeColor = 2130903115;
+			public const int boxCornerRadiusTopStart = 2130903115;
 			
 			// aapt resource value: 0x7F03004C
-			public const int boxStrokeWidth = 2130903116;
+			public const int boxStrokeColor = 2130903116;
 			
 			// aapt resource value: 0x7F03004D
-			public const int buttonBarButtonStyle = 2130903117;
+			public const int boxStrokeWidth = 2130903117;
 			
 			// aapt resource value: 0x7F03004E
-			public const int buttonBarNegativeButtonStyle = 2130903118;
+			public const int buttonBarButtonStyle = 2130903118;
 			
 			// aapt resource value: 0x7F03004F
-			public const int buttonBarNeutralButtonStyle = 2130903119;
+			public const int buttonBarNegativeButtonStyle = 2130903119;
 			
 			// aapt resource value: 0x7F030050
-			public const int buttonBarPositiveButtonStyle = 2130903120;
+			public const int buttonBarNeutralButtonStyle = 2130903120;
 			
 			// aapt resource value: 0x7F030051
-			public const int buttonBarStyle = 2130903121;
+			public const int buttonBarPositiveButtonStyle = 2130903121;
 			
 			// aapt resource value: 0x7F030052
-			public const int buttonGravity = 2130903122;
+			public const int buttonBarStyle = 2130903122;
 			
 			// aapt resource value: 0x7F030053
-			public const int buttonIconDimen = 2130903123;
+			public const int buttonGravity = 2130903123;
 			
 			// aapt resource value: 0x7F030054
-			public const int buttonPanelSideLayout = 2130903124;
+			public const int buttonIconDimen = 2130903124;
 			
 			// aapt resource value: 0x7F030055
-			public const int buttonSize = 2130903125;
+			public const int buttonPanelSideLayout = 2130903125;
 			
 			// aapt resource value: 0x7F030056
-			public const int buttonStyle = 2130903126;
+			public const int buttonSize = 2130903126;
 			
 			// aapt resource value: 0x7F030057
-			public const int buttonStyleSmall = 2130903127;
+			public const int buttonStyle = 2130903127;
 			
 			// aapt resource value: 0x7F030058
-			public const int buttonTint = 2130903128;
+			public const int buttonStyleSmall = 2130903128;
 			
 			// aapt resource value: 0x7F030059
-			public const int buttonTintMode = 2130903129;
+			public const int buttonTint = 2130903129;
 			
 			// aapt resource value: 0x7F03005A
-			public const int cameraBearing = 2130903130;
+			public const int buttonTintMode = 2130903130;
 			
 			// aapt resource value: 0x7F03005B
-			public const int cameraMaxZoomPreference = 2130903131;
+			public const int cameraBearing = 2130903131;
 			
 			// aapt resource value: 0x7F03005C
-			public const int cameraMinZoomPreference = 2130903132;
+			public const int cameraMaxZoomPreference = 2130903132;
 			
 			// aapt resource value: 0x7F03005D
-			public const int cameraTargetLat = 2130903133;
+			public const int cameraMinZoomPreference = 2130903133;
 			
 			// aapt resource value: 0x7F03005E
-			public const int cameraTargetLng = 2130903134;
+			public const int cameraTargetLat = 2130903134;
 			
 			// aapt resource value: 0x7F03005F
-			public const int cameraTilt = 2130903135;
+			public const int cameraTargetLng = 2130903135;
 			
 			// aapt resource value: 0x7F030060
-			public const int cameraZoom = 2130903136;
+			public const int cameraTilt = 2130903136;
 			
 			// aapt resource value: 0x7F030061
-			public const int cardBackgroundColor = 2130903137;
+			public const int cameraZoom = 2130903137;
 			
 			// aapt resource value: 0x7F030062
-			public const int cardCornerRadius = 2130903138;
+			public const int cardBackgroundColor = 2130903138;
 			
 			// aapt resource value: 0x7F030063
-			public const int cardElevation = 2130903139;
+			public const int cardCornerRadius = 2130903139;
 			
 			// aapt resource value: 0x7F030064
-			public const int cardMaxElevation = 2130903140;
+			public const int cardElevation = 2130903140;
 			
 			// aapt resource value: 0x7F030065
-			public const int cardPreventCornerOverlap = 2130903141;
+			public const int cardMaxElevation = 2130903141;
 			
 			// aapt resource value: 0x7F030066
-			public const int cardUseCompatPadding = 2130903142;
+			public const int cardPreventCornerOverlap = 2130903142;
 			
 			// aapt resource value: 0x7F030067
-			public const int cardViewStyle = 2130903143;
+			public const int cardUseCompatPadding = 2130903143;
 			
 			// aapt resource value: 0x7F030068
-			public const int checkboxStyle = 2130903144;
+			public const int cardViewStyle = 2130903144;
 			
 			// aapt resource value: 0x7F030069
-			public const int checkedChip = 2130903145;
+			public const int checkboxStyle = 2130903145;
 			
 			// aapt resource value: 0x7F03006A
-			public const int checkedIcon = 2130903146;
+			public const int checkedChip = 2130903146;
 			
 			// aapt resource value: 0x7F03006B
-			public const int checkedIconEnabled = 2130903147;
+			public const int checkedIcon = 2130903147;
 			
 			// aapt resource value: 0x7F03006C
-			public const int checkedIconVisible = 2130903148;
+			public const int checkedIconEnabled = 2130903148;
 			
 			// aapt resource value: 0x7F03006D
-			public const int checkedTextViewStyle = 2130903149;
+			public const int checkedIconVisible = 2130903149;
 			
 			// aapt resource value: 0x7F03006E
-			public const int chipBackgroundColor = 2130903150;
+			public const int checkedTextViewStyle = 2130903150;
 			
 			// aapt resource value: 0x7F03006F
-			public const int chipCornerRadius = 2130903151;
+			public const int chipBackgroundColor = 2130903151;
 			
 			// aapt resource value: 0x7F030070
-			public const int chipEndPadding = 2130903152;
+			public const int chipCornerRadius = 2130903152;
 			
 			// aapt resource value: 0x7F030071
-			public const int chipGroupStyle = 2130903153;
+			public const int chipEndPadding = 2130903153;
 			
 			// aapt resource value: 0x7F030072
-			public const int chipIcon = 2130903154;
+			public const int chipGroupStyle = 2130903154;
 			
 			// aapt resource value: 0x7F030073
-			public const int chipIconEnabled = 2130903155;
+			public const int chipIcon = 2130903155;
 			
 			// aapt resource value: 0x7F030074
-			public const int chipIconSize = 2130903156;
+			public const int chipIconEnabled = 2130903156;
 			
 			// aapt resource value: 0x7F030075
-			public const int chipIconTint = 2130903157;
+			public const int chipIconSize = 2130903157;
 			
 			// aapt resource value: 0x7F030076
-			public const int chipIconVisible = 2130903158;
+			public const int chipIconTint = 2130903158;
 			
 			// aapt resource value: 0x7F030077
-			public const int chipMinHeight = 2130903159;
+			public const int chipIconVisible = 2130903159;
 			
 			// aapt resource value: 0x7F030078
-			public const int chipSpacing = 2130903160;
+			public const int chipMinHeight = 2130903160;
 			
 			// aapt resource value: 0x7F030079
-			public const int chipSpacingHorizontal = 2130903161;
+			public const int chipSpacing = 2130903161;
 			
 			// aapt resource value: 0x7F03007A
-			public const int chipSpacingVertical = 2130903162;
+			public const int chipSpacingHorizontal = 2130903162;
 			
 			// aapt resource value: 0x7F03007B
-			public const int chipStandaloneStyle = 2130903163;
+			public const int chipSpacingVertical = 2130903163;
 			
 			// aapt resource value: 0x7F03007C
-			public const int chipStartPadding = 2130903164;
+			public const int chipStandaloneStyle = 2130903164;
 			
 			// aapt resource value: 0x7F03007D
-			public const int chipStrokeColor = 2130903165;
+			public const int chipStartPadding = 2130903165;
 			
 			// aapt resource value: 0x7F03007E
-			public const int chipStrokeWidth = 2130903166;
+			public const int chipStrokeColor = 2130903166;
 			
 			// aapt resource value: 0x7F03007F
-			public const int chipStyle = 2130903167;
+			public const int chipStrokeWidth = 2130903167;
 			
 			// aapt resource value: 0x7F030080
-			public const int circleCrop = 2130903168;
+			public const int chipStyle = 2130903168;
 			
 			// aapt resource value: 0x7F030081
-			public const int civ_border_color = 2130903169;
+			public const int circleCrop = 2130903169;
 			
 			// aapt resource value: 0x7F030082
-			public const int civ_border_overlay = 2130903170;
+			public const int civ_border_color = 2130903170;
 			
 			// aapt resource value: 0x7F030083
-			public const int civ_border_width = 2130903171;
+			public const int civ_border_overlay = 2130903171;
 			
 			// aapt resource value: 0x7F030084
-			public const int civ_fill_color = 2130903172;
+			public const int civ_border_width = 2130903172;
 			
 			// aapt resource value: 0x7F030085
-			public const int closeIcon = 2130903173;
+			public const int civ_fill_color = 2130903173;
 			
 			// aapt resource value: 0x7F030086
-			public const int closeIconEnabled = 2130903174;
+			public const int closeIcon = 2130903174;
 			
 			// aapt resource value: 0x7F030087
-			public const int closeIconEndPadding = 2130903175;
+			public const int closeIconEnabled = 2130903175;
 			
 			// aapt resource value: 0x7F030088
-			public const int closeIconSize = 2130903176;
+			public const int closeIconEndPadding = 2130903176;
 			
 			// aapt resource value: 0x7F030089
-			public const int closeIconStartPadding = 2130903177;
+			public const int closeIconSize = 2130903177;
 			
 			// aapt resource value: 0x7F03008A
-			public const int closeIconTint = 2130903178;
+			public const int closeIconStartPadding = 2130903178;
 			
 			// aapt resource value: 0x7F03008B
-			public const int closeIconVisible = 2130903179;
+			public const int closeIconTint = 2130903179;
 			
 			// aapt resource value: 0x7F03008C
-			public const int closeItemLayout = 2130903180;
+			public const int closeIconVisible = 2130903180;
 			
 			// aapt resource value: 0x7F03008D
-			public const int collapseContentDescription = 2130903181;
-			
-			// aapt resource value: 0x7F03008F
-			public const int collapsedTitleGravity = 2130903183;
-			
-			// aapt resource value: 0x7F030090
-			public const int collapsedTitleTextAppearance = 2130903184;
+			public const int closeItemLayout = 2130903181;
 			
 			// aapt resource value: 0x7F03008E
-			public const int collapseIcon = 2130903182;
+			public const int collapseContentDescription = 2130903182;
+			
+			// aapt resource value: 0x7F030090
+			public const int collapsedTitleGravity = 2130903184;
 			
 			// aapt resource value: 0x7F030091
-			public const int color = 2130903185;
+			public const int collapsedTitleTextAppearance = 2130903185;
+			
+			// aapt resource value: 0x7F03008F
+			public const int collapseIcon = 2130903183;
 			
 			// aapt resource value: 0x7F030092
-			public const int colorAccent = 2130903186;
+			public const int color = 2130903186;
 			
 			// aapt resource value: 0x7F030093
-			public const int colorBackgroundFloating = 2130903187;
+			public const int colorAccent = 2130903187;
 			
 			// aapt resource value: 0x7F030094
-			public const int colorButtonNormal = 2130903188;
+			public const int colorBackgroundFloating = 2130903188;
 			
 			// aapt resource value: 0x7F030095
-			public const int colorControlActivated = 2130903189;
+			public const int colorButtonNormal = 2130903189;
 			
 			// aapt resource value: 0x7F030096
-			public const int colorControlHighlight = 2130903190;
+			public const int colorControlActivated = 2130903190;
 			
 			// aapt resource value: 0x7F030097
-			public const int colorControlNormal = 2130903191;
+			public const int colorControlHighlight = 2130903191;
 			
 			// aapt resource value: 0x7F030098
-			public const int colorError = 2130903192;
+			public const int colorControlNormal = 2130903192;
 			
 			// aapt resource value: 0x7F030099
-			public const int colorPrimary = 2130903193;
+			public const int colorError = 2130903193;
 			
 			// aapt resource value: 0x7F03009A
-			public const int colorPrimaryDark = 2130903194;
+			public const int colorPrimary = 2130903194;
 			
 			// aapt resource value: 0x7F03009B
-			public const int colorScheme = 2130903195;
+			public const int colorPrimaryDark = 2130903195;
 			
 			// aapt resource value: 0x7F03009C
-			public const int colorSecondary = 2130903196;
+			public const int colorScheme = 2130903196;
 			
 			// aapt resource value: 0x7F03009D
-			public const int colorSwitchThumbNormal = 2130903197;
+			public const int colorSecondary = 2130903197;
 			
 			// aapt resource value: 0x7F03009E
-			public const int commitIcon = 2130903198;
+			public const int colorSwitchThumbNormal = 2130903198;
 			
 			// aapt resource value: 0x7F03009F
-			public const int contentDescription = 2130903199;
+			public const int commitIcon = 2130903199;
 			
 			// aapt resource value: 0x7F0300A0
-			public const int contentInsetEnd = 2130903200;
+			public const int contentDescription = 2130903200;
 			
 			// aapt resource value: 0x7F0300A1
-			public const int contentInsetEndWithActions = 2130903201;
+			public const int contentInsetEnd = 2130903201;
 			
 			// aapt resource value: 0x7F0300A2
-			public const int contentInsetLeft = 2130903202;
+			public const int contentInsetEndWithActions = 2130903202;
 			
 			// aapt resource value: 0x7F0300A3
-			public const int contentInsetRight = 2130903203;
+			public const int contentInsetLeft = 2130903203;
 			
 			// aapt resource value: 0x7F0300A4
-			public const int contentInsetStart = 2130903204;
+			public const int contentInsetRight = 2130903204;
 			
 			// aapt resource value: 0x7F0300A5
-			public const int contentInsetStartWithNavigation = 2130903205;
+			public const int contentInsetStart = 2130903205;
 			
 			// aapt resource value: 0x7F0300A6
-			public const int contentPadding = 2130903206;
+			public const int contentInsetStartWithNavigation = 2130903206;
 			
 			// aapt resource value: 0x7F0300A7
-			public const int contentPaddingBottom = 2130903207;
+			public const int contentPadding = 2130903207;
 			
 			// aapt resource value: 0x7F0300A8
-			public const int contentPaddingLeft = 2130903208;
+			public const int contentPaddingBottom = 2130903208;
 			
 			// aapt resource value: 0x7F0300A9
-			public const int contentPaddingRight = 2130903209;
+			public const int contentPaddingLeft = 2130903209;
 			
 			// aapt resource value: 0x7F0300AA
-			public const int contentPaddingTop = 2130903210;
+			public const int contentPaddingRight = 2130903210;
 			
 			// aapt resource value: 0x7F0300AB
-			public const int contentScrim = 2130903211;
+			public const int contentPaddingTop = 2130903211;
 			
 			// aapt resource value: 0x7F0300AC
-			public const int controlBackground = 2130903212;
+			public const int contentScrim = 2130903212;
 			
 			// aapt resource value: 0x7F0300AD
-			public const int coordinatorLayoutStyle = 2130903213;
+			public const int controlBackground = 2130903213;
 			
 			// aapt resource value: 0x7F0300AE
-			public const int cornerRadius = 2130903214;
+			public const int coordinatorLayoutStyle = 2130903214;
 			
 			// aapt resource value: 0x7F0300AF
-			public const int counterEnabled = 2130903215;
+			public const int cornerRadius = 2130903215;
 			
 			// aapt resource value: 0x7F0300B0
-			public const int counterMaxLength = 2130903216;
+			public const int counterEnabled = 2130903216;
 			
 			// aapt resource value: 0x7F0300B1
-			public const int counterOverflowTextAppearance = 2130903217;
+			public const int counterMaxLength = 2130903217;
 			
 			// aapt resource value: 0x7F0300B2
-			public const int counterTextAppearance = 2130903218;
+			public const int counterOverflowTextAppearance = 2130903218;
 			
 			// aapt resource value: 0x7F0300B3
-			public const int customNavigationLayout = 2130903219;
+			public const int counterTextAppearance = 2130903219;
 			
 			// aapt resource value: 0x7F0300B4
-			public const int defaultQueryHint = 2130903220;
+			public const int customNavigationLayout = 2130903220;
 			
 			// aapt resource value: 0x7F0300B5
-			public const int dialogCornerRadius = 2130903221;
+			public const int defaultQueryHint = 2130903221;
 			
 			// aapt resource value: 0x7F0300B6
-			public const int dialogPreferredPadding = 2130903222;
+			public const int dialogCornerRadius = 2130903222;
 			
 			// aapt resource value: 0x7F0300B7
-			public const int dialogTheme = 2130903223;
+			public const int dialogPreferredPadding = 2130903223;
 			
 			// aapt resource value: 0x7F0300B8
-			public const int displayOptions = 2130903224;
+			public const int dialogTheme = 2130903224;
 			
 			// aapt resource value: 0x7F0300B9
-			public const int divider = 2130903225;
+			public const int displayOptions = 2130903225;
 			
 			// aapt resource value: 0x7F0300BA
-			public const int dividerHorizontal = 2130903226;
+			public const int divider = 2130903226;
 			
 			// aapt resource value: 0x7F0300BB
-			public const int dividerPadding = 2130903227;
+			public const int dividerHorizontal = 2130903227;
 			
 			// aapt resource value: 0x7F0300BC
-			public const int dividerVertical = 2130903228;
+			public const int dividerPadding = 2130903228;
 			
 			// aapt resource value: 0x7F0300BD
-			public const int drawableSize = 2130903229;
+			public const int dividerVertical = 2130903229;
 			
 			// aapt resource value: 0x7F0300BE
-			public const int drawerArrowStyle = 2130903230;
-			
-			// aapt resource value: 0x7F0300C0
-			public const int dropdownListPreferredItemHeight = 2130903232;
+			public const int drawableSize = 2130903230;
 			
 			// aapt resource value: 0x7F0300BF
-			public const int dropDownListViewStyle = 2130903231;
+			public const int drawerArrowStyle = 2130903231;
 			
 			// aapt resource value: 0x7F0300C1
-			public const int editTextBackground = 2130903233;
+			public const int dropdownListPreferredItemHeight = 2130903233;
+			
+			// aapt resource value: 0x7F0300C0
+			public const int dropDownListViewStyle = 2130903232;
 			
 			// aapt resource value: 0x7F0300C2
-			public const int editTextColor = 2130903234;
+			public const int editTextBackground = 2130903234;
 			
 			// aapt resource value: 0x7F0300C3
-			public const int editTextStyle = 2130903235;
+			public const int editTextColor = 2130903235;
 			
 			// aapt resource value: 0x7F0300C4
-			public const int elevation = 2130903236;
+			public const int editTextStyle = 2130903236;
 			
 			// aapt resource value: 0x7F0300C5
-			public const int enforceMaterialTheme = 2130903237;
+			public const int elevation = 2130903237;
 			
 			// aapt resource value: 0x7F0300C6
-			public const int enforceTextAppearance = 2130903238;
+			public const int enableNavigation = 2130903238;
 			
 			// aapt resource value: 0x7F0300C7
-			public const int errorEnabled = 2130903239;
+			public const int enforceMaterialTheme = 2130903239;
 			
 			// aapt resource value: 0x7F0300C8
-			public const int errorTextAppearance = 2130903240;
+			public const int enforceTextAppearance = 2130903240;
 			
 			// aapt resource value: 0x7F0300C9
-			public const int expandActivityOverflowButtonDrawable = 2130903241;
+			public const int errorEnabled = 2130903241;
 			
 			// aapt resource value: 0x7F0300CA
-			public const int expanded = 2130903242;
+			public const int errorTextAppearance = 2130903242;
 			
 			// aapt resource value: 0x7F0300CB
-			public const int expandedTitleGravity = 2130903243;
+			public const int expandActivityOverflowButtonDrawable = 2130903243;
 			
 			// aapt resource value: 0x7F0300CC
-			public const int expandedTitleMargin = 2130903244;
+			public const int expanded = 2130903244;
 			
 			// aapt resource value: 0x7F0300CD
-			public const int expandedTitleMarginBottom = 2130903245;
+			public const int expandedTitleGravity = 2130903245;
 			
 			// aapt resource value: 0x7F0300CE
-			public const int expandedTitleMarginEnd = 2130903246;
+			public const int expandedTitleMargin = 2130903246;
 			
 			// aapt resource value: 0x7F0300CF
-			public const int expandedTitleMarginStart = 2130903247;
+			public const int expandedTitleMarginBottom = 2130903247;
 			
 			// aapt resource value: 0x7F0300D0
-			public const int expandedTitleMarginTop = 2130903248;
+			public const int expandedTitleMarginEnd = 2130903248;
 			
 			// aapt resource value: 0x7F0300D1
-			public const int expandedTitleTextAppearance = 2130903249;
+			public const int expandedTitleMarginStart = 2130903249;
 			
 			// aapt resource value: 0x7F0300D2
-			public const int fabAlignmentMode = 2130903250;
+			public const int expandedTitleMarginTop = 2130903250;
 			
 			// aapt resource value: 0x7F0300D3
-			public const int fabCradleMargin = 2130903251;
+			public const int expandedTitleTextAppearance = 2130903251;
 			
 			// aapt resource value: 0x7F0300D4
-			public const int fabCradleRoundedCornerRadius = 2130903252;
+			public const int externalRouteEnabledDrawable = 2130903252;
 			
 			// aapt resource value: 0x7F0300D5
-			public const int fabCradleVerticalOffset = 2130903253;
+			public const int fabAlignmentMode = 2130903253;
 			
 			// aapt resource value: 0x7F0300D6
-			public const int fabCustomSize = 2130903254;
+			public const int fabCradleMargin = 2130903254;
 			
 			// aapt resource value: 0x7F0300D7
-			public const int fabSize = 2130903255;
+			public const int fabCradleRoundedCornerRadius = 2130903255;
 			
 			// aapt resource value: 0x7F0300D8
-			public const int fastScrollEnabled = 2130903256;
+			public const int fabCradleVerticalOffset = 2130903256;
 			
 			// aapt resource value: 0x7F0300D9
-			public const int fastScrollHorizontalThumbDrawable = 2130903257;
+			public const int fabCustomSize = 2130903257;
 			
 			// aapt resource value: 0x7F0300DA
-			public const int fastScrollHorizontalTrackDrawable = 2130903258;
+			public const int fabSize = 2130903258;
 			
 			// aapt resource value: 0x7F0300DB
-			public const int fastScrollVerticalThumbDrawable = 2130903259;
+			public const int fastScrollEnabled = 2130903259;
 			
 			// aapt resource value: 0x7F0300DC
-			public const int fastScrollVerticalTrackDrawable = 2130903260;
+			public const int fastScrollHorizontalThumbDrawable = 2130903260;
 			
 			// aapt resource value: 0x7F0300DD
-			public const int firstBaselineToTopHeight = 2130903261;
+			public const int fastScrollHorizontalTrackDrawable = 2130903261;
 			
 			// aapt resource value: 0x7F0300DE
-			public const int floatingActionButtonStyle = 2130903262;
+			public const int fastScrollVerticalThumbDrawable = 2130903262;
 			
 			// aapt resource value: 0x7F0300DF
-			public const int font = 2130903263;
+			public const int fastScrollVerticalTrackDrawable = 2130903263;
 			
 			// aapt resource value: 0x7F0300E0
-			public const int fontFamily = 2130903264;
+			public const int firstBaselineToTopHeight = 2130903264;
 			
 			// aapt resource value: 0x7F0300E1
-			public const int fontProviderAuthority = 2130903265;
+			public const int floatingActionButtonStyle = 2130903265;
 			
 			// aapt resource value: 0x7F0300E2
-			public const int fontProviderCerts = 2130903266;
+			public const int font = 2130903266;
 			
 			// aapt resource value: 0x7F0300E3
-			public const int fontProviderFetchStrategy = 2130903267;
+			public const int fontFamily = 2130903267;
 			
 			// aapt resource value: 0x7F0300E4
-			public const int fontProviderFetchTimeout = 2130903268;
+			public const int fontProviderAuthority = 2130903268;
 			
 			// aapt resource value: 0x7F0300E5
-			public const int fontProviderPackage = 2130903269;
+			public const int fontProviderCerts = 2130903269;
 			
 			// aapt resource value: 0x7F0300E6
-			public const int fontProviderQuery = 2130903270;
+			public const int fontProviderFetchStrategy = 2130903270;
 			
 			// aapt resource value: 0x7F0300E7
-			public const int fontStyle = 2130903271;
+			public const int fontProviderFetchTimeout = 2130903271;
 			
 			// aapt resource value: 0x7F0300E8
-			public const int fontVariationSettings = 2130903272;
+			public const int fontProviderPackage = 2130903272;
 			
 			// aapt resource value: 0x7F0300E9
-			public const int fontWeight = 2130903273;
+			public const int fontProviderQuery = 2130903273;
 			
 			// aapt resource value: 0x7F0300EA
-			public const int foregroundInsidePadding = 2130903274;
+			public const int fontStyle = 2130903274;
 			
 			// aapt resource value: 0x7F0300EB
-			public const int gapBetweenBars = 2130903275;
+			public const int fontVariationSettings = 2130903275;
 			
 			// aapt resource value: 0x7F0300EC
-			public const int goIcon = 2130903276;
+			public const int fontWeight = 2130903276;
 			
 			// aapt resource value: 0x7F0300ED
-			public const int headerLayout = 2130903277;
+			public const int foregroundInsidePadding = 2130903277;
 			
 			// aapt resource value: 0x7F0300EE
-			public const int height = 2130903278;
+			public const int gapBetweenBars = 2130903278;
 			
 			// aapt resource value: 0x7F0300EF
-			public const int helperText = 2130903279;
+			public const int goIcon = 2130903279;
 			
 			// aapt resource value: 0x7F0300F0
-			public const int helperTextEnabled = 2130903280;
+			public const int headerLayout = 2130903280;
 			
 			// aapt resource value: 0x7F0300F1
-			public const int helperTextTextAppearance = 2130903281;
+			public const int height = 2130903281;
 			
 			// aapt resource value: 0x7F0300F2
-			public const int hideMotionSpec = 2130903282;
+			public const int helperText = 2130903282;
 			
 			// aapt resource value: 0x7F0300F3
-			public const int hideOnContentScroll = 2130903283;
+			public const int helperTextEnabled = 2130903283;
 			
 			// aapt resource value: 0x7F0300F4
-			public const int hideOnScroll = 2130903284;
+			public const int helperTextTextAppearance = 2130903284;
 			
 			// aapt resource value: 0x7F0300F5
-			public const int hintAnimationEnabled = 2130903285;
+			public const int hideMotionSpec = 2130903285;
 			
 			// aapt resource value: 0x7F0300F6
-			public const int hintEnabled = 2130903286;
+			public const int hideOnContentScroll = 2130903286;
 			
 			// aapt resource value: 0x7F0300F7
-			public const int hintTextAppearance = 2130903287;
+			public const int hideOnScroll = 2130903287;
 			
 			// aapt resource value: 0x7F0300F8
-			public const int homeAsUpIndicator = 2130903288;
+			public const int hintAnimationEnabled = 2130903288;
 			
 			// aapt resource value: 0x7F0300F9
-			public const int homeLayout = 2130903289;
+			public const int hintEnabled = 2130903289;
 			
 			// aapt resource value: 0x7F0300FA
-			public const int hoveredFocusedTranslationZ = 2130903290;
+			public const int hintTextAppearance = 2130903290;
 			
 			// aapt resource value: 0x7F0300FB
-			public const int icon = 2130903291;
+			public const int homeAsUpIndicator = 2130903291;
 			
 			// aapt resource value: 0x7F0300FC
-			public const int iconEndPadding = 2130903292;
+			public const int homeLayout = 2130903292;
 			
 			// aapt resource value: 0x7F0300FD
-			public const int iconGravity = 2130903293;
-			
-			// aapt resource value: 0x7F030103
-			public const int iconifiedByDefault = 2130903299;
+			public const int hoveredFocusedTranslationZ = 2130903293;
 			
 			// aapt resource value: 0x7F0300FE
-			public const int iconPadding = 2130903294;
+			public const int icon = 2130903294;
 			
 			// aapt resource value: 0x7F0300FF
-			public const int iconSize = 2130903295;
+			public const int iconEndPadding = 2130903295;
 			
 			// aapt resource value: 0x7F030100
-			public const int iconStartPadding = 2130903296;
-			
-			// aapt resource value: 0x7F030101
-			public const int iconTint = 2130903297;
-			
-			// aapt resource value: 0x7F030102
-			public const int iconTintMode = 2130903298;
-			
-			// aapt resource value: 0x7F030104
-			public const int imageAspectRatio = 2130903300;
-			
-			// aapt resource value: 0x7F030105
-			public const int imageAspectRatioAdjust = 2130903301;
+			public const int iconGravity = 2130903296;
 			
 			// aapt resource value: 0x7F030106
-			public const int imageButtonStyle = 2130903302;
+			public const int iconifiedByDefault = 2130903302;
+			
+			// aapt resource value: 0x7F030101
+			public const int iconPadding = 2130903297;
+			
+			// aapt resource value: 0x7F030102
+			public const int iconSize = 2130903298;
+			
+			// aapt resource value: 0x7F030103
+			public const int iconStartPadding = 2130903299;
+			
+			// aapt resource value: 0x7F030104
+			public const int iconTint = 2130903300;
+			
+			// aapt resource value: 0x7F030105
+			public const int iconTintMode = 2130903301;
 			
 			// aapt resource value: 0x7F030107
-			public const int indeterminateProgressStyle = 2130903303;
+			public const int imageAspectRatio = 2130903303;
 			
 			// aapt resource value: 0x7F030108
-			public const int initialActivityCount = 2130903304;
+			public const int imageAspectRatioAdjust = 2130903304;
 			
 			// aapt resource value: 0x7F030109
-			public const int insetForeground = 2130903305;
+			public const int imageButtonStyle = 2130903305;
 			
 			// aapt resource value: 0x7F03010A
-			public const int isLightTheme = 2130903306;
+			public const int indeterminateProgressStyle = 2130903306;
 			
 			// aapt resource value: 0x7F03010B
-			public const int itemBackground = 2130903307;
+			public const int initialActivityCount = 2130903307;
 			
 			// aapt resource value: 0x7F03010C
-			public const int itemHorizontalPadding = 2130903308;
+			public const int insetForeground = 2130903308;
 			
 			// aapt resource value: 0x7F03010D
-			public const int itemHorizontalTranslationEnabled = 2130903309;
+			public const int isLightTheme = 2130903309;
 			
 			// aapt resource value: 0x7F03010E
-			public const int itemIconPadding = 2130903310;
+			public const int itemBackground = 2130903310;
 			
 			// aapt resource value: 0x7F03010F
-			public const int itemIconSize = 2130903311;
+			public const int itemHorizontalPadding = 2130903311;
 			
 			// aapt resource value: 0x7F030110
-			public const int itemIconTint = 2130903312;
+			public const int itemHorizontalTranslationEnabled = 2130903312;
 			
 			// aapt resource value: 0x7F030111
-			public const int itemPadding = 2130903313;
+			public const int itemIconPadding = 2130903313;
 			
 			// aapt resource value: 0x7F030112
-			public const int itemSpacing = 2130903314;
+			public const int itemIconSize = 2130903314;
 			
 			// aapt resource value: 0x7F030113
-			public const int itemTextAppearance = 2130903315;
+			public const int itemIconTint = 2130903315;
 			
 			// aapt resource value: 0x7F030114
-			public const int itemTextAppearanceActive = 2130903316;
+			public const int itemPadding = 2130903316;
 			
 			// aapt resource value: 0x7F030115
-			public const int itemTextAppearanceInactive = 2130903317;
+			public const int itemSpacing = 2130903317;
 			
 			// aapt resource value: 0x7F030116
-			public const int itemTextColor = 2130903318;
+			public const int itemTextAppearance = 2130903318;
 			
 			// aapt resource value: 0x7F030117
-			public const int keylines = 2130903319;
+			public const int itemTextAppearanceActive = 2130903319;
 			
 			// aapt resource value: 0x7F030118
-			public const int labelVisibilityMode = 2130903320;
+			public const int itemTextAppearanceInactive = 2130903320;
 			
 			// aapt resource value: 0x7F030119
-			public const int lastBaselineToBottomHeight = 2130903321;
+			public const int itemTextColor = 2130903321;
 			
 			// aapt resource value: 0x7F03011A
-			public const int latLngBoundsNorthEastLatitude = 2130903322;
+			public const int keylines = 2130903322;
 			
 			// aapt resource value: 0x7F03011B
-			public const int latLngBoundsNorthEastLongitude = 2130903323;
+			public const int labelVisibilityMode = 2130903323;
 			
 			// aapt resource value: 0x7F03011C
-			public const int latLngBoundsSouthWestLatitude = 2130903324;
+			public const int lastBaselineToBottomHeight = 2130903324;
 			
 			// aapt resource value: 0x7F03011D
-			public const int latLngBoundsSouthWestLongitude = 2130903325;
+			public const int latLngBoundsNorthEastLatitude = 2130903325;
 			
 			// aapt resource value: 0x7F03011E
-			public const int layout = 2130903326;
+			public const int latLngBoundsNorthEastLongitude = 2130903326;
 			
 			// aapt resource value: 0x7F03011F
-			public const int layoutManager = 2130903327;
+			public const int latLngBoundsSouthWestLatitude = 2130903327;
 			
 			// aapt resource value: 0x7F030120
-			public const int layout_anchor = 2130903328;
+			public const int latLngBoundsSouthWestLongitude = 2130903328;
 			
 			// aapt resource value: 0x7F030121
-			public const int layout_anchorGravity = 2130903329;
+			public const int layout = 2130903329;
 			
 			// aapt resource value: 0x7F030122
-			public const int layout_behavior = 2130903330;
+			public const int layoutManager = 2130903330;
 			
 			// aapt resource value: 0x7F030123
-			public const int layout_collapseMode = 2130903331;
+			public const int layout_anchor = 2130903331;
 			
 			// aapt resource value: 0x7F030124
-			public const int layout_collapseParallaxMultiplier = 2130903332;
+			public const int layout_anchorGravity = 2130903332;
 			
 			// aapt resource value: 0x7F030125
-			public const int layout_dodgeInsetEdges = 2130903333;
+			public const int layout_behavior = 2130903333;
 			
 			// aapt resource value: 0x7F030126
-			public const int layout_insetEdge = 2130903334;
+			public const int layout_collapseMode = 2130903334;
 			
 			// aapt resource value: 0x7F030127
-			public const int layout_keyline = 2130903335;
+			public const int layout_collapseParallaxMultiplier = 2130903335;
 			
 			// aapt resource value: 0x7F030128
-			public const int layout_scrollFlags = 2130903336;
+			public const int layout_dodgeInsetEdges = 2130903336;
 			
 			// aapt resource value: 0x7F030129
-			public const int layout_scrollInterpolator = 2130903337;
+			public const int layout_insetEdge = 2130903337;
 			
 			// aapt resource value: 0x7F03012A
-			public const int liftOnScroll = 2130903338;
+			public const int layout_keyline = 2130903338;
 			
 			// aapt resource value: 0x7F03012B
-			public const int lineHeight = 2130903339;
+			public const int layout_scrollFlags = 2130903339;
 			
 			// aapt resource value: 0x7F03012C
-			public const int lineSpacing = 2130903340;
+			public const int layout_scrollInterpolator = 2130903340;
 			
 			// aapt resource value: 0x7F03012D
-			public const int listChoiceBackgroundIndicator = 2130903341;
+			public const int liftOnScroll = 2130903341;
 			
 			// aapt resource value: 0x7F03012E
-			public const int listDividerAlertDialog = 2130903342;
+			public const int lineHeight = 2130903342;
 			
 			// aapt resource value: 0x7F03012F
-			public const int listItemLayout = 2130903343;
+			public const int lineSpacing = 2130903343;
 			
 			// aapt resource value: 0x7F030130
-			public const int listLayout = 2130903344;
+			public const int listChoiceBackgroundIndicator = 2130903344;
 			
 			// aapt resource value: 0x7F030131
-			public const int listMenuViewStyle = 2130903345;
+			public const int listDividerAlertDialog = 2130903345;
 			
 			// aapt resource value: 0x7F030132
-			public const int listPopupWindowStyle = 2130903346;
+			public const int listItemLayout = 2130903346;
 			
 			// aapt resource value: 0x7F030133
-			public const int listPreferredItemHeight = 2130903347;
+			public const int listLayout = 2130903347;
 			
 			// aapt resource value: 0x7F030134
-			public const int listPreferredItemHeightLarge = 2130903348;
+			public const int listMenuViewStyle = 2130903348;
 			
 			// aapt resource value: 0x7F030135
-			public const int listPreferredItemHeightSmall = 2130903349;
+			public const int listPopupWindowStyle = 2130903349;
 			
 			// aapt resource value: 0x7F030136
-			public const int listPreferredItemPaddingLeft = 2130903350;
+			public const int listPreferredItemHeight = 2130903350;
 			
 			// aapt resource value: 0x7F030137
-			public const int listPreferredItemPaddingRight = 2130903351;
+			public const int listPreferredItemHeightLarge = 2130903351;
 			
 			// aapt resource value: 0x7F030138
-			public const int liteMode = 2130903352;
+			public const int listPreferredItemHeightSmall = 2130903352;
 			
 			// aapt resource value: 0x7F030139
-			public const int logo = 2130903353;
+			public const int listPreferredItemPaddingLeft = 2130903353;
 			
 			// aapt resource value: 0x7F03013A
-			public const int logoDescription = 2130903354;
+			public const int listPreferredItemPaddingRight = 2130903354;
 			
 			// aapt resource value: 0x7F03013B
-			public const int mapType = 2130903355;
+			public const int liteMode = 2130903355;
 			
 			// aapt resource value: 0x7F03013C
-			public const int materialButtonStyle = 2130903356;
+			public const int logo = 2130903356;
 			
 			// aapt resource value: 0x7F03013D
-			public const int materialCardViewStyle = 2130903357;
+			public const int logoDescription = 2130903357;
 			
 			// aapt resource value: 0x7F03013E
-			public const int maxActionInlineWidth = 2130903358;
+			public const int mapType = 2130903358;
 			
 			// aapt resource value: 0x7F03013F
-			public const int maxButtonHeight = 2130903359;
+			public const int materialButtonStyle = 2130903359;
 			
 			// aapt resource value: 0x7F030140
-			public const int maxImageSize = 2130903360;
+			public const int materialCardViewStyle = 2130903360;
 			
 			// aapt resource value: 0x7F030141
-			public const int measureWithLargestChild = 2130903361;
+			public const int maxActionInlineWidth = 2130903361;
 			
 			// aapt resource value: 0x7F030142
-			public const int menu = 2130903362;
+			public const int maxButtonHeight = 2130903362;
 			
 			// aapt resource value: 0x7F030143
-			public const int multiChoiceItemLayout = 2130903363;
+			public const int maxImageSize = 2130903363;
 			
 			// aapt resource value: 0x7F030144
-			public const int navigationContentDescription = 2130903364;
+			public const int measureWithLargestChild = 2130903364;
 			
 			// aapt resource value: 0x7F030145
-			public const int navigationIcon = 2130903365;
+			public const int mediaRouteAudioTrackDrawable = 2130903365;
 			
 			// aapt resource value: 0x7F030146
-			public const int navigationMode = 2130903366;
+			public const int mediaRouteButtonStyle = 2130903366;
 			
 			// aapt resource value: 0x7F030147
-			public const int navigationViewStyle = 2130903367;
+			public const int mediaRouteButtonTint = 2130903367;
 			
 			// aapt resource value: 0x7F030148
-			public const int numericModifiers = 2130903368;
+			public const int mediaRouteCloseDrawable = 2130903368;
 			
 			// aapt resource value: 0x7F030149
-			public const int overlapAnchor = 2130903369;
+			public const int mediaRouteControlPanelThemeOverlay = 2130903369;
 			
 			// aapt resource value: 0x7F03014A
-			public const int paddingBottomNoButtons = 2130903370;
+			public const int mediaRouteDefaultIconDrawable = 2130903370;
 			
 			// aapt resource value: 0x7F03014B
-			public const int paddingEnd = 2130903371;
+			public const int mediaRoutePauseDrawable = 2130903371;
 			
 			// aapt resource value: 0x7F03014C
-			public const int paddingStart = 2130903372;
+			public const int mediaRoutePlayDrawable = 2130903372;
 			
 			// aapt resource value: 0x7F03014D
-			public const int paddingTopNoTitle = 2130903373;
+			public const int mediaRouteSpeakerGroupIconDrawable = 2130903373;
 			
 			// aapt resource value: 0x7F03014E
-			public const int panelBackground = 2130903374;
+			public const int mediaRouteSpeakerIconDrawable = 2130903374;
 			
 			// aapt resource value: 0x7F03014F
-			public const int panelMenuListTheme = 2130903375;
+			public const int mediaRouteStopDrawable = 2130903375;
 			
 			// aapt resource value: 0x7F030150
-			public const int panelMenuListWidth = 2130903376;
+			public const int mediaRouteTheme = 2130903376;
 			
 			// aapt resource value: 0x7F030151
-			public const int passwordToggleContentDescription = 2130903377;
+			public const int mediaRouteTvIconDrawable = 2130903377;
 			
 			// aapt resource value: 0x7F030152
-			public const int passwordToggleDrawable = 2130903378;
+			public const int menu = 2130903378;
 			
 			// aapt resource value: 0x7F030153
-			public const int passwordToggleEnabled = 2130903379;
+			public const int multiChoiceItemLayout = 2130903379;
 			
 			// aapt resource value: 0x7F030154
-			public const int passwordToggleTint = 2130903380;
+			public const int navigationContentDescription = 2130903380;
 			
 			// aapt resource value: 0x7F030155
-			public const int passwordToggleTintMode = 2130903381;
+			public const int navigationIcon = 2130903381;
 			
 			// aapt resource value: 0x7F030156
-			public const int popupMenuStyle = 2130903382;
+			public const int navigationMode = 2130903382;
 			
 			// aapt resource value: 0x7F030157
-			public const int popupTheme = 2130903383;
+			public const int navigationViewStyle = 2130903383;
 			
 			// aapt resource value: 0x7F030158
-			public const int popupWindowStyle = 2130903384;
+			public const int numericModifiers = 2130903384;
 			
 			// aapt resource value: 0x7F030159
-			public const int preserveIconSpacing = 2130903385;
+			public const int overlapAnchor = 2130903385;
 			
 			// aapt resource value: 0x7F03015A
-			public const int pressedTranslationZ = 2130903386;
+			public const int paddingBottomNoButtons = 2130903386;
 			
 			// aapt resource value: 0x7F03015B
-			public const int progressBarPadding = 2130903387;
+			public const int paddingEnd = 2130903387;
 			
 			// aapt resource value: 0x7F03015C
-			public const int progressBarStyle = 2130903388;
+			public const int paddingStart = 2130903388;
 			
 			// aapt resource value: 0x7F03015D
-			public const int queryBackground = 2130903389;
+			public const int paddingTopNoTitle = 2130903389;
 			
 			// aapt resource value: 0x7F03015E
-			public const int queryHint = 2130903390;
+			public const int panelBackground = 2130903390;
 			
 			// aapt resource value: 0x7F03015F
-			public const int radioButtonStyle = 2130903391;
+			public const int panelMenuListTheme = 2130903391;
 			
 			// aapt resource value: 0x7F030160
-			public const int ratingBarStyle = 2130903392;
+			public const int panelMenuListWidth = 2130903392;
 			
 			// aapt resource value: 0x7F030161
-			public const int ratingBarStyleIndicator = 2130903393;
+			public const int passwordToggleContentDescription = 2130903393;
 			
 			// aapt resource value: 0x7F030162
-			public const int ratingBarStyleSmall = 2130903394;
+			public const int passwordToggleDrawable = 2130903394;
 			
 			// aapt resource value: 0x7F030163
-			public const int reverseLayout = 2130903395;
+			public const int passwordToggleEnabled = 2130903395;
 			
 			// aapt resource value: 0x7F030164
-			public const int rippleColor = 2130903396;
+			public const int passwordToggleTint = 2130903396;
 			
 			// aapt resource value: 0x7F030165
-			public const int scopeUris = 2130903397;
+			public const int passwordToggleTintMode = 2130903397;
 			
 			// aapt resource value: 0x7F030166
-			public const int scrimAnimationDuration = 2130903398;
+			public const int popupMenuStyle = 2130903398;
 			
 			// aapt resource value: 0x7F030167
-			public const int scrimBackground = 2130903399;
+			public const int popupTheme = 2130903399;
 			
 			// aapt resource value: 0x7F030168
-			public const int scrimVisibleHeightTrigger = 2130903400;
+			public const int popupWindowStyle = 2130903400;
 			
 			// aapt resource value: 0x7F030169
-			public const int searchHintIcon = 2130903401;
+			public const int preserveIconSpacing = 2130903401;
 			
 			// aapt resource value: 0x7F03016A
-			public const int searchIcon = 2130903402;
+			public const int pressedTranslationZ = 2130903402;
 			
 			// aapt resource value: 0x7F03016B
-			public const int searchViewStyle = 2130903403;
+			public const int progressBarPadding = 2130903403;
 			
 			// aapt resource value: 0x7F03016C
-			public const int seekBarStyle = 2130903404;
+			public const int progressBarStyle = 2130903404;
 			
 			// aapt resource value: 0x7F03016D
-			public const int selectableItemBackground = 2130903405;
+			public const int queryBackground = 2130903405;
 			
 			// aapt resource value: 0x7F03016E
-			public const int selectableItemBackgroundBorderless = 2130903406;
+			public const int queryHint = 2130903406;
 			
 			// aapt resource value: 0x7F03016F
-			public const int showAsAction = 2130903407;
+			public const int radioButtonStyle = 2130903407;
 			
 			// aapt resource value: 0x7F030170
-			public const int showDividers = 2130903408;
+			public const int ratingBarStyle = 2130903408;
 			
 			// aapt resource value: 0x7F030171
-			public const int showMotionSpec = 2130903409;
+			public const int ratingBarStyleIndicator = 2130903409;
 			
 			// aapt resource value: 0x7F030172
-			public const int showText = 2130903410;
+			public const int ratingBarStyleSmall = 2130903410;
 			
 			// aapt resource value: 0x7F030173
-			public const int showTitle = 2130903411;
+			public const int reverseLayout = 2130903411;
 			
 			// aapt resource value: 0x7F030174
-			public const int singleChoiceItemLayout = 2130903412;
+			public const int rippleColor = 2130903412;
 			
 			// aapt resource value: 0x7F030175
-			public const int singleLine = 2130903413;
+			public const int scheduleDateHeaderFormat = 2130903413;
 			
 			// aapt resource value: 0x7F030176
-			public const int singleSelection = 2130903414;
+			public const int scheduleFirstDayOfWeek = 2130903414;
 			
 			// aapt resource value: 0x7F030177
-			public const int snackbarButtonStyle = 2130903415;
+			public const int scheduleHeaderHeight = 2130903415;
 			
 			// aapt resource value: 0x7F030178
-			public const int snackbarStyle = 2130903416;
+			public const int scheduleView = 2130903416;
 			
 			// aapt resource value: 0x7F030179
-			public const int spanCount = 2130903417;
+			public const int scopeUris = 2130903417;
 			
 			// aapt resource value: 0x7F03017A
-			public const int spinBars = 2130903418;
+			public const int scrimAnimationDuration = 2130903418;
 			
 			// aapt resource value: 0x7F03017B
-			public const int spinnerDropDownItemStyle = 2130903419;
+			public const int scrimBackground = 2130903419;
 			
 			// aapt resource value: 0x7F03017C
-			public const int spinnerStyle = 2130903420;
+			public const int scrimVisibleHeightTrigger = 2130903420;
 			
 			// aapt resource value: 0x7F03017D
-			public const int splitTrack = 2130903421;
+			public const int searchHintIcon = 2130903421;
 			
 			// aapt resource value: 0x7F03017E
-			public const int srcCompat = 2130903422;
+			public const int searchIcon = 2130903422;
 			
 			// aapt resource value: 0x7F03017F
-			public const int stackFromEnd = 2130903423;
+			public const int searchViewStyle = 2130903423;
 			
 			// aapt resource value: 0x7F030180
-			public const int state_above_anchor = 2130903424;
+			public const int seekBarStyle = 2130903424;
 			
 			// aapt resource value: 0x7F030181
-			public const int state_collapsed = 2130903425;
+			public const int selectableItemBackground = 2130903425;
 			
 			// aapt resource value: 0x7F030182
-			public const int state_collapsible = 2130903426;
+			public const int selectableItemBackgroundBorderless = 2130903426;
 			
 			// aapt resource value: 0x7F030183
-			public const int state_liftable = 2130903427;
+			public const int showAsAction = 2130903427;
 			
 			// aapt resource value: 0x7F030184
-			public const int state_lifted = 2130903428;
+			public const int showDividers = 2130903428;
 			
 			// aapt resource value: 0x7F030185
-			public const int statusBarBackground = 2130903429;
+			public const int showMotionSpec = 2130903429;
 			
 			// aapt resource value: 0x7F030186
-			public const int statusBarScrim = 2130903430;
+			public const int showText = 2130903430;
 			
 			// aapt resource value: 0x7F030187
-			public const int strokeColor = 2130903431;
+			public const int showTitle = 2130903431;
 			
 			// aapt resource value: 0x7F030188
-			public const int strokeWidth = 2130903432;
+			public const int singleChoiceItemLayout = 2130903432;
 			
 			// aapt resource value: 0x7F030189
-			public const int subMenuArrow = 2130903433;
+			public const int singleLine = 2130903433;
 			
 			// aapt resource value: 0x7F03018A
-			public const int submitBackground = 2130903434;
+			public const int singleSelection = 2130903434;
 			
 			// aapt resource value: 0x7F03018B
-			public const int subtitle = 2130903435;
+			public const int snackbarButtonStyle = 2130903435;
 			
 			// aapt resource value: 0x7F03018C
-			public const int subtitleTextAppearance = 2130903436;
+			public const int snackbarStyle = 2130903436;
 			
 			// aapt resource value: 0x7F03018D
-			public const int subtitleTextColor = 2130903437;
+			public const int spanCount = 2130903437;
 			
 			// aapt resource value: 0x7F03018E
-			public const int subtitleTextStyle = 2130903438;
+			public const int spinBars = 2130903438;
 			
 			// aapt resource value: 0x7F03018F
-			public const int suggestionRowLayout = 2130903439;
+			public const int spinnerDropDownItemStyle = 2130903439;
 			
 			// aapt resource value: 0x7F030190
-			public const int switchMinWidth = 2130903440;
+			public const int spinnerStyle = 2130903440;
 			
 			// aapt resource value: 0x7F030191
-			public const int switchPadding = 2130903441;
+			public const int splitTrack = 2130903441;
 			
 			// aapt resource value: 0x7F030192
-			public const int switchStyle = 2130903442;
+			public const int srcCompat = 2130903442;
 			
 			// aapt resource value: 0x7F030193
-			public const int switchTextAppearance = 2130903443;
+			public const int stackFromEnd = 2130903443;
 			
 			// aapt resource value: 0x7F030194
-			public const int tabBackground = 2130903444;
+			public const int state_above_anchor = 2130903444;
 			
 			// aapt resource value: 0x7F030195
-			public const int tabContentStart = 2130903445;
+			public const int state_collapsed = 2130903445;
 			
 			// aapt resource value: 0x7F030196
-			public const int tabGravity = 2130903446;
+			public const int state_collapsible = 2130903446;
 			
 			// aapt resource value: 0x7F030197
-			public const int tabIconTint = 2130903447;
+			public const int state_liftable = 2130903447;
 			
 			// aapt resource value: 0x7F030198
-			public const int tabIconTintMode = 2130903448;
+			public const int state_lifted = 2130903448;
 			
 			// aapt resource value: 0x7F030199
-			public const int tabIndicator = 2130903449;
+			public const int statusBarBackground = 2130903449;
 			
 			// aapt resource value: 0x7F03019A
-			public const int tabIndicatorAnimationDuration = 2130903450;
+			public const int statusBarScrim = 2130903450;
 			
 			// aapt resource value: 0x7F03019B
-			public const int tabIndicatorColor = 2130903451;
+			public const int strokeColor = 2130903451;
 			
 			// aapt resource value: 0x7F03019C
-			public const int tabIndicatorFullWidth = 2130903452;
+			public const int strokeWidth = 2130903452;
 			
 			// aapt resource value: 0x7F03019D
-			public const int tabIndicatorGravity = 2130903453;
+			public const int subMenuArrow = 2130903453;
 			
 			// aapt resource value: 0x7F03019E
-			public const int tabIndicatorHeight = 2130903454;
+			public const int submitBackground = 2130903454;
 			
 			// aapt resource value: 0x7F03019F
-			public const int tabInlineLabel = 2130903455;
+			public const int subtitle = 2130903455;
 			
 			// aapt resource value: 0x7F0301A0
-			public const int tabMaxWidth = 2130903456;
+			public const int subtitleTextAppearance = 2130903456;
 			
 			// aapt resource value: 0x7F0301A1
-			public const int tabMinWidth = 2130903457;
+			public const int subtitleTextColor = 2130903457;
 			
 			// aapt resource value: 0x7F0301A2
-			public const int tabMode = 2130903458;
+			public const int subtitleTextStyle = 2130903458;
 			
 			// aapt resource value: 0x7F0301A3
-			public const int tabPadding = 2130903459;
+			public const int suggestionRowLayout = 2130903459;
 			
 			// aapt resource value: 0x7F0301A4
-			public const int tabPaddingBottom = 2130903460;
+			public const int switchMinWidth = 2130903460;
 			
 			// aapt resource value: 0x7F0301A5
-			public const int tabPaddingEnd = 2130903461;
+			public const int switchPadding = 2130903461;
 			
 			// aapt resource value: 0x7F0301A6
-			public const int tabPaddingStart = 2130903462;
+			public const int switchStyle = 2130903462;
 			
 			// aapt resource value: 0x7F0301A7
-			public const int tabPaddingTop = 2130903463;
+			public const int switchTextAppearance = 2130903463;
 			
 			// aapt resource value: 0x7F0301A8
-			public const int tabRippleColor = 2130903464;
+			public const int tabBackground = 2130903464;
 			
 			// aapt resource value: 0x7F0301A9
-			public const int tabSelectedTextColor = 2130903465;
+			public const int tabContentStart = 2130903465;
 			
 			// aapt resource value: 0x7F0301AA
-			public const int tabStyle = 2130903466;
+			public const int tabGravity = 2130903466;
 			
 			// aapt resource value: 0x7F0301AB
-			public const int tabTextAppearance = 2130903467;
+			public const int tabIconTint = 2130903467;
 			
 			// aapt resource value: 0x7F0301AC
-			public const int tabTextColor = 2130903468;
+			public const int tabIconTintMode = 2130903468;
 			
 			// aapt resource value: 0x7F0301AD
-			public const int tabUnboundedRipple = 2130903469;
+			public const int tabIndicator = 2130903469;
 			
 			// aapt resource value: 0x7F0301AE
-			public const int textAllCaps = 2130903470;
+			public const int tabIndicatorAnimationDuration = 2130903470;
 			
 			// aapt resource value: 0x7F0301AF
-			public const int textAppearanceBody1 = 2130903471;
+			public const int tabIndicatorColor = 2130903471;
 			
 			// aapt resource value: 0x7F0301B0
-			public const int textAppearanceBody2 = 2130903472;
+			public const int tabIndicatorFullWidth = 2130903472;
 			
 			// aapt resource value: 0x7F0301B1
-			public const int textAppearanceButton = 2130903473;
+			public const int tabIndicatorGravity = 2130903473;
 			
 			// aapt resource value: 0x7F0301B2
-			public const int textAppearanceCaption = 2130903474;
+			public const int tabIndicatorHeight = 2130903474;
 			
 			// aapt resource value: 0x7F0301B3
-			public const int textAppearanceHeadline1 = 2130903475;
+			public const int tabInlineLabel = 2130903475;
 			
 			// aapt resource value: 0x7F0301B4
-			public const int textAppearanceHeadline2 = 2130903476;
+			public const int tabMaxWidth = 2130903476;
 			
 			// aapt resource value: 0x7F0301B5
-			public const int textAppearanceHeadline3 = 2130903477;
+			public const int tabMinWidth = 2130903477;
 			
 			// aapt resource value: 0x7F0301B6
-			public const int textAppearanceHeadline4 = 2130903478;
+			public const int tabMode = 2130903478;
 			
 			// aapt resource value: 0x7F0301B7
-			public const int textAppearanceHeadline5 = 2130903479;
+			public const int tabPadding = 2130903479;
 			
 			// aapt resource value: 0x7F0301B8
-			public const int textAppearanceHeadline6 = 2130903480;
+			public const int tabPaddingBottom = 2130903480;
 			
 			// aapt resource value: 0x7F0301B9
-			public const int textAppearanceLargePopupMenu = 2130903481;
+			public const int tabPaddingEnd = 2130903481;
 			
 			// aapt resource value: 0x7F0301BA
-			public const int textAppearanceListItem = 2130903482;
+			public const int tabPaddingStart = 2130903482;
 			
 			// aapt resource value: 0x7F0301BB
-			public const int textAppearanceListItemSecondary = 2130903483;
+			public const int tabPaddingTop = 2130903483;
 			
 			// aapt resource value: 0x7F0301BC
-			public const int textAppearanceListItemSmall = 2130903484;
+			public const int tabRippleColor = 2130903484;
 			
 			// aapt resource value: 0x7F0301BD
-			public const int textAppearanceOverline = 2130903485;
+			public const int tabSelectedTextColor = 2130903485;
 			
 			// aapt resource value: 0x7F0301BE
-			public const int textAppearancePopupMenuHeader = 2130903486;
+			public const int tabStyle = 2130903486;
 			
 			// aapt resource value: 0x7F0301BF
-			public const int textAppearanceSearchResultSubtitle = 2130903487;
+			public const int tabTextAppearance = 2130903487;
 			
 			// aapt resource value: 0x7F0301C0
-			public const int textAppearanceSearchResultTitle = 2130903488;
+			public const int tabTextColor = 2130903488;
 			
 			// aapt resource value: 0x7F0301C1
-			public const int textAppearanceSmallPopupMenu = 2130903489;
+			public const int tabUnboundedRipple = 2130903489;
 			
 			// aapt resource value: 0x7F0301C2
-			public const int textAppearanceSubtitle1 = 2130903490;
+			public const int textAllCaps = 2130903490;
 			
 			// aapt resource value: 0x7F0301C3
-			public const int textAppearanceSubtitle2 = 2130903491;
+			public const int textAppearanceBody1 = 2130903491;
 			
 			// aapt resource value: 0x7F0301C4
-			public const int textColorAlertDialogListItem = 2130903492;
+			public const int textAppearanceBody2 = 2130903492;
 			
 			// aapt resource value: 0x7F0301C5
-			public const int textColorSearchUrl = 2130903493;
+			public const int textAppearanceButton = 2130903493;
 			
 			// aapt resource value: 0x7F0301C6
-			public const int textEndPadding = 2130903494;
+			public const int textAppearanceCaption = 2130903494;
 			
 			// aapt resource value: 0x7F0301C7
-			public const int textInputStyle = 2130903495;
+			public const int textAppearanceHeadline1 = 2130903495;
 			
 			// aapt resource value: 0x7F0301C8
-			public const int textStartPadding = 2130903496;
+			public const int textAppearanceHeadline2 = 2130903496;
 			
 			// aapt resource value: 0x7F0301C9
-			public const int theme = 2130903497;
+			public const int textAppearanceHeadline3 = 2130903497;
 			
 			// aapt resource value: 0x7F0301CA
-			public const int thickness = 2130903498;
+			public const int textAppearanceHeadline4 = 2130903498;
 			
 			// aapt resource value: 0x7F0301CB
-			public const int thumbTextPadding = 2130903499;
+			public const int textAppearanceHeadline5 = 2130903499;
 			
 			// aapt resource value: 0x7F0301CC
-			public const int thumbTint = 2130903500;
+			public const int textAppearanceHeadline6 = 2130903500;
 			
 			// aapt resource value: 0x7F0301CD
-			public const int thumbTintMode = 2130903501;
+			public const int textAppearanceLargePopupMenu = 2130903501;
 			
 			// aapt resource value: 0x7F0301CE
-			public const int tickMark = 2130903502;
+			public const int textAppearanceListItem = 2130903502;
 			
 			// aapt resource value: 0x7F0301CF
-			public const int tickMarkTint = 2130903503;
+			public const int textAppearanceListItemSecondary = 2130903503;
 			
 			// aapt resource value: 0x7F0301D0
-			public const int tickMarkTintMode = 2130903504;
+			public const int textAppearanceListItemSmall = 2130903504;
 			
 			// aapt resource value: 0x7F0301D1
-			public const int tint = 2130903505;
+			public const int textAppearanceOverline = 2130903505;
 			
 			// aapt resource value: 0x7F0301D2
-			public const int tintMode = 2130903506;
+			public const int textAppearancePopupMenuHeader = 2130903506;
 			
 			// aapt resource value: 0x7F0301D3
-			public const int title = 2130903507;
+			public const int textAppearanceSearchResultSubtitle = 2130903507;
 			
 			// aapt resource value: 0x7F0301D4
-			public const int titleEnabled = 2130903508;
+			public const int textAppearanceSearchResultTitle = 2130903508;
 			
 			// aapt resource value: 0x7F0301D5
-			public const int titleMargin = 2130903509;
+			public const int textAppearanceSmallPopupMenu = 2130903509;
 			
 			// aapt resource value: 0x7F0301D6
-			public const int titleMarginBottom = 2130903510;
+			public const int textAppearanceSubtitle1 = 2130903510;
 			
 			// aapt resource value: 0x7F0301D7
-			public const int titleMarginEnd = 2130903511;
-			
-			// aapt resource value: 0x7F0301DA
-			public const int titleMargins = 2130903514;
+			public const int textAppearanceSubtitle2 = 2130903511;
 			
 			// aapt resource value: 0x7F0301D8
-			public const int titleMarginStart = 2130903512;
+			public const int textColorAlertDialogListItem = 2130903512;
 			
 			// aapt resource value: 0x7F0301D9
-			public const int titleMarginTop = 2130903513;
+			public const int textColorSearchUrl = 2130903513;
+			
+			// aapt resource value: 0x7F0301DA
+			public const int textEndPadding = 2130903514;
 			
 			// aapt resource value: 0x7F0301DB
-			public const int titleTextAppearance = 2130903515;
+			public const int textInputStyle = 2130903515;
 			
 			// aapt resource value: 0x7F0301DC
-			public const int titleTextColor = 2130903516;
+			public const int textStartPadding = 2130903516;
 			
 			// aapt resource value: 0x7F0301DD
-			public const int titleTextStyle = 2130903517;
+			public const int theme = 2130903517;
 			
 			// aapt resource value: 0x7F0301DE
-			public const int toolbarId = 2130903518;
+			public const int thickness = 2130903518;
 			
 			// aapt resource value: 0x7F0301DF
-			public const int toolbarNavigationButtonStyle = 2130903519;
+			public const int thumbTextPadding = 2130903519;
 			
 			// aapt resource value: 0x7F0301E0
-			public const int toolbarStyle = 2130903520;
+			public const int thumbTint = 2130903520;
 			
 			// aapt resource value: 0x7F0301E1
-			public const int tooltipForegroundColor = 2130903521;
+			public const int thumbTintMode = 2130903521;
 			
 			// aapt resource value: 0x7F0301E2
-			public const int tooltipFrameBackground = 2130903522;
+			public const int tickMark = 2130903522;
 			
 			// aapt resource value: 0x7F0301E3
-			public const int tooltipText = 2130903523;
+			public const int tickMarkTint = 2130903523;
 			
 			// aapt resource value: 0x7F0301E4
-			public const int track = 2130903524;
+			public const int tickMarkTintMode = 2130903524;
 			
 			// aapt resource value: 0x7F0301E5
-			public const int trackTint = 2130903525;
+			public const int timeInterval = 2130903525;
 			
 			// aapt resource value: 0x7F0301E6
-			public const int trackTintMode = 2130903526;
+			public const int timeIntervalHeight = 2130903526;
 			
 			// aapt resource value: 0x7F0301E7
-			public const int ttcIndex = 2130903527;
+			public const int timeZone = 2130903527;
 			
 			// aapt resource value: 0x7F0301E8
-			public const int uiCompass = 2130903528;
+			public const int tint = 2130903528;
 			
 			// aapt resource value: 0x7F0301E9
-			public const int uiMapToolbar = 2130903529;
+			public const int tintMode = 2130903529;
 			
 			// aapt resource value: 0x7F0301EA
-			public const int uiRotateGestures = 2130903530;
+			public const int title = 2130903530;
 			
 			// aapt resource value: 0x7F0301EB
-			public const int uiScrollGestures = 2130903531;
+			public const int titleEnabled = 2130903531;
 			
 			// aapt resource value: 0x7F0301EC
-			public const int uiScrollGesturesDuringRotateOrZoom = 2130903532;
+			public const int titleMargin = 2130903532;
 			
 			// aapt resource value: 0x7F0301ED
-			public const int uiTiltGestures = 2130903533;
+			public const int titleMarginBottom = 2130903533;
 			
 			// aapt resource value: 0x7F0301EE
-			public const int uiZoomControls = 2130903534;
-			
-			// aapt resource value: 0x7F0301EF
-			public const int uiZoomGestures = 2130903535;
-			
-			// aapt resource value: 0x7F0301F0
-			public const int useCompatPadding = 2130903536;
+			public const int titleMarginEnd = 2130903534;
 			
 			// aapt resource value: 0x7F0301F1
-			public const int useViewLifecycle = 2130903537;
+			public const int titleMargins = 2130903537;
+			
+			// aapt resource value: 0x7F0301EF
+			public const int titleMarginStart = 2130903535;
+			
+			// aapt resource value: 0x7F0301F0
+			public const int titleMarginTop = 2130903536;
 			
 			// aapt resource value: 0x7F0301F2
-			public const int viewInflaterClass = 2130903538;
+			public const int titleTextAppearance = 2130903538;
 			
 			// aapt resource value: 0x7F0301F3
-			public const int voiceIcon = 2130903539;
+			public const int titleTextColor = 2130903539;
 			
 			// aapt resource value: 0x7F0301F4
-			public const int windowActionBar = 2130903540;
+			public const int titleTextStyle = 2130903540;
 			
 			// aapt resource value: 0x7F0301F5
-			public const int windowActionBarOverlay = 2130903541;
+			public const int toolbarId = 2130903541;
 			
 			// aapt resource value: 0x7F0301F6
-			public const int windowActionModeOverlay = 2130903542;
+			public const int toolbarNavigationButtonStyle = 2130903542;
 			
 			// aapt resource value: 0x7F0301F7
-			public const int windowFixedHeightMajor = 2130903543;
+			public const int toolbarStyle = 2130903543;
 			
 			// aapt resource value: 0x7F0301F8
-			public const int windowFixedHeightMinor = 2130903544;
+			public const int tooltipForegroundColor = 2130903544;
 			
 			// aapt resource value: 0x7F0301F9
-			public const int windowFixedWidthMajor = 2130903545;
+			public const int tooltipFrameBackground = 2130903545;
 			
 			// aapt resource value: 0x7F0301FA
-			public const int windowFixedWidthMinor = 2130903546;
+			public const int tooltipText = 2130903546;
 			
 			// aapt resource value: 0x7F0301FB
-			public const int windowMinWidthMajor = 2130903547;
+			public const int track = 2130903547;
 			
 			// aapt resource value: 0x7F0301FC
-			public const int windowMinWidthMinor = 2130903548;
+			public const int trackTint = 2130903548;
 			
 			// aapt resource value: 0x7F0301FD
-			public const int windowNoTitle = 2130903549;
+			public const int trackTintMode = 2130903549;
 			
 			// aapt resource value: 0x7F0301FE
-			public const int zOrderOnTop = 2130903550;
+			public const int ttcIndex = 2130903550;
+			
+			// aapt resource value: 0x7F0301FF
+			public const int uiCompass = 2130903551;
+			
+			// aapt resource value: 0x7F030200
+			public const int uiMapToolbar = 2130903552;
+			
+			// aapt resource value: 0x7F030201
+			public const int uiRotateGestures = 2130903553;
+			
+			// aapt resource value: 0x7F030202
+			public const int uiScrollGestures = 2130903554;
+			
+			// aapt resource value: 0x7F030203
+			public const int uiScrollGesturesDuringRotateOrZoom = 2130903555;
+			
+			// aapt resource value: 0x7F030204
+			public const int uiTiltGestures = 2130903556;
+			
+			// aapt resource value: 0x7F030205
+			public const int uiZoomControls = 2130903557;
+			
+			// aapt resource value: 0x7F030206
+			public const int uiZoomGestures = 2130903558;
+			
+			// aapt resource value: 0x7F030207
+			public const int useCompatPadding = 2130903559;
+			
+			// aapt resource value: 0x7F030208
+			public const int useViewLifecycle = 2130903560;
+			
+			// aapt resource value: 0x7F030209
+			public const int viewHeaderHeight = 2130903561;
+			
+			// aapt resource value: 0x7F03020A
+			public const int viewInflaterClass = 2130903562;
+			
+			// aapt resource value: 0x7F03020B
+			public const int voiceIcon = 2130903563;
+			
+			// aapt resource value: 0x7F03020C
+			public const int windowActionBar = 2130903564;
+			
+			// aapt resource value: 0x7F03020D
+			public const int windowActionBarOverlay = 2130903565;
+			
+			// aapt resource value: 0x7F03020E
+			public const int windowActionModeOverlay = 2130903566;
+			
+			// aapt resource value: 0x7F03020F
+			public const int windowFixedHeightMajor = 2130903567;
+			
+			// aapt resource value: 0x7F030210
+			public const int windowFixedHeightMinor = 2130903568;
+			
+			// aapt resource value: 0x7F030211
+			public const int windowFixedWidthMajor = 2130903569;
+			
+			// aapt resource value: 0x7F030212
+			public const int windowFixedWidthMinor = 2130903570;
+			
+			// aapt resource value: 0x7F030213
+			public const int windowMinWidthMajor = 2130903571;
+			
+			// aapt resource value: 0x7F030214
+			public const int windowMinWidthMinor = 2130903572;
+			
+			// aapt resource value: 0x7F030215
+			public const int windowNoTitle = 2130903573;
+			
+			// aapt resource value: 0x7F030216
+			public const int zOrderOnTop = 2130903574;
 			
 			static Attribute()
 			{
@@ -3876,277 +6588,295 @@ namespace Fitness_Diary
 			public const int item_touch_helper_swipe_escape_velocity = 2131099793;
 			
 			// aapt resource value: 0x7F060092
-			public const int mtrl_bottomappbar_fabOffsetEndMode = 2131099794;
+			public const int mr_controller_volume_group_list_item_height = 2131099794;
 			
 			// aapt resource value: 0x7F060093
-			public const int mtrl_bottomappbar_fab_cradle_margin = 2131099795;
+			public const int mr_controller_volume_group_list_item_icon_size = 2131099795;
 			
 			// aapt resource value: 0x7F060094
-			public const int mtrl_bottomappbar_fab_cradle_rounded_corner_radius = 2131099796;
+			public const int mr_controller_volume_group_list_max_height = 2131099796;
 			
 			// aapt resource value: 0x7F060095
-			public const int mtrl_bottomappbar_fab_cradle_vertical_offset = 2131099797;
+			public const int mr_controller_volume_group_list_padding_top = 2131099797;
 			
 			// aapt resource value: 0x7F060096
-			public const int mtrl_bottomappbar_height = 2131099798;
+			public const int mr_dialog_fixed_width_major = 2131099798;
 			
 			// aapt resource value: 0x7F060097
-			public const int mtrl_btn_corner_radius = 2131099799;
+			public const int mr_dialog_fixed_width_minor = 2131099799;
 			
 			// aapt resource value: 0x7F060098
-			public const int mtrl_btn_dialog_btn_min_width = 2131099800;
+			public const int mtrl_bottomappbar_fabOffsetEndMode = 2131099800;
 			
 			// aapt resource value: 0x7F060099
-			public const int mtrl_btn_disabled_elevation = 2131099801;
+			public const int mtrl_bottomappbar_fab_cradle_margin = 2131099801;
 			
 			// aapt resource value: 0x7F06009A
-			public const int mtrl_btn_disabled_z = 2131099802;
+			public const int mtrl_bottomappbar_fab_cradle_rounded_corner_radius = 2131099802;
 			
 			// aapt resource value: 0x7F06009B
-			public const int mtrl_btn_elevation = 2131099803;
+			public const int mtrl_bottomappbar_fab_cradle_vertical_offset = 2131099803;
 			
 			// aapt resource value: 0x7F06009C
-			public const int mtrl_btn_focused_z = 2131099804;
+			public const int mtrl_bottomappbar_height = 2131099804;
 			
 			// aapt resource value: 0x7F06009D
-			public const int mtrl_btn_hovered_z = 2131099805;
+			public const int mtrl_btn_corner_radius = 2131099805;
 			
 			// aapt resource value: 0x7F06009E
-			public const int mtrl_btn_icon_btn_padding_left = 2131099806;
+			public const int mtrl_btn_dialog_btn_min_width = 2131099806;
 			
 			// aapt resource value: 0x7F06009F
-			public const int mtrl_btn_icon_padding = 2131099807;
+			public const int mtrl_btn_disabled_elevation = 2131099807;
 			
 			// aapt resource value: 0x7F0600A0
-			public const int mtrl_btn_inset = 2131099808;
+			public const int mtrl_btn_disabled_z = 2131099808;
 			
 			// aapt resource value: 0x7F0600A1
-			public const int mtrl_btn_letter_spacing = 2131099809;
+			public const int mtrl_btn_elevation = 2131099809;
 			
 			// aapt resource value: 0x7F0600A2
-			public const int mtrl_btn_padding_bottom = 2131099810;
+			public const int mtrl_btn_focused_z = 2131099810;
 			
 			// aapt resource value: 0x7F0600A3
-			public const int mtrl_btn_padding_left = 2131099811;
+			public const int mtrl_btn_hovered_z = 2131099811;
 			
 			// aapt resource value: 0x7F0600A4
-			public const int mtrl_btn_padding_right = 2131099812;
+			public const int mtrl_btn_icon_btn_padding_left = 2131099812;
 			
 			// aapt resource value: 0x7F0600A5
-			public const int mtrl_btn_padding_top = 2131099813;
+			public const int mtrl_btn_icon_padding = 2131099813;
 			
 			// aapt resource value: 0x7F0600A6
-			public const int mtrl_btn_pressed_z = 2131099814;
+			public const int mtrl_btn_inset = 2131099814;
 			
 			// aapt resource value: 0x7F0600A7
-			public const int mtrl_btn_stroke_size = 2131099815;
+			public const int mtrl_btn_letter_spacing = 2131099815;
 			
 			// aapt resource value: 0x7F0600A8
-			public const int mtrl_btn_text_btn_icon_padding = 2131099816;
+			public const int mtrl_btn_padding_bottom = 2131099816;
 			
 			// aapt resource value: 0x7F0600A9
-			public const int mtrl_btn_text_btn_padding_left = 2131099817;
+			public const int mtrl_btn_padding_left = 2131099817;
 			
 			// aapt resource value: 0x7F0600AA
-			public const int mtrl_btn_text_btn_padding_right = 2131099818;
+			public const int mtrl_btn_padding_right = 2131099818;
 			
 			// aapt resource value: 0x7F0600AB
-			public const int mtrl_btn_text_size = 2131099819;
+			public const int mtrl_btn_padding_top = 2131099819;
 			
 			// aapt resource value: 0x7F0600AC
-			public const int mtrl_btn_z = 2131099820;
+			public const int mtrl_btn_pressed_z = 2131099820;
 			
 			// aapt resource value: 0x7F0600AD
-			public const int mtrl_card_elevation = 2131099821;
+			public const int mtrl_btn_stroke_size = 2131099821;
 			
 			// aapt resource value: 0x7F0600AE
-			public const int mtrl_card_spacing = 2131099822;
+			public const int mtrl_btn_text_btn_icon_padding = 2131099822;
 			
 			// aapt resource value: 0x7F0600AF
-			public const int mtrl_chip_pressed_translation_z = 2131099823;
+			public const int mtrl_btn_text_btn_padding_left = 2131099823;
 			
 			// aapt resource value: 0x7F0600B0
-			public const int mtrl_chip_text_size = 2131099824;
+			public const int mtrl_btn_text_btn_padding_right = 2131099824;
 			
 			// aapt resource value: 0x7F0600B1
-			public const int mtrl_fab_elevation = 2131099825;
+			public const int mtrl_btn_text_size = 2131099825;
 			
 			// aapt resource value: 0x7F0600B2
-			public const int mtrl_fab_translation_z_hovered_focused = 2131099826;
+			public const int mtrl_btn_z = 2131099826;
 			
 			// aapt resource value: 0x7F0600B3
-			public const int mtrl_fab_translation_z_pressed = 2131099827;
+			public const int mtrl_card_elevation = 2131099827;
 			
 			// aapt resource value: 0x7F0600B4
-			public const int mtrl_navigation_elevation = 2131099828;
+			public const int mtrl_card_spacing = 2131099828;
 			
 			// aapt resource value: 0x7F0600B5
-			public const int mtrl_navigation_item_horizontal_padding = 2131099829;
+			public const int mtrl_chip_pressed_translation_z = 2131099829;
 			
 			// aapt resource value: 0x7F0600B6
-			public const int mtrl_navigation_item_icon_padding = 2131099830;
+			public const int mtrl_chip_text_size = 2131099830;
 			
 			// aapt resource value: 0x7F0600B7
-			public const int mtrl_snackbar_background_corner_radius = 2131099831;
+			public const int mtrl_fab_elevation = 2131099831;
 			
 			// aapt resource value: 0x7F0600B8
-			public const int mtrl_snackbar_margin = 2131099832;
+			public const int mtrl_fab_translation_z_hovered_focused = 2131099832;
 			
 			// aapt resource value: 0x7F0600B9
-			public const int mtrl_textinput_box_bottom_offset = 2131099833;
+			public const int mtrl_fab_translation_z_pressed = 2131099833;
 			
 			// aapt resource value: 0x7F0600BA
-			public const int mtrl_textinput_box_corner_radius_medium = 2131099834;
+			public const int mtrl_navigation_elevation = 2131099834;
 			
 			// aapt resource value: 0x7F0600BB
-			public const int mtrl_textinput_box_corner_radius_small = 2131099835;
+			public const int mtrl_navigation_item_horizontal_padding = 2131099835;
 			
 			// aapt resource value: 0x7F0600BC
-			public const int mtrl_textinput_box_label_cutout_padding = 2131099836;
+			public const int mtrl_navigation_item_icon_padding = 2131099836;
 			
 			// aapt resource value: 0x7F0600BD
-			public const int mtrl_textinput_box_padding_end = 2131099837;
+			public const int mtrl_snackbar_background_corner_radius = 2131099837;
 			
 			// aapt resource value: 0x7F0600BE
-			public const int mtrl_textinput_box_stroke_width_default = 2131099838;
+			public const int mtrl_snackbar_margin = 2131099838;
 			
 			// aapt resource value: 0x7F0600BF
-			public const int mtrl_textinput_box_stroke_width_focused = 2131099839;
+			public const int mtrl_textinput_box_bottom_offset = 2131099839;
 			
 			// aapt resource value: 0x7F0600C0
-			public const int mtrl_textinput_outline_box_expanded_padding = 2131099840;
+			public const int mtrl_textinput_box_corner_radius_medium = 2131099840;
 			
 			// aapt resource value: 0x7F0600C1
-			public const int mtrl_toolbar_default_height = 2131099841;
+			public const int mtrl_textinput_box_corner_radius_small = 2131099841;
 			
 			// aapt resource value: 0x7F0600C2
-			public const int notification_action_icon_size = 2131099842;
+			public const int mtrl_textinput_box_label_cutout_padding = 2131099842;
 			
 			// aapt resource value: 0x7F0600C3
-			public const int notification_action_text_size = 2131099843;
+			public const int mtrl_textinput_box_padding_end = 2131099843;
 			
 			// aapt resource value: 0x7F0600C4
-			public const int notification_big_circle_margin = 2131099844;
+			public const int mtrl_textinput_box_stroke_width_default = 2131099844;
 			
 			// aapt resource value: 0x7F0600C5
-			public const int notification_content_margin_start = 2131099845;
+			public const int mtrl_textinput_box_stroke_width_focused = 2131099845;
 			
 			// aapt resource value: 0x7F0600C6
-			public const int notification_large_icon_height = 2131099846;
+			public const int mtrl_textinput_outline_box_expanded_padding = 2131099846;
 			
 			// aapt resource value: 0x7F0600C7
-			public const int notification_large_icon_width = 2131099847;
+			public const int mtrl_toolbar_default_height = 2131099847;
 			
 			// aapt resource value: 0x7F0600C8
-			public const int notification_main_column_padding_top = 2131099848;
+			public const int notification_action_icon_size = 2131099848;
 			
 			// aapt resource value: 0x7F0600C9
-			public const int notification_media_narrow_margin = 2131099849;
+			public const int notification_action_text_size = 2131099849;
 			
 			// aapt resource value: 0x7F0600CA
-			public const int notification_right_icon_size = 2131099850;
+			public const int notification_big_circle_margin = 2131099850;
 			
 			// aapt resource value: 0x7F0600CB
-			public const int notification_right_side_padding_top = 2131099851;
+			public const int notification_content_margin_start = 2131099851;
 			
 			// aapt resource value: 0x7F0600CC
-			public const int notification_small_icon_background_padding = 2131099852;
+			public const int notification_large_icon_height = 2131099852;
 			
 			// aapt resource value: 0x7F0600CD
-			public const int notification_small_icon_size_as_large = 2131099853;
+			public const int notification_large_icon_width = 2131099853;
 			
 			// aapt resource value: 0x7F0600CE
-			public const int notification_subtext_size = 2131099854;
+			public const int notification_main_column_padding_top = 2131099854;
 			
 			// aapt resource value: 0x7F0600CF
-			public const int notification_top_pad = 2131099855;
+			public const int notification_media_narrow_margin = 2131099855;
 			
 			// aapt resource value: 0x7F0600D0
-			public const int notification_top_pad_large_text = 2131099856;
+			public const int notification_right_icon_size = 2131099856;
 			
 			// aapt resource value: 0x7F0600D1
-			public const int places_autocomplete_button_padding = 2131099857;
+			public const int notification_right_side_padding_top = 2131099857;
 			
 			// aapt resource value: 0x7F0600D2
-			public const int places_autocomplete_overlay_padding = 2131099858;
+			public const int notification_small_icon_background_padding = 2131099858;
 			
 			// aapt resource value: 0x7F0600D3
-			public const int places_autocomplete_powered_by_google_height = 2131099859;
+			public const int notification_small_icon_size_as_large = 2131099859;
 			
 			// aapt resource value: 0x7F0600D4
-			public const int places_autocomplete_powered_by_google_separator_start = 2131099860;
+			public const int notification_subtext_size = 2131099860;
 			
 			// aapt resource value: 0x7F0600D5
-			public const int places_autocomplete_powered_by_google_start = 2131099861;
+			public const int notification_top_pad = 2131099861;
 			
 			// aapt resource value: 0x7F0600D6
-			public const int places_autocomplete_prediction_height = 2131099862;
+			public const int notification_top_pad_large_text = 2131099862;
 			
 			// aapt resource value: 0x7F0600D7
-			public const int places_autocomplete_prediction_horizontal_margin = 2131099863;
+			public const int places_autocomplete_button_padding = 2131099863;
 			
 			// aapt resource value: 0x7F0600D8
-			public const int places_autocomplete_prediction_primary_text = 2131099864;
+			public const int places_autocomplete_overlay_padding = 2131099864;
 			
 			// aapt resource value: 0x7F0600D9
-			public const int places_autocomplete_prediction_secondary_text = 2131099865;
+			public const int places_autocomplete_powered_by_google_height = 2131099865;
 			
 			// aapt resource value: 0x7F0600DA
-			public const int places_autocomplete_progress_horizontal_margin = 2131099866;
+			public const int places_autocomplete_powered_by_google_separator_start = 2131099866;
 			
 			// aapt resource value: 0x7F0600DB
-			public const int places_autocomplete_progress_size = 2131099867;
+			public const int places_autocomplete_powered_by_google_start = 2131099867;
 			
 			// aapt resource value: 0x7F0600DC
-			public const int places_autocomplete_search_input_padding = 2131099868;
+			public const int places_autocomplete_prediction_height = 2131099868;
 			
 			// aapt resource value: 0x7F0600DD
-			public const int places_autocomplete_search_input_text = 2131099869;
+			public const int places_autocomplete_prediction_horizontal_margin = 2131099869;
 			
 			// aapt resource value: 0x7F0600DE
-			public const int places_autocomplete_toolbar_inset_end = 2131099870;
+			public const int places_autocomplete_prediction_primary_text = 2131099870;
 			
 			// aapt resource value: 0x7F0600DF
-			public const int places_autocomplete_toolbar_inset_start = 2131099871;
+			public const int places_autocomplete_prediction_secondary_text = 2131099871;
 			
 			// aapt resource value: 0x7F0600E0
-			public const int places_autocomplete_vertical_dropdown = 2131099872;
+			public const int places_autocomplete_progress_horizontal_margin = 2131099872;
 			
 			// aapt resource value: 0x7F0600E1
-			public const int subtitle_corner_radius = 2131099873;
+			public const int places_autocomplete_progress_size = 2131099873;
 			
 			// aapt resource value: 0x7F0600E2
-			public const int subtitle_outline_width = 2131099874;
+			public const int places_autocomplete_search_input_padding = 2131099874;
 			
 			// aapt resource value: 0x7F0600E3
-			public const int subtitle_shadow_offset = 2131099875;
+			public const int places_autocomplete_search_input_text = 2131099875;
 			
 			// aapt resource value: 0x7F0600E4
-			public const int subtitle_shadow_radius = 2131099876;
+			public const int places_autocomplete_toolbar_inset_end = 2131099876;
 			
 			// aapt resource value: 0x7F0600E5
-			public const int tooltip_corner_radius = 2131099877;
+			public const int places_autocomplete_toolbar_inset_start = 2131099877;
 			
 			// aapt resource value: 0x7F0600E6
-			public const int tooltip_horizontal_padding = 2131099878;
+			public const int places_autocomplete_vertical_dropdown = 2131099878;
 			
 			// aapt resource value: 0x7F0600E7
-			public const int tooltip_margin = 2131099879;
+			public const int subtitle_corner_radius = 2131099879;
 			
 			// aapt resource value: 0x7F0600E8
-			public const int tooltip_precise_anchor_extra_offset = 2131099880;
+			public const int subtitle_outline_width = 2131099880;
 			
 			// aapt resource value: 0x7F0600E9
-			public const int tooltip_precise_anchor_threshold = 2131099881;
+			public const int subtitle_shadow_offset = 2131099881;
 			
 			// aapt resource value: 0x7F0600EA
-			public const int tooltip_vertical_padding = 2131099882;
+			public const int subtitle_shadow_radius = 2131099882;
 			
 			// aapt resource value: 0x7F0600EB
-			public const int tooltip_y_offset_non_touch = 2131099883;
+			public const int tooltip_corner_radius = 2131099883;
 			
 			// aapt resource value: 0x7F0600EC
-			public const int tooltip_y_offset_touch = 2131099884;
+			public const int tooltip_horizontal_padding = 2131099884;
+			
+			// aapt resource value: 0x7F0600ED
+			public const int tooltip_margin = 2131099885;
+			
+			// aapt resource value: 0x7F0600EE
+			public const int tooltip_precise_anchor_extra_offset = 2131099886;
+			
+			// aapt resource value: 0x7F0600EF
+			public const int tooltip_precise_anchor_threshold = 2131099887;
+			
+			// aapt resource value: 0x7F0600F0
+			public const int tooltip_vertical_padding = 2131099888;
+			
+			// aapt resource value: 0x7F0600F1
+			public const int tooltip_y_offset_non_touch = 2131099889;
+			
+			// aapt resource value: 0x7F0600F2
+			public const int tooltip_y_offset_touch = 2131099890;
 			
 			static Dimension()
 			{
@@ -4420,205 +7150,904 @@ namespace Fitness_Diary
 			public const int amu_bubble_shadow = 2131165275;
 			
 			// aapt resource value: 0x7F07005C
-			public const int avd_hide_password = 2131165276;
+			public const int arrow_down = 2131165276;
 			
 			// aapt resource value: 0x7F07005D
-			public const int avd_show_password = 2131165277;
+			public const int arrow_up = 2131165277;
 			
 			// aapt resource value: 0x7F07005E
-			public const int baseline_contact_support_black_24 = 2131165278;
+			public const int Avatar1 = 2131165278;
 			
 			// aapt resource value: 0x7F07005F
-			public const int baseline_directions_run_black_24 = 2131165279;
+			public const int Avatar10 = 2131165279;
 			
 			// aapt resource value: 0x7F070060
-			public const int baseline_fitness_center_black_24 = 2131165280;
+			public const int Avatar11 = 2131165280;
 			
 			// aapt resource value: 0x7F070061
-			public const int baseline_restaurant_black_24 = 2131165281;
+			public const int Avatar12 = 2131165281;
 			
 			// aapt resource value: 0x7F070062
-			public const int baseline_whatshot_black_24 = 2131165282;
+			public const int Avatar13 = 2131165282;
 			
 			// aapt resource value: 0x7F070063
-			public const int common_full_open_on_phone = 2131165283;
+			public const int Avatar14 = 2131165283;
 			
 			// aapt resource value: 0x7F070064
-			public const int common_google_signin_btn_icon_dark = 2131165284;
+			public const int Avatar15 = 2131165284;
 			
 			// aapt resource value: 0x7F070065
-			public const int common_google_signin_btn_icon_dark_focused = 2131165285;
+			public const int Avatar16 = 2131165285;
 			
 			// aapt resource value: 0x7F070066
-			public const int common_google_signin_btn_icon_dark_normal = 2131165286;
+			public const int Avatar17 = 2131165286;
 			
 			// aapt resource value: 0x7F070067
-			public const int common_google_signin_btn_icon_dark_normal_background = 2131165287;
+			public const int Avatar18 = 2131165287;
 			
 			// aapt resource value: 0x7F070068
-			public const int common_google_signin_btn_icon_disabled = 2131165288;
+			public const int Avatar19 = 2131165288;
 			
 			// aapt resource value: 0x7F070069
-			public const int common_google_signin_btn_icon_light = 2131165289;
+			public const int Avatar2 = 2131165289;
 			
 			// aapt resource value: 0x7F07006A
-			public const int common_google_signin_btn_icon_light_focused = 2131165290;
+			public const int Avatar20 = 2131165290;
 			
 			// aapt resource value: 0x7F07006B
-			public const int common_google_signin_btn_icon_light_normal = 2131165291;
+			public const int Avatar21 = 2131165291;
 			
 			// aapt resource value: 0x7F07006C
-			public const int common_google_signin_btn_icon_light_normal_background = 2131165292;
+			public const int Avatar22 = 2131165292;
 			
 			// aapt resource value: 0x7F07006D
-			public const int common_google_signin_btn_text_dark = 2131165293;
+			public const int Avatar23 = 2131165293;
 			
 			// aapt resource value: 0x7F07006E
-			public const int common_google_signin_btn_text_dark_focused = 2131165294;
+			public const int Avatar24 = 2131165294;
 			
 			// aapt resource value: 0x7F07006F
-			public const int common_google_signin_btn_text_dark_normal = 2131165295;
+			public const int Avatar25 = 2131165295;
 			
 			// aapt resource value: 0x7F070070
-			public const int common_google_signin_btn_text_dark_normal_background = 2131165296;
+			public const int Avatar26 = 2131165296;
 			
 			// aapt resource value: 0x7F070071
-			public const int common_google_signin_btn_text_disabled = 2131165297;
+			public const int Avatar27 = 2131165297;
 			
 			// aapt resource value: 0x7F070072
-			public const int common_google_signin_btn_text_light = 2131165298;
+			public const int Avatar28 = 2131165298;
 			
 			// aapt resource value: 0x7F070073
-			public const int common_google_signin_btn_text_light_focused = 2131165299;
+			public const int Avatar29 = 2131165299;
 			
 			// aapt resource value: 0x7F070074
-			public const int common_google_signin_btn_text_light_normal = 2131165300;
+			public const int Avatar3 = 2131165300;
 			
 			// aapt resource value: 0x7F070075
-			public const int common_google_signin_btn_text_light_normal_background = 2131165301;
+			public const int Avatar30 = 2131165301;
 			
 			// aapt resource value: 0x7F070076
-			public const int design_bottom_navigation_item_background = 2131165302;
+			public const int Avatar4 = 2131165302;
 			
 			// aapt resource value: 0x7F070077
-			public const int design_fab_background = 2131165303;
+			public const int Avatar5 = 2131165303;
 			
 			// aapt resource value: 0x7F070078
-			public const int design_ic_visibility = 2131165304;
+			public const int Avatar6 = 2131165304;
 			
 			// aapt resource value: 0x7F070079
-			public const int design_ic_visibility_off = 2131165305;
+			public const int Avatar7 = 2131165305;
 			
 			// aapt resource value: 0x7F07007A
-			public const int design_password_eye = 2131165306;
+			public const int Avatar8 = 2131165306;
 			
 			// aapt resource value: 0x7F07007B
-			public const int design_snackbar_background = 2131165307;
+			public const int Avatar9 = 2131165307;
 			
 			// aapt resource value: 0x7F07007C
-			public const int fitness_round_button = 2131165308;
+			public const int avd_hide_password = 2131165308;
 			
 			// aapt resource value: 0x7F07007D
-			public const int googleg_disabled_color_18 = 2131165309;
+			public const int avd_show_password = 2131165309;
 			
 			// aapt resource value: 0x7F07007E
-			public const int googleg_standard_color_18 = 2131165310;
+			public const int baseline_contact_support_black_24 = 2131165310;
 			
 			// aapt resource value: 0x7F07007F
-			public const int greenball = 2131165311;
+			public const int baseline_directions_run_black_24 = 2131165311;
 			
 			// aapt resource value: 0x7F070080
-			public const int greenmarker = 2131165312;
+			public const int baseline_fitness_center_black_24 = 2131165312;
 			
 			// aapt resource value: 0x7F070081
-			public const int ic_mtrl_chip_checked_black = 2131165313;
+			public const int baseline_restaurant_black_24 = 2131165313;
 			
 			// aapt resource value: 0x7F070082
-			public const int ic_mtrl_chip_checked_circle = 2131165314;
+			public const int baseline_whatshot_black_24 = 2131165314;
 			
 			// aapt resource value: 0x7F070083
-			public const int ic_mtrl_chip_close_circle = 2131165315;
+			public const int common_full_open_on_phone = 2131165315;
 			
 			// aapt resource value: 0x7F070084
-			public const int login_logo = 2131165316;
+			public const int common_google_signin_btn_icon_dark = 2131165316;
 			
 			// aapt resource value: 0x7F070085
-			public const int mtrl_snackbar_background = 2131165317;
+			public const int common_google_signin_btn_icon_dark_focused = 2131165317;
 			
 			// aapt resource value: 0x7F070086
-			public const int mtrl_tabs_default_indicator = 2131165318;
+			public const int common_google_signin_btn_icon_dark_normal = 2131165318;
 			
 			// aapt resource value: 0x7F070087
-			public const int navigation_empty_icon = 2131165319;
+			public const int common_google_signin_btn_icon_dark_normal_background = 2131165319;
 			
 			// aapt resource value: 0x7F070088
-			public const int notification_action_background = 2131165320;
+			public const int common_google_signin_btn_icon_disabled = 2131165320;
 			
 			// aapt resource value: 0x7F070089
-			public const int notification_bg = 2131165321;
+			public const int common_google_signin_btn_icon_light = 2131165321;
 			
 			// aapt resource value: 0x7F07008A
-			public const int notification_bg_low = 2131165322;
+			public const int common_google_signin_btn_icon_light_focused = 2131165322;
 			
 			// aapt resource value: 0x7F07008B
-			public const int notification_bg_low_normal = 2131165323;
+			public const int common_google_signin_btn_icon_light_normal = 2131165323;
 			
 			// aapt resource value: 0x7F07008C
-			public const int notification_bg_low_pressed = 2131165324;
+			public const int common_google_signin_btn_icon_light_normal_background = 2131165324;
 			
 			// aapt resource value: 0x7F07008D
-			public const int notification_bg_normal = 2131165325;
+			public const int common_google_signin_btn_text_dark = 2131165325;
 			
 			// aapt resource value: 0x7F07008E
-			public const int notification_bg_normal_pressed = 2131165326;
+			public const int common_google_signin_btn_text_dark_focused = 2131165326;
 			
 			// aapt resource value: 0x7F07008F
-			public const int notification_icon_background = 2131165327;
+			public const int common_google_signin_btn_text_dark_normal = 2131165327;
 			
 			// aapt resource value: 0x7F070090
-			public const int notification_template_icon_bg = 2131165328;
+			public const int common_google_signin_btn_text_dark_normal_background = 2131165328;
 			
 			// aapt resource value: 0x7F070091
-			public const int notification_template_icon_low_bg = 2131165329;
+			public const int common_google_signin_btn_text_disabled = 2131165329;
 			
 			// aapt resource value: 0x7F070092
-			public const int notification_tile_bg = 2131165330;
+			public const int common_google_signin_btn_text_light = 2131165330;
 			
 			// aapt resource value: 0x7F070093
-			public const int notify_panel_notification_icon_bg = 2131165331;
+			public const int common_google_signin_btn_text_light_focused = 2131165331;
 			
 			// aapt resource value: 0x7F070094
-			public const int places_autocomplete_toolbar_shadow = 2131165332;
+			public const int common_google_signin_btn_text_light_normal = 2131165332;
 			
 			// aapt resource value: 0x7F070095
-			public const int places_powered_by_google_dark = 2131165333;
+			public const int common_google_signin_btn_text_light_normal_background = 2131165333;
 			
 			// aapt resource value: 0x7F070096
-			public const int places_powered_by_google_light = 2131165334;
+			public const int design_bottom_navigation_item_background = 2131165334;
 			
 			// aapt resource value: 0x7F070097
-			public const int quantum_ic_arrow_back_grey600_24 = 2131165335;
+			public const int design_fab_background = 2131165335;
 			
 			// aapt resource value: 0x7F070098
-			public const int quantum_ic_clear_grey600_24 = 2131165336;
+			public const int design_ic_visibility = 2131165336;
 			
 			// aapt resource value: 0x7F070099
-			public const int quantum_ic_cloud_off_vd_theme_24 = 2131165337;
+			public const int design_ic_visibility_off = 2131165337;
 			
 			// aapt resource value: 0x7F07009A
-			public const int quantum_ic_search_grey600_24 = 2131165338;
+			public const int design_password_eye = 2131165338;
 			
 			// aapt resource value: 0x7F07009B
-			public const int redball = 2131165339;
+			public const int design_snackbar_background = 2131165339;
 			
 			// aapt resource value: 0x7F07009C
-			public const int redmarker = 2131165340;
+			public const int fitness_round_button = 2131165340;
 			
 			// aapt resource value: 0x7F07009D
-			public const int tooltip_frame_dark = 2131165341;
+			public const int googleg_disabled_color_18 = 2131165341;
 			
 			// aapt resource value: 0x7F07009E
-			public const int tooltip_frame_light = 2131165342;
+			public const int googleg_standard_color_18 = 2131165342;
+			
+			// aapt resource value: 0x7F07009F
+			public const int greenball = 2131165343;
+			
+			// aapt resource value: 0x7F0700A0
+			public const int greenmarker = 2131165344;
+			
+			// aapt resource value: 0x7F0700A1
+			public const int ic_audiotrack_dark = 2131165345;
+			
+			// aapt resource value: 0x7F0700A2
+			public const int ic_audiotrack_light = 2131165346;
+			
+			// aapt resource value: 0x7F0700A3
+			public const int ic_dialog_close_dark = 2131165347;
+			
+			// aapt resource value: 0x7F0700A4
+			public const int ic_dialog_close_light = 2131165348;
+			
+			// aapt resource value: 0x7F0700A5
+			public const int ic_group_collapse_00 = 2131165349;
+			
+			// aapt resource value: 0x7F0700A6
+			public const int ic_group_collapse_01 = 2131165350;
+			
+			// aapt resource value: 0x7F0700A7
+			public const int ic_group_collapse_02 = 2131165351;
+			
+			// aapt resource value: 0x7F0700A8
+			public const int ic_group_collapse_03 = 2131165352;
+			
+			// aapt resource value: 0x7F0700A9
+			public const int ic_group_collapse_04 = 2131165353;
+			
+			// aapt resource value: 0x7F0700AA
+			public const int ic_group_collapse_05 = 2131165354;
+			
+			// aapt resource value: 0x7F0700AB
+			public const int ic_group_collapse_06 = 2131165355;
+			
+			// aapt resource value: 0x7F0700AC
+			public const int ic_group_collapse_07 = 2131165356;
+			
+			// aapt resource value: 0x7F0700AD
+			public const int ic_group_collapse_08 = 2131165357;
+			
+			// aapt resource value: 0x7F0700AE
+			public const int ic_group_collapse_09 = 2131165358;
+			
+			// aapt resource value: 0x7F0700AF
+			public const int ic_group_collapse_10 = 2131165359;
+			
+			// aapt resource value: 0x7F0700B0
+			public const int ic_group_collapse_11 = 2131165360;
+			
+			// aapt resource value: 0x7F0700B1
+			public const int ic_group_collapse_12 = 2131165361;
+			
+			// aapt resource value: 0x7F0700B2
+			public const int ic_group_collapse_13 = 2131165362;
+			
+			// aapt resource value: 0x7F0700B3
+			public const int ic_group_collapse_14 = 2131165363;
+			
+			// aapt resource value: 0x7F0700B4
+			public const int ic_group_collapse_15 = 2131165364;
+			
+			// aapt resource value: 0x7F0700B5
+			public const int ic_group_expand_00 = 2131165365;
+			
+			// aapt resource value: 0x7F0700B6
+			public const int ic_group_expand_01 = 2131165366;
+			
+			// aapt resource value: 0x7F0700B7
+			public const int ic_group_expand_02 = 2131165367;
+			
+			// aapt resource value: 0x7F0700B8
+			public const int ic_group_expand_03 = 2131165368;
+			
+			// aapt resource value: 0x7F0700B9
+			public const int ic_group_expand_04 = 2131165369;
+			
+			// aapt resource value: 0x7F0700BA
+			public const int ic_group_expand_05 = 2131165370;
+			
+			// aapt resource value: 0x7F0700BB
+			public const int ic_group_expand_06 = 2131165371;
+			
+			// aapt resource value: 0x7F0700BC
+			public const int ic_group_expand_07 = 2131165372;
+			
+			// aapt resource value: 0x7F0700BD
+			public const int ic_group_expand_08 = 2131165373;
+			
+			// aapt resource value: 0x7F0700BE
+			public const int ic_group_expand_09 = 2131165374;
+			
+			// aapt resource value: 0x7F0700BF
+			public const int ic_group_expand_10 = 2131165375;
+			
+			// aapt resource value: 0x7F0700C0
+			public const int ic_group_expand_11 = 2131165376;
+			
+			// aapt resource value: 0x7F0700C1
+			public const int ic_group_expand_12 = 2131165377;
+			
+			// aapt resource value: 0x7F0700C2
+			public const int ic_group_expand_13 = 2131165378;
+			
+			// aapt resource value: 0x7F0700C3
+			public const int ic_group_expand_14 = 2131165379;
+			
+			// aapt resource value: 0x7F0700C4
+			public const int ic_group_expand_15 = 2131165380;
+			
+			// aapt resource value: 0x7F0700C5
+			public const int ic_media_pause_dark = 2131165381;
+			
+			// aapt resource value: 0x7F0700C6
+			public const int ic_media_pause_light = 2131165382;
+			
+			// aapt resource value: 0x7F0700C7
+			public const int ic_media_play_dark = 2131165383;
+			
+			// aapt resource value: 0x7F0700C8
+			public const int ic_media_play_light = 2131165384;
+			
+			// aapt resource value: 0x7F0700C9
+			public const int ic_media_stop_dark = 2131165385;
+			
+			// aapt resource value: 0x7F0700CA
+			public const int ic_media_stop_light = 2131165386;
+			
+			// aapt resource value: 0x7F0700CB
+			public const int ic_mr_button_connected_00_dark = 2131165387;
+			
+			// aapt resource value: 0x7F0700CC
+			public const int ic_mr_button_connected_00_light = 2131165388;
+			
+			// aapt resource value: 0x7F0700CD
+			public const int ic_mr_button_connected_01_dark = 2131165389;
+			
+			// aapt resource value: 0x7F0700CE
+			public const int ic_mr_button_connected_01_light = 2131165390;
+			
+			// aapt resource value: 0x7F0700CF
+			public const int ic_mr_button_connected_02_dark = 2131165391;
+			
+			// aapt resource value: 0x7F0700D0
+			public const int ic_mr_button_connected_02_light = 2131165392;
+			
+			// aapt resource value: 0x7F0700D1
+			public const int ic_mr_button_connected_03_dark = 2131165393;
+			
+			// aapt resource value: 0x7F0700D2
+			public const int ic_mr_button_connected_03_light = 2131165394;
+			
+			// aapt resource value: 0x7F0700D3
+			public const int ic_mr_button_connected_04_dark = 2131165395;
+			
+			// aapt resource value: 0x7F0700D4
+			public const int ic_mr_button_connected_04_light = 2131165396;
+			
+			// aapt resource value: 0x7F0700D5
+			public const int ic_mr_button_connected_05_dark = 2131165397;
+			
+			// aapt resource value: 0x7F0700D6
+			public const int ic_mr_button_connected_05_light = 2131165398;
+			
+			// aapt resource value: 0x7F0700D7
+			public const int ic_mr_button_connected_06_dark = 2131165399;
+			
+			// aapt resource value: 0x7F0700D8
+			public const int ic_mr_button_connected_06_light = 2131165400;
+			
+			// aapt resource value: 0x7F0700D9
+			public const int ic_mr_button_connected_07_dark = 2131165401;
+			
+			// aapt resource value: 0x7F0700DA
+			public const int ic_mr_button_connected_07_light = 2131165402;
+			
+			// aapt resource value: 0x7F0700DB
+			public const int ic_mr_button_connected_08_dark = 2131165403;
+			
+			// aapt resource value: 0x7F0700DC
+			public const int ic_mr_button_connected_08_light = 2131165404;
+			
+			// aapt resource value: 0x7F0700DD
+			public const int ic_mr_button_connected_09_dark = 2131165405;
+			
+			// aapt resource value: 0x7F0700DE
+			public const int ic_mr_button_connected_09_light = 2131165406;
+			
+			// aapt resource value: 0x7F0700DF
+			public const int ic_mr_button_connected_10_dark = 2131165407;
+			
+			// aapt resource value: 0x7F0700E0
+			public const int ic_mr_button_connected_10_light = 2131165408;
+			
+			// aapt resource value: 0x7F0700E1
+			public const int ic_mr_button_connected_11_dark = 2131165409;
+			
+			// aapt resource value: 0x7F0700E2
+			public const int ic_mr_button_connected_11_light = 2131165410;
+			
+			// aapt resource value: 0x7F0700E3
+			public const int ic_mr_button_connected_12_dark = 2131165411;
+			
+			// aapt resource value: 0x7F0700E4
+			public const int ic_mr_button_connected_12_light = 2131165412;
+			
+			// aapt resource value: 0x7F0700E5
+			public const int ic_mr_button_connected_13_dark = 2131165413;
+			
+			// aapt resource value: 0x7F0700E6
+			public const int ic_mr_button_connected_13_light = 2131165414;
+			
+			// aapt resource value: 0x7F0700E7
+			public const int ic_mr_button_connected_14_dark = 2131165415;
+			
+			// aapt resource value: 0x7F0700E8
+			public const int ic_mr_button_connected_14_light = 2131165416;
+			
+			// aapt resource value: 0x7F0700E9
+			public const int ic_mr_button_connected_15_dark = 2131165417;
+			
+			// aapt resource value: 0x7F0700EA
+			public const int ic_mr_button_connected_15_light = 2131165418;
+			
+			// aapt resource value: 0x7F0700EB
+			public const int ic_mr_button_connected_16_dark = 2131165419;
+			
+			// aapt resource value: 0x7F0700EC
+			public const int ic_mr_button_connected_16_light = 2131165420;
+			
+			// aapt resource value: 0x7F0700ED
+			public const int ic_mr_button_connected_17_dark = 2131165421;
+			
+			// aapt resource value: 0x7F0700EE
+			public const int ic_mr_button_connected_17_light = 2131165422;
+			
+			// aapt resource value: 0x7F0700EF
+			public const int ic_mr_button_connected_18_dark = 2131165423;
+			
+			// aapt resource value: 0x7F0700F0
+			public const int ic_mr_button_connected_18_light = 2131165424;
+			
+			// aapt resource value: 0x7F0700F1
+			public const int ic_mr_button_connected_19_dark = 2131165425;
+			
+			// aapt resource value: 0x7F0700F2
+			public const int ic_mr_button_connected_19_light = 2131165426;
+			
+			// aapt resource value: 0x7F0700F3
+			public const int ic_mr_button_connected_20_dark = 2131165427;
+			
+			// aapt resource value: 0x7F0700F4
+			public const int ic_mr_button_connected_20_light = 2131165428;
+			
+			// aapt resource value: 0x7F0700F5
+			public const int ic_mr_button_connected_21_dark = 2131165429;
+			
+			// aapt resource value: 0x7F0700F6
+			public const int ic_mr_button_connected_21_light = 2131165430;
+			
+			// aapt resource value: 0x7F0700F7
+			public const int ic_mr_button_connected_22_dark = 2131165431;
+			
+			// aapt resource value: 0x7F0700F8
+			public const int ic_mr_button_connected_22_light = 2131165432;
+			
+			// aapt resource value: 0x7F0700F9
+			public const int ic_mr_button_connected_23_dark = 2131165433;
+			
+			// aapt resource value: 0x7F0700FA
+			public const int ic_mr_button_connected_23_light = 2131165434;
+			
+			// aapt resource value: 0x7F0700FB
+			public const int ic_mr_button_connected_24_dark = 2131165435;
+			
+			// aapt resource value: 0x7F0700FC
+			public const int ic_mr_button_connected_24_light = 2131165436;
+			
+			// aapt resource value: 0x7F0700FD
+			public const int ic_mr_button_connected_25_dark = 2131165437;
+			
+			// aapt resource value: 0x7F0700FE
+			public const int ic_mr_button_connected_25_light = 2131165438;
+			
+			// aapt resource value: 0x7F0700FF
+			public const int ic_mr_button_connected_26_dark = 2131165439;
+			
+			// aapt resource value: 0x7F070100
+			public const int ic_mr_button_connected_26_light = 2131165440;
+			
+			// aapt resource value: 0x7F070101
+			public const int ic_mr_button_connected_27_dark = 2131165441;
+			
+			// aapt resource value: 0x7F070102
+			public const int ic_mr_button_connected_27_light = 2131165442;
+			
+			// aapt resource value: 0x7F070103
+			public const int ic_mr_button_connected_28_dark = 2131165443;
+			
+			// aapt resource value: 0x7F070104
+			public const int ic_mr_button_connected_28_light = 2131165444;
+			
+			// aapt resource value: 0x7F070105
+			public const int ic_mr_button_connected_29_dark = 2131165445;
+			
+			// aapt resource value: 0x7F070106
+			public const int ic_mr_button_connected_29_light = 2131165446;
+			
+			// aapt resource value: 0x7F070107
+			public const int ic_mr_button_connected_30_dark = 2131165447;
+			
+			// aapt resource value: 0x7F070108
+			public const int ic_mr_button_connected_30_light = 2131165448;
+			
+			// aapt resource value: 0x7F070109
+			public const int ic_mr_button_connecting_00_dark = 2131165449;
+			
+			// aapt resource value: 0x7F07010A
+			public const int ic_mr_button_connecting_00_light = 2131165450;
+			
+			// aapt resource value: 0x7F07010B
+			public const int ic_mr_button_connecting_01_dark = 2131165451;
+			
+			// aapt resource value: 0x7F07010C
+			public const int ic_mr_button_connecting_01_light = 2131165452;
+			
+			// aapt resource value: 0x7F07010D
+			public const int ic_mr_button_connecting_02_dark = 2131165453;
+			
+			// aapt resource value: 0x7F07010E
+			public const int ic_mr_button_connecting_02_light = 2131165454;
+			
+			// aapt resource value: 0x7F07010F
+			public const int ic_mr_button_connecting_03_dark = 2131165455;
+			
+			// aapt resource value: 0x7F070110
+			public const int ic_mr_button_connecting_03_light = 2131165456;
+			
+			// aapt resource value: 0x7F070111
+			public const int ic_mr_button_connecting_04_dark = 2131165457;
+			
+			// aapt resource value: 0x7F070112
+			public const int ic_mr_button_connecting_04_light = 2131165458;
+			
+			// aapt resource value: 0x7F070113
+			public const int ic_mr_button_connecting_05_dark = 2131165459;
+			
+			// aapt resource value: 0x7F070114
+			public const int ic_mr_button_connecting_05_light = 2131165460;
+			
+			// aapt resource value: 0x7F070115
+			public const int ic_mr_button_connecting_06_dark = 2131165461;
+			
+			// aapt resource value: 0x7F070116
+			public const int ic_mr_button_connecting_06_light = 2131165462;
+			
+			// aapt resource value: 0x7F070117
+			public const int ic_mr_button_connecting_07_dark = 2131165463;
+			
+			// aapt resource value: 0x7F070118
+			public const int ic_mr_button_connecting_07_light = 2131165464;
+			
+			// aapt resource value: 0x7F070119
+			public const int ic_mr_button_connecting_08_dark = 2131165465;
+			
+			// aapt resource value: 0x7F07011A
+			public const int ic_mr_button_connecting_08_light = 2131165466;
+			
+			// aapt resource value: 0x7F07011B
+			public const int ic_mr_button_connecting_09_dark = 2131165467;
+			
+			// aapt resource value: 0x7F07011C
+			public const int ic_mr_button_connecting_09_light = 2131165468;
+			
+			// aapt resource value: 0x7F07011D
+			public const int ic_mr_button_connecting_10_dark = 2131165469;
+			
+			// aapt resource value: 0x7F07011E
+			public const int ic_mr_button_connecting_10_light = 2131165470;
+			
+			// aapt resource value: 0x7F07011F
+			public const int ic_mr_button_connecting_11_dark = 2131165471;
+			
+			// aapt resource value: 0x7F070120
+			public const int ic_mr_button_connecting_11_light = 2131165472;
+			
+			// aapt resource value: 0x7F070121
+			public const int ic_mr_button_connecting_12_dark = 2131165473;
+			
+			// aapt resource value: 0x7F070122
+			public const int ic_mr_button_connecting_12_light = 2131165474;
+			
+			// aapt resource value: 0x7F070123
+			public const int ic_mr_button_connecting_13_dark = 2131165475;
+			
+			// aapt resource value: 0x7F070124
+			public const int ic_mr_button_connecting_13_light = 2131165476;
+			
+			// aapt resource value: 0x7F070125
+			public const int ic_mr_button_connecting_14_dark = 2131165477;
+			
+			// aapt resource value: 0x7F070126
+			public const int ic_mr_button_connecting_14_light = 2131165478;
+			
+			// aapt resource value: 0x7F070127
+			public const int ic_mr_button_connecting_15_dark = 2131165479;
+			
+			// aapt resource value: 0x7F070128
+			public const int ic_mr_button_connecting_15_light = 2131165480;
+			
+			// aapt resource value: 0x7F070129
+			public const int ic_mr_button_connecting_16_dark = 2131165481;
+			
+			// aapt resource value: 0x7F07012A
+			public const int ic_mr_button_connecting_16_light = 2131165482;
+			
+			// aapt resource value: 0x7F07012B
+			public const int ic_mr_button_connecting_17_dark = 2131165483;
+			
+			// aapt resource value: 0x7F07012C
+			public const int ic_mr_button_connecting_17_light = 2131165484;
+			
+			// aapt resource value: 0x7F07012D
+			public const int ic_mr_button_connecting_18_dark = 2131165485;
+			
+			// aapt resource value: 0x7F07012E
+			public const int ic_mr_button_connecting_18_light = 2131165486;
+			
+			// aapt resource value: 0x7F07012F
+			public const int ic_mr_button_connecting_19_dark = 2131165487;
+			
+			// aapt resource value: 0x7F070130
+			public const int ic_mr_button_connecting_19_light = 2131165488;
+			
+			// aapt resource value: 0x7F070131
+			public const int ic_mr_button_connecting_20_dark = 2131165489;
+			
+			// aapt resource value: 0x7F070132
+			public const int ic_mr_button_connecting_20_light = 2131165490;
+			
+			// aapt resource value: 0x7F070133
+			public const int ic_mr_button_connecting_21_dark = 2131165491;
+			
+			// aapt resource value: 0x7F070134
+			public const int ic_mr_button_connecting_21_light = 2131165492;
+			
+			// aapt resource value: 0x7F070135
+			public const int ic_mr_button_connecting_22_dark = 2131165493;
+			
+			// aapt resource value: 0x7F070136
+			public const int ic_mr_button_connecting_22_light = 2131165494;
+			
+			// aapt resource value: 0x7F070137
+			public const int ic_mr_button_connecting_23_dark = 2131165495;
+			
+			// aapt resource value: 0x7F070138
+			public const int ic_mr_button_connecting_23_light = 2131165496;
+			
+			// aapt resource value: 0x7F070139
+			public const int ic_mr_button_connecting_24_dark = 2131165497;
+			
+			// aapt resource value: 0x7F07013A
+			public const int ic_mr_button_connecting_24_light = 2131165498;
+			
+			// aapt resource value: 0x7F07013B
+			public const int ic_mr_button_connecting_25_dark = 2131165499;
+			
+			// aapt resource value: 0x7F07013C
+			public const int ic_mr_button_connecting_25_light = 2131165500;
+			
+			// aapt resource value: 0x7F07013D
+			public const int ic_mr_button_connecting_26_dark = 2131165501;
+			
+			// aapt resource value: 0x7F07013E
+			public const int ic_mr_button_connecting_26_light = 2131165502;
+			
+			// aapt resource value: 0x7F07013F
+			public const int ic_mr_button_connecting_27_dark = 2131165503;
+			
+			// aapt resource value: 0x7F070140
+			public const int ic_mr_button_connecting_27_light = 2131165504;
+			
+			// aapt resource value: 0x7F070141
+			public const int ic_mr_button_connecting_28_dark = 2131165505;
+			
+			// aapt resource value: 0x7F070142
+			public const int ic_mr_button_connecting_28_light = 2131165506;
+			
+			// aapt resource value: 0x7F070143
+			public const int ic_mr_button_connecting_29_dark = 2131165507;
+			
+			// aapt resource value: 0x7F070144
+			public const int ic_mr_button_connecting_29_light = 2131165508;
+			
+			// aapt resource value: 0x7F070145
+			public const int ic_mr_button_connecting_30_dark = 2131165509;
+			
+			// aapt resource value: 0x7F070146
+			public const int ic_mr_button_connecting_30_light = 2131165510;
+			
+			// aapt resource value: 0x7F070147
+			public const int ic_mr_button_disabled_dark = 2131165511;
+			
+			// aapt resource value: 0x7F070148
+			public const int ic_mr_button_disabled_light = 2131165512;
+			
+			// aapt resource value: 0x7F070149
+			public const int ic_mr_button_disconnected_dark = 2131165513;
+			
+			// aapt resource value: 0x7F07014A
+			public const int ic_mr_button_disconnected_light = 2131165514;
+			
+			// aapt resource value: 0x7F07014B
+			public const int ic_mr_button_grey = 2131165515;
+			
+			// aapt resource value: 0x7F07014C
+			public const int ic_mtrl_chip_checked_black = 2131165516;
+			
+			// aapt resource value: 0x7F07014D
+			public const int ic_mtrl_chip_checked_circle = 2131165517;
+			
+			// aapt resource value: 0x7F07014E
+			public const int ic_mtrl_chip_close_circle = 2131165518;
+			
+			// aapt resource value: 0x7F07014F
+			public const int ic_vol_type_speaker_dark = 2131165519;
+			
+			// aapt resource value: 0x7F070150
+			public const int ic_vol_type_speaker_group_dark = 2131165520;
+			
+			// aapt resource value: 0x7F070151
+			public const int ic_vol_type_speaker_group_light = 2131165521;
+			
+			// aapt resource value: 0x7F070152
+			public const int ic_vol_type_speaker_light = 2131165522;
+			
+			// aapt resource value: 0x7F070153
+			public const int ic_vol_type_tv_dark = 2131165523;
+			
+			// aapt resource value: 0x7F070154
+			public const int ic_vol_type_tv_light = 2131165524;
+			
+			// aapt resource value: 0x7F070156
+			public const int inputlayout_togglecollapseicon = 2131165526;
+			
+			// aapt resource value: 0x7F070157
+			public const int inputlayout_togglevisibleicon = 2131165527;
+			
+			// aapt resource value: 0x7F070155
+			public const int input_layout_drop_down_icon = 2131165525;
+			
+			// aapt resource value: 0x7F070158
+			public const int login_logo = 2131165528;
+			
+			// aapt resource value: 0x7F070159
+			public const int mr_button_connected_dark = 2131165529;
+			
+			// aapt resource value: 0x7F07015A
+			public const int mr_button_connected_light = 2131165530;
+			
+			// aapt resource value: 0x7F07015B
+			public const int mr_button_connecting_dark = 2131165531;
+			
+			// aapt resource value: 0x7F07015C
+			public const int mr_button_connecting_light = 2131165532;
+			
+			// aapt resource value: 0x7F07015D
+			public const int mr_button_dark = 2131165533;
+			
+			// aapt resource value: 0x7F07015E
+			public const int mr_button_light = 2131165534;
+			
+			// aapt resource value: 0x7F07015F
+			public const int mr_dialog_close_dark = 2131165535;
+			
+			// aapt resource value: 0x7F070160
+			public const int mr_dialog_close_light = 2131165536;
+			
+			// aapt resource value: 0x7F070161
+			public const int mr_dialog_material_background_dark = 2131165537;
+			
+			// aapt resource value: 0x7F070162
+			public const int mr_dialog_material_background_light = 2131165538;
+			
+			// aapt resource value: 0x7F070163
+			public const int mr_group_collapse = 2131165539;
+			
+			// aapt resource value: 0x7F070164
+			public const int mr_group_expand = 2131165540;
+			
+			// aapt resource value: 0x7F070165
+			public const int mr_media_pause_dark = 2131165541;
+			
+			// aapt resource value: 0x7F070166
+			public const int mr_media_pause_light = 2131165542;
+			
+			// aapt resource value: 0x7F070167
+			public const int mr_media_play_dark = 2131165543;
+			
+			// aapt resource value: 0x7F070168
+			public const int mr_media_play_light = 2131165544;
+			
+			// aapt resource value: 0x7F070169
+			public const int mr_media_stop_dark = 2131165545;
+			
+			// aapt resource value: 0x7F07016A
+			public const int mr_media_stop_light = 2131165546;
+			
+			// aapt resource value: 0x7F07016B
+			public const int mr_vol_type_audiotrack_dark = 2131165547;
+			
+			// aapt resource value: 0x7F07016C
+			public const int mr_vol_type_audiotrack_light = 2131165548;
+			
+			// aapt resource value: 0x7F07016D
+			public const int mtrl_snackbar_background = 2131165549;
+			
+			// aapt resource value: 0x7F07016E
+			public const int mtrl_tabs_default_indicator = 2131165550;
+			
+			// aapt resource value: 0x7F07016F
+			public const int navigation_empty_icon = 2131165551;
+			
+			// aapt resource value: 0x7F070170
+			public const int notification_action_background = 2131165552;
+			
+			// aapt resource value: 0x7F070171
+			public const int notification_bg = 2131165553;
+			
+			// aapt resource value: 0x7F070172
+			public const int notification_bg_low = 2131165554;
+			
+			// aapt resource value: 0x7F070173
+			public const int notification_bg_low_normal = 2131165555;
+			
+			// aapt resource value: 0x7F070174
+			public const int notification_bg_low_pressed = 2131165556;
+			
+			// aapt resource value: 0x7F070175
+			public const int notification_bg_normal = 2131165557;
+			
+			// aapt resource value: 0x7F070176
+			public const int notification_bg_normal_pressed = 2131165558;
+			
+			// aapt resource value: 0x7F070177
+			public const int notification_icon_background = 2131165559;
+			
+			// aapt resource value: 0x7F070178
+			public const int notification_template_icon_bg = 2131165560;
+			
+			// aapt resource value: 0x7F070179
+			public const int notification_template_icon_low_bg = 2131165561;
+			
+			// aapt resource value: 0x7F07017A
+			public const int notification_tile_bg = 2131165562;
+			
+			// aapt resource value: 0x7F07017B
+			public const int notify_panel_notification_icon_bg = 2131165563;
+			
+			// aapt resource value: 0x7F07017C
+			public const int places_autocomplete_toolbar_shadow = 2131165564;
+			
+			// aapt resource value: 0x7F07017D
+			public const int places_powered_by_google_dark = 2131165565;
+			
+			// aapt resource value: 0x7F07017E
+			public const int places_powered_by_google_light = 2131165566;
+			
+			// aapt resource value: 0x7F07017F
+			public const int quantum_ic_arrow_back_grey600_24 = 2131165567;
+			
+			// aapt resource value: 0x7F070180
+			public const int quantum_ic_clear_grey600_24 = 2131165568;
+			
+			// aapt resource value: 0x7F070181
+			public const int quantum_ic_cloud_off_vd_theme_24 = 2131165569;
+			
+			// aapt resource value: 0x7F070182
+			public const int quantum_ic_search_grey600_24 = 2131165570;
+			
+			// aapt resource value: 0x7F070183
+			public const int Recurrence = 2131165571;
+			
+			// aapt resource value: 0x7F070184
+			public const int redball = 2131165572;
+			
+			// aapt resource value: 0x7F070185
+			public const int redmarker = 2131165573;
+			
+			// aapt resource value: 0x7F070186
+			public const int tooltip_frame_dark = 2131165574;
+			
+			// aapt resource value: 0x7F070187
+			public const int tooltip_frame_light = 2131165575;
 			
 			static Drawable()
 			{
@@ -4736,706 +8165,907 @@ namespace Fitness_Diary
 			public const int bottom = 2131230758;
 			
 			// aapt resource value: 0x7F080027
-			public const int browser_actions_header_text = 2131230759;
-			
-			// aapt resource value: 0x7F08002A
-			public const int browser_actions_menu_items = 2131230762;
+			public const int bottomtab_navarea = 2131230759;
 			
 			// aapt resource value: 0x7F080028
-			public const int browser_actions_menu_item_icon = 2131230760;
+			public const int bottomtab_tabbar = 2131230760;
 			
 			// aapt resource value: 0x7F080029
-			public const int browser_actions_menu_item_text = 2131230761;
-			
-			// aapt resource value: 0x7F08002B
-			public const int browser_actions_menu_view = 2131230763;
+			public const int browser_actions_header_text = 2131230761;
 			
 			// aapt resource value: 0x7F08002C
-			public const int btnDatasheetDone = 2131230764;
+			public const int browser_actions_menu_items = 2131230764;
+			
+			// aapt resource value: 0x7F08002A
+			public const int browser_actions_menu_item_icon = 2131230762;
+			
+			// aapt resource value: 0x7F08002B
+			public const int browser_actions_menu_item_text = 2131230763;
 			
 			// aapt resource value: 0x7F08002D
-			public const int btnLogin = 2131230765;
-			
-			// aapt resource value: 0x7F080031
-			public const int btnlogin = 2131230769;
+			public const int browser_actions_menu_view = 2131230765;
 			
 			// aapt resource value: 0x7F08002E
-			public const int btnMapDone = 2131230766;
+			public const int btnCalendarStart = 2131230766;
 			
 			// aapt resource value: 0x7F08002F
-			public const int btnMapStart = 2131230767;
-			
-			// aapt resource value: 0x7F080030
-			public const int btnRegister = 2131230768;
-			
-			// aapt resource value: 0x7F080032
-			public const int btnregister = 2131230770;
-			
-			// aapt resource value: 0x7F080033
-			public const int buttonPanel = 2131230771;
+			public const int btnDatasheetDone = 2131230767;
 			
 			// aapt resource value: 0x7F080034
-			public const int cancel_action = 2131230772;
+			public const int btnlogin = 2131230772;
+			
+			// aapt resource value: 0x7F080030
+			public const int btnLogin = 2131230768;
+			
+			// aapt resource value: 0x7F080031
+			public const int btnMapDone = 2131230769;
+			
+			// aapt resource value: 0x7F080032
+			public const int btnMapStart = 2131230770;
 			
 			// aapt resource value: 0x7F080035
-			public const int center = 2131230773;
+			public const int btnregister = 2131230773;
+			
+			// aapt resource value: 0x7F080033
+			public const int btnRegister = 2131230771;
 			
 			// aapt resource value: 0x7F080036
-			public const int center_horizontal = 2131230774;
+			public const int buttonPanel = 2131230774;
 			
 			// aapt resource value: 0x7F080037
-			public const int center_vertical = 2131230775;
+			public const int calendarView = 2131230775;
 			
 			// aapt resource value: 0x7F080038
-			public const int centreMarker = 2131230776;
+			public const int cancel_action = 2131230776;
 			
 			// aapt resource value: 0x7F080039
-			public const int checkbox = 2131230777;
+			public const int center = 2131230777;
 			
 			// aapt resource value: 0x7F08003A
-			public const int chronometer = 2131230778;
+			public const int center_horizontal = 2131230778;
 			
 			// aapt resource value: 0x7F08003B
-			public const int circleImageView1 = 2131230779;
+			public const int center_vertical = 2131230779;
 			
 			// aapt resource value: 0x7F08003C
-			public const int clip_horizontal = 2131230780;
+			public const int centreMarker = 2131230780;
 			
 			// aapt resource value: 0x7F08003D
-			public const int clip_vertical = 2131230781;
+			public const int checkbox = 2131230781;
 			
 			// aapt resource value: 0x7F08003E
-			public const int collapseActionView = 2131230782;
+			public const int chronometer = 2131230782;
 			
 			// aapt resource value: 0x7F08003F
-			public const int container = 2131230783;
+			public const int circleImageView1 = 2131230783;
 			
 			// aapt resource value: 0x7F080040
-			public const int content = 2131230784;
+			public const int clip_horizontal = 2131230784;
 			
 			// aapt resource value: 0x7F080041
-			public const int contentPanel = 2131230785;
+			public const int clip_vertical = 2131230785;
 			
 			// aapt resource value: 0x7F080042
-			public const int coordinator = 2131230786;
+			public const int collapseActionView = 2131230786;
+			
+			// aapt resource value: 0x7F080043
+			public const int container = 2131230787;
+			
+			// aapt resource value: 0x7F080044
+			public const int content = 2131230788;
+			
+			// aapt resource value: 0x7F080045
+			public const int contentPanel = 2131230789;
+			
+			// aapt resource value: 0x7F080046
+			public const int coordinator = 2131230790;
 			
 			// aapt resource value: 0x7F080001
 			public const int CTRL = 2131230721;
 			
-			// aapt resource value: 0x7F080043
-			public const int custom = 2131230787;
-			
-			// aapt resource value: 0x7F080044
-			public const int customPanel = 2131230788;
-			
-			// aapt resource value: 0x7F080045
-			public const int dark = 2131230789;
-			
-			// aapt resource value: 0x7F080046
-			public const int datasheet_bottomsheet = 2131230790;
-			
 			// aapt resource value: 0x7F080047
-			public const int decor_content_parent = 2131230791;
+			public const int custom = 2131230791;
 			
 			// aapt resource value: 0x7F080048
-			public const int default_activity_button = 2131230792;
+			public const int customPanel = 2131230792;
 			
 			// aapt resource value: 0x7F080049
-			public const int design_bottom_sheet = 2131230793;
+			public const int dark = 2131230793;
 			
 			// aapt resource value: 0x7F08004A
-			public const int design_menu_item_action_area = 2131230794;
+			public const int datasheet_bottomsheet = 2131230794;
 			
 			// aapt resource value: 0x7F08004B
-			public const int design_menu_item_action_area_stub = 2131230795;
+			public const int dayView = 2131230795;
 			
 			// aapt resource value: 0x7F08004C
-			public const int design_menu_item_text = 2131230796;
+			public const int decor_content_parent = 2131230796;
 			
 			// aapt resource value: 0x7F08004D
-			public const int design_navigation_view = 2131230797;
+			public const int default_activity_button = 2131230797;
 			
 			// aapt resource value: 0x7F08004E
-			public const int disableHome = 2131230798;
+			public const int design_bottom_sheet = 2131230798;
 			
 			// aapt resource value: 0x7F08004F
-			public const int edit_query = 2131230799;
+			public const int design_menu_item_action_area = 2131230799;
 			
 			// aapt resource value: 0x7F080050
-			public const int end = 2131230800;
+			public const int design_menu_item_action_area_stub = 2131230800;
 			
 			// aapt resource value: 0x7F080051
-			public const int end_padder = 2131230801;
+			public const int design_menu_item_text = 2131230801;
 			
 			// aapt resource value: 0x7F080052
-			public const int enterAlways = 2131230802;
+			public const int design_navigation_view = 2131230802;
 			
 			// aapt resource value: 0x7F080053
-			public const int enterAlwaysCollapsed = 2131230803;
+			public const int disableHome = 2131230803;
 			
 			// aapt resource value: 0x7F080054
-			public const int exitUntilCollapsed = 2131230804;
-			
-			// aapt resource value: 0x7F080056
-			public const int expanded_menu = 2131230806;
+			public const int edit_query = 2131230804;
 			
 			// aapt resource value: 0x7F080055
-			public const int expand_activities_button = 2131230805;
+			public const int end = 2131230805;
+			
+			// aapt resource value: 0x7F080056
+			public const int end_padder = 2131230806;
 			
 			// aapt resource value: 0x7F080057
-			public const int fill = 2131230807;
-			
-			// aapt resource value: 0x7F08005A
-			public const int filled = 2131230810;
+			public const int enterAlways = 2131230807;
 			
 			// aapt resource value: 0x7F080058
-			public const int fill_horizontal = 2131230808;
+			public const int enterAlwaysCollapsed = 2131230808;
 			
 			// aapt resource value: 0x7F080059
-			public const int fill_vertical = 2131230809;
+			public const int exitUntilCollapsed = 2131230809;
 			
 			// aapt resource value: 0x7F08005B
-			public const int @fixed = 2131230811;
+			public const int expanded_menu = 2131230811;
+			
+			// aapt resource value: 0x7F08005A
+			public const int expand_activities_button = 2131230810;
 			
 			// aapt resource value: 0x7F08005C
-			public const int forever = 2131230812;
+			public const int fill = 2131230812;
+			
+			// aapt resource value: 0x7F08005F
+			public const int filled = 2131230815;
 			
 			// aapt resource value: 0x7F08005D
-			public const int frameLocations = 2131230813;
+			public const int fill_horizontal = 2131230813;
+			
+			// aapt resource value: 0x7F08005E
+			public const int fill_vertical = 2131230814;
+			
+			// aapt resource value: 0x7F080060
+			public const int @fixed = 2131230816;
+			
+			// aapt resource value: 0x7F080061
+			public const int flyoutcontent_appbar = 2131230817;
+			
+			// aapt resource value: 0x7F080062
+			public const int flyoutcontent_recycler = 2131230818;
+			
+			// aapt resource value: 0x7F080063
+			public const int forever = 2131230819;
+			
+			// aapt resource value: 0x7F080064
+			public const int frameLocations = 2131230820;
 			
 			// aapt resource value: 0x7F080002
 			public const int FUNCTION = 2131230722;
 			
-			// aapt resource value: 0x7F08005E
-			public const int ghost_view = 2131230814;
-			
-			// aapt resource value: 0x7F08005F
-			public const int glide_custom_view_target_tag = 2131230815;
-			
-			// aapt resource value: 0x7F080060
-			public const int group_divider = 2131230816;
-			
-			// aapt resource value: 0x7F080061
-			public const int home = 2131230817;
-			
-			// aapt resource value: 0x7F080062
-			public const int homeAsUp = 2131230818;
-			
-			// aapt resource value: 0x7F080063
-			public const int hybrid = 2131230819;
-			
-			// aapt resource value: 0x7F080064
-			public const int icon = 2131230820;
-			
 			// aapt resource value: 0x7F080065
-			public const int icon_group = 2131230821;
+			public const int ghost_view = 2131230821;
 			
 			// aapt resource value: 0x7F080066
-			public const int icon_only = 2131230822;
+			public const int glide_custom_view_target_tag = 2131230822;
 			
 			// aapt resource value: 0x7F080067
-			public const int ifRoom = 2131230823;
+			public const int group_divider = 2131230823;
 			
 			// aapt resource value: 0x7F080068
-			public const int image = 2131230824;
+			public const int home = 2131230824;
 			
 			// aapt resource value: 0x7F080069
-			public const int info = 2131230825;
+			public const int homeAsUp = 2131230825;
 			
 			// aapt resource value: 0x7F08006A
-			public const int italic = 2131230826;
+			public const int hybrid = 2131230826;
 			
 			// aapt resource value: 0x7F08006B
-			public const int item_touch_helper_previous_elevation = 2131230827;
+			public const int icon = 2131230827;
 			
 			// aapt resource value: 0x7F08006C
-			public const int labeled = 2131230828;
+			public const int icon_group = 2131230828;
 			
 			// aapt resource value: 0x7F08006D
-			public const int largeLabel = 2131230829;
+			public const int icon_only = 2131230829;
 			
 			// aapt resource value: 0x7F08006E
-			public const int layoutEndDestination = 2131230830;
+			public const int ifRoom = 2131230830;
 			
 			// aapt resource value: 0x7F08006F
-			public const int layoutStartDestination = 2131230831;
+			public const int image = 2131230831;
 			
 			// aapt resource value: 0x7F080070
-			public const int left = 2131230832;
+			public const int info = 2131230832;
 			
 			// aapt resource value: 0x7F080071
-			public const int light = 2131230833;
+			public const int italic = 2131230833;
 			
 			// aapt resource value: 0x7F080072
-			public const int line1 = 2131230834;
+			public const int item_touch_helper_previous_elevation = 2131230834;
 			
 			// aapt resource value: 0x7F080073
-			public const int line3 = 2131230835;
+			public const int labeled = 2131230835;
 			
 			// aapt resource value: 0x7F080074
-			public const int listMode = 2131230836;
+			public const int largeLabel = 2131230836;
 			
 			// aapt resource value: 0x7F080075
-			public const int list_item = 2131230837;
+			public const int layoutEndDestination = 2131230837;
 			
 			// aapt resource value: 0x7F080076
-			public const int map = 2131230838;
+			public const int layoutStartDestination = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int mapView = 2131230839;
+			public const int left = 2131230839;
 			
 			// aapt resource value: 0x7F080078
-			public const int masked = 2131230840;
+			public const int light = 2131230840;
 			
 			// aapt resource value: 0x7F080079
-			public const int media_actions = 2131230841;
+			public const int line1 = 2131230841;
 			
 			// aapt resource value: 0x7F08007A
-			public const int message = 2131230842;
+			public const int line3 = 2131230842;
+			
+			// aapt resource value: 0x7F08007B
+			public const int listMode = 2131230843;
+			
+			// aapt resource value: 0x7F08007C
+			public const int list_item = 2131230844;
+			
+			// aapt resource value: 0x7F08007D
+			public const int main_appbar = 2131230845;
+			
+			// aapt resource value: 0x7F08007E
+			public const int main_scrollview = 2131230846;
+			
+			// aapt resource value: 0x7F08007F
+			public const int main_tablayout = 2131230847;
+			
+			// aapt resource value: 0x7F080080
+			public const int main_toolbar = 2131230848;
+			
+			// aapt resource value: 0x7F080081
+			public const int map = 2131230849;
+			
+			// aapt resource value: 0x7F080082
+			public const int mapView = 2131230850;
+			
+			// aapt resource value: 0x7F080083
+			public const int masked = 2131230851;
+			
+			// aapt resource value: 0x7F080084
+			public const int media_actions = 2131230852;
+			
+			// aapt resource value: 0x7F080085
+			public const int message = 2131230853;
 			
 			// aapt resource value: 0x7F080003
 			public const int META = 2131230723;
 			
-			// aapt resource value: 0x7F08007B
-			public const int middle = 2131230843;
-			
-			// aapt resource value: 0x7F08007C
-			public const int mini = 2131230844;
-			
-			// aapt resource value: 0x7F08007D
-			public const int mtrl_child_content_container = 2131230845;
-			
-			// aapt resource value: 0x7F08007E
-			public const int mtrl_internal_children_alpha_tag = 2131230846;
-			
-			// aapt resource value: 0x7F08007F
-			public const int multiply = 2131230847;
-			
-			// aapt resource value: 0x7F080080
-			public const int myLocation = 2131230848;
-			
-			// aapt resource value: 0x7F080081
-			public const int navCalculator = 2131230849;
-			
-			// aapt resource value: 0x7F080082
-			public const int navCalendar = 2131230850;
-			
-			// aapt resource value: 0x7F080083
-			public const int navDiet = 2131230851;
-			
-			// aapt resource value: 0x7F080084
-			public const int navHelp = 2131230852;
-			
 			// aapt resource value: 0x7F080086
-			public const int navigation_header_container = 2131230854;
-			
-			// aapt resource value: 0x7F080085
-			public const int navMap = 2131230853;
+			public const int middle = 2131230854;
 			
 			// aapt resource value: 0x7F080087
-			public const int never = 2131230855;
+			public const int mini = 2131230855;
 			
 			// aapt resource value: 0x7F080088
-			public const int none = 2131230856;
+			public const int monthView = 2131230856;
 			
 			// aapt resource value: 0x7F080089
-			public const int normal = 2131230857;
+			public const int mr_art = 2131230857;
 			
 			// aapt resource value: 0x7F08008A
-			public const int notification_background = 2131230858;
+			public const int mr_cast_checkbox = 2131230858;
 			
 			// aapt resource value: 0x7F08008B
-			public const int notification_main_column = 2131230859;
+			public const int mr_cast_close_button = 2131230859;
 			
 			// aapt resource value: 0x7F08008C
-			public const int notification_main_column_container = 2131230860;
+			public const int mr_cast_group_icon = 2131230860;
 			
 			// aapt resource value: 0x7F08008D
-			public const int outline = 2131230861;
+			public const int mr_cast_group_name = 2131230861;
 			
 			// aapt resource value: 0x7F08008E
-			public const int parallax = 2131230862;
+			public const int mr_cast_list = 2131230862;
 			
 			// aapt resource value: 0x7F08008F
-			public const int parentPanel = 2131230863;
+			public const int mr_cast_meta = 2131230863;
 			
 			// aapt resource value: 0x7F080090
-			public const int parent_matrix = 2131230864;
+			public const int mr_cast_meta_art = 2131230864;
 			
 			// aapt resource value: 0x7F080091
-			public const int pin = 2131230865;
+			public const int mr_cast_meta_subtitle = 2131230865;
 			
 			// aapt resource value: 0x7F080092
-			public const int places_autocomplete_action_bar = 2131230866;
+			public const int mr_cast_meta_title = 2131230866;
 			
 			// aapt resource value: 0x7F080093
-			public const int places_autocomplete_back_button = 2131230867;
+			public const int mr_cast_route_icon = 2131230867;
 			
 			// aapt resource value: 0x7F080094
-			public const int places_autocomplete_clear_button = 2131230868;
+			public const int mr_cast_route_name = 2131230868;
 			
 			// aapt resource value: 0x7F080095
-			public const int places_autocomplete_edit_text = 2131230869;
+			public const int mr_cast_stop_button = 2131230869;
 			
 			// aapt resource value: 0x7F080096
-			public const int places_autocomplete_error = 2131230870;
+			public const int mr_cast_volume_layout = 2131230870;
 			
 			// aapt resource value: 0x7F080097
-			public const int places_autocomplete_error_message = 2131230871;
+			public const int mr_cast_volume_slider = 2131230871;
 			
 			// aapt resource value: 0x7F080098
-			public const int places_autocomplete_error_progress = 2131230872;
+			public const int mr_chooser_list = 2131230872;
 			
 			// aapt resource value: 0x7F080099
-			public const int places_autocomplete_list = 2131230873;
+			public const int mr_chooser_route_desc = 2131230873;
 			
 			// aapt resource value: 0x7F08009A
-			public const int places_autocomplete_overlay_content = 2131230874;
+			public const int mr_chooser_route_icon = 2131230874;
 			
 			// aapt resource value: 0x7F08009B
-			public const int places_autocomplete_overlay_root = 2131230875;
+			public const int mr_chooser_route_name = 2131230875;
 			
 			// aapt resource value: 0x7F08009C
-			public const int places_autocomplete_powered_by_google = 2131230876;
+			public const int mr_chooser_title = 2131230876;
 			
 			// aapt resource value: 0x7F08009D
-			public const int places_autocomplete_prediction_primary_text = 2131230877;
+			public const int mr_close = 2131230877;
 			
 			// aapt resource value: 0x7F08009E
-			public const int places_autocomplete_prediction_secondary_text = 2131230878;
+			public const int mr_control_divider = 2131230878;
 			
 			// aapt resource value: 0x7F08009F
-			public const int places_autocomplete_progress = 2131230879;
+			public const int mr_control_playback_ctrl = 2131230879;
 			
 			// aapt resource value: 0x7F0800A0
-			public const int places_autocomplete_search_button = 2131230880;
+			public const int mr_control_subtitle = 2131230880;
 			
 			// aapt resource value: 0x7F0800A1
-			public const int places_autocomplete_search_input = 2131230881;
+			public const int mr_control_title = 2131230881;
 			
 			// aapt resource value: 0x7F0800A2
-			public const int places_autocomplete_separator = 2131230882;
+			public const int mr_control_title_container = 2131230882;
 			
 			// aapt resource value: 0x7F0800A3
-			public const int places_autocomplete_try_again = 2131230883;
+			public const int mr_custom_control = 2131230883;
 			
 			// aapt resource value: 0x7F0800A4
-			public const int progress_circular = 2131230884;
+			public const int mr_default_control = 2131230884;
 			
 			// aapt resource value: 0x7F0800A5
-			public const int progress_horizontal = 2131230885;
+			public const int mr_dialog_area = 2131230885;
 			
 			// aapt resource value: 0x7F0800A6
-			public const int radio = 2131230886;
+			public const int mr_dialog_header_name = 2131230886;
 			
 			// aapt resource value: 0x7F0800A7
-			public const int rbtnEndDestination = 2131230887;
+			public const int mr_expandable_area = 2131230887;
 			
 			// aapt resource value: 0x7F0800A8
-			public const int rbtnStartDestination = 2131230888;
+			public const int mr_group_expand_collapse = 2131230888;
 			
 			// aapt resource value: 0x7F0800A9
-			public const int right = 2131230889;
+			public const int mr_group_volume_route_name = 2131230889;
 			
 			// aapt resource value: 0x7F0800AA
-			public const int right_icon = 2131230890;
+			public const int mr_group_volume_slider = 2131230890;
 			
 			// aapt resource value: 0x7F0800AB
-			public const int right_side = 2131230891;
+			public const int mr_media_main_control = 2131230891;
 			
 			// aapt resource value: 0x7F0800AC
-			public const int rootView = 2131230892;
+			public const int mr_name = 2131230892;
 			
 			// aapt resource value: 0x7F0800AD
-			public const int runCentreMarker = 2131230893;
+			public const int mr_picker_close_button = 2131230893;
 			
 			// aapt resource value: 0x7F0800AE
-			public const int satellite = 2131230894;
+			public const int mr_picker_list = 2131230894;
 			
 			// aapt resource value: 0x7F0800AF
-			public const int save_image_matrix = 2131230895;
+			public const int mr_picker_route_icon = 2131230895;
 			
 			// aapt resource value: 0x7F0800B0
-			public const int save_non_transition_alpha = 2131230896;
+			public const int mr_picker_route_name = 2131230896;
 			
 			// aapt resource value: 0x7F0800B1
-			public const int save_scale_type = 2131230897;
+			public const int mr_playback_control = 2131230897;
 			
 			// aapt resource value: 0x7F0800B2
-			public const int screen = 2131230898;
+			public const int mr_title_bar = 2131230898;
 			
 			// aapt resource value: 0x7F0800B3
-			public const int scroll = 2131230899;
-			
-			// aapt resource value: 0x7F0800B7
-			public const int scrollable = 2131230903;
+			public const int mr_volume_control = 2131230899;
 			
 			// aapt resource value: 0x7F0800B4
-			public const int scrollIndicatorDown = 2131230900;
+			public const int mr_volume_group_list = 2131230900;
 			
 			// aapt resource value: 0x7F0800B5
-			public const int scrollIndicatorUp = 2131230901;
+			public const int mr_volume_item_icon = 2131230901;
 			
 			// aapt resource value: 0x7F0800B6
-			public const int scrollView = 2131230902;
+			public const int mr_volume_slider = 2131230902;
+			
+			// aapt resource value: 0x7F0800B7
+			public const int mtrl_child_content_container = 2131230903;
 			
 			// aapt resource value: 0x7F0800B8
-			public const int search_badge = 2131230904;
+			public const int mtrl_internal_children_alpha_tag = 2131230904;
 			
 			// aapt resource value: 0x7F0800B9
-			public const int search_bar = 2131230905;
+			public const int multiply = 2131230905;
 			
 			// aapt resource value: 0x7F0800BA
-			public const int search_button = 2131230906;
+			public const int myLocation = 2131230906;
 			
 			// aapt resource value: 0x7F0800BB
-			public const int search_close_btn = 2131230907;
+			public const int navCalculator = 2131230907;
 			
 			// aapt resource value: 0x7F0800BC
-			public const int search_edit_frame = 2131230908;
+			public const int navCalendar = 2131230908;
 			
 			// aapt resource value: 0x7F0800BD
-			public const int search_go_btn = 2131230909;
+			public const int navDiet = 2131230909;
 			
 			// aapt resource value: 0x7F0800BE
-			public const int search_mag_icon = 2131230910;
-			
-			// aapt resource value: 0x7F0800BF
-			public const int search_plate = 2131230911;
+			public const int navHelp = 2131230910;
 			
 			// aapt resource value: 0x7F0800C0
-			public const int search_src_text = 2131230912;
+			public const int navigation_header_container = 2131230912;
+			
+			// aapt resource value: 0x7F0800BF
+			public const int navMap = 2131230911;
 			
 			// aapt resource value: 0x7F0800C1
-			public const int search_voice_btn = 2131230913;
-			
-			// aapt resource value: 0x7F0800C3
-			public const int selected = 2131230915;
+			public const int never = 2131230913;
 			
 			// aapt resource value: 0x7F0800C2
-			public const int select_dialog_listview = 2131230914;
+			public const int none = 2131230914;
+			
+			// aapt resource value: 0x7F0800C3
+			public const int normal = 2131230915;
+			
+			// aapt resource value: 0x7F0800C4
+			public const int notification_background = 2131230916;
+			
+			// aapt resource value: 0x7F0800C5
+			public const int notification_main_column = 2131230917;
+			
+			// aapt resource value: 0x7F0800C6
+			public const int notification_main_column_container = 2131230918;
+			
+			// aapt resource value: 0x7F0800C7
+			public const int outline = 2131230919;
+			
+			// aapt resource value: 0x7F0800C8
+			public const int parallax = 2131230920;
+			
+			// aapt resource value: 0x7F0800C9
+			public const int parentPanel = 2131230921;
+			
+			// aapt resource value: 0x7F0800CA
+			public const int parent_matrix = 2131230922;
+			
+			// aapt resource value: 0x7F0800CB
+			public const int pin = 2131230923;
+			
+			// aapt resource value: 0x7F0800CC
+			public const int places_autocomplete_action_bar = 2131230924;
+			
+			// aapt resource value: 0x7F0800CD
+			public const int places_autocomplete_back_button = 2131230925;
+			
+			// aapt resource value: 0x7F0800CE
+			public const int places_autocomplete_clear_button = 2131230926;
+			
+			// aapt resource value: 0x7F0800CF
+			public const int places_autocomplete_edit_text = 2131230927;
+			
+			// aapt resource value: 0x7F0800D0
+			public const int places_autocomplete_error = 2131230928;
+			
+			// aapt resource value: 0x7F0800D1
+			public const int places_autocomplete_error_message = 2131230929;
+			
+			// aapt resource value: 0x7F0800D2
+			public const int places_autocomplete_error_progress = 2131230930;
+			
+			// aapt resource value: 0x7F0800D3
+			public const int places_autocomplete_list = 2131230931;
+			
+			// aapt resource value: 0x7F0800D4
+			public const int places_autocomplete_overlay_content = 2131230932;
+			
+			// aapt resource value: 0x7F0800D5
+			public const int places_autocomplete_overlay_root = 2131230933;
+			
+			// aapt resource value: 0x7F0800D6
+			public const int places_autocomplete_powered_by_google = 2131230934;
+			
+			// aapt resource value: 0x7F0800D7
+			public const int places_autocomplete_prediction_primary_text = 2131230935;
+			
+			// aapt resource value: 0x7F0800D8
+			public const int places_autocomplete_prediction_secondary_text = 2131230936;
+			
+			// aapt resource value: 0x7F0800D9
+			public const int places_autocomplete_progress = 2131230937;
+			
+			// aapt resource value: 0x7F0800DA
+			public const int places_autocomplete_search_button = 2131230938;
+			
+			// aapt resource value: 0x7F0800DB
+			public const int places_autocomplete_search_input = 2131230939;
+			
+			// aapt resource value: 0x7F0800DC
+			public const int places_autocomplete_separator = 2131230940;
+			
+			// aapt resource value: 0x7F0800DD
+			public const int places_autocomplete_try_again = 2131230941;
+			
+			// aapt resource value: 0x7F0800DE
+			public const int progress_circular = 2131230942;
+			
+			// aapt resource value: 0x7F0800DF
+			public const int progress_horizontal = 2131230943;
+			
+			// aapt resource value: 0x7F0800E0
+			public const int radio = 2131230944;
+			
+			// aapt resource value: 0x7F0800E1
+			public const int rbtnEndDestination = 2131230945;
+			
+			// aapt resource value: 0x7F0800E2
+			public const int rbtnStartDestination = 2131230946;
+			
+			// aapt resource value: 0x7F0800E3
+			public const int right = 2131230947;
+			
+			// aapt resource value: 0x7F0800E4
+			public const int right_icon = 2131230948;
+			
+			// aapt resource value: 0x7F0800E5
+			public const int right_side = 2131230949;
+			
+			// aapt resource value: 0x7F0800E6
+			public const int rootView = 2131230950;
+			
+			// aapt resource value: 0x7F0800E7
+			public const int runCentreMarker = 2131230951;
+			
+			// aapt resource value: 0x7F0800E8
+			public const int satellite = 2131230952;
+			
+			// aapt resource value: 0x7F0800E9
+			public const int save_image_matrix = 2131230953;
+			
+			// aapt resource value: 0x7F0800EA
+			public const int save_non_transition_alpha = 2131230954;
+			
+			// aapt resource value: 0x7F0800EB
+			public const int save_scale_type = 2131230955;
+			
+			// aapt resource value: 0x7F0800EC
+			public const int screen = 2131230956;
+			
+			// aapt resource value: 0x7F0800ED
+			public const int scroll = 2131230957;
+			
+			// aapt resource value: 0x7F0800F1
+			public const int scrollable = 2131230961;
+			
+			// aapt resource value: 0x7F0800EE
+			public const int scrollIndicatorDown = 2131230958;
+			
+			// aapt resource value: 0x7F0800EF
+			public const int scrollIndicatorUp = 2131230959;
+			
+			// aapt resource value: 0x7F0800F0
+			public const int scrollView = 2131230960;
+			
+			// aapt resource value: 0x7F0800F2
+			public const int search_badge = 2131230962;
+			
+			// aapt resource value: 0x7F0800F3
+			public const int search_bar = 2131230963;
+			
+			// aapt resource value: 0x7F0800F4
+			public const int search_button = 2131230964;
+			
+			// aapt resource value: 0x7F0800F5
+			public const int search_close_btn = 2131230965;
+			
+			// aapt resource value: 0x7F0800F6
+			public const int search_edit_frame = 2131230966;
+			
+			// aapt resource value: 0x7F0800F7
+			public const int search_go_btn = 2131230967;
+			
+			// aapt resource value: 0x7F0800F8
+			public const int search_mag_icon = 2131230968;
+			
+			// aapt resource value: 0x7F0800F9
+			public const int search_plate = 2131230969;
+			
+			// aapt resource value: 0x7F0800FA
+			public const int search_src_text = 2131230970;
+			
+			// aapt resource value: 0x7F0800FB
+			public const int search_voice_btn = 2131230971;
+			
+			// aapt resource value: 0x7F0800FD
+			public const int selected = 2131230973;
+			
+			// aapt resource value: 0x7F0800FC
+			public const int select_dialog_listview = 2131230972;
+			
+			// aapt resource value: 0x7F0800FE
+			public const int shellcontent_appbar = 2131230974;
+			
+			// aapt resource value: 0x7F0800FF
+			public const int shellcontent_scrollview = 2131230975;
+			
+			// aapt resource value: 0x7F080100
+			public const int shellcontent_toolbar = 2131230976;
 			
 			// aapt resource value: 0x7F080004
 			public const int SHIFT = 2131230724;
 			
-			// aapt resource value: 0x7F0800C4
-			public const int shortcut = 2131230916;
+			// aapt resource value: 0x7F080101
+			public const int shortcut = 2131230977;
 			
-			// aapt resource value: 0x7F0800C5
-			public const int showCustom = 2131230917;
+			// aapt resource value: 0x7F080102
+			public const int showCustom = 2131230978;
 			
-			// aapt resource value: 0x7F0800C6
-			public const int showHome = 2131230918;
+			// aapt resource value: 0x7F080103
+			public const int showHome = 2131230979;
 			
-			// aapt resource value: 0x7F0800C7
-			public const int showTitle = 2131230919;
+			// aapt resource value: 0x7F080104
+			public const int showTitle = 2131230980;
 			
-			// aapt resource value: 0x7F0800C8
-			public const int smallLabel = 2131230920;
+			// aapt resource value: 0x7F080105
+			public const int smallLabel = 2131230981;
 			
-			// aapt resource value: 0x7F0800C9
-			public const int snackbar_action = 2131230921;
+			// aapt resource value: 0x7F080106
+			public const int snackbar_action = 2131230982;
 			
-			// aapt resource value: 0x7F0800CA
-			public const int snackbar_text = 2131230922;
+			// aapt resource value: 0x7F080107
+			public const int snackbar_text = 2131230983;
 			
-			// aapt resource value: 0x7F0800CB
-			public const int snap = 2131230923;
+			// aapt resource value: 0x7F080108
+			public const int snap = 2131230984;
 			
-			// aapt resource value: 0x7F0800CC
-			public const int snapMargins = 2131230924;
+			// aapt resource value: 0x7F080109
+			public const int snapMargins = 2131230985;
 			
-			// aapt resource value: 0x7F0800CD
-			public const int spacer = 2131230925;
+			// aapt resource value: 0x7F08010A
+			public const int spacer = 2131230986;
 			
-			// aapt resource value: 0x7F0800CE
-			public const int split_action_bar = 2131230926;
+			// aapt resource value: 0x7F08010B
+			public const int split_action_bar = 2131230987;
 			
-			// aapt resource value: 0x7F0800CF
-			public const int src_atop = 2131230927;
+			// aapt resource value: 0x7F08010C
+			public const int src_atop = 2131230988;
 			
-			// aapt resource value: 0x7F0800D0
-			public const int src_in = 2131230928;
+			// aapt resource value: 0x7F08010D
+			public const int src_in = 2131230989;
 			
-			// aapt resource value: 0x7F0800D1
-			public const int src_over = 2131230929;
+			// aapt resource value: 0x7F08010E
+			public const int src_over = 2131230990;
 			
-			// aapt resource value: 0x7F0800D2
-			public const int standard = 2131230930;
+			// aapt resource value: 0x7F08010F
+			public const int standard = 2131230991;
 			
-			// aapt resource value: 0x7F0800D3
-			public const int start = 2131230931;
+			// aapt resource value: 0x7F080110
+			public const int start = 2131230992;
 			
-			// aapt resource value: 0x7F0800D4
-			public const int status_bar_latest_event_content = 2131230932;
+			// aapt resource value: 0x7F080111
+			public const int status_bar_latest_event_content = 2131230993;
 			
-			// aapt resource value: 0x7F0800D5
-			public const int stretch = 2131230933;
+			// aapt resource value: 0x7F080112
+			public const int stretch = 2131230994;
 			
-			// aapt resource value: 0x7F0800D6
-			public const int submenuarrow = 2131230934;
+			// aapt resource value: 0x7F080113
+			public const int submenuarrow = 2131230995;
 			
-			// aapt resource value: 0x7F0800D7
-			public const int submit_area = 2131230935;
+			// aapt resource value: 0x7F080114
+			public const int submit_area = 2131230996;
 			
 			// aapt resource value: 0x7F080005
 			public const int SYM = 2131230725;
 			
-			// aapt resource value: 0x7F0800D8
-			public const int tabMode = 2131230936;
+			// aapt resource value: 0x7F080115
+			public const int tabMode = 2131230997;
 			
-			// aapt resource value: 0x7F0800D9
-			public const int tag_transition_group = 2131230937;
+			// aapt resource value: 0x7F080116
+			public const int tag_transition_group = 2131230998;
 			
-			// aapt resource value: 0x7F0800DA
-			public const int tag_unhandled_key_event_manager = 2131230938;
+			// aapt resource value: 0x7F080117
+			public const int tag_unhandled_key_event_manager = 2131230999;
 			
-			// aapt resource value: 0x7F0800DB
-			public const int tag_unhandled_key_listeners = 2131230939;
+			// aapt resource value: 0x7F080118
+			public const int tag_unhandled_key_listeners = 2131231000;
 			
-			// aapt resource value: 0x7F0800DC
-			public const int terrain = 2131230940;
+			// aapt resource value: 0x7F080119
+			public const int terrain = 2131231001;
 			
-			// aapt resource value: 0x7F0800DD
-			public const int text = 2131230941;
+			// aapt resource value: 0x7F08011A
+			public const int text = 2131231002;
 			
-			// aapt resource value: 0x7F0800DE
-			public const int text2 = 2131230942;
+			// aapt resource value: 0x7F08011B
+			public const int text2 = 2131231003;
 			
-			// aapt resource value: 0x7F0800E3
-			public const int textinput_counter = 2131230947;
+			// aapt resource value: 0x7F080120
+			public const int textinput_counter = 2131231008;
 			
-			// aapt resource value: 0x7F0800E4
-			public const int textinput_error = 2131230948;
+			// aapt resource value: 0x7F080121
+			public const int textinput_error = 2131231009;
 			
-			// aapt resource value: 0x7F0800E5
-			public const int textinput_helper_text = 2131230949;
+			// aapt resource value: 0x7F080122
+			public const int textinput_helper_text = 2131231010;
 			
-			// aapt resource value: 0x7F0800DF
-			public const int textSpacerNoButtons = 2131230943;
+			// aapt resource value: 0x7F08011C
+			public const int textSpacerNoButtons = 2131231004;
 			
-			// aapt resource value: 0x7F0800E0
-			public const int textSpacerNoTitle = 2131230944;
+			// aapt resource value: 0x7F08011D
+			public const int textSpacerNoTitle = 2131231005;
 			
-			// aapt resource value: 0x7F0800E1
-			public const int textStart = 2131230945;
+			// aapt resource value: 0x7F08011E
+			public const int textStart = 2131231006;
 			
-			// aapt resource value: 0x7F0800E2
-			public const int text_input_password_toggle = 2131230946;
+			// aapt resource value: 0x7F08011F
+			public const int text_input_password_toggle = 2131231007;
 			
-			// aapt resource value: 0x7F0800E6
-			public const int time = 2131230950;
+			// aapt resource value: 0x7F080123
+			public const int time = 2131231011;
 			
-			// aapt resource value: 0x7F0800E7
-			public const int timer_bottomsheet = 2131230951;
+			// aapt resource value: 0x7F080124
+			public const int timer_bottomsheet = 2131231012;
 			
-			// aapt resource value: 0x7F0800E8
-			public const int title = 2131230952;
+			// aapt resource value: 0x7F080125
+			public const int title = 2131231013;
 			
-			// aapt resource value: 0x7F0800E9
-			public const int titleDividerNoCustom = 2131230953;
+			// aapt resource value: 0x7F080126
+			public const int titleDividerNoCustom = 2131231014;
 			
-			// aapt resource value: 0x7F0800EA
-			public const int title_template = 2131230954;
+			// aapt resource value: 0x7F080127
+			public const int title_template = 2131231015;
 			
-			// aapt resource value: 0x7F0800EB
-			public const int top = 2131230955;
+			// aapt resource value: 0x7F080128
+			public const int top = 2131231016;
 			
-			// aapt resource value: 0x7F0800EC
-			public const int topPanel = 2131230956;
+			// aapt resource value: 0x7F080129
+			public const int topPanel = 2131231017;
 			
-			// aapt resource value: 0x7F0800ED
-			public const int touch_outside = 2131230957;
+			// aapt resource value: 0x7F08012A
+			public const int touch_outside = 2131231018;
 			
-			// aapt resource value: 0x7F0800EE
-			public const int transition_current_scene = 2131230958;
+			// aapt resource value: 0x7F08012B
+			public const int transition_current_scene = 2131231019;
 			
-			// aapt resource value: 0x7F0800EF
-			public const int transition_layout_save = 2131230959;
+			// aapt resource value: 0x7F08012C
+			public const int transition_layout_save = 2131231020;
 			
-			// aapt resource value: 0x7F0800F0
-			public const int transition_position = 2131230960;
+			// aapt resource value: 0x7F08012D
+			public const int transition_position = 2131231021;
 			
-			// aapt resource value: 0x7F0800F1
-			public const int transition_scene_layoutid_cache = 2131230961;
+			// aapt resource value: 0x7F08012E
+			public const int transition_scene_layoutid_cache = 2131231022;
 			
-			// aapt resource value: 0x7F0800F2
-			public const int transition_transform = 2131230962;
+			// aapt resource value: 0x7F08012F
+			public const int transition_transform = 2131231023;
 			
-			// aapt resource value: 0x7F0800F3
-			public const int txtClickToLogin = 2131230963;
+			// aapt resource value: 0x7F080130
+			public const int txtCalendarDisplay = 2131231024;
 			
-			// aapt resource value: 0x7F0800F4
-			public const int txtClickToRegister = 2131230964;
+			// aapt resource value: 0x7F080131
+			public const int txtClickToLogin = 2131231025;
 			
-			// aapt resource value: 0x7F0800F5
-			public const int txtEndDestination = 2131230965;
+			// aapt resource value: 0x7F080132
+			public const int txtClickToRegister = 2131231026;
 			
-			// aapt resource value: 0x7F0800F6
-			public const int txtLoginEmail = 2131230966;
+			// aapt resource value: 0x7F080133
+			public const int txtEndDestination = 2131231027;
 			
-			// aapt resource value: 0x7F0800F7
-			public const int txtLoginPassword = 2131230967;
+			// aapt resource value: 0x7F080134
+			public const int txtLoginEmail = 2131231028;
 			
-			// aapt resource value: 0x7F0800F8
-			public const int txtRegisterEmail = 2131230968;
+			// aapt resource value: 0x7F080135
+			public const int txtLoginPassword = 2131231029;
 			
-			// aapt resource value: 0x7F0800F9
-			public const int txtRegisterFullName = 2131230969;
+			// aapt resource value: 0x7F080136
+			public const int txtRegisterEmail = 2131231030;
 			
-			// aapt resource value: 0x7F0800FA
-			public const int txtRegisterPassword = 2131230970;
+			// aapt resource value: 0x7F080137
+			public const int txtRegisterFullName = 2131231031;
 			
-			// aapt resource value: 0x7F0800FB
-			public const int txtSpeed = 2131230971;
+			// aapt resource value: 0x7F080138
+			public const int txtRegisterPassword = 2131231032;
 			
-			// aapt resource value: 0x7F0800FC
-			public const int txtStartDestination = 2131230972;
+			// aapt resource value: 0x7F080139
+			public const int txtSpeed = 2131231033;
 			
-			// aapt resource value: 0x7F0800FD
-			public const int txtTimer = 2131230973;
+			// aapt resource value: 0x7F08013A
+			public const int txtStartDestination = 2131231034;
 			
-			// aapt resource value: 0x7F0800FE
-			public const int txtTotalDistance = 2131230974;
+			// aapt resource value: 0x7F08013B
+			public const int txtTimer = 2131231035;
 			
-			// aapt resource value: 0x7F0800FF
-			public const int txtTotalTime = 2131230975;
+			// aapt resource value: 0x7F08013C
+			public const int txtTotalDistance = 2131231036;
 			
-			// aapt resource value: 0x7F080100
-			public const int uniform = 2131230976;
+			// aapt resource value: 0x7F08013D
+			public const int txtTotalTime = 2131231037;
 			
-			// aapt resource value: 0x7F080101
-			public const int unlabeled = 2131230977;
+			// aapt resource value: 0x7F08013E
+			public const int txtWorkoutInput = 2131231038;
 			
-			// aapt resource value: 0x7F080102
-			public const int up = 2131230978;
+			// aapt resource value: 0x7F08013F
+			public const int uniform = 2131231039;
 			
-			// aapt resource value: 0x7F080103
-			public const int useLogo = 2131230979;
+			// aapt resource value: 0x7F080140
+			public const int unlabeled = 2131231040;
 			
-			// aapt resource value: 0x7F080105
-			public const int viewpager = 2131230981;
+			// aapt resource value: 0x7F080141
+			public const int up = 2131231041;
 			
-			// aapt resource value: 0x7F080104
-			public const int view_offset_helper = 2131230980;
+			// aapt resource value: 0x7F080142
+			public const int useLogo = 2131231042;
 			
-			// aapt resource value: 0x7F080106
-			public const int visible = 2131230982;
+			// aapt resource value: 0x7F080143
+			public const int viewCalendar = 2131231043;
 			
-			// aapt resource value: 0x7F080107
-			public const int webview = 2131230983;
+			// aapt resource value: 0x7F080145
+			public const int viewpager = 2131231045;
 			
-			// aapt resource value: 0x7F080108
-			public const int wide = 2131230984;
+			// aapt resource value: 0x7F080144
+			public const int view_offset_helper = 2131231044;
 			
-			// aapt resource value: 0x7F080109
-			public const int window = 2131230985;
+			// aapt resource value: 0x7F080146
+			public const int visible = 2131231046;
 			
-			// aapt resource value: 0x7F08010A
-			public const int withText = 2131230986;
+			// aapt resource value: 0x7F080147
+			public const int volume_item_container = 2131231047;
 			
-			// aapt resource value: 0x7F08010B
-			public const int wrap_content = 2131230987;
+			// aapt resource value: 0x7F080148
+			public const int webview = 2131231048;
+			
+			// aapt resource value: 0x7F080149
+			public const int weekView = 2131231049;
+			
+			// aapt resource value: 0x7F08014A
+			public const int wide = 2131231050;
+			
+			// aapt resource value: 0x7F08014B
+			public const int window = 2131231051;
+			
+			// aapt resource value: 0x7F08014C
+			public const int withText = 2131231052;
+			
+			// aapt resource value: 0x7F08014D
+			public const int workWeekView = 2131231053;
+			
+			// aapt resource value: 0x7F08014E
+			public const int wrap_content = 2131231054;
 			
 			static Id()
 			{
@@ -5481,22 +9111,34 @@ namespace Fitness_Diary
 			public const int hide_password_duration = 2131296265;
 			
 			// aapt resource value: 0x7F09000A
-			public const int mtrl_btn_anim_delay_ms = 2131296266;
+			public const int mr_controller_volume_group_list_animation_duration_ms = 2131296266;
 			
 			// aapt resource value: 0x7F09000B
-			public const int mtrl_btn_anim_duration_ms = 2131296267;
+			public const int mr_controller_volume_group_list_fade_in_duration_ms = 2131296267;
 			
 			// aapt resource value: 0x7F09000C
-			public const int mtrl_chip_anim_duration = 2131296268;
+			public const int mr_controller_volume_group_list_fade_out_duration_ms = 2131296268;
 			
 			// aapt resource value: 0x7F09000D
-			public const int mtrl_tab_indicator_anim_duration_ms = 2131296269;
+			public const int mr_update_routes_delay_ms = 2131296269;
 			
 			// aapt resource value: 0x7F09000E
-			public const int show_password_duration = 2131296270;
+			public const int mtrl_btn_anim_delay_ms = 2131296270;
 			
 			// aapt resource value: 0x7F09000F
-			public const int status_bar_notification_info_maxnum = 2131296271;
+			public const int mtrl_btn_anim_duration_ms = 2131296271;
+			
+			// aapt resource value: 0x7F090010
+			public const int mtrl_chip_anim_duration = 2131296272;
+			
+			// aapt resource value: 0x7F090011
+			public const int mtrl_tab_indicator_anim_duration_ms = 2131296273;
+			
+			// aapt resource value: 0x7F090012
+			public const int show_password_duration = 2131296274;
+			
+			// aapt resource value: 0x7F090013
+			public const int status_bar_notification_info_maxnum = 2131296275;
 			
 			static Integer()
 			{
@@ -5512,16 +9154,22 @@ namespace Fitness_Diary
 		{
 			
 			// aapt resource value: 0x7F0A0000
-			public const int mtrl_fast_out_linear_in = 2131361792;
+			public const int mr_fast_out_slow_in = 2131361792;
 			
 			// aapt resource value: 0x7F0A0001
-			public const int mtrl_fast_out_slow_in = 2131361793;
+			public const int mr_linear_out_slow_in = 2131361793;
 			
 			// aapt resource value: 0x7F0A0002
-			public const int mtrl_linear = 2131361794;
+			public const int mtrl_fast_out_linear_in = 2131361794;
 			
 			// aapt resource value: 0x7F0A0003
-			public const int mtrl_linear_out_slow_in = 2131361795;
+			public const int mtrl_fast_out_slow_in = 2131361795;
+			
+			// aapt resource value: 0x7F0A0004
+			public const int mtrl_linear = 2131361796;
+			
+			// aapt resource value: 0x7F0A0005
+			public const int mtrl_linear_out_slow_in = 2131361797;
 			
 			static Interpolator()
 			{
@@ -5633,166 +9281,220 @@ namespace Fitness_Diary
 			public const int amu_webview = 2131427359;
 			
 			// aapt resource value: 0x7F0B0020
-			public const int browser_actions_context_menu_page = 2131427360;
+			public const int BottomTabLayout = 2131427360;
 			
 			// aapt resource value: 0x7F0B0021
-			public const int browser_actions_context_menu_row = 2131427361;
+			public const int browser_actions_context_menu_page = 2131427361;
 			
 			// aapt resource value: 0x7F0B0022
-			public const int calculator = 2131427362;
+			public const int browser_actions_context_menu_row = 2131427362;
 			
 			// aapt resource value: 0x7F0B0023
-			public const int calendar = 2131427363;
+			public const int calculator = 2131427363;
 			
 			// aapt resource value: 0x7F0B0024
-			public const int design_bottom_navigation_item = 2131427364;
+			public const int calendar = 2131427364;
 			
 			// aapt resource value: 0x7F0B0025
-			public const int design_bottom_sheet_dialog = 2131427365;
+			public const int design_bottom_navigation_item = 2131427365;
 			
 			// aapt resource value: 0x7F0B0026
-			public const int design_layout_snackbar = 2131427366;
+			public const int design_bottom_sheet_dialog = 2131427366;
 			
 			// aapt resource value: 0x7F0B0027
-			public const int design_layout_snackbar_include = 2131427367;
+			public const int design_layout_snackbar = 2131427367;
 			
 			// aapt resource value: 0x7F0B0028
-			public const int design_layout_tab_icon = 2131427368;
+			public const int design_layout_snackbar_include = 2131427368;
 			
 			// aapt resource value: 0x7F0B0029
-			public const int design_layout_tab_text = 2131427369;
+			public const int design_layout_tab_icon = 2131427369;
 			
 			// aapt resource value: 0x7F0B002A
-			public const int design_menu_item_action_area = 2131427370;
+			public const int design_layout_tab_text = 2131427370;
 			
 			// aapt resource value: 0x7F0B002B
-			public const int design_navigation_item = 2131427371;
+			public const int design_menu_item_action_area = 2131427371;
 			
 			// aapt resource value: 0x7F0B002C
-			public const int design_navigation_item_header = 2131427372;
+			public const int design_navigation_item = 2131427372;
 			
 			// aapt resource value: 0x7F0B002D
-			public const int design_navigation_item_separator = 2131427373;
+			public const int design_navigation_item_header = 2131427373;
 			
 			// aapt resource value: 0x7F0B002E
-			public const int design_navigation_item_subheader = 2131427374;
+			public const int design_navigation_item_separator = 2131427374;
 			
 			// aapt resource value: 0x7F0B002F
-			public const int design_navigation_menu = 2131427375;
+			public const int design_navigation_item_subheader = 2131427375;
 			
 			// aapt resource value: 0x7F0B0030
-			public const int design_navigation_menu_item = 2131427376;
+			public const int design_navigation_menu = 2131427376;
 			
 			// aapt resource value: 0x7F0B0031
-			public const int design_text_input_password_icon = 2131427377;
+			public const int design_navigation_menu_item = 2131427377;
 			
 			// aapt resource value: 0x7F0B0032
-			public const int diet_planner = 2131427378;
+			public const int design_text_input_password_icon = 2131427378;
 			
 			// aapt resource value: 0x7F0B0033
-			public const int help = 2131427379;
+			public const int diet_planner = 2131427379;
 			
 			// aapt resource value: 0x7F0B0034
-			public const int login = 2131427380;
+			public const int FlyoutContent = 2131427380;
 			
 			// aapt resource value: 0x7F0B0035
-			public const int map = 2131427381;
+			public const int help = 2131427381;
 			
 			// aapt resource value: 0x7F0B0036
-			public const int map_datasheet = 2131427382;
+			public const int login = 2131427382;
 			
 			// aapt resource value: 0x7F0B0037
-			public const int map_timer = 2131427383;
+			public const int map = 2131427383;
 			
 			// aapt resource value: 0x7F0B0038
-			public const int mtrl_layout_snackbar = 2131427384;
+			public const int map_datasheet = 2131427384;
 			
 			// aapt resource value: 0x7F0B0039
-			public const int mtrl_layout_snackbar_include = 2131427385;
+			public const int map_timer = 2131427385;
 			
 			// aapt resource value: 0x7F0B003A
-			public const int notification_action = 2131427386;
+			public const int mr_cast_dialog = 2131427386;
 			
 			// aapt resource value: 0x7F0B003B
-			public const int notification_action_tombstone = 2131427387;
+			public const int mr_cast_group_item = 2131427387;
 			
 			// aapt resource value: 0x7F0B003C
-			public const int notification_media_action = 2131427388;
+			public const int mr_cast_group_volume_item = 2131427388;
 			
 			// aapt resource value: 0x7F0B003D
-			public const int notification_media_cancel_action = 2131427389;
+			public const int mr_cast_media_metadata = 2131427389;
 			
 			// aapt resource value: 0x7F0B003E
-			public const int notification_template_big_media = 2131427390;
+			public const int mr_cast_route_item = 2131427390;
 			
 			// aapt resource value: 0x7F0B003F
-			public const int notification_template_big_media_custom = 2131427391;
+			public const int mr_chooser_dialog = 2131427391;
 			
 			// aapt resource value: 0x7F0B0040
-			public const int notification_template_big_media_narrow = 2131427392;
+			public const int mr_chooser_list_item = 2131427392;
 			
 			// aapt resource value: 0x7F0B0041
-			public const int notification_template_big_media_narrow_custom = 2131427393;
+			public const int mr_controller_material_dialog_b = 2131427393;
 			
 			// aapt resource value: 0x7F0B0042
-			public const int notification_template_custom_big = 2131427394;
+			public const int mr_controller_volume_item = 2131427394;
 			
 			// aapt resource value: 0x7F0B0043
-			public const int notification_template_icon_group = 2131427395;
+			public const int mr_dialog_header_item = 2131427395;
 			
 			// aapt resource value: 0x7F0B0044
-			public const int notification_template_lines_media = 2131427396;
+			public const int mr_picker_dialog = 2131427396;
 			
 			// aapt resource value: 0x7F0B0045
-			public const int notification_template_media = 2131427397;
+			public const int mr_picker_route_item = 2131427397;
 			
 			// aapt resource value: 0x7F0B0046
-			public const int notification_template_media_custom = 2131427398;
+			public const int mr_playback_control = 2131427398;
 			
 			// aapt resource value: 0x7F0B0047
-			public const int notification_template_part_chronometer = 2131427399;
+			public const int mr_volume_control = 2131427399;
 			
 			// aapt resource value: 0x7F0B0048
-			public const int notification_template_part_time = 2131427400;
+			public const int mtrl_layout_snackbar = 2131427400;
 			
 			// aapt resource value: 0x7F0B0049
-			public const int places_autocomplete_error_text = 2131427401;
+			public const int mtrl_layout_snackbar_include = 2131427401;
 			
 			// aapt resource value: 0x7F0B004A
-			public const int places_autocomplete_fragment = 2131427402;
+			public const int notification_action = 2131427402;
 			
 			// aapt resource value: 0x7F0B004B
-			public const int places_autocomplete_item_powered_by_google = 2131427403;
+			public const int notification_action_tombstone = 2131427403;
 			
 			// aapt resource value: 0x7F0B004C
-			public const int places_autocomplete_item_prediction = 2131427404;
+			public const int notification_media_action = 2131427404;
 			
 			// aapt resource value: 0x7F0B004D
-			public const int places_autocomplete_main_fullscreen = 2131427405;
+			public const int notification_media_cancel_action = 2131427405;
 			
 			// aapt resource value: 0x7F0B004E
-			public const int places_autocomplete_main_overlay = 2131427406;
+			public const int notification_template_big_media = 2131427406;
 			
 			// aapt resource value: 0x7F0B004F
-			public const int places_autocomplete_progress = 2131427407;
+			public const int notification_template_big_media_custom = 2131427407;
 			
 			// aapt resource value: 0x7F0B0050
-			public const int places_autocomplete_search_bar = 2131427408;
+			public const int notification_template_big_media_narrow = 2131427408;
 			
 			// aapt resource value: 0x7F0B0051
-			public const int register = 2131427409;
+			public const int notification_template_big_media_narrow_custom = 2131427409;
 			
 			// aapt resource value: 0x7F0B0052
-			public const int select_dialog_item_material = 2131427410;
+			public const int notification_template_custom_big = 2131427410;
 			
 			// aapt resource value: 0x7F0B0053
-			public const int select_dialog_multichoice_material = 2131427411;
+			public const int notification_template_icon_group = 2131427411;
 			
 			// aapt resource value: 0x7F0B0054
-			public const int select_dialog_singlechoice_material = 2131427412;
+			public const int notification_template_lines_media = 2131427412;
 			
 			// aapt resource value: 0x7F0B0055
-			public const int support_simple_spinner_dropdown_item = 2131427413;
+			public const int notification_template_media = 2131427413;
+			
+			// aapt resource value: 0x7F0B0056
+			public const int notification_template_media_custom = 2131427414;
+			
+			// aapt resource value: 0x7F0B0057
+			public const int notification_template_part_chronometer = 2131427415;
+			
+			// aapt resource value: 0x7F0B0058
+			public const int notification_template_part_time = 2131427416;
+			
+			// aapt resource value: 0x7F0B0059
+			public const int places_autocomplete_error_text = 2131427417;
+			
+			// aapt resource value: 0x7F0B005A
+			public const int places_autocomplete_fragment = 2131427418;
+			
+			// aapt resource value: 0x7F0B005B
+			public const int places_autocomplete_item_powered_by_google = 2131427419;
+			
+			// aapt resource value: 0x7F0B005C
+			public const int places_autocomplete_item_prediction = 2131427420;
+			
+			// aapt resource value: 0x7F0B005D
+			public const int places_autocomplete_main_fullscreen = 2131427421;
+			
+			// aapt resource value: 0x7F0B005E
+			public const int places_autocomplete_main_overlay = 2131427422;
+			
+			// aapt resource value: 0x7F0B005F
+			public const int places_autocomplete_progress = 2131427423;
+			
+			// aapt resource value: 0x7F0B0060
+			public const int places_autocomplete_search_bar = 2131427424;
+			
+			// aapt resource value: 0x7F0B0061
+			public const int register = 2131427425;
+			
+			// aapt resource value: 0x7F0B0062
+			public const int RootLayout = 2131427426;
+			
+			// aapt resource value: 0x7F0B0063
+			public const int select_dialog_item_material = 2131427427;
+			
+			// aapt resource value: 0x7F0B0064
+			public const int select_dialog_multichoice_material = 2131427428;
+			
+			// aapt resource value: 0x7F0B0065
+			public const int select_dialog_singlechoice_material = 2131427429;
+			
+			// aapt resource value: 0x7F0B0066
+			public const int ShellContent = 2131427430;
+			
+			// aapt resource value: 0x7F0B0067
+			public const int support_simple_spinner_dropdown_item = 2131427431;
 			
 			static Layout()
 			{
@@ -5927,284 +9629,371 @@ namespace Fitness_Diary
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7F0F0000
-			public const int abc_action_bar_home_description = 2131689472;
-			
-			// aapt resource value: 0x7F0F0001
-			public const int abc_action_bar_up_description = 2131689473;
-			
-			// aapt resource value: 0x7F0F0002
-			public const int abc_action_menu_overflow_description = 2131689474;
-			
 			// aapt resource value: 0x7F0F0003
-			public const int abc_action_mode_done = 2131689475;
-			
-			// aapt resource value: 0x7F0F0005
-			public const int abc_activitychooserview_choose_application = 2131689477;
+			public const int abc_action_bar_home_description = 2131689475;
 			
 			// aapt resource value: 0x7F0F0004
-			public const int abc_activity_chooser_view_see_all = 2131689476;
+			public const int abc_action_bar_up_description = 2131689476;
+			
+			// aapt resource value: 0x7F0F0005
+			public const int abc_action_menu_overflow_description = 2131689477;
 			
 			// aapt resource value: 0x7F0F0006
-			public const int abc_capital_off = 2131689478;
-			
-			// aapt resource value: 0x7F0F0007
-			public const int abc_capital_on = 2131689479;
+			public const int abc_action_mode_done = 2131689478;
 			
 			// aapt resource value: 0x7F0F0008
-			public const int abc_font_family_body_1_material = 2131689480;
+			public const int abc_activitychooserview_choose_application = 2131689480;
+			
+			// aapt resource value: 0x7F0F0007
+			public const int abc_activity_chooser_view_see_all = 2131689479;
 			
 			// aapt resource value: 0x7F0F0009
-			public const int abc_font_family_body_2_material = 2131689481;
+			public const int abc_capital_off = 2131689481;
 			
 			// aapt resource value: 0x7F0F000A
-			public const int abc_font_family_button_material = 2131689482;
+			public const int abc_capital_on = 2131689482;
 			
 			// aapt resource value: 0x7F0F000B
-			public const int abc_font_family_caption_material = 2131689483;
+			public const int abc_font_family_body_1_material = 2131689483;
 			
 			// aapt resource value: 0x7F0F000C
-			public const int abc_font_family_display_1_material = 2131689484;
+			public const int abc_font_family_body_2_material = 2131689484;
 			
 			// aapt resource value: 0x7F0F000D
-			public const int abc_font_family_display_2_material = 2131689485;
+			public const int abc_font_family_button_material = 2131689485;
 			
 			// aapt resource value: 0x7F0F000E
-			public const int abc_font_family_display_3_material = 2131689486;
+			public const int abc_font_family_caption_material = 2131689486;
 			
 			// aapt resource value: 0x7F0F000F
-			public const int abc_font_family_display_4_material = 2131689487;
+			public const int abc_font_family_display_1_material = 2131689487;
 			
 			// aapt resource value: 0x7F0F0010
-			public const int abc_font_family_headline_material = 2131689488;
+			public const int abc_font_family_display_2_material = 2131689488;
 			
 			// aapt resource value: 0x7F0F0011
-			public const int abc_font_family_menu_material = 2131689489;
+			public const int abc_font_family_display_3_material = 2131689489;
 			
 			// aapt resource value: 0x7F0F0012
-			public const int abc_font_family_subhead_material = 2131689490;
+			public const int abc_font_family_display_4_material = 2131689490;
 			
 			// aapt resource value: 0x7F0F0013
-			public const int abc_font_family_title_material = 2131689491;
+			public const int abc_font_family_headline_material = 2131689491;
 			
 			// aapt resource value: 0x7F0F0014
-			public const int abc_menu_alt_shortcut_label = 2131689492;
+			public const int abc_font_family_menu_material = 2131689492;
 			
 			// aapt resource value: 0x7F0F0015
-			public const int abc_menu_ctrl_shortcut_label = 2131689493;
+			public const int abc_font_family_subhead_material = 2131689493;
 			
 			// aapt resource value: 0x7F0F0016
-			public const int abc_menu_delete_shortcut_label = 2131689494;
+			public const int abc_font_family_title_material = 2131689494;
 			
 			// aapt resource value: 0x7F0F0017
-			public const int abc_menu_enter_shortcut_label = 2131689495;
+			public const int abc_menu_alt_shortcut_label = 2131689495;
 			
 			// aapt resource value: 0x7F0F0018
-			public const int abc_menu_function_shortcut_label = 2131689496;
+			public const int abc_menu_ctrl_shortcut_label = 2131689496;
 			
 			// aapt resource value: 0x7F0F0019
-			public const int abc_menu_meta_shortcut_label = 2131689497;
+			public const int abc_menu_delete_shortcut_label = 2131689497;
 			
 			// aapt resource value: 0x7F0F001A
-			public const int abc_menu_shift_shortcut_label = 2131689498;
+			public const int abc_menu_enter_shortcut_label = 2131689498;
 			
 			// aapt resource value: 0x7F0F001B
-			public const int abc_menu_space_shortcut_label = 2131689499;
+			public const int abc_menu_function_shortcut_label = 2131689499;
 			
 			// aapt resource value: 0x7F0F001C
-			public const int abc_menu_sym_shortcut_label = 2131689500;
+			public const int abc_menu_meta_shortcut_label = 2131689500;
 			
 			// aapt resource value: 0x7F0F001D
-			public const int abc_prepend_shortcut_label = 2131689501;
-			
-			// aapt resource value: 0x7F0F001F
-			public const int abc_searchview_description_clear = 2131689503;
-			
-			// aapt resource value: 0x7F0F0020
-			public const int abc_searchview_description_query = 2131689504;
-			
-			// aapt resource value: 0x7F0F0021
-			public const int abc_searchview_description_search = 2131689505;
-			
-			// aapt resource value: 0x7F0F0022
-			public const int abc_searchview_description_submit = 2131689506;
-			
-			// aapt resource value: 0x7F0F0023
-			public const int abc_searchview_description_voice = 2131689507;
+			public const int abc_menu_shift_shortcut_label = 2131689501;
 			
 			// aapt resource value: 0x7F0F001E
-			public const int abc_search_hint = 2131689502;
+			public const int abc_menu_space_shortcut_label = 2131689502;
+			
+			// aapt resource value: 0x7F0F001F
+			public const int abc_menu_sym_shortcut_label = 2131689503;
+			
+			// aapt resource value: 0x7F0F0020
+			public const int abc_prepend_shortcut_label = 2131689504;
+			
+			// aapt resource value: 0x7F0F0022
+			public const int abc_searchview_description_clear = 2131689506;
+			
+			// aapt resource value: 0x7F0F0023
+			public const int abc_searchview_description_query = 2131689507;
 			
 			// aapt resource value: 0x7F0F0024
-			public const int abc_shareactionprovider_share_with = 2131689508;
+			public const int abc_searchview_description_search = 2131689508;
 			
 			// aapt resource value: 0x7F0F0025
-			public const int abc_shareactionprovider_share_with_application = 2131689509;
+			public const int abc_searchview_description_submit = 2131689509;
 			
 			// aapt resource value: 0x7F0F0026
-			public const int abc_toolbar_collapse_description = 2131689510;
+			public const int abc_searchview_description_voice = 2131689510;
+			
+			// aapt resource value: 0x7F0F0021
+			public const int abc_search_hint = 2131689505;
 			
 			// aapt resource value: 0x7F0F0027
-			public const int action_settings = 2131689511;
-			
-			// aapt resource value: 0x7F0F0029
-			public const int appbar_scrolling_view_behavior = 2131689513;
+			public const int abc_shareactionprovider_share_with = 2131689511;
 			
 			// aapt resource value: 0x7F0F0028
-			public const int app_name = 2131689512;
+			public const int abc_shareactionprovider_share_with_application = 2131689512;
+			
+			// aapt resource value: 0x7F0F0029
+			public const int abc_toolbar_collapse_description = 2131689513;
 			
 			// aapt resource value: 0x7F0F002A
-			public const int bottom_sheet_behavior = 2131689514;
+			public const int action_settings = 2131689514;
 			
 			// aapt resource value: 0x7F0F002B
-			public const int character_counter_content_description = 2131689515;
-			
-			// aapt resource value: 0x7F0F002C
-			public const int character_counter_pattern = 2131689516;
+			public const int all_day = 2131689515;
 			
 			// aapt resource value: 0x7F0F002D
-			public const int common_google_play_services_enable_button = 2131689517;
+			public const int appbar_scrolling_view_behavior = 2131689517;
+			
+			// aapt resource value: 0x7F0F002C
+			public const int app_name = 2131689516;
 			
 			// aapt resource value: 0x7F0F002E
-			public const int common_google_play_services_enable_text = 2131689518;
+			public const int bottom_sheet_behavior = 2131689518;
 			
 			// aapt resource value: 0x7F0F002F
-			public const int common_google_play_services_enable_title = 2131689519;
+			public const int character_counter_content_description = 2131689519;
 			
 			// aapt resource value: 0x7F0F0030
-			public const int common_google_play_services_install_button = 2131689520;
+			public const int character_counter_pattern = 2131689520;
 			
 			// aapt resource value: 0x7F0F0031
-			public const int common_google_play_services_install_text = 2131689521;
+			public const int common_google_play_services_enable_button = 2131689521;
 			
 			// aapt resource value: 0x7F0F0032
-			public const int common_google_play_services_install_title = 2131689522;
+			public const int common_google_play_services_enable_text = 2131689522;
 			
 			// aapt resource value: 0x7F0F0033
-			public const int common_google_play_services_notification_channel_name = 2131689523;
+			public const int common_google_play_services_enable_title = 2131689523;
 			
 			// aapt resource value: 0x7F0F0034
-			public const int common_google_play_services_notification_ticker = 2131689524;
+			public const int common_google_play_services_install_button = 2131689524;
 			
 			// aapt resource value: 0x7F0F0035
-			public const int common_google_play_services_unknown_issue = 2131689525;
+			public const int common_google_play_services_install_text = 2131689525;
 			
 			// aapt resource value: 0x7F0F0036
-			public const int common_google_play_services_unsupported_text = 2131689526;
+			public const int common_google_play_services_install_title = 2131689526;
 			
 			// aapt resource value: 0x7F0F0037
-			public const int common_google_play_services_update_button = 2131689527;
+			public const int common_google_play_services_notification_channel_name = 2131689527;
 			
 			// aapt resource value: 0x7F0F0038
-			public const int common_google_play_services_update_text = 2131689528;
+			public const int common_google_play_services_notification_ticker = 2131689528;
 			
 			// aapt resource value: 0x7F0F0039
-			public const int common_google_play_services_update_title = 2131689529;
+			public const int common_google_play_services_unknown_issue = 2131689529;
 			
 			// aapt resource value: 0x7F0F003A
-			public const int common_google_play_services_updating_text = 2131689530;
+			public const int common_google_play_services_unsupported_text = 2131689530;
 			
 			// aapt resource value: 0x7F0F003B
-			public const int common_google_play_services_wear_update_text = 2131689531;
+			public const int common_google_play_services_update_button = 2131689531;
 			
 			// aapt resource value: 0x7F0F003C
-			public const int common_open_on_phone = 2131689532;
+			public const int common_google_play_services_update_text = 2131689532;
 			
 			// aapt resource value: 0x7F0F003D
-			public const int common_signin_button_text = 2131689533;
+			public const int common_google_play_services_update_title = 2131689533;
 			
 			// aapt resource value: 0x7F0F003E
-			public const int common_signin_button_text_long = 2131689534;
+			public const int common_google_play_services_updating_text = 2131689534;
 			
 			// aapt resource value: 0x7F0F003F
-			public const int default_web_client_id = 2131689535;
+			public const int common_google_play_services_wear_update_text = 2131689535;
 			
 			// aapt resource value: 0x7F0F0040
-			public const int fab_transformation_scrim_behavior = 2131689536;
+			public const int common_open_on_phone = 2131689536;
 			
 			// aapt resource value: 0x7F0F0041
-			public const int fab_transformation_sheet_behavior = 2131689537;
+			public const int common_signin_button_text = 2131689537;
 			
 			// aapt resource value: 0x7F0F0042
-			public const int firebase_database_url = 2131689538;
+			public const int common_signin_button_text_long = 2131689538;
 			
 			// aapt resource value: 0x7F0F0043
-			public const int gcm_defaultSenderId = 2131689539;
+			public const int default_web_client_id = 2131689539;
 			
 			// aapt resource value: 0x7F0F0044
-			public const int google_api_key = 2131689540;
+			public const int fab_transformation_scrim_behavior = 2131689540;
 			
 			// aapt resource value: 0x7F0F0045
-			public const int google_app_id = 2131689541;
+			public const int fab_transformation_sheet_behavior = 2131689541;
 			
 			// aapt resource value: 0x7F0F0046
-			public const int google_crash_reporting_api_key = 2131689542;
+			public const int firebase_database_url = 2131689542;
 			
 			// aapt resource value: 0x7F0F0047
-			public const int google_storage_bucket = 2131689543;
+			public const int gcm_defaultSenderId = 2131689543;
 			
 			// aapt resource value: 0x7F0F0048
-			public const int hide_bottom_view_on_scroll_behavior = 2131689544;
+			public const int google_api_key = 2131689544;
 			
 			// aapt resource value: 0x7F0F0049
-			public const int login_click = 2131689545;
+			public const int google_app_id = 2131689545;
 			
 			// aapt resource value: 0x7F0F004A
-			public const int map_key = 2131689546;
+			public const int google_crash_reporting_api_key = 2131689546;
 			
 			// aapt resource value: 0x7F0F004B
-			public const int mtrl_chip_close_icon_content_description = 2131689547;
+			public const int google_storage_bucket = 2131689547;
 			
 			// aapt resource value: 0x7F0F004C
-			public const int password_toggle_content_description = 2131689548;
+			public const int hide_bottom_view_on_scroll_behavior = 2131689548;
 			
 			// aapt resource value: 0x7F0F004D
-			public const int path_password_eye = 2131689549;
+			public const int library_name = 2131689549;
 			
 			// aapt resource value: 0x7F0F004E
-			public const int path_password_eye_mask_strike_through = 2131689550;
+			public const int login_click = 2131689550;
 			
 			// aapt resource value: 0x7F0F004F
-			public const int path_password_eye_mask_visible = 2131689551;
+			public const int map_key = 2131689551;
 			
 			// aapt resource value: 0x7F0F0050
-			public const int path_password_strike_through = 2131689552;
+			public const int mr_button_content_description = 2131689552;
 			
 			// aapt resource value: 0x7F0F0051
-			public const int places_autocomplete_clear_button = 2131689553;
+			public const int mr_cast_button_connected = 2131689553;
 			
 			// aapt resource value: 0x7F0F0052
-			public const int places_autocomplete_label = 2131689554;
+			public const int mr_cast_button_connecting = 2131689554;
 			
 			// aapt resource value: 0x7F0F0053
-			public const int places_autocomplete_no_results_for_query = 2131689555;
+			public const int mr_cast_button_disconnected = 2131689555;
 			
 			// aapt resource value: 0x7F0F0054
-			public const int places_autocomplete_search_hint = 2131689556;
+			public const int mr_cast_dialog_title_view_placeholder = 2131689556;
 			
 			// aapt resource value: 0x7F0F0055
-			public const int places_cancel = 2131689557;
+			public const int mr_chooser_searching = 2131689557;
 			
 			// aapt resource value: 0x7F0F0056
-			public const int places_powered_by_google = 2131689558;
+			public const int mr_chooser_title = 2131689558;
 			
 			// aapt resource value: 0x7F0F0057
-			public const int places_search_error = 2131689559;
+			public const int mr_controller_album_art = 2131689559;
 			
 			// aapt resource value: 0x7F0F0058
-			public const int places_try_again = 2131689560;
+			public const int mr_controller_casting_screen = 2131689560;
 			
 			// aapt resource value: 0x7F0F0059
-			public const int project_id = 2131689561;
+			public const int mr_controller_close_description = 2131689561;
 			
 			// aapt resource value: 0x7F0F005A
-			public const int register_click = 2131689562;
+			public const int mr_controller_collapse_group = 2131689562;
 			
 			// aapt resource value: 0x7F0F005B
-			public const int search_menu_title = 2131689563;
+			public const int mr_controller_disconnect = 2131689563;
 			
 			// aapt resource value: 0x7F0F005C
-			public const int status_bar_notification_info_overflow = 2131689564;
+			public const int mr_controller_expand_group = 2131689564;
+			
+			// aapt resource value: 0x7F0F005D
+			public const int mr_controller_no_info_available = 2131689565;
+			
+			// aapt resource value: 0x7F0F005E
+			public const int mr_controller_no_media_selected = 2131689566;
+			
+			// aapt resource value: 0x7F0F005F
+			public const int mr_controller_pause = 2131689567;
+			
+			// aapt resource value: 0x7F0F0060
+			public const int mr_controller_play = 2131689568;
+			
+			// aapt resource value: 0x7F0F0061
+			public const int mr_controller_stop = 2131689569;
+			
+			// aapt resource value: 0x7F0F0062
+			public const int mr_controller_stop_casting = 2131689570;
+			
+			// aapt resource value: 0x7F0F0063
+			public const int mr_controller_volume_slider = 2131689571;
+			
+			// aapt resource value: 0x7F0F0064
+			public const int mr_dialog_device_header = 2131689572;
+			
+			// aapt resource value: 0x7F0F0065
+			public const int mr_dialog_route_header = 2131689573;
+			
+			// aapt resource value: 0x7F0F0066
+			public const int mr_system_route_name = 2131689574;
+			
+			// aapt resource value: 0x7F0F0067
+			public const int mr_user_route_category_name = 2131689575;
+			
+			// aapt resource value: 0x7F0F0068
+			public const int mtrl_chip_close_icon_content_description = 2131689576;
+			
+			// aapt resource value: 0x7F0F0000
+			public const int NoResources = 2131689472;
+			
+			// aapt resource value: 0x7F0F0001
+			public const int NoSelectedDate = 2131689473;
+			
+			// aapt resource value: 0x7F0F0002
+			public const int No_Appointments = 2131689474;
+			
+			// aapt resource value: 0x7F0F0069
+			public const int password_toggle_content_description = 2131689577;
+			
+			// aapt resource value: 0x7F0F006A
+			public const int path_password_eye = 2131689578;
+			
+			// aapt resource value: 0x7F0F006B
+			public const int path_password_eye_mask_strike_through = 2131689579;
+			
+			// aapt resource value: 0x7F0F006C
+			public const int path_password_eye_mask_visible = 2131689580;
+			
+			// aapt resource value: 0x7F0F006D
+			public const int path_password_strike_through = 2131689581;
+			
+			// aapt resource value: 0x7F0F006E
+			public const int places_autocomplete_clear_button = 2131689582;
+			
+			// aapt resource value: 0x7F0F006F
+			public const int places_autocomplete_label = 2131689583;
+			
+			// aapt resource value: 0x7F0F0070
+			public const int places_autocomplete_no_results_for_query = 2131689584;
+			
+			// aapt resource value: 0x7F0F0071
+			public const int places_autocomplete_search_hint = 2131689585;
+			
+			// aapt resource value: 0x7F0F0072
+			public const int places_cancel = 2131689586;
+			
+			// aapt resource value: 0x7F0F0073
+			public const int places_powered_by_google = 2131689587;
+			
+			// aapt resource value: 0x7F0F0074
+			public const int places_search_error = 2131689588;
+			
+			// aapt resource value: 0x7F0F0075
+			public const int places_try_again = 2131689589;
+			
+			// aapt resource value: 0x7F0F0076
+			public const int project_id = 2131689590;
+			
+			// aapt resource value: 0x7F0F0077
+			public const int register_click = 2131689591;
+			
+			// aapt resource value: 0x7F0F0078
+			public const int search_menu_title = 2131689592;
+			
+			// aapt resource value: 0x7F0F0079
+			public const int status_bar_notification_info_overflow = 2131689593;
 			
 			static String()
 			{
@@ -6225,14 +10014,14 @@ namespace Fitness_Diary
 			// aapt resource value: 0x7F100001
 			public const int AlertDialog_AppCompat_Light = 2131755009;
 			
-			// aapt resource value: 0x7F1001FA
-			public const int amu_Bubble_TextAppearance_Dark = 2131755514;
+			// aapt resource value: 0x7F100205
+			public const int amu_Bubble_TextAppearance_Dark = 2131755525;
 			
-			// aapt resource value: 0x7F1001FB
-			public const int amu_Bubble_TextAppearance_Light = 2131755515;
+			// aapt resource value: 0x7F100206
+			public const int amu_Bubble_TextAppearance_Light = 2131755526;
 			
-			// aapt resource value: 0x7F1001FC
-			public const int amu_ClusterIcon_TextAppearance = 2131755516;
+			// aapt resource value: 0x7F100207
+			public const int amu_ClusterIcon_TextAppearance = 2131755527;
 			
 			// aapt resource value: 0x7F100002
 			public const int Animation_AppCompat_Dialog = 2131755010;
@@ -7174,577 +10963,610 @@ namespace Fitness_Diary
 			public const int TextAppearance_MaterialComponents_Tab = 2131755322;
 			
 			// aapt resource value: 0x7F10013B
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131755323;
+			public const int TextAppearance_MediaRouter_PrimaryText = 2131755323;
 			
 			// aapt resource value: 0x7F10013C
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131755324;
+			public const int TextAppearance_MediaRouter_SecondaryText = 2131755324;
 			
 			// aapt resource value: 0x7F10013D
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131755325;
-			
-			// aapt resource value: 0x7F10016E
-			public const int ThemeOverlay_AppCompat = 2131755374;
-			
-			// aapt resource value: 0x7F10016F
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131755375;
-			
-			// aapt resource value: 0x7F100170
-			public const int ThemeOverlay_AppCompat_Dark = 2131755376;
-			
-			// aapt resource value: 0x7F100171
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131755377;
-			
-			// aapt resource value: 0x7F100172
-			public const int ThemeOverlay_AppCompat_Dialog = 2131755378;
-			
-			// aapt resource value: 0x7F100173
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131755379;
-			
-			// aapt resource value: 0x7F100174
-			public const int ThemeOverlay_AppCompat_Light = 2131755380;
-			
-			// aapt resource value: 0x7F100175
-			public const int ThemeOverlay_MaterialComponents = 2131755381;
-			
-			// aapt resource value: 0x7F100176
-			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131755382;
-			
-			// aapt resource value: 0x7F100177
-			public const int ThemeOverlay_MaterialComponents_Dark = 2131755383;
-			
-			// aapt resource value: 0x7F100178
-			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131755384;
-			
-			// aapt resource value: 0x7F100179
-			public const int ThemeOverlay_MaterialComponents_Dialog = 2131755385;
-			
-			// aapt resource value: 0x7F10017A
-			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131755386;
-			
-			// aapt resource value: 0x7F10017B
-			public const int ThemeOverlay_MaterialComponents_Light = 2131755387;
-			
-			// aapt resource value: 0x7F10017C
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131755388;
-			
-			// aapt resource value: 0x7F10017D
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131755389;
-			
-			// aapt resource value: 0x7F10017E
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131755390;
-			
-			// aapt resource value: 0x7F10017F
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131755391;
-			
-			// aapt resource value: 0x7F100180
-			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131755392;
+			public const int TextAppearance_MediaRouter_Title = 2131755325;
 			
 			// aapt resource value: 0x7F10013E
-			public const int Theme_AppCompat = 2131755326;
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131755326;
 			
 			// aapt resource value: 0x7F10013F
-			public const int Theme_AppCompat_CompactMenu = 2131755327;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131755327;
 			
 			// aapt resource value: 0x7F100140
-			public const int Theme_AppCompat_DayNight = 2131755328;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131755328;
 			
-			// aapt resource value: 0x7F100141
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131755329;
+			// aapt resource value: 0x7F100175
+			public const int ThemeOverlay_AppCompat = 2131755381;
 			
-			// aapt resource value: 0x7F100142
-			public const int Theme_AppCompat_DayNight_Dialog = 2131755330;
+			// aapt resource value: 0x7F100176
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131755382;
 			
-			// aapt resource value: 0x7F100145
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131755333;
+			// aapt resource value: 0x7F100177
+			public const int ThemeOverlay_AppCompat_Dark = 2131755383;
 			
-			// aapt resource value: 0x7F100143
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131755331;
+			// aapt resource value: 0x7F100178
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131755384;
 			
-			// aapt resource value: 0x7F100144
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131755332;
+			// aapt resource value: 0x7F100179
+			public const int ThemeOverlay_AppCompat_Dialog = 2131755385;
 			
-			// aapt resource value: 0x7F100146
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131755334;
+			// aapt resource value: 0x7F10017A
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131755386;
 			
-			// aapt resource value: 0x7F100147
-			public const int Theme_AppCompat_Dialog = 2131755335;
+			// aapt resource value: 0x7F10017B
+			public const int ThemeOverlay_AppCompat_Light = 2131755387;
 			
-			// aapt resource value: 0x7F10014A
-			public const int Theme_AppCompat_DialogWhenLarge = 2131755338;
+			// aapt resource value: 0x7F10017C
+			public const int ThemeOverlay_MaterialComponents = 2131755388;
 			
-			// aapt resource value: 0x7F100148
-			public const int Theme_AppCompat_Dialog_Alert = 2131755336;
+			// aapt resource value: 0x7F10017D
+			public const int ThemeOverlay_MaterialComponents_ActionBar = 2131755389;
 			
-			// aapt resource value: 0x7F100149
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131755337;
+			// aapt resource value: 0x7F10017E
+			public const int ThemeOverlay_MaterialComponents_Dark = 2131755390;
 			
-			// aapt resource value: 0x7F10014B
-			public const int Theme_AppCompat_Light = 2131755339;
+			// aapt resource value: 0x7F10017F
+			public const int ThemeOverlay_MaterialComponents_Dark_ActionBar = 2131755391;
 			
-			// aapt resource value: 0x7F10014C
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131755340;
-			
-			// aapt resource value: 0x7F10014D
-			public const int Theme_AppCompat_Light_Dialog = 2131755341;
-			
-			// aapt resource value: 0x7F100150
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131755344;
-			
-			// aapt resource value: 0x7F10014E
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131755342;
-			
-			// aapt resource value: 0x7F10014F
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131755343;
-			
-			// aapt resource value: 0x7F100151
-			public const int Theme_AppCompat_Light_NoActionBar = 2131755345;
-			
-			// aapt resource value: 0x7F100152
-			public const int Theme_AppCompat_NoActionBar = 2131755346;
-			
-			// aapt resource value: 0x7F100153
-			public const int Theme_Design = 2131755347;
-			
-			// aapt resource value: 0x7F100154
-			public const int Theme_Design_BottomSheetDialog = 2131755348;
-			
-			// aapt resource value: 0x7F100155
-			public const int Theme_Design_Light = 2131755349;
-			
-			// aapt resource value: 0x7F100156
-			public const int Theme_Design_Light_BottomSheetDialog = 2131755350;
-			
-			// aapt resource value: 0x7F100157
-			public const int Theme_Design_Light_NoActionBar = 2131755351;
-			
-			// aapt resource value: 0x7F100158
-			public const int Theme_Design_NoActionBar = 2131755352;
-			
-			// aapt resource value: 0x7F100159
-			public const int Theme_MaterialComponents = 2131755353;
-			
-			// aapt resource value: 0x7F10015A
-			public const int Theme_MaterialComponents_BottomSheetDialog = 2131755354;
-			
-			// aapt resource value: 0x7F10015B
-			public const int Theme_MaterialComponents_Bridge = 2131755355;
-			
-			// aapt resource value: 0x7F10015C
-			public const int Theme_MaterialComponents_CompactMenu = 2131755356;
-			
-			// aapt resource value: 0x7F10015D
-			public const int Theme_MaterialComponents_Dialog = 2131755357;
-			
-			// aapt resource value: 0x7F100160
-			public const int Theme_MaterialComponents_DialogWhenLarge = 2131755360;
-			
-			// aapt resource value: 0x7F10015E
-			public const int Theme_MaterialComponents_Dialog_Alert = 2131755358;
-			
-			// aapt resource value: 0x7F10015F
-			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131755359;
-			
-			// aapt resource value: 0x7F100161
-			public const int Theme_MaterialComponents_Light = 2131755361;
-			
-			// aapt resource value: 0x7F100162
-			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131755362;
-			
-			// aapt resource value: 0x7F100163
-			public const int Theme_MaterialComponents_Light_Bridge = 2131755363;
-			
-			// aapt resource value: 0x7F100164
-			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131755364;
-			
-			// aapt resource value: 0x7F100165
-			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131755365;
-			
-			// aapt resource value: 0x7F100166
-			public const int Theme_MaterialComponents_Light_Dialog = 2131755366;
-			
-			// aapt resource value: 0x7F100169
-			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131755369;
-			
-			// aapt resource value: 0x7F100167
-			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131755367;
-			
-			// aapt resource value: 0x7F100168
-			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131755368;
-			
-			// aapt resource value: 0x7F10016A
-			public const int Theme_MaterialComponents_Light_NoActionBar = 2131755370;
-			
-			// aapt resource value: 0x7F10016B
-			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131755371;
-			
-			// aapt resource value: 0x7F10016C
-			public const int Theme_MaterialComponents_NoActionBar = 2131755372;
-			
-			// aapt resource value: 0x7F10016D
-			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131755373;
+			// aapt resource value: 0x7F100180
+			public const int ThemeOverlay_MaterialComponents_Dialog = 2131755392;
 			
 			// aapt resource value: 0x7F100181
-			public const int Widget_AppCompat_ActionBar = 2131755393;
+			public const int ThemeOverlay_MaterialComponents_Dialog_Alert = 2131755393;
 			
 			// aapt resource value: 0x7F100182
-			public const int Widget_AppCompat_ActionBar_Solid = 2131755394;
+			public const int ThemeOverlay_MaterialComponents_Light = 2131755394;
 			
 			// aapt resource value: 0x7F100183
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131755395;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText = 2131755395;
 			
 			// aapt resource value: 0x7F100184
-			public const int Widget_AppCompat_ActionBar_TabText = 2131755396;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox = 2131755396;
 			
 			// aapt resource value: 0x7F100185
-			public const int Widget_AppCompat_ActionBar_TabView = 2131755397;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131755397;
 			
 			// aapt resource value: 0x7F100186
-			public const int Widget_AppCompat_ActionButton = 2131755398;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox = 2131755398;
 			
 			// aapt resource value: 0x7F100187
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131755399;
+			public const int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131755399;
 			
 			// aapt resource value: 0x7F100188
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131755400;
+			public const int ThemeOverlay_MediaRouter_Dark = 2131755400;
 			
 			// aapt resource value: 0x7F100189
-			public const int Widget_AppCompat_ActionMode = 2131755401;
+			public const int ThemeOverlay_MediaRouter_Light = 2131755401;
+			
+			// aapt resource value: 0x7F100141
+			public const int Theme_AppCompat = 2131755329;
+			
+			// aapt resource value: 0x7F100142
+			public const int Theme_AppCompat_CompactMenu = 2131755330;
+			
+			// aapt resource value: 0x7F100143
+			public const int Theme_AppCompat_DayNight = 2131755331;
+			
+			// aapt resource value: 0x7F100144
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131755332;
+			
+			// aapt resource value: 0x7F100145
+			public const int Theme_AppCompat_DayNight_Dialog = 2131755333;
+			
+			// aapt resource value: 0x7F100148
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131755336;
+			
+			// aapt resource value: 0x7F100146
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131755334;
+			
+			// aapt resource value: 0x7F100147
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131755335;
+			
+			// aapt resource value: 0x7F100149
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131755337;
+			
+			// aapt resource value: 0x7F10014A
+			public const int Theme_AppCompat_Dialog = 2131755338;
+			
+			// aapt resource value: 0x7F10014D
+			public const int Theme_AppCompat_DialogWhenLarge = 2131755341;
+			
+			// aapt resource value: 0x7F10014B
+			public const int Theme_AppCompat_Dialog_Alert = 2131755339;
+			
+			// aapt resource value: 0x7F10014C
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131755340;
+			
+			// aapt resource value: 0x7F10014E
+			public const int Theme_AppCompat_Light = 2131755342;
+			
+			// aapt resource value: 0x7F10014F
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131755343;
+			
+			// aapt resource value: 0x7F100150
+			public const int Theme_AppCompat_Light_Dialog = 2131755344;
+			
+			// aapt resource value: 0x7F100153
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131755347;
+			
+			// aapt resource value: 0x7F100151
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131755345;
+			
+			// aapt resource value: 0x7F100152
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131755346;
+			
+			// aapt resource value: 0x7F100154
+			public const int Theme_AppCompat_Light_NoActionBar = 2131755348;
+			
+			// aapt resource value: 0x7F100155
+			public const int Theme_AppCompat_NoActionBar = 2131755349;
+			
+			// aapt resource value: 0x7F100156
+			public const int Theme_Design = 2131755350;
+			
+			// aapt resource value: 0x7F100157
+			public const int Theme_Design_BottomSheetDialog = 2131755351;
+			
+			// aapt resource value: 0x7F100158
+			public const int Theme_Design_Light = 2131755352;
+			
+			// aapt resource value: 0x7F100159
+			public const int Theme_Design_Light_BottomSheetDialog = 2131755353;
+			
+			// aapt resource value: 0x7F10015A
+			public const int Theme_Design_Light_NoActionBar = 2131755354;
+			
+			// aapt resource value: 0x7F10015B
+			public const int Theme_Design_NoActionBar = 2131755355;
+			
+			// aapt resource value: 0x7F10015C
+			public const int Theme_MaterialComponents = 2131755356;
+			
+			// aapt resource value: 0x7F10015D
+			public const int Theme_MaterialComponents_BottomSheetDialog = 2131755357;
+			
+			// aapt resource value: 0x7F10015E
+			public const int Theme_MaterialComponents_Bridge = 2131755358;
+			
+			// aapt resource value: 0x7F10015F
+			public const int Theme_MaterialComponents_CompactMenu = 2131755359;
+			
+			// aapt resource value: 0x7F100160
+			public const int Theme_MaterialComponents_Dialog = 2131755360;
+			
+			// aapt resource value: 0x7F100163
+			public const int Theme_MaterialComponents_DialogWhenLarge = 2131755363;
+			
+			// aapt resource value: 0x7F100161
+			public const int Theme_MaterialComponents_Dialog_Alert = 2131755361;
+			
+			// aapt resource value: 0x7F100162
+			public const int Theme_MaterialComponents_Dialog_MinWidth = 2131755362;
+			
+			// aapt resource value: 0x7F100164
+			public const int Theme_MaterialComponents_Light = 2131755364;
+			
+			// aapt resource value: 0x7F100165
+			public const int Theme_MaterialComponents_Light_BottomSheetDialog = 2131755365;
+			
+			// aapt resource value: 0x7F100166
+			public const int Theme_MaterialComponents_Light_Bridge = 2131755366;
+			
+			// aapt resource value: 0x7F100167
+			public const int Theme_MaterialComponents_Light_DarkActionBar = 2131755367;
+			
+			// aapt resource value: 0x7F100168
+			public const int Theme_MaterialComponents_Light_DarkActionBar_Bridge = 2131755368;
+			
+			// aapt resource value: 0x7F100169
+			public const int Theme_MaterialComponents_Light_Dialog = 2131755369;
+			
+			// aapt resource value: 0x7F10016C
+			public const int Theme_MaterialComponents_Light_DialogWhenLarge = 2131755372;
+			
+			// aapt resource value: 0x7F10016A
+			public const int Theme_MaterialComponents_Light_Dialog_Alert = 2131755370;
+			
+			// aapt resource value: 0x7F10016B
+			public const int Theme_MaterialComponents_Light_Dialog_MinWidth = 2131755371;
+			
+			// aapt resource value: 0x7F10016D
+			public const int Theme_MaterialComponents_Light_NoActionBar = 2131755373;
+			
+			// aapt resource value: 0x7F10016E
+			public const int Theme_MaterialComponents_Light_NoActionBar_Bridge = 2131755374;
+			
+			// aapt resource value: 0x7F10016F
+			public const int Theme_MaterialComponents_NoActionBar = 2131755375;
+			
+			// aapt resource value: 0x7F100170
+			public const int Theme_MaterialComponents_NoActionBar_Bridge = 2131755376;
+			
+			// aapt resource value: 0x7F100171
+			public const int Theme_MediaRouter = 2131755377;
+			
+			// aapt resource value: 0x7F100172
+			public const int Theme_MediaRouter_Light = 2131755378;
+			
+			// aapt resource value: 0x7F100174
+			public const int Theme_MediaRouter_LightControlPanel = 2131755380;
+			
+			// aapt resource value: 0x7F100173
+			public const int Theme_MediaRouter_Light_DarkControlPanel = 2131755379;
 			
 			// aapt resource value: 0x7F10018A
-			public const int Widget_AppCompat_ActivityChooserView = 2131755402;
+			public const int Widget_AppCompat_ActionBar = 2131755402;
 			
 			// aapt resource value: 0x7F10018B
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131755403;
+			public const int Widget_AppCompat_ActionBar_Solid = 2131755403;
 			
 			// aapt resource value: 0x7F10018C
-			public const int Widget_AppCompat_Button = 2131755404;
-			
-			// aapt resource value: 0x7F100192
-			public const int Widget_AppCompat_ButtonBar = 2131755410;
-			
-			// aapt resource value: 0x7F100193
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131755411;
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131755404;
 			
 			// aapt resource value: 0x7F10018D
-			public const int Widget_AppCompat_Button_Borderless = 2131755405;
+			public const int Widget_AppCompat_ActionBar_TabText = 2131755405;
 			
 			// aapt resource value: 0x7F10018E
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131755406;
+			public const int Widget_AppCompat_ActionBar_TabView = 2131755406;
 			
 			// aapt resource value: 0x7F10018F
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131755407;
+			public const int Widget_AppCompat_ActionButton = 2131755407;
 			
 			// aapt resource value: 0x7F100190
-			public const int Widget_AppCompat_Button_Colored = 2131755408;
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131755408;
 			
 			// aapt resource value: 0x7F100191
-			public const int Widget_AppCompat_Button_Small = 2131755409;
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131755409;
+			
+			// aapt resource value: 0x7F100192
+			public const int Widget_AppCompat_ActionMode = 2131755410;
+			
+			// aapt resource value: 0x7F100193
+			public const int Widget_AppCompat_ActivityChooserView = 2131755411;
 			
 			// aapt resource value: 0x7F100194
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131755412;
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131755412;
 			
 			// aapt resource value: 0x7F100195
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131755413;
-			
-			// aapt resource value: 0x7F100196
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131755414;
-			
-			// aapt resource value: 0x7F100197
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131755415;
-			
-			// aapt resource value: 0x7F100198
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131755416;
-			
-			// aapt resource value: 0x7F100199
-			public const int Widget_AppCompat_EditText = 2131755417;
-			
-			// aapt resource value: 0x7F10019A
-			public const int Widget_AppCompat_ImageButton = 2131755418;
+			public const int Widget_AppCompat_Button = 2131755413;
 			
 			// aapt resource value: 0x7F10019B
-			public const int Widget_AppCompat_Light_ActionBar = 2131755419;
+			public const int Widget_AppCompat_ButtonBar = 2131755419;
 			
 			// aapt resource value: 0x7F10019C
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131755420;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131755420;
+			
+			// aapt resource value: 0x7F100196
+			public const int Widget_AppCompat_Button_Borderless = 2131755414;
+			
+			// aapt resource value: 0x7F100197
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131755415;
+			
+			// aapt resource value: 0x7F100198
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131755416;
+			
+			// aapt resource value: 0x7F100199
+			public const int Widget_AppCompat_Button_Colored = 2131755417;
+			
+			// aapt resource value: 0x7F10019A
+			public const int Widget_AppCompat_Button_Small = 2131755418;
 			
 			// aapt resource value: 0x7F10019D
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131755421;
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131755421;
 			
 			// aapt resource value: 0x7F10019E
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131755422;
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131755422;
 			
 			// aapt resource value: 0x7F10019F
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131755423;
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131755423;
 			
 			// aapt resource value: 0x7F1001A0
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131755424;
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131755424;
 			
 			// aapt resource value: 0x7F1001A1
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131755425;
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131755425;
 			
 			// aapt resource value: 0x7F1001A2
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131755426;
+			public const int Widget_AppCompat_EditText = 2131755426;
 			
 			// aapt resource value: 0x7F1001A3
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131755427;
+			public const int Widget_AppCompat_ImageButton = 2131755427;
 			
 			// aapt resource value: 0x7F1001A4
-			public const int Widget_AppCompat_Light_ActionButton = 2131755428;
+			public const int Widget_AppCompat_Light_ActionBar = 2131755428;
 			
 			// aapt resource value: 0x7F1001A5
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131755429;
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131755429;
 			
 			// aapt resource value: 0x7F1001A6
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131755430;
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131755430;
 			
 			// aapt resource value: 0x7F1001A7
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131755431;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131755431;
 			
 			// aapt resource value: 0x7F1001A8
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131755432;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131755432;
 			
 			// aapt resource value: 0x7F1001A9
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131755433;
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131755433;
 			
 			// aapt resource value: 0x7F1001AA
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131755434;
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131755434;
 			
 			// aapt resource value: 0x7F1001AB
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131755435;
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131755435;
 			
 			// aapt resource value: 0x7F1001AC
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131755436;
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131755436;
 			
 			// aapt resource value: 0x7F1001AD
-			public const int Widget_AppCompat_Light_PopupMenu = 2131755437;
+			public const int Widget_AppCompat_Light_ActionButton = 2131755437;
 			
 			// aapt resource value: 0x7F1001AE
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131755438;
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131755438;
 			
 			// aapt resource value: 0x7F1001AF
-			public const int Widget_AppCompat_Light_SearchView = 2131755439;
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131755439;
 			
 			// aapt resource value: 0x7F1001B0
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131755440;
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131755440;
 			
 			// aapt resource value: 0x7F1001B1
-			public const int Widget_AppCompat_ListMenuView = 2131755441;
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131755441;
 			
 			// aapt resource value: 0x7F1001B2
-			public const int Widget_AppCompat_ListPopupWindow = 2131755442;
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131755442;
 			
 			// aapt resource value: 0x7F1001B3
-			public const int Widget_AppCompat_ListView = 2131755443;
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131755443;
 			
 			// aapt resource value: 0x7F1001B4
-			public const int Widget_AppCompat_ListView_DropDown = 2131755444;
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131755444;
 			
 			// aapt resource value: 0x7F1001B5
-			public const int Widget_AppCompat_ListView_Menu = 2131755445;
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131755445;
 			
 			// aapt resource value: 0x7F1001B6
-			public const int Widget_AppCompat_PopupMenu = 2131755446;
+			public const int Widget_AppCompat_Light_PopupMenu = 2131755446;
 			
 			// aapt resource value: 0x7F1001B7
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131755447;
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131755447;
 			
 			// aapt resource value: 0x7F1001B8
-			public const int Widget_AppCompat_PopupWindow = 2131755448;
+			public const int Widget_AppCompat_Light_SearchView = 2131755448;
 			
 			// aapt resource value: 0x7F1001B9
-			public const int Widget_AppCompat_ProgressBar = 2131755449;
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131755449;
 			
 			// aapt resource value: 0x7F1001BA
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131755450;
+			public const int Widget_AppCompat_ListMenuView = 2131755450;
 			
 			// aapt resource value: 0x7F1001BB
-			public const int Widget_AppCompat_RatingBar = 2131755451;
+			public const int Widget_AppCompat_ListPopupWindow = 2131755451;
 			
 			// aapt resource value: 0x7F1001BC
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131755452;
+			public const int Widget_AppCompat_ListView = 2131755452;
 			
 			// aapt resource value: 0x7F1001BD
-			public const int Widget_AppCompat_RatingBar_Small = 2131755453;
+			public const int Widget_AppCompat_ListView_DropDown = 2131755453;
 			
 			// aapt resource value: 0x7F1001BE
-			public const int Widget_AppCompat_SearchView = 2131755454;
+			public const int Widget_AppCompat_ListView_Menu = 2131755454;
 			
 			// aapt resource value: 0x7F1001BF
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131755455;
+			public const int Widget_AppCompat_PopupMenu = 2131755455;
 			
 			// aapt resource value: 0x7F1001C0
-			public const int Widget_AppCompat_SeekBar = 2131755456;
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131755456;
 			
 			// aapt resource value: 0x7F1001C1
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131755457;
+			public const int Widget_AppCompat_PopupWindow = 2131755457;
 			
 			// aapt resource value: 0x7F1001C2
-			public const int Widget_AppCompat_Spinner = 2131755458;
+			public const int Widget_AppCompat_ProgressBar = 2131755458;
 			
 			// aapt resource value: 0x7F1001C3
-			public const int Widget_AppCompat_Spinner_DropDown = 2131755459;
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131755459;
 			
 			// aapt resource value: 0x7F1001C4
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131755460;
+			public const int Widget_AppCompat_RatingBar = 2131755460;
 			
 			// aapt resource value: 0x7F1001C5
-			public const int Widget_AppCompat_Spinner_Underlined = 2131755461;
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131755461;
 			
 			// aapt resource value: 0x7F1001C6
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131755462;
+			public const int Widget_AppCompat_RatingBar_Small = 2131755462;
 			
 			// aapt resource value: 0x7F1001C7
-			public const int Widget_AppCompat_Toolbar = 2131755463;
+			public const int Widget_AppCompat_SearchView = 2131755463;
 			
 			// aapt resource value: 0x7F1001C8
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131755464;
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131755464;
 			
 			// aapt resource value: 0x7F1001C9
-			public const int Widget_Compat_NotificationActionContainer = 2131755465;
+			public const int Widget_AppCompat_SeekBar = 2131755465;
 			
 			// aapt resource value: 0x7F1001CA
-			public const int Widget_Compat_NotificationActionText = 2131755466;
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131755466;
 			
 			// aapt resource value: 0x7F1001CB
-			public const int Widget_Design_AppBarLayout = 2131755467;
+			public const int Widget_AppCompat_Spinner = 2131755467;
 			
 			// aapt resource value: 0x7F1001CC
-			public const int Widget_Design_BottomNavigationView = 2131755468;
+			public const int Widget_AppCompat_Spinner_DropDown = 2131755468;
 			
 			// aapt resource value: 0x7F1001CD
-			public const int Widget_Design_BottomSheet_Modal = 2131755469;
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131755469;
 			
 			// aapt resource value: 0x7F1001CE
-			public const int Widget_Design_CollapsingToolbar = 2131755470;
+			public const int Widget_AppCompat_Spinner_Underlined = 2131755470;
 			
 			// aapt resource value: 0x7F1001CF
-			public const int Widget_Design_FloatingActionButton = 2131755471;
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131755471;
 			
 			// aapt resource value: 0x7F1001D0
-			public const int Widget_Design_NavigationView = 2131755472;
+			public const int Widget_AppCompat_Toolbar = 2131755472;
 			
 			// aapt resource value: 0x7F1001D1
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131755473;
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131755473;
 			
 			// aapt resource value: 0x7F1001D2
-			public const int Widget_Design_Snackbar = 2131755474;
+			public const int Widget_Compat_NotificationActionContainer = 2131755474;
 			
 			// aapt resource value: 0x7F1001D3
-			public const int Widget_Design_TabLayout = 2131755475;
+			public const int Widget_Compat_NotificationActionText = 2131755475;
 			
 			// aapt resource value: 0x7F1001D4
-			public const int Widget_Design_TextInputLayout = 2131755476;
+			public const int Widget_Design_AppBarLayout = 2131755476;
 			
 			// aapt resource value: 0x7F1001D5
-			public const int Widget_MaterialComponents_BottomAppBar = 2131755477;
+			public const int Widget_Design_BottomNavigationView = 2131755477;
 			
 			// aapt resource value: 0x7F1001D6
-			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131755478;
+			public const int Widget_Design_BottomSheet_Modal = 2131755478;
 			
 			// aapt resource value: 0x7F1001D7
-			public const int Widget_MaterialComponents_BottomNavigationView = 2131755479;
+			public const int Widget_Design_CollapsingToolbar = 2131755479;
 			
 			// aapt resource value: 0x7F1001D8
-			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131755480;
+			public const int Widget_Design_FloatingActionButton = 2131755480;
 			
 			// aapt resource value: 0x7F1001D9
-			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131755481;
+			public const int Widget_Design_NavigationView = 2131755481;
 			
 			// aapt resource value: 0x7F1001DA
-			public const int Widget_MaterialComponents_Button = 2131755482;
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131755482;
 			
 			// aapt resource value: 0x7F1001DB
-			public const int Widget_MaterialComponents_Button_Icon = 2131755483;
+			public const int Widget_Design_Snackbar = 2131755483;
 			
 			// aapt resource value: 0x7F1001DC
-			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131755484;
+			public const int Widget_Design_TabLayout = 2131755484;
 			
 			// aapt resource value: 0x7F1001DD
-			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131755485;
+			public const int Widget_Design_TextInputLayout = 2131755485;
 			
 			// aapt resource value: 0x7F1001DE
-			public const int Widget_MaterialComponents_Button_TextButton = 2131755486;
+			public const int Widget_MaterialComponents_BottomAppBar = 2131755486;
 			
 			// aapt resource value: 0x7F1001DF
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131755487;
+			public const int Widget_MaterialComponents_BottomAppBar_Colored = 2131755487;
 			
 			// aapt resource value: 0x7F1001E0
-			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131755488;
+			public const int Widget_MaterialComponents_BottomNavigationView = 2131755488;
 			
 			// aapt resource value: 0x7F1001E1
-			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131755489;
+			public const int Widget_MaterialComponents_BottomNavigationView_Colored = 2131755489;
 			
 			// aapt resource value: 0x7F1001E2
-			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131755490;
+			public const int Widget_MaterialComponents_BottomSheet_Modal = 2131755490;
 			
 			// aapt resource value: 0x7F1001E3
-			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131755491;
+			public const int Widget_MaterialComponents_Button = 2131755491;
 			
 			// aapt resource value: 0x7F1001E4
-			public const int Widget_MaterialComponents_CardView = 2131755492;
-			
-			// aapt resource value: 0x7F1001E9
-			public const int Widget_MaterialComponents_ChipGroup = 2131755497;
+			public const int Widget_MaterialComponents_Button_Icon = 2131755492;
 			
 			// aapt resource value: 0x7F1001E5
-			public const int Widget_MaterialComponents_Chip_Action = 2131755493;
+			public const int Widget_MaterialComponents_Button_OutlinedButton = 2131755493;
 			
 			// aapt resource value: 0x7F1001E6
-			public const int Widget_MaterialComponents_Chip_Choice = 2131755494;
+			public const int Widget_MaterialComponents_Button_OutlinedButton_Icon = 2131755494;
 			
 			// aapt resource value: 0x7F1001E7
-			public const int Widget_MaterialComponents_Chip_Entry = 2131755495;
+			public const int Widget_MaterialComponents_Button_TextButton = 2131755495;
 			
 			// aapt resource value: 0x7F1001E8
-			public const int Widget_MaterialComponents_Chip_Filter = 2131755496;
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog = 2131755496;
+			
+			// aapt resource value: 0x7F1001E9
+			public const int Widget_MaterialComponents_Button_TextButton_Dialog_Icon = 2131755497;
 			
 			// aapt resource value: 0x7F1001EA
-			public const int Widget_MaterialComponents_FloatingActionButton = 2131755498;
+			public const int Widget_MaterialComponents_Button_TextButton_Icon = 2131755498;
 			
 			// aapt resource value: 0x7F1001EB
-			public const int Widget_MaterialComponents_NavigationView = 2131755499;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton = 2131755499;
 			
 			// aapt resource value: 0x7F1001EC
-			public const int Widget_MaterialComponents_Snackbar = 2131755500;
+			public const int Widget_MaterialComponents_Button_UnelevatedButton_Icon = 2131755500;
 			
 			// aapt resource value: 0x7F1001ED
-			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131755501;
-			
-			// aapt resource value: 0x7F1001EE
-			public const int Widget_MaterialComponents_TabLayout = 2131755502;
-			
-			// aapt resource value: 0x7F1001EF
-			public const int Widget_MaterialComponents_TabLayout_Colored = 2131755503;
-			
-			// aapt resource value: 0x7F1001F0
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131755504;
-			
-			// aapt resource value: 0x7F1001F1
-			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131755505;
+			public const int Widget_MaterialComponents_CardView = 2131755501;
 			
 			// aapt resource value: 0x7F1001F2
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131755506;
+			public const int Widget_MaterialComponents_ChipGroup = 2131755506;
+			
+			// aapt resource value: 0x7F1001EE
+			public const int Widget_MaterialComponents_Chip_Action = 2131755502;
+			
+			// aapt resource value: 0x7F1001EF
+			public const int Widget_MaterialComponents_Chip_Choice = 2131755503;
+			
+			// aapt resource value: 0x7F1001F0
+			public const int Widget_MaterialComponents_Chip_Entry = 2131755504;
+			
+			// aapt resource value: 0x7F1001F1
+			public const int Widget_MaterialComponents_Chip_Filter = 2131755505;
 			
 			// aapt resource value: 0x7F1001F3
-			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131755507;
+			public const int Widget_MaterialComponents_FloatingActionButton = 2131755507;
 			
 			// aapt resource value: 0x7F1001F4
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131755508;
+			public const int Widget_MaterialComponents_NavigationView = 2131755508;
 			
 			// aapt resource value: 0x7F1001F5
-			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131755509;
+			public const int Widget_MaterialComponents_Snackbar = 2131755509;
 			
 			// aapt resource value: 0x7F1001F6
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131755510;
+			public const int Widget_MaterialComponents_Snackbar_FullWidth = 2131755510;
 			
 			// aapt resource value: 0x7F1001F7
-			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131755511;
+			public const int Widget_MaterialComponents_TabLayout = 2131755511;
 			
 			// aapt resource value: 0x7F1001F8
-			public const int Widget_MaterialComponents_Toolbar = 2131755512;
+			public const int Widget_MaterialComponents_TabLayout_Colored = 2131755512;
 			
 			// aapt resource value: 0x7F1001F9
-			public const int Widget_Support_CoordinatorLayout = 2131755513;
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox = 2131755513;
+			
+			// aapt resource value: 0x7F1001FA
+			public const int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense = 2131755514;
+			
+			// aapt resource value: 0x7F1001FB
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox = 2131755515;
+			
+			// aapt resource value: 0x7F1001FC
+			public const int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense = 2131755516;
+			
+			// aapt resource value: 0x7F1001FD
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox = 2131755517;
+			
+			// aapt resource value: 0x7F1001FE
+			public const int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense = 2131755518;
+			
+			// aapt resource value: 0x7F1001FF
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox = 2131755519;
+			
+			// aapt resource value: 0x7F100200
+			public const int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense = 2131755520;
+			
+			// aapt resource value: 0x7F100201
+			public const int Widget_MaterialComponents_Toolbar = 2131755521;
+			
+			// aapt resource value: 0x7F100202
+			public const int Widget_MediaRouter_Light_MediaRouteButton = 2131755522;
+			
+			// aapt resource value: 0x7F100203
+			public const int Widget_MediaRouter_MediaRouteButton = 2131755523;
+			
+			// aapt resource value: 0x7F100204
+			public const int Widget_Support_CoordinatorLayout = 2131755524;
 			
 			static Style()
 			{
@@ -7759,37 +11581,37 @@ namespace Fitness_Diary
 		public partial class Styleable
 		{
 			
-			// aapt resource value: { 0x7F030032,0x7F030033,0x7F030034,0x7F0300A0,0x7F0300A1,0x7F0300A2,0x7F0300A3,0x7F0300A4,0x7F0300A5,0x7F0300B3,0x7F0300B8,0x7F0300B9,0x7F0300C4,0x7F0300EE,0x7F0300F3,0x7F0300F8,0x7F0300F9,0x7F0300FB,0x7F030107,0x7F030111,0x7F030139,0x7F030146,0x7F030157,0x7F03015B,0x7F03015C,0x7F03018B,0x7F03018E,0x7F0301D3,0x7F0301DD }
+			// aapt resource value: { 0x7F030033,0x7F030034,0x7F030035,0x7F0300A1,0x7F0300A2,0x7F0300A3,0x7F0300A4,0x7F0300A5,0x7F0300A6,0x7F0300B4,0x7F0300B9,0x7F0300BA,0x7F0300C5,0x7F0300F1,0x7F0300F6,0x7F0300FB,0x7F0300FC,0x7F0300FE,0x7F03010A,0x7F030114,0x7F03013C,0x7F030156,0x7F030167,0x7F03016B,0x7F03016C,0x7F03019F,0x7F0301A2,0x7F0301EA,0x7F0301F4 }
 			public static int[] ActionBar = new int[] {
-					2130903090,
 					2130903091,
 					2130903092,
-					2130903200,
+					2130903093,
 					2130903201,
 					2130903202,
 					2130903203,
 					2130903204,
 					2130903205,
-					2130903219,
-					2130903224,
+					2130903206,
+					2130903220,
 					2130903225,
-					2130903236,
-					2130903278,
-					2130903283,
-					2130903288,
-					2130903289,
+					2130903226,
+					2130903237,
+					2130903281,
+					2130903286,
 					2130903291,
-					2130903303,
-					2130903313,
-					2130903353,
-					2130903366,
-					2130903383,
-					2130903387,
-					2130903388,
-					2130903435,
-					2130903438,
-					2130903507,
-					2130903517};
+					2130903292,
+					2130903294,
+					2130903306,
+					2130903316,
+					2130903356,
+					2130903382,
+					2130903399,
+					2130903403,
+					2130903404,
+					2130903455,
+					2130903458,
+					2130903530,
+					2130903540};
 			
 			// aapt resource value: { 0x10100B3 }
 			public static int[] ActionBarLayout = new int[] {
@@ -7896,14 +11718,14 @@ namespace Fitness_Diary
 			public static int[] ActionMenuView = new int[] {
 					-1};
 			
-			// aapt resource value: { 0x7F030032,0x7F030033,0x7F03008C,0x7F0300EE,0x7F03018E,0x7F0301DD }
+			// aapt resource value: { 0x7F030033,0x7F030034,0x7F03008D,0x7F0300F1,0x7F0301A2,0x7F0301F4 }
 			public static int[] ActionMode = new int[] {
-					2130903090,
 					2130903091,
-					2130903180,
-					2130903278,
-					2130903438,
-					2130903517};
+					2130903092,
+					2130903181,
+					2130903281,
+					2130903458,
+					2130903540};
 			
 			// aapt resource value: 0
 			public const int ActionMode_background = 0;
@@ -7923,10 +11745,10 @@ namespace Fitness_Diary
 			// aapt resource value: 5
 			public const int ActionMode_titleTextStyle = 5;
 			
-			// aapt resource value: { 0x7F0300C9,0x7F030108 }
+			// aapt resource value: { 0x7F0300CB,0x7F03010B }
 			public static int[] ActivityChooserView = new int[] {
-					2130903241,
-					2130903304};
+					2130903243,
+					2130903307};
 			
 			// aapt resource value: 0
 			public const int ActivityChooserView_expandActivityOverflowButtonDrawable = 0;
@@ -7934,16 +11756,16 @@ namespace Fitness_Diary
 			// aapt resource value: 1
 			public const int ActivityChooserView_initialActivityCount = 1;
 			
-			// aapt resource value: { 0x10100F2,0x7F030053,0x7F030054,0x7F03012F,0x7F030130,0x7F030143,0x7F030173,0x7F030174 }
+			// aapt resource value: { 0x10100F2,0x7F030054,0x7F030055,0x7F030132,0x7F030133,0x7F030153,0x7F030187,0x7F030188 }
 			public static int[] AlertDialog = new int[] {
 					16842994,
-					2130903123,
 					2130903124,
-					2130903343,
-					2130903344,
-					2130903363,
-					2130903411,
-					2130903412};
+					2130903125,
+					2130903346,
+					2130903347,
+					2130903379,
+					2130903431,
+					2130903432};
 			
 			// aapt resource value: 0
 			public const int AlertDialog_android_layout = 0;
@@ -8026,21 +11848,21 @@ namespace Fitness_Diary
 			// aapt resource value: 1
 			public const int AnimatedStateListDrawableTransition_android_toId = 1;
 			
-			// aapt resource value: { 0x10100D4,0x101048F,0x1010540,0x7F0300C4,0x7F0300CA,0x7F03012A }
+			// aapt resource value: { 0x10100D4,0x101048F,0x1010540,0x7F0300C5,0x7F0300CC,0x7F03012D }
 			public static int[] AppBarLayout = new int[] {
 					16842964,
 					16843919,
 					16844096,
-					2130903236,
-					2130903242,
-					2130903338};
+					2130903237,
+					2130903244,
+					2130903341};
 			
-			// aapt resource value: { 0x7F030181,0x7F030182,0x7F030183,0x7F030184 }
+			// aapt resource value: { 0x7F030195,0x7F030196,0x7F030197,0x7F030198 }
 			public static int[] AppBarLayoutStates = new int[] {
-					2130903425,
-					2130903426,
-					2130903427,
-					2130903428};
+					2130903445,
+					2130903446,
+					2130903447,
+					2130903448};
 			
 			// aapt resource value: 0
 			public const int AppBarLayoutStates_state_collapsed = 0;
@@ -8069,10 +11891,10 @@ namespace Fitness_Diary
 			// aapt resource value: 4
 			public const int AppBarLayout_expanded = 4;
 			
-			// aapt resource value: { 0x7F030128,0x7F030129 }
+			// aapt resource value: { 0x7F03012B,0x7F03012C }
 			public static int[] AppBarLayout_Layout = new int[] {
-					2130903336,
-					2130903337};
+					2130903339,
+					2130903340};
 			
 			// aapt resource value: 0
 			public const int AppBarLayout_Layout_layout_scrollFlags = 0;
@@ -8083,12 +11905,12 @@ namespace Fitness_Diary
 			// aapt resource value: 5
 			public const int AppBarLayout_liftOnScroll = 5;
 			
-			// aapt resource value: { 0x1010119,0x7F03017E,0x7F0301D1,0x7F0301D2 }
+			// aapt resource value: { 0x1010119,0x7F030192,0x7F0301E8,0x7F0301E9 }
 			public static int[] AppCompatImageView = new int[] {
 					16843033,
-					2130903422,
-					2130903505,
-					2130903506};
+					2130903442,
+					2130903528,
+					2130903529};
 			
 			// aapt resource value: 0
 			public const int AppCompatImageView_android_src = 0;
@@ -8102,12 +11924,12 @@ namespace Fitness_Diary
 			// aapt resource value: 3
 			public const int AppCompatImageView_tintMode = 3;
 			
-			// aapt resource value: { 0x1010142,0x7F0301CE,0x7F0301CF,0x7F0301D0 }
+			// aapt resource value: { 0x1010142,0x7F0301E2,0x7F0301E3,0x7F0301E4 }
 			public static int[] AppCompatSeekBar = new int[] {
 					16843074,
-					2130903502,
-					2130903503,
-					2130903504};
+					2130903522,
+					2130903523,
+					2130903524};
 			
 			// aapt resource value: 0
 			public const int AppCompatSeekBar_android_thumb = 0;
@@ -8152,19 +11974,19 @@ namespace Fitness_Diary
 			// aapt resource value: 0
 			public const int AppCompatTextHelper_android_textAppearance = 0;
 			
-			// aapt resource value: { 0x1010034,0x7F03002D,0x7F03002E,0x7F03002F,0x7F030030,0x7F030031,0x7F0300DD,0x7F0300E0,0x7F030119,0x7F03012B,0x7F0301AE }
+			// aapt resource value: { 0x1010034,0x7F03002E,0x7F03002F,0x7F030030,0x7F030031,0x7F030032,0x7F0300E0,0x7F0300E3,0x7F03011C,0x7F03012E,0x7F0301C2 }
 			public static int[] AppCompatTextView = new int[] {
 					16842804,
-					2130903085,
 					2130903086,
 					2130903087,
 					2130903088,
 					2130903089,
-					2130903261,
+					2130903090,
 					2130903264,
-					2130903321,
-					2130903339,
-					2130903470};
+					2130903267,
+					2130903324,
+					2130903342,
+					2130903490};
 			
 			// aapt resource value: 0
 			public const int AppCompatTextView_android_textAppearance = 0;
@@ -8199,7 +12021,7 @@ namespace Fitness_Diary
 			// aapt resource value: 10
 			public const int AppCompatTextView_textAllCaps = 10;
 			
-			// aapt resource value: { 0x1010057,0x10100AE,0x7F030000,0x7F030001,0x7F030002,0x7F030003,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000E,0x7F03000F,0x7F030010,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F030021,0x7F030022,0x7F030023,0x7F030024,0x7F030025,0x7F03002C,0x7F03003F,0x7F03004D,0x7F03004E,0x7F03004F,0x7F030050,0x7F030051,0x7F030056,0x7F030057,0x7F030068,0x7F03006D,0x7F030092,0x7F030093,0x7F030094,0x7F030095,0x7F030096,0x7F030097,0x7F030098,0x7F030099,0x7F03009A,0x7F03009D,0x7F0300AC,0x7F0300B5,0x7F0300B6,0x7F0300B7,0x7F0300BA,0x7F0300BC,0x7F0300BF,0x7F0300C0,0x7F0300C1,0x7F0300C2,0x7F0300C3,0x7F0300F8,0x7F030106,0x7F03012D,0x7F03012E,0x7F030131,0x7F030132,0x7F030133,0x7F030134,0x7F030135,0x7F030136,0x7F030137,0x7F03014E,0x7F03014F,0x7F030150,0x7F030156,0x7F030158,0x7F03015F,0x7F030160,0x7F030161,0x7F030162,0x7F03016B,0x7F03016C,0x7F03016D,0x7F03016E,0x7F03017B,0x7F03017C,0x7F030192,0x7F0301B9,0x7F0301BA,0x7F0301BB,0x7F0301BC,0x7F0301BE,0x7F0301BF,0x7F0301C0,0x7F0301C1,0x7F0301C4,0x7F0301C5,0x7F0301DF,0x7F0301E0,0x7F0301E1,0x7F0301E2,0x7F0301F2,0x7F0301F4,0x7F0301F5,0x7F0301F6,0x7F0301F7,0x7F0301F8,0x7F0301F9,0x7F0301FA,0x7F0301FB,0x7F0301FC,0x7F0301FD }
+			// aapt resource value: { 0x1010057,0x10100AE,0x7F030000,0x7F030001,0x7F030002,0x7F030003,0x7F030004,0x7F030005,0x7F030006,0x7F030007,0x7F030008,0x7F030009,0x7F03000A,0x7F03000B,0x7F03000C,0x7F03000E,0x7F03000F,0x7F030010,0x7F030011,0x7F030012,0x7F030013,0x7F030014,0x7F030015,0x7F030016,0x7F030017,0x7F030018,0x7F030019,0x7F03001A,0x7F03001B,0x7F03001C,0x7F03001D,0x7F03001E,0x7F030021,0x7F030022,0x7F030023,0x7F030024,0x7F030025,0x7F03002D,0x7F030040,0x7F03004E,0x7F03004F,0x7F030050,0x7F030051,0x7F030052,0x7F030057,0x7F030058,0x7F030069,0x7F03006E,0x7F030093,0x7F030094,0x7F030095,0x7F030096,0x7F030097,0x7F030098,0x7F030099,0x7F03009A,0x7F03009B,0x7F03009E,0x7F0300AD,0x7F0300B6,0x7F0300B7,0x7F0300B8,0x7F0300BB,0x7F0300BD,0x7F0300C0,0x7F0300C1,0x7F0300C2,0x7F0300C3,0x7F0300C4,0x7F0300FB,0x7F030109,0x7F030130,0x7F030131,0x7F030134,0x7F030135,0x7F030136,0x7F030137,0x7F030138,0x7F030139,0x7F03013A,0x7F03015E,0x7F03015F,0x7F030160,0x7F030166,0x7F030168,0x7F03016F,0x7F030170,0x7F030171,0x7F030172,0x7F03017F,0x7F030180,0x7F030181,0x7F030182,0x7F03018F,0x7F030190,0x7F0301A6,0x7F0301CD,0x7F0301CE,0x7F0301CF,0x7F0301D0,0x7F0301D2,0x7F0301D3,0x7F0301D4,0x7F0301D5,0x7F0301D8,0x7F0301D9,0x7F0301F6,0x7F0301F7,0x7F0301F8,0x7F0301F9,0x7F03020A,0x7F03020C,0x7F03020D,0x7F03020E,0x7F03020F,0x7F030210,0x7F030211,0x7F030212,0x7F030213,0x7F030214,0x7F030215 }
 			public static int[] AppCompatTheme = new int[] {
 					16842839,
 					16842926,
@@ -8238,18 +12060,17 @@ namespace Fitness_Diary
 					2130903075,
 					2130903076,
 					2130903077,
-					2130903084,
-					2130903103,
-					2130903117,
+					2130903085,
+					2130903104,
 					2130903118,
 					2130903119,
 					2130903120,
 					2130903121,
-					2130903126,
+					2130903122,
 					2130903127,
-					2130903144,
-					2130903149,
-					2130903186,
+					2130903128,
+					2130903145,
+					2130903150,
 					2130903187,
 					2130903188,
 					2130903189,
@@ -8258,70 +12079,71 @@ namespace Fitness_Diary
 					2130903192,
 					2130903193,
 					2130903194,
-					2130903197,
-					2130903212,
-					2130903221,
+					2130903195,
+					2130903198,
+					2130903213,
 					2130903222,
 					2130903223,
-					2130903226,
-					2130903228,
-					2130903231,
+					2130903224,
+					2130903227,
+					2130903229,
 					2130903232,
 					2130903233,
 					2130903234,
 					2130903235,
-					2130903288,
-					2130903302,
-					2130903341,
-					2130903342,
+					2130903236,
+					2130903291,
+					2130903305,
+					2130903344,
 					2130903345,
-					2130903346,
-					2130903347,
 					2130903348,
 					2130903349,
 					2130903350,
 					2130903351,
-					2130903374,
-					2130903375,
-					2130903376,
-					2130903382,
-					2130903384,
+					2130903352,
+					2130903353,
+					2130903354,
+					2130903390,
 					2130903391,
 					2130903392,
-					2130903393,
-					2130903394,
-					2130903403,
-					2130903404,
-					2130903405,
-					2130903406,
-					2130903419,
-					2130903420,
-					2130903442,
-					2130903481,
-					2130903482,
-					2130903483,
-					2130903484,
-					2130903486,
-					2130903487,
-					2130903488,
-					2130903489,
-					2130903492,
-					2130903493,
-					2130903519,
-					2130903520,
-					2130903521,
-					2130903522,
-					2130903538,
-					2130903540,
-					2130903541,
+					2130903398,
+					2130903400,
+					2130903407,
+					2130903408,
+					2130903409,
+					2130903410,
+					2130903423,
+					2130903424,
+					2130903425,
+					2130903426,
+					2130903439,
+					2130903440,
+					2130903462,
+					2130903501,
+					2130903502,
+					2130903503,
+					2130903504,
+					2130903506,
+					2130903507,
+					2130903508,
+					2130903509,
+					2130903512,
+					2130903513,
 					2130903542,
 					2130903543,
 					2130903544,
 					2130903545,
-					2130903546,
-					2130903547,
-					2130903548,
-					2130903549};
+					2130903562,
+					2130903564,
+					2130903565,
+					2130903566,
+					2130903567,
+					2130903568,
+					2130903569,
+					2130903570,
+					2130903571,
+					2130903572,
+					2130903573};
 			
 			// aapt resource value: 2
 			public const int AppCompatTheme_actionBarDivider = 2;
@@ -8686,14 +12508,14 @@ namespace Fitness_Diary
 			// aapt resource value: 120
 			public const int AppCompatTheme_windowNoTitle = 120;
 			
-			// aapt resource value: { 0x7F030035,0x7F0300D2,0x7F0300D3,0x7F0300D4,0x7F0300D5,0x7F0300F4 }
+			// aapt resource value: { 0x7F030036,0x7F0300D5,0x7F0300D6,0x7F0300D7,0x7F0300D8,0x7F0300F7 }
 			public static int[] BottomAppBar = new int[] {
-					2130903093,
-					2130903250,
-					2130903251,
-					2130903252,
+					2130903094,
 					2130903253,
-					2130903284};
+					2130903254,
+					2130903255,
+					2130903256,
+					2130903287};
 			
 			// aapt resource value: 0
 			public const int BottomAppBar_backgroundTint = 0;
@@ -8713,18 +12535,18 @@ namespace Fitness_Diary
 			// aapt resource value: 5
 			public const int BottomAppBar_hideOnScroll = 5;
 			
-			// aapt resource value: { 0x7F0300C4,0x7F03010B,0x7F03010D,0x7F03010F,0x7F030110,0x7F030114,0x7F030115,0x7F030116,0x7F030118,0x7F030142 }
+			// aapt resource value: { 0x7F0300C5,0x7F03010E,0x7F030110,0x7F030112,0x7F030113,0x7F030117,0x7F030118,0x7F030119,0x7F03011B,0x7F030152 }
 			public static int[] BottomNavigationView = new int[] {
-					2130903236,
-					2130903307,
-					2130903309,
-					2130903311,
+					2130903237,
+					2130903310,
 					2130903312,
-					2130903316,
-					2130903317,
-					2130903318,
+					2130903314,
+					2130903315,
+					2130903319,
 					2130903320,
-					2130903362};
+					2130903321,
+					2130903323,
+					2130903378};
 			
 			// aapt resource value: 0
 			public const int BottomNavigationView_elevation = 0;
@@ -8756,12 +12578,12 @@ namespace Fitness_Diary
 			// aapt resource value: 9
 			public const int BottomNavigationView_menu = 9;
 			
-			// aapt resource value: { 0x7F030039,0x7F03003A,0x7F03003C,0x7F03003D }
+			// aapt resource value: { 0x7F03003A,0x7F03003B,0x7F03003D,0x7F03003E }
 			public static int[] BottomSheetBehavior_Layout = new int[] {
-					2130903097,
 					2130903098,
-					2130903100,
-					2130903101};
+					2130903099,
+					2130903101,
+					2130903102};
 			
 			// aapt resource value: 0
 			public const int BottomSheetBehavior_Layout_behavior_fitToContents = 0;
@@ -8775,28 +12597,28 @@ namespace Fitness_Diary
 			// aapt resource value: 3
 			public const int BottomSheetBehavior_Layout_behavior_skipCollapsed = 3;
 			
-			// aapt resource value: { 0x7F030026 }
+			// aapt resource value: { 0x7F030027 }
 			public static int[] ButtonBarLayout = new int[] {
-					2130903078};
+					2130903079};
 			
 			// aapt resource value: 0
 			public const int ButtonBarLayout_allowStacking = 0;
 			
-			// aapt resource value: { 0x101013F,0x1010140,0x7F030061,0x7F030062,0x7F030063,0x7F030064,0x7F030065,0x7F030066,0x7F0300A6,0x7F0300A7,0x7F0300A8,0x7F0300A9,0x7F0300AA }
+			// aapt resource value: { 0x101013F,0x1010140,0x7F030062,0x7F030063,0x7F030064,0x7F030065,0x7F030066,0x7F030067,0x7F0300A7,0x7F0300A8,0x7F0300A9,0x7F0300AA,0x7F0300AB }
 			public static int[] CardView = new int[] {
 					16843071,
 					16843072,
-					2130903137,
 					2130903138,
 					2130903139,
 					2130903140,
 					2130903141,
 					2130903142,
-					2130903206,
+					2130903143,
 					2130903207,
 					2130903208,
 					2130903209,
-					2130903210};
+					2130903210,
+					2130903211};
 			
 			// aapt resource value: 1
 			public const int CardView_android_minHeight = 1;
@@ -8837,51 +12659,51 @@ namespace Fitness_Diary
 			// aapt resource value: 12
 			public const int CardView_contentPaddingTop = 12;
 			
-			// aapt resource value: { 0x1010034,0x10100AB,0x101011F,0x101014F,0x10101E5,0x7F03006A,0x7F03006B,0x7F03006C,0x7F03006E,0x7F03006F,0x7F030070,0x7F030072,0x7F030073,0x7F030074,0x7F030075,0x7F030076,0x7F030077,0x7F03007C,0x7F03007D,0x7F03007E,0x7F030085,0x7F030086,0x7F030087,0x7F030088,0x7F030089,0x7F03008A,0x7F03008B,0x7F0300F2,0x7F0300FC,0x7F030100,0x7F030164,0x7F030171,0x7F0301C6,0x7F0301C8 }
+			// aapt resource value: { 0x1010034,0x10100AB,0x101011F,0x101014F,0x10101E5,0x7F03006B,0x7F03006C,0x7F03006D,0x7F03006F,0x7F030070,0x7F030071,0x7F030073,0x7F030074,0x7F030075,0x7F030076,0x7F030077,0x7F030078,0x7F03007D,0x7F03007E,0x7F03007F,0x7F030086,0x7F030087,0x7F030088,0x7F030089,0x7F03008A,0x7F03008B,0x7F03008C,0x7F0300F5,0x7F0300FF,0x7F030103,0x7F030174,0x7F030185,0x7F0301DA,0x7F0301DC }
 			public static int[] Chip = new int[] {
 					16842804,
 					16842923,
 					16843039,
 					16843087,
 					16843237,
-					2130903146,
 					2130903147,
 					2130903148,
-					2130903150,
+					2130903149,
 					2130903151,
 					2130903152,
-					2130903154,
+					2130903153,
 					2130903155,
 					2130903156,
 					2130903157,
 					2130903158,
 					2130903159,
-					2130903164,
+					2130903160,
 					2130903165,
 					2130903166,
-					2130903173,
+					2130903167,
 					2130903174,
 					2130903175,
 					2130903176,
 					2130903177,
 					2130903178,
 					2130903179,
-					2130903282,
-					2130903292,
-					2130903296,
-					2130903396,
-					2130903409,
-					2130903494,
-					2130903496};
+					2130903180,
+					2130903285,
+					2130903295,
+					2130903299,
+					2130903412,
+					2130903429,
+					2130903514,
+					2130903516};
 			
-			// aapt resource value: { 0x7F030069,0x7F030078,0x7F030079,0x7F03007A,0x7F030175,0x7F030176 }
+			// aapt resource value: { 0x7F03006A,0x7F030079,0x7F03007A,0x7F03007B,0x7F030189,0x7F03018A }
 			public static int[] ChipGroup = new int[] {
-					2130903145,
-					2130903160,
+					2130903146,
 					2130903161,
 					2130903162,
-					2130903413,
-					2130903414};
+					2130903163,
+					2130903433,
+					2130903434};
 			
 			// aapt resource value: 0
 			public const int ChipGroup_checkedChip = 0;
@@ -9003,12 +12825,12 @@ namespace Fitness_Diary
 			// aapt resource value: 33
 			public const int Chip_textStartPadding = 33;
 			
-			// aapt resource value: { 0x7F030081,0x7F030082,0x7F030083,0x7F030084 }
+			// aapt resource value: { 0x7F030082,0x7F030083,0x7F030084,0x7F030085 }
 			public static int[] CircleImageView = new int[] {
-					2130903169,
 					2130903170,
 					2130903171,
-					2130903172};
+					2130903172,
+					2130903173};
 			
 			// aapt resource value: 0
 			public const int CircleImageView_civ_border_color = 0;
@@ -9022,24 +12844,24 @@ namespace Fitness_Diary
 			// aapt resource value: 3
 			public const int CircleImageView_civ_fill_color = 3;
 			
-			// aapt resource value: { 0x7F03008F,0x7F030090,0x7F0300AB,0x7F0300CB,0x7F0300CC,0x7F0300CD,0x7F0300CE,0x7F0300CF,0x7F0300D0,0x7F0300D1,0x7F030166,0x7F030168,0x7F030186,0x7F0301D3,0x7F0301D4,0x7F0301DE }
+			// aapt resource value: { 0x7F030090,0x7F030091,0x7F0300AC,0x7F0300CD,0x7F0300CE,0x7F0300CF,0x7F0300D0,0x7F0300D1,0x7F0300D2,0x7F0300D3,0x7F03017A,0x7F03017C,0x7F03019A,0x7F0301EA,0x7F0301EB,0x7F0301F5 }
 			public static int[] CollapsingToolbarLayout = new int[] {
-					2130903183,
 					2130903184,
-					2130903211,
-					2130903243,
-					2130903244,
+					2130903185,
+					2130903212,
 					2130903245,
 					2130903246,
 					2130903247,
 					2130903248,
 					2130903249,
-					2130903398,
-					2130903400,
-					2130903430,
-					2130903507,
-					2130903508,
-					2130903518};
+					2130903250,
+					2130903251,
+					2130903418,
+					2130903420,
+					2130903450,
+					2130903530,
+					2130903531,
+					2130903541};
 			
 			// aapt resource value: 0
 			public const int CollapsingToolbarLayout_collapsedTitleGravity = 0;
@@ -9071,10 +12893,10 @@ namespace Fitness_Diary
 			// aapt resource value: 9
 			public const int CollapsingToolbarLayout_expandedTitleTextAppearance = 9;
 			
-			// aapt resource value: { 0x7F030123,0x7F030124 }
+			// aapt resource value: { 0x7F030126,0x7F030127 }
 			public static int[] CollapsingToolbarLayout_Layout = new int[] {
-					2130903331,
-					2130903332};
+					2130903334,
+					2130903335};
 			
 			// aapt resource value: 0
 			public const int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
@@ -9100,11 +12922,11 @@ namespace Fitness_Diary
 			// aapt resource value: 15
 			public const int CollapsingToolbarLayout_toolbarId = 15;
 			
-			// aapt resource value: { 0x10101A5,0x101031F,0x7F030027 }
+			// aapt resource value: { 0x10101A5,0x101031F,0x7F030028 }
 			public static int[] ColorStateListItem = new int[] {
 					16843173,
 					16843551,
-					2130903079};
+					2130903080};
 			
 			// aapt resource value: 2
 			public const int ColorStateListItem_alpha = 2;
@@ -9115,11 +12937,11 @@ namespace Fitness_Diary
 			// aapt resource value: 0
 			public const int ColorStateListItem_android_color = 0;
 			
-			// aapt resource value: { 0x1010107,0x7F030058,0x7F030059 }
+			// aapt resource value: { 0x1010107,0x7F030059,0x7F03005A }
 			public static int[] CompoundButton = new int[] {
 					16843015,
-					2130903128,
-					2130903129};
+					2130903129,
+					2130903130};
 			
 			// aapt resource value: 0
 			public const int CompoundButton_android_button = 0;
@@ -9130,23 +12952,23 @@ namespace Fitness_Diary
 			// aapt resource value: 2
 			public const int CompoundButton_buttonTintMode = 2;
 			
-			// aapt resource value: { 0x7F030117,0x7F030185 }
+			// aapt resource value: { 0x7F03011A,0x7F030199 }
 			public static int[] CoordinatorLayout = new int[] {
-					2130903319,
-					2130903429};
+					2130903322,
+					2130903449};
 			
 			// aapt resource value: 0
 			public const int CoordinatorLayout_keylines = 0;
 			
-			// aapt resource value: { 0x10100B3,0x7F030120,0x7F030121,0x7F030122,0x7F030125,0x7F030126,0x7F030127 }
+			// aapt resource value: { 0x10100B3,0x7F030123,0x7F030124,0x7F030125,0x7F030128,0x7F030129,0x7F03012A }
 			public static int[] CoordinatorLayout_Layout = new int[] {
 					16842931,
-					2130903328,
-					2130903329,
-					2130903330,
+					2130903331,
+					2130903332,
 					2130903333,
-					2130903334,
-					2130903335};
+					2130903336,
+					2130903337,
+					2130903338};
 			
 			// aapt resource value: 0
 			public const int CoordinatorLayout_Layout_android_layout_gravity = 0;
@@ -9172,10 +12994,10 @@ namespace Fitness_Diary
 			// aapt resource value: 1
 			public const int CoordinatorLayout_statusBarBackground = 1;
 			
-			// aapt resource value: { 0x7F030042,0x7F030043 }
+			// aapt resource value: { 0x7F030043,0x7F030044 }
 			public static int[] DesignTheme = new int[] {
-					2130903106,
-					2130903107};
+					2130903107,
+					2130903108};
 			
 			// aapt resource value: 0
 			public const int DesignTheme_bottomSheetDialogTheme = 0;
@@ -9183,16 +13005,16 @@ namespace Fitness_Diary
 			// aapt resource value: 1
 			public const int DesignTheme_bottomSheetStyle = 1;
 			
-			// aapt resource value: { 0x7F03002A,0x7F03002B,0x7F030037,0x7F030091,0x7F0300BD,0x7F0300EB,0x7F03017A,0x7F0301CA }
+			// aapt resource value: { 0x7F03002B,0x7F03002C,0x7F030038,0x7F030092,0x7F0300BE,0x7F0300EE,0x7F03018E,0x7F0301DE }
 			public static int[] DrawerArrowToggle = new int[] {
-					2130903082,
 					2130903083,
-					2130903095,
-					2130903185,
-					2130903229,
-					2130903275,
-					2130903418,
-					2130903498};
+					2130903084,
+					2130903096,
+					2130903186,
+					2130903230,
+					2130903278,
+					2130903438,
+					2130903518};
 			
 			// aapt resource value: 0
 			public const int DrawerArrowToggle_arrowHeadLength = 0;
@@ -9218,21 +13040,21 @@ namespace Fitness_Diary
 			// aapt resource value: 7
 			public const int DrawerArrowToggle_thickness = 7;
 			
-			// aapt resource value: { 0x7F030035,0x7F030036,0x7F03003E,0x7F0300C4,0x7F0300D6,0x7F0300D7,0x7F0300F2,0x7F0300FA,0x7F030140,0x7F03015A,0x7F030164,0x7F030171,0x7F0301F0 }
+			// aapt resource value: { 0x7F030036,0x7F030037,0x7F03003F,0x7F0300C5,0x7F0300D9,0x7F0300DA,0x7F0300F5,0x7F0300FD,0x7F030143,0x7F03016A,0x7F030174,0x7F030185,0x7F030207 }
 			public static int[] FloatingActionButton = new int[] {
-					2130903093,
 					2130903094,
-					2130903102,
-					2130903236,
-					2130903254,
-					2130903255,
-					2130903282,
-					2130903290,
-					2130903360,
-					2130903386,
-					2130903396,
-					2130903409,
-					2130903536};
+					2130903095,
+					2130903103,
+					2130903237,
+					2130903257,
+					2130903258,
+					2130903285,
+					2130903293,
+					2130903363,
+					2130903402,
+					2130903412,
+					2130903429,
+					2130903559};
 			
 			// aapt resource value: 0
 			public const int FloatingActionButton_backgroundTint = 0;
@@ -9240,9 +13062,9 @@ namespace Fitness_Diary
 			// aapt resource value: 1
 			public const int FloatingActionButton_backgroundTintMode = 1;
 			
-			// aapt resource value: { 0x7F030038 }
+			// aapt resource value: { 0x7F030039 }
 			public static int[] FloatingActionButton_Behavior_Layout = new int[] {
-					2130903096};
+					2130903097};
 			
 			// aapt resource value: 0
 			public const int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
@@ -9280,10 +13102,10 @@ namespace Fitness_Diary
 			// aapt resource value: 12
 			public const int FloatingActionButton_useCompatPadding = 12;
 			
-			// aapt resource value: { 0x7F030112,0x7F03012C }
+			// aapt resource value: { 0x7F030115,0x7F03012F }
 			public static int[] FlowLayout = new int[] {
-					2130903314,
-					2130903340};
+					2130903317,
+					2130903343};
 			
 			// aapt resource value: 0
 			public const int FlowLayout_itemSpacing = 0;
@@ -9291,27 +13113,27 @@ namespace Fitness_Diary
 			// aapt resource value: 1
 			public const int FlowLayout_lineSpacing = 1;
 			
-			// aapt resource value: { 0x7F0300E1,0x7F0300E2,0x7F0300E3,0x7F0300E4,0x7F0300E5,0x7F0300E6 }
+			// aapt resource value: { 0x7F0300E4,0x7F0300E5,0x7F0300E6,0x7F0300E7,0x7F0300E8,0x7F0300E9 }
 			public static int[] FontFamily = new int[] {
-					2130903265,
-					2130903266,
-					2130903267,
 					2130903268,
 					2130903269,
-					2130903270};
+					2130903270,
+					2130903271,
+					2130903272,
+					2130903273};
 			
-			// aapt resource value: { 0x1010532,0x1010533,0x101053F,0x101056F,0x1010570,0x7F0300DF,0x7F0300E7,0x7F0300E8,0x7F0300E9,0x7F0301E7 }
+			// aapt resource value: { 0x1010532,0x1010533,0x101053F,0x101056F,0x1010570,0x7F0300E2,0x7F0300EA,0x7F0300EB,0x7F0300EC,0x7F0301FE }
 			public static int[] FontFamilyFont = new int[] {
 					16844082,
 					16844083,
 					16844095,
 					16844143,
 					16844144,
-					2130903263,
-					2130903271,
-					2130903272,
-					2130903273,
-					2130903527};
+					2130903266,
+					2130903274,
+					2130903275,
+					2130903276,
+					2130903550};
 			
 			// aapt resource value: 0
 			public const int FontFamilyFont_android_font = 0;
@@ -9361,11 +13183,11 @@ namespace Fitness_Diary
 			// aapt resource value: 5
 			public const int FontFamily_fontProviderQuery = 5;
 			
-			// aapt resource value: { 0x1010109,0x1010200,0x7F0300EA }
+			// aapt resource value: { 0x1010109,0x1010200,0x7F0300ED }
 			public static int[] ForegroundLinearLayout = new int[] {
 					16843017,
 					16843264,
-					2130903274};
+					2130903277};
 			
 			// aapt resource value: 0
 			public const int ForegroundLinearLayout_android_foreground = 0;
@@ -9438,17 +13260,17 @@ namespace Fitness_Diary
 			// aapt resource value: 2
 			public const int GradientColor_android_type = 2;
 			
-			// aapt resource value: { 0x10100AF,0x10100C4,0x1010126,0x1010127,0x1010128,0x7F0300B9,0x7F0300BB,0x7F030141,0x7F030170 }
+			// aapt resource value: { 0x10100AF,0x10100C4,0x1010126,0x1010127,0x1010128,0x7F0300BA,0x7F0300BC,0x7F030144,0x7F030184 }
 			public static int[] LinearLayoutCompat = new int[] {
 					16842927,
 					16842948,
 					16843046,
 					16843047,
 					16843048,
-					2130903225,
-					2130903227,
-					2130903361,
-					2130903408};
+					2130903226,
+					2130903228,
+					2130903364,
+					2130903428};
 			
 			// aapt resource value: 2
 			public const int LinearLayoutCompat_android_baselineAligned = 2;
@@ -9507,11 +13329,11 @@ namespace Fitness_Diary
 			// aapt resource value: 1
 			public const int ListPopupWindow_android_dropDownVerticalOffset = 1;
 			
-			// aapt resource value: { 0x7F030080,0x7F030104,0x7F030105 }
+			// aapt resource value: { 0x7F030081,0x7F030107,0x7F030108 }
 			public static int[] LoadingImageView = new int[] {
-					2130903168,
-					2130903300,
-					2130903301};
+					2130903169,
+					2130903303,
+					2130903304};
 			
 			// aapt resource value: 0
 			public const int LoadingImageView_circleCrop = 0;
@@ -9522,32 +13344,32 @@ namespace Fitness_Diary
 			// aapt resource value: 2
 			public const int LoadingImageView_imageAspectRatioAdjust = 2;
 			
-			// aapt resource value: { 0x7F030029,0x7F03005A,0x7F03005B,0x7F03005C,0x7F03005D,0x7F03005E,0x7F03005F,0x7F030060,0x7F03011A,0x7F03011B,0x7F03011C,0x7F03011D,0x7F030138,0x7F03013B,0x7F0301E8,0x7F0301E9,0x7F0301EA,0x7F0301EB,0x7F0301EC,0x7F0301ED,0x7F0301EE,0x7F0301EF,0x7F0301F1,0x7F0301FE }
+			// aapt resource value: { 0x7F03002A,0x7F03005B,0x7F03005C,0x7F03005D,0x7F03005E,0x7F03005F,0x7F030060,0x7F030061,0x7F03011D,0x7F03011E,0x7F03011F,0x7F030120,0x7F03013B,0x7F03013E,0x7F0301FF,0x7F030200,0x7F030201,0x7F030202,0x7F030203,0x7F030204,0x7F030205,0x7F030206,0x7F030208,0x7F030216 }
 			public static int[] MapAttrs = new int[] {
-					2130903081,
-					2130903130,
+					2130903082,
 					2130903131,
 					2130903132,
 					2130903133,
 					2130903134,
 					2130903135,
 					2130903136,
-					2130903322,
-					2130903323,
-					2130903324,
+					2130903137,
 					2130903325,
-					2130903352,
+					2130903326,
+					2130903327,
+					2130903328,
 					2130903355,
-					2130903528,
-					2130903529,
-					2130903530,
-					2130903531,
-					2130903532,
-					2130903533,
-					2130903534,
-					2130903535,
-					2130903537,
-					2130903550};
+					2130903358,
+					2130903551,
+					2130903552,
+					2130903553,
+					2130903554,
+					2130903555,
+					2130903556,
+					2130903557,
+					2130903558,
+					2130903560,
+					2130903574};
 			
 			// aapt resource value: 0
 			public const int MapAttrs_ambientEnabled = 0;
@@ -9621,24 +13443,24 @@ namespace Fitness_Diary
 			// aapt resource value: 23
 			public const int MapAttrs_zOrderOnTop = 23;
 			
-			// aapt resource value: { 0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x7F030035,0x7F030036,0x7F0300AE,0x7F0300FB,0x7F0300FD,0x7F0300FE,0x7F0300FF,0x7F030101,0x7F030102,0x7F030164,0x7F030187,0x7F030188 }
+			// aapt resource value: { 0x10101B7,0x10101B8,0x10101B9,0x10101BA,0x7F030036,0x7F030037,0x7F0300AF,0x7F0300FE,0x7F030100,0x7F030101,0x7F030102,0x7F030104,0x7F030105,0x7F030174,0x7F03019B,0x7F03019C }
 			public static int[] MaterialButton = new int[] {
 					16843191,
 					16843192,
 					16843193,
 					16843194,
-					2130903093,
 					2130903094,
-					2130903214,
-					2130903291,
-					2130903293,
+					2130903095,
+					2130903215,
 					2130903294,
-					2130903295,
+					2130903296,
 					2130903297,
 					2130903298,
-					2130903396,
-					2130903431,
-					2130903432};
+					2130903300,
+					2130903301,
+					2130903412,
+					2130903451,
+					2130903452};
 			
 			// aapt resource value: 3
 			public const int MaterialButton_android_insetBottom = 3;
@@ -9688,10 +13510,10 @@ namespace Fitness_Diary
 			// aapt resource value: 15
 			public const int MaterialButton_strokeWidth = 15;
 			
-			// aapt resource value: { 0x7F030187,0x7F030188 }
+			// aapt resource value: { 0x7F03019B,0x7F03019C }
 			public static int[] MaterialCardView = new int[] {
-					2130903431,
-					2130903432};
+					2130903451,
+					2130903452};
 			
 			// aapt resource value: 0
 			public const int MaterialCardView_strokeColor = 0;
@@ -9699,40 +13521,40 @@ namespace Fitness_Diary
 			// aapt resource value: 1
 			public const int MaterialCardView_strokeWidth = 1;
 			
-			// aapt resource value: { 0x7F030042,0x7F030043,0x7F030071,0x7F03007B,0x7F03007F,0x7F030092,0x7F030093,0x7F030099,0x7F03009A,0x7F03009C,0x7F0300C3,0x7F0300DE,0x7F03013C,0x7F03013D,0x7F030147,0x7F030167,0x7F030177,0x7F0301AA,0x7F0301AF,0x7F0301B0,0x7F0301B1,0x7F0301B2,0x7F0301B3,0x7F0301B4,0x7F0301B5,0x7F0301B6,0x7F0301B7,0x7F0301B8,0x7F0301BD,0x7F0301C2,0x7F0301C3,0x7F0301C7 }
+			// aapt resource value: { 0x7F030043,0x7F030044,0x7F030072,0x7F03007C,0x7F030080,0x7F030093,0x7F030094,0x7F03009A,0x7F03009B,0x7F03009D,0x7F0300C4,0x7F0300E1,0x7F03013F,0x7F030140,0x7F030157,0x7F03017B,0x7F03018B,0x7F0301BE,0x7F0301C3,0x7F0301C4,0x7F0301C5,0x7F0301C6,0x7F0301C7,0x7F0301C8,0x7F0301C9,0x7F0301CA,0x7F0301CB,0x7F0301CC,0x7F0301D1,0x7F0301D6,0x7F0301D7,0x7F0301DB }
 			public static int[] MaterialComponentsTheme = new int[] {
-					2130903106,
 					2130903107,
-					2130903153,
-					2130903163,
-					2130903167,
-					2130903186,
+					2130903108,
+					2130903154,
+					2130903164,
+					2130903168,
 					2130903187,
-					2130903193,
+					2130903188,
 					2130903194,
-					2130903196,
-					2130903235,
-					2130903262,
-					2130903356,
-					2130903357,
-					2130903367,
-					2130903399,
-					2130903415,
-					2130903466,
-					2130903471,
-					2130903472,
-					2130903473,
-					2130903474,
-					2130903475,
-					2130903476,
-					2130903477,
-					2130903478,
-					2130903479,
-					2130903480,
-					2130903485,
-					2130903490,
+					2130903195,
+					2130903197,
+					2130903236,
+					2130903265,
+					2130903359,
+					2130903360,
+					2130903383,
+					2130903419,
+					2130903435,
+					2130903486,
 					2130903491,
-					2130903495};
+					2130903492,
+					2130903493,
+					2130903494,
+					2130903495,
+					2130903496,
+					2130903497,
+					2130903498,
+					2130903499,
+					2130903500,
+					2130903505,
+					2130903510,
+					2130903511,
+					2130903515};
 			
 			// aapt resource value: 0
 			public const int MaterialComponentsTheme_bottomSheetDialogTheme = 0;
@@ -9830,6 +13652,25 @@ namespace Fitness_Diary
 			// aapt resource value: 31
 			public const int MaterialComponentsTheme_textInputStyle = 31;
 			
+			// aapt resource value: { 0x101013F,0x1010140,0x7F0300D4,0x7F030147 }
+			public static int[] MediaRouteButton = new int[] {
+					16843071,
+					16843072,
+					2130903252,
+					2130903367};
+			
+			// aapt resource value: 1
+			public const int MediaRouteButton_android_minHeight = 1;
+			
+			// aapt resource value: 0
+			public const int MediaRouteButton_android_minWidth = 0;
+			
+			// aapt resource value: 2
+			public const int MediaRouteButton_externalRouteEnabledDrawable = 2;
+			
+			// aapt resource value: 3
+			public const int MediaRouteButton_mediaRouteButtonTint = 3;
+			
 			// aapt resource value: { 0x101000E,0x10100D0,0x1010194,0x10101DE,0x10101DF,0x10101E0 }
 			public static int[] MenuGroup = new int[] {
 					16842766,
@@ -9857,7 +13698,7 @@ namespace Fitness_Diary
 			// aapt resource value: 2
 			public const int MenuGroup_android_visible = 2;
 			
-			// aapt resource value: { 0x1010002,0x101000E,0x10100D0,0x1010106,0x1010194,0x10101DE,0x10101DF,0x10101E1,0x10101E2,0x10101E3,0x10101E4,0x10101E5,0x101026F,0x7F03000D,0x7F03001F,0x7F030020,0x7F030028,0x7F03009F,0x7F030101,0x7F030102,0x7F030148,0x7F03016F,0x7F0301E3 }
+			// aapt resource value: { 0x1010002,0x101000E,0x10100D0,0x1010106,0x1010194,0x10101DE,0x10101DF,0x10101E1,0x10101E2,0x10101E3,0x10101E4,0x10101E5,0x101026F,0x7F03000D,0x7F03001F,0x7F030020,0x7F030029,0x7F0300A0,0x7F030104,0x7F030105,0x7F030158,0x7F030183,0x7F0301FA }
 			public static int[] MenuItem = new int[] {
 					16842754,
 					16842766,
@@ -9875,13 +13716,13 @@ namespace Fitness_Diary
 					2130903053,
 					2130903071,
 					2130903072,
-					2130903080,
-					2130903199,
-					2130903297,
-					2130903298,
-					2130903368,
-					2130903407,
-					2130903523};
+					2130903081,
+					2130903200,
+					2130903300,
+					2130903301,
+					2130903384,
+					2130903427,
+					2130903546};
 			
 			// aapt resource value: 13
 			public const int MenuItem_actionLayout = 13;
@@ -9952,7 +13793,7 @@ namespace Fitness_Diary
 			// aapt resource value: 22
 			public const int MenuItem_tooltipText = 22;
 			
-			// aapt resource value: { 0x10100AE,0x101012C,0x101012D,0x101012E,0x101012F,0x1010130,0x1010131,0x7F030159,0x7F030189 }
+			// aapt resource value: { 0x10100AE,0x101012C,0x101012D,0x101012E,0x101012F,0x1010130,0x1010131,0x7F030169,0x7F03019D }
 			public static int[] MenuView = new int[] {
 					16842926,
 					16843052,
@@ -9961,8 +13802,8 @@ namespace Fitness_Diary
 					16843055,
 					16843056,
 					16843057,
-					2130903385,
-					2130903433};
+					2130903401,
+					2130903453};
 			
 			// aapt resource value: 4
 			public const int MenuView_android_headerBackground = 4;
@@ -9991,20 +13832,20 @@ namespace Fitness_Diary
 			// aapt resource value: 8
 			public const int MenuView_subMenuArrow = 8;
 			
-			// aapt resource value: { 0x10100D4,0x10100DD,0x101011F,0x7F0300C4,0x7F0300ED,0x7F03010B,0x7F03010C,0x7F03010E,0x7F030110,0x7F030113,0x7F030116,0x7F030142 }
+			// aapt resource value: { 0x10100D4,0x10100DD,0x101011F,0x7F0300C5,0x7F0300F0,0x7F03010E,0x7F03010F,0x7F030111,0x7F030113,0x7F030116,0x7F030119,0x7F030152 }
 			public static int[] NavigationView = new int[] {
 					16842964,
 					16842973,
 					16843039,
-					2130903236,
-					2130903277,
-					2130903307,
-					2130903308,
+					2130903237,
+					2130903280,
 					2130903310,
-					2130903312,
+					2130903311,
+					2130903313,
 					2130903315,
 					2130903318,
-					2130903362};
+					2130903321,
+					2130903378};
 			
 			// aapt resource value: 0
 			public const int NavigationView_android_background = 0;
@@ -10042,15 +13883,15 @@ namespace Fitness_Diary
 			// aapt resource value: 11
 			public const int NavigationView_menu = 11;
 			
-			// aapt resource value: { 0x1010176,0x10102C9,0x7F030149 }
+			// aapt resource value: { 0x1010176,0x10102C9,0x7F030159 }
 			public static int[] PopupWindow = new int[] {
 					16843126,
 					16843465,
-					2130903369};
+					2130903385};
 			
-			// aapt resource value: { 0x7F030180 }
+			// aapt resource value: { 0x7F030194 }
 			public static int[] PopupWindowBackgroundState = new int[] {
-					2130903424};
+					2130903444};
 			
 			// aapt resource value: 0
 			public const int PopupWindowBackgroundState_state_above_anchor = 0;
@@ -10064,10 +13905,10 @@ namespace Fitness_Diary
 			// aapt resource value: 2
 			public const int PopupWindow_overlapAnchor = 2;
 			
-			// aapt resource value: { 0x7F03014A,0x7F03014D }
+			// aapt resource value: { 0x7F03015A,0x7F03015D }
 			public static int[] RecycleListView = new int[] {
-					2130903370,
-					2130903373};
+					2130903386,
+					2130903389};
 			
 			// aapt resource value: 0
 			public const int RecycleListView_paddingBottomNoButtons = 0;
@@ -10075,19 +13916,19 @@ namespace Fitness_Diary
 			// aapt resource value: 1
 			public const int RecycleListView_paddingTopNoTitle = 1;
 			
-			// aapt resource value: { 0x10100C4,0x10100F1,0x7F0300D8,0x7F0300D9,0x7F0300DA,0x7F0300DB,0x7F0300DC,0x7F03011F,0x7F030163,0x7F030179,0x7F03017F }
+			// aapt resource value: { 0x10100C4,0x10100F1,0x7F0300DB,0x7F0300DC,0x7F0300DD,0x7F0300DE,0x7F0300DF,0x7F030122,0x7F030173,0x7F03018D,0x7F030193 }
 			public static int[] RecyclerView = new int[] {
 					16842948,
 					16842993,
-					2130903256,
-					2130903257,
-					2130903258,
 					2130903259,
 					2130903260,
-					2130903327,
-					2130903395,
-					2130903417,
-					2130903423};
+					2130903261,
+					2130903262,
+					2130903263,
+					2130903330,
+					2130903411,
+					2130903437,
+					2130903443};
 			
 			// aapt resource value: 1
 			public const int RecyclerView_android_descendantFocusability = 1;
@@ -10122,39 +13963,39 @@ namespace Fitness_Diary
 			// aapt resource value: 10
 			public const int RecyclerView_stackFromEnd = 10;
 			
-			// aapt resource value: { 0x7F030109 }
+			// aapt resource value: { 0x7F03010C }
 			public static int[] ScrimInsetsFrameLayout = new int[] {
-					2130903305};
+					2130903308};
 			
 			// aapt resource value: 0
 			public const int ScrimInsetsFrameLayout_insetForeground = 0;
 			
-			// aapt resource value: { 0x7F03003B }
+			// aapt resource value: { 0x7F03003C }
 			public static int[] ScrollingViewBehavior_Layout = new int[] {
-					2130903099};
+					2130903100};
 			
 			// aapt resource value: 0
 			public const int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
 			
-			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F030085,0x7F03009E,0x7F0300B4,0x7F0300EC,0x7F030103,0x7F03011E,0x7F03015D,0x7F03015E,0x7F030169,0x7F03016A,0x7F03018A,0x7F03018F,0x7F0301F3 }
+			// aapt resource value: { 0x10100DA,0x101011F,0x1010220,0x1010264,0x7F030086,0x7F03009F,0x7F0300B5,0x7F0300EF,0x7F030106,0x7F030121,0x7F03016D,0x7F03016E,0x7F03017D,0x7F03017E,0x7F03019E,0x7F0301A3,0x7F03020B }
 			public static int[] SearchView = new int[] {
 					16842970,
 					16843039,
 					16843296,
 					16843364,
-					2130903173,
-					2130903198,
-					2130903220,
-					2130903276,
-					2130903299,
-					2130903326,
-					2130903389,
-					2130903390,
-					2130903401,
-					2130903402,
-					2130903434,
-					2130903439,
-					2130903539};
+					2130903174,
+					2130903199,
+					2130903221,
+					2130903279,
+					2130903302,
+					2130903329,
+					2130903405,
+					2130903406,
+					2130903421,
+					2130903422,
+					2130903454,
+					2130903459,
+					2130903563};
 			
 			// aapt resource value: 0
 			public const int SearchView_android_focusable = 0;
@@ -10207,11 +14048,54 @@ namespace Fitness_Diary
 			// aapt resource value: 16
 			public const int SearchView_voiceIcon = 16;
 			
-			// aapt resource value: { 0x7F030055,0x7F03009B,0x7F030165 }
+			// aapt resource value: { 0x7F030026,0x7F0300C6,0x7F030175,0x7F030176,0x7F030177,0x7F030178,0x7F0301E5,0x7F0301E6,0x7F0301E7,0x7F030209 }
+			public static int[] SfSchedule = new int[] {
+					2130903078,
+					2130903238,
+					2130903413,
+					2130903414,
+					2130903415,
+					2130903416,
+					2130903525,
+					2130903526,
+					2130903527,
+					2130903561};
+			
+			// aapt resource value: 0
+			public const int SfSchedule_allowAppointmentDrag = 0;
+			
+			// aapt resource value: 1
+			public const int SfSchedule_enableNavigation = 1;
+			
+			// aapt resource value: 2
+			public const int SfSchedule_scheduleDateHeaderFormat = 2;
+			
+			// aapt resource value: 3
+			public const int SfSchedule_scheduleFirstDayOfWeek = 3;
+			
+			// aapt resource value: 4
+			public const int SfSchedule_scheduleHeaderHeight = 4;
+			
+			// aapt resource value: 5
+			public const int SfSchedule_scheduleView = 5;
+			
+			// aapt resource value: 6
+			public const int SfSchedule_timeInterval = 6;
+			
+			// aapt resource value: 7
+			public const int SfSchedule_timeIntervalHeight = 7;
+			
+			// aapt resource value: 8
+			public const int SfSchedule_timeZone = 8;
+			
+			// aapt resource value: 9
+			public const int SfSchedule_viewHeaderHeight = 9;
+			
+			// aapt resource value: { 0x7F030056,0x7F03009C,0x7F030179 }
 			public static int[] SignInButton = new int[] {
-					2130903125,
-					2130903195,
-					2130903397};
+					2130903126,
+					2130903196,
+					2130903417};
 			
 			// aapt resource value: 0
 			public const int SignInButton_buttonSize = 0;
@@ -10222,16 +14106,16 @@ namespace Fitness_Diary
 			// aapt resource value: 2
 			public const int SignInButton_scopeUris = 2;
 			
-			// aapt resource value: { 0x7F030177,0x7F030178 }
+			// aapt resource value: { 0x7F03018B,0x7F03018C }
 			public static int[] Snackbar = new int[] {
-					2130903415,
-					2130903416};
+					2130903435,
+					2130903436};
 			
-			// aapt resource value: { 0x101011F,0x7F0300C4,0x7F03013E }
+			// aapt resource value: { 0x101011F,0x7F0300C5,0x7F030141 }
 			public static int[] SnackbarLayout = new int[] {
 					16843039,
-					2130903236,
-					2130903358};
+					2130903237,
+					2130903361};
 			
 			// aapt resource value: 0
 			public const int SnackbarLayout_android_maxWidth = 0;
@@ -10248,13 +14132,13 @@ namespace Fitness_Diary
 			// aapt resource value: 1
 			public const int Snackbar_snackbarStyle = 1;
 			
-			// aapt resource value: { 0x10100B2,0x1010176,0x101017B,0x1010262,0x7F030157 }
+			// aapt resource value: { 0x10100B2,0x1010176,0x101017B,0x1010262,0x7F030167 }
 			public static int[] Spinner = new int[] {
 					16842930,
 					16843126,
 					16843131,
 					16843362,
-					2130903383};
+					2130903399};
 			
 			// aapt resource value: 3
 			public const int Spinner_android_dropDownWidth = 3;
@@ -10305,22 +14189,22 @@ namespace Fitness_Diary
 			// aapt resource value: 1
 			public const int StateListDrawable_android_visible = 1;
 			
-			// aapt resource value: { 0x1010124,0x1010125,0x1010142,0x7F030172,0x7F03017D,0x7F030190,0x7F030191,0x7F030193,0x7F0301CB,0x7F0301CC,0x7F0301CD,0x7F0301E4,0x7F0301E5,0x7F0301E6 }
+			// aapt resource value: { 0x1010124,0x1010125,0x1010142,0x7F030186,0x7F030191,0x7F0301A4,0x7F0301A5,0x7F0301A7,0x7F0301DF,0x7F0301E0,0x7F0301E1,0x7F0301FB,0x7F0301FC,0x7F0301FD }
 			public static int[] SwitchCompat = new int[] {
 					16843044,
 					16843045,
 					16843074,
-					2130903410,
-					2130903421,
-					2130903440,
+					2130903430,
 					2130903441,
-					2130903443,
-					2130903499,
-					2130903500,
-					2130903501,
-					2130903524,
-					2130903525,
-					2130903526};
+					2130903460,
+					2130903461,
+					2130903463,
+					2130903519,
+					2130903520,
+					2130903521,
+					2130903547,
+					2130903548,
+					2130903549};
 			
 			// aapt resource value: 1
 			public const int SwitchCompat_android_textOff = 1;
@@ -10379,33 +14263,33 @@ namespace Fitness_Diary
 			// aapt resource value: 2
 			public const int TabItem_android_text = 2;
 			
-			// aapt resource value: { 0x7F030194,0x7F030195,0x7F030196,0x7F030197,0x7F030198,0x7F030199,0x7F03019A,0x7F03019B,0x7F03019C,0x7F03019D,0x7F03019E,0x7F03019F,0x7F0301A0,0x7F0301A1,0x7F0301A2,0x7F0301A3,0x7F0301A4,0x7F0301A5,0x7F0301A6,0x7F0301A7,0x7F0301A8,0x7F0301A9,0x7F0301AB,0x7F0301AC,0x7F0301AD }
+			// aapt resource value: { 0x7F0301A8,0x7F0301A9,0x7F0301AA,0x7F0301AB,0x7F0301AC,0x7F0301AD,0x7F0301AE,0x7F0301AF,0x7F0301B0,0x7F0301B1,0x7F0301B2,0x7F0301B3,0x7F0301B4,0x7F0301B5,0x7F0301B6,0x7F0301B7,0x7F0301B8,0x7F0301B9,0x7F0301BA,0x7F0301BB,0x7F0301BC,0x7F0301BD,0x7F0301BF,0x7F0301C0,0x7F0301C1 }
 			public static int[] TabLayout = new int[] {
-					2130903444,
-					2130903445,
-					2130903446,
-					2130903447,
-					2130903448,
-					2130903449,
-					2130903450,
-					2130903451,
-					2130903452,
-					2130903453,
-					2130903454,
-					2130903455,
-					2130903456,
-					2130903457,
-					2130903458,
-					2130903459,
-					2130903460,
-					2130903461,
-					2130903462,
-					2130903463,
 					2130903464,
 					2130903465,
+					2130903466,
 					2130903467,
 					2130903468,
-					2130903469};
+					2130903469,
+					2130903470,
+					2130903471,
+					2130903472,
+					2130903473,
+					2130903474,
+					2130903475,
+					2130903476,
+					2130903477,
+					2130903478,
+					2130903479,
+					2130903480,
+					2130903481,
+					2130903482,
+					2130903483,
+					2130903484,
+					2130903485,
+					2130903487,
+					2130903488,
+					2130903489};
 			
 			// aapt resource value: 0
 			public const int TabLayout_tabBackground = 0;
@@ -10482,7 +14366,7 @@ namespace Fitness_Diary
 			// aapt resource value: 24
 			public const int TabLayout_tabUnboundedRipple = 24;
 			
-			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x1010098,0x101009A,0x101009B,0x1010161,0x1010162,0x1010163,0x1010164,0x10103AC,0x7F0300E0,0x7F0301AE }
+			// aapt resource value: { 0x1010095,0x1010096,0x1010097,0x1010098,0x101009A,0x101009B,0x1010161,0x1010162,0x1010163,0x1010164,0x10103AC,0x7F0300E3,0x7F0301C2 }
 			public static int[] TextAppearance = new int[] {
 					16842901,
 					16842902,
@@ -10495,8 +14379,8 @@ namespace Fitness_Diary
 					16843107,
 					16843108,
 					16843692,
-					2130903264,
-					2130903470};
+					2130903267,
+					2130903490};
 			
 			// aapt resource value: 10
 			public const int TextAppearance_android_fontFamily = 10;
@@ -10537,11 +14421,10 @@ namespace Fitness_Diary
 			// aapt resource value: 12
 			public const int TextAppearance_textAllCaps = 12;
 			
-			// aapt resource value: { 0x101009A,0x1010150,0x7F030044,0x7F030045,0x7F030046,0x7F030047,0x7F030048,0x7F030049,0x7F03004A,0x7F03004B,0x7F03004C,0x7F0300AF,0x7F0300B0,0x7F0300B1,0x7F0300B2,0x7F0300C7,0x7F0300C8,0x7F0300EF,0x7F0300F0,0x7F0300F1,0x7F0300F5,0x7F0300F6,0x7F0300F7,0x7F030151,0x7F030152,0x7F030153,0x7F030154,0x7F030155 }
+			// aapt resource value: { 0x101009A,0x1010150,0x7F030045,0x7F030046,0x7F030047,0x7F030048,0x7F030049,0x7F03004A,0x7F03004B,0x7F03004C,0x7F03004D,0x7F0300B0,0x7F0300B1,0x7F0300B2,0x7F0300B3,0x7F0300C9,0x7F0300CA,0x7F0300F2,0x7F0300F3,0x7F0300F4,0x7F0300F8,0x7F0300F9,0x7F0300FA,0x7F030161,0x7F030162,0x7F030163,0x7F030164,0x7F030165 }
 			public static int[] TextInputLayout = new int[] {
 					16842906,
 					16843088,
-					2130903108,
 					2130903109,
 					2130903110,
 					2130903111,
@@ -10550,23 +14433,24 @@ namespace Fitness_Diary
 					2130903114,
 					2130903115,
 					2130903116,
-					2130903215,
+					2130903117,
 					2130903216,
 					2130903217,
 					2130903218,
-					2130903239,
-					2130903240,
-					2130903279,
-					2130903280,
-					2130903281,
-					2130903285,
-					2130903286,
-					2130903287,
-					2130903377,
-					2130903378,
-					2130903379,
-					2130903380,
-					2130903381};
+					2130903219,
+					2130903241,
+					2130903242,
+					2130903282,
+					2130903283,
+					2130903284,
+					2130903288,
+					2130903289,
+					2130903290,
+					2130903393,
+					2130903394,
+					2130903395,
+					2130903396,
+					2130903397};
 			
 			// aapt resource value: 1
 			public const int TextInputLayout_android_hint = 1;
@@ -10652,11 +14536,11 @@ namespace Fitness_Diary
 			// aapt resource value: 27
 			public const int TextInputLayout_passwordToggleTintMode = 27;
 			
-			// aapt resource value: { 0x1010034,0x7F0300C5,0x7F0300C6 }
+			// aapt resource value: { 0x1010034,0x7F0300C7,0x7F0300C8 }
 			public static int[] ThemeEnforcement = new int[] {
 					16842804,
-					2130903237,
-					2130903238};
+					2130903239,
+					2130903240};
 			
 			// aapt resource value: 0
 			public const int ThemeEnforcement_android_textAppearance = 0;
@@ -10667,37 +14551,37 @@ namespace Fitness_Diary
 			// aapt resource value: 2
 			public const int ThemeEnforcement_enforceTextAppearance = 2;
 			
-			// aapt resource value: { 0x10100AF,0x1010140,0x7F030052,0x7F03008D,0x7F03008E,0x7F0300A0,0x7F0300A1,0x7F0300A2,0x7F0300A3,0x7F0300A4,0x7F0300A5,0x7F030139,0x7F03013A,0x7F03013F,0x7F030144,0x7F030145,0x7F030157,0x7F03018B,0x7F03018C,0x7F03018D,0x7F0301D3,0x7F0301D5,0x7F0301D6,0x7F0301D7,0x7F0301D8,0x7F0301D9,0x7F0301DA,0x7F0301DB,0x7F0301DC }
+			// aapt resource value: { 0x10100AF,0x1010140,0x7F030053,0x7F03008E,0x7F03008F,0x7F0300A1,0x7F0300A2,0x7F0300A3,0x7F0300A4,0x7F0300A5,0x7F0300A6,0x7F03013C,0x7F03013D,0x7F030142,0x7F030154,0x7F030155,0x7F030167,0x7F03019F,0x7F0301A0,0x7F0301A1,0x7F0301EA,0x7F0301EC,0x7F0301ED,0x7F0301EE,0x7F0301EF,0x7F0301F0,0x7F0301F1,0x7F0301F2,0x7F0301F3 }
 			public static int[] Toolbar = new int[] {
 					16842927,
 					16843072,
-					2130903122,
-					2130903181,
+					2130903123,
 					2130903182,
-					2130903200,
+					2130903183,
 					2130903201,
 					2130903202,
 					2130903203,
 					2130903204,
 					2130903205,
-					2130903353,
-					2130903354,
-					2130903359,
-					2130903364,
-					2130903365,
-					2130903383,
-					2130903435,
-					2130903436,
-					2130903437,
-					2130903507,
-					2130903509,
-					2130903510,
-					2130903511,
-					2130903512,
-					2130903513,
-					2130903514,
-					2130903515,
-					2130903516};
+					2130903206,
+					2130903356,
+					2130903357,
+					2130903362,
+					2130903380,
+					2130903381,
+					2130903399,
+					2130903455,
+					2130903456,
+					2130903457,
+					2130903530,
+					2130903532,
+					2130903533,
+					2130903534,
+					2130903535,
+					2130903536,
+					2130903537,
+					2130903538,
+					2130903539};
 			
 			// aapt resource value: 0
 			public const int Toolbar_android_gravity = 0;
@@ -10786,19 +14670,19 @@ namespace Fitness_Diary
 			// aapt resource value: 28
 			public const int Toolbar_titleTextColor = 28;
 			
-			// aapt resource value: { 0x1010000,0x10100DA,0x7F03014B,0x7F03014C,0x7F0301C9 }
+			// aapt resource value: { 0x1010000,0x10100DA,0x7F03015B,0x7F03015C,0x7F0301DD }
 			public static int[] View = new int[] {
 					16842752,
 					16842970,
-					2130903371,
-					2130903372,
-					2130903497};
+					2130903387,
+					2130903388,
+					2130903517};
 			
-			// aapt resource value: { 0x10100D4,0x7F030035,0x7F030036 }
+			// aapt resource value: { 0x10100D4,0x7F030036,0x7F030037 }
 			public static int[] ViewBackgroundHelper = new int[] {
 					16842964,
-					2130903093,
-					2130903094};
+					2130903094,
+					2130903095};
 			
 			// aapt resource value: 0
 			public const int ViewBackgroundHelper_android_background = 0;

@@ -124,6 +124,9 @@
     <PackageReference Include="Refractored.Controls.CircleImageView">
       <Version>1.0.1</Version>
     </PackageReference>
+    <PackageReference Include="Syncfusion.Xamarin.SfSchedule">
+      <Version>18.1.0.46</Version>
+    </PackageReference>
     <PackageReference Include="Xamarin.Android.Maps.Utils">
       <Version>0.5.0</Version>
     </PackageReference>

@@ -92,7 +92,6 @@ namespace Fitness_Diary.Fragments
 
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
-            // Use this to return your custom view for this Fragment
             View view = inflater.Inflate(Resource.Layout.map, container, false);
 
             //Map
