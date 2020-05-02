@@ -17,6 +17,7 @@ using Firebase;
 using Java.Lang;
 using Fitness_Diary.EventListeners;
 using Java.Util;
+using Fitness_Diary.Helpers;
 
 namespace Fitness_Diary.Activities
 {
@@ -147,7 +148,7 @@ namespace Fitness_Diary.Activities
             userMap.Put("email", email);
 
             //sets user's id to be the unique id in database
-            DatabaseReference userReference = database.GetReference("users/" + mAuth.CurrentUser.Uid);
+            DatabaseReference userReference = AppDataHelper.GetDatabase().GetReference("users/" + mAuth.CurrentUser.Uid);
             userReference.SetValue(userMap);
         }
 
