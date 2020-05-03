@@ -5,6 +5,9 @@ using Android.Widget;
 using Android.Support.V7.Widget;
 using System.Collections.Generic;
 using Fitness_Diary.Models;
+using Fitness_Diary.Fragments;
+using Android.Graphics;
+using Android.Support.Design.Widget;
 
 namespace Fitness_Diary.Adapter
 {
@@ -33,9 +36,19 @@ namespace Fitness_Diary.Adapter
         // Replace the contents of a view (invoked by the layout manager)
         public override void OnBindViewHolder(RecyclerView.ViewHolder viewHolder, int position)
         {
+            CalendarFragment calendar = new CalendarFragment();
+
             var holder = viewHolder as WorkoutAdapterViewHolder;
-            holder.workoutText.Text = Items[position].Workouts;
-            holder.repText.Text = Items[position].Rep;
+
+            if(Items[position].Date == CalendarFragment.selectedDay)
+            {
+                holder.workoutText.Text = Items[position].Workouts;
+                holder.repText.Text = Items[position].Rep;
+            }
+            else
+            {
+                holder.workoutLayout.LayoutParameters.Height = 0;
+            }
         }
 
         public override int ItemCount => Items.Count;
@@ -49,14 +62,17 @@ namespace Fitness_Diary.Adapter
     {
         public TextView workoutText { get; set; }
         public TextView repText { get; set; }
-
+        public LinearLayout workoutLayout { get; set; }
 
         public WorkoutAdapterViewHolder(View itemView, Action<WorkoutAdapterClickEventArgs> clickListener,
                             Action<WorkoutAdapterClickEventArgs> longClickListener) : base(itemView)
         {
-            //TextView = v;
-            workoutText = (TextView)itemView.FindViewById(Resource.Id.txtCalendarWorkout2);
-            repText = (TextView)itemView.FindViewById(Resource.Id.txtCalendarReps2);
+            //TextView
+            workoutText = (TextView)itemView.FindViewById(Resource.Id.txtCalendarWorkout);
+            repText = (TextView)itemView.FindViewById(Resource.Id.txtCalendarReps);
+
+            //Layout
+            workoutLayout = (LinearLayout)itemView.FindViewById(Resource.Id.layoutWorkoutRow);
 
             itemView.Click += (sender, e) => clickListener(new WorkoutAdapterClickEventArgs { View = itemView, Position = AdapterPosition });
             itemView.LongClick += (sender, e) => longClickListener(new WorkoutAdapterClickEventArgs { View = itemView, Position = AdapterPosition });

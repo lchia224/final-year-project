@@ -30,6 +30,7 @@ namespace Fitness_Diary.Fragments
         //TextViews
         TextView workoutText;
         TextView repText;
+        TextView testText;
 
         //CalendarViews
         CalendarView calendarCalendarView;
@@ -71,7 +72,7 @@ namespace Fitness_Diary.Fragments
         public string userWorkout { get; set; }
         public string rep { get; set; }
         public string workoutID { get; set; }
-        public string selectedDay { get; set; }
+        public static string selectedDay { get; set; }
 
         public override void OnCreate(Bundle savedInstanceState)
         {
@@ -86,6 +87,7 @@ namespace Fitness_Diary.Fragments
             View view = inflater.Inflate(Resource.Layout.calendar, container, false);
 
             //TextViews
+            testText = view.FindViewById<TextView>(Resource.Id.txttest);
 
             //TextBoxes
             calendarWorkoutTextBox = view.FindViewById<TextView>(Resource.Id.txtWorkoutInput);
@@ -112,7 +114,15 @@ namespace Fitness_Diary.Fragments
             selfStartButton.Click += SelfStartButton_Click;
             calendarWorkoutTextBox.TextChanged += CalendarWorkoutTextBox_TextChanged;
 
-            RetrieveWorkout();
+            if(selectedDay == null)
+            {
+                string today;
+                today = DateTime.Now.ToString("d/M/yyyy");
+
+                selectedDay = today;
+            }
+
+           //RetrieveWorkout();
 
             return view;
         }
@@ -173,22 +183,25 @@ namespace Fitness_Diary.Fragments
                     selectedDay = today;
                 }
 
-                    Snackbar.Make(calendarCoordinatorLayout, "Workout was logged successfully", Snackbar.LengthShort).Show();
+                Snackbar.Make(calendarCoordinatorLayout, "Workout was logged successfully", Snackbar.LengthShort).Show();
 
-                    string day = selectedDay;
-                    string workout = calendarWorkoutTextBox.Text;
-                    string reps = calendarRepTextBox.Text;
+                string day = selectedDay;
+                string workout = calendarWorkoutTextBox.Text;
+                string reps = calendarRepTextBox.Text;
 
-                    //Creating HashMap to store user information to Firebase
-                    HashMap workoutInfo = new HashMap();
+                //Creating HashMap to store user information to Firebase
+                HashMap workoutInfo = new HashMap();
 
-                    workoutInfo.Put("date", day);
-                    workoutInfo.Put("workout", workout);
-                    workoutInfo.Put("reps", reps);
+                workoutInfo.Put("date", day);
+                workoutInfo.Put("workout", workout);
+                workoutInfo.Put("reps", reps);
 
-                    //sets user's id to be the unique id in database
-                    DatabaseReference userReference = database.GetReference("users").Push();
-                    userReference.SetValue(workoutInfo);
+                //sets user's id to be the unique id in database
+                DatabaseReference userReference = database.GetReference("workouts").Push();
+                userReference.SetValue(workoutInfo);
+
+                calendarWorkoutTextBox.Text = "";
+                calendarRepTextBox.Text = "";
             }
             else
             {
@@ -213,7 +226,7 @@ namespace Fitness_Diary.Fragments
         {
             if (calendarWorkoutTextBox.Text == "")
             {
-                workoutLayoutBottomSheetBehaviour.State = BottomSheetBehavior.StateExpanded;
+                workoutLayoutBottomSheetBehaviour.State = BottomSheetBehavior.StateExpanded;          
             } 
             else
             {
@@ -227,6 +240,7 @@ namespace Fitness_Diary.Fragments
             int month = e.Month + 1;
             int year = e.Year;
             selectedDay = day + "/" + month + "/" + year;
+            RetrieveWorkout();
 
             workoutRecyclerViewBottomSheetBehaviour.State = BottomSheetBehavior.StateExpanded;
         }

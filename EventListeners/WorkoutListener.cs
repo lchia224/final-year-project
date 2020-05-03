@@ -59,7 +59,7 @@ namespace Fitness_Diary.EventListeners
         public void Create()
         {
             mAuth = FirebaseAuth.Instance;
-            DatabaseReference workoutRef = AppDataHelper.GetDatabase().GetReference("users");
+            DatabaseReference workoutRef = AppDataHelper.GetDatabase().GetReference("workouts");
             workoutRef.AddValueEventListener(this);
         }
     }
