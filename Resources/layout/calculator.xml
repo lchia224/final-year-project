@@ -1,17 +1,204 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical"
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/calendarView2"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="18sp"
-        android:text="Calculator"
-        android:textColor="#000"
-        android:layout_centerInParent="true"
-        android:gravity="center"
-    />
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
 
-</RelativeLayout>
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.8"
+                android:background="@color/fitnessPrimaryDark">
+
+                <CalendarView
+                    android:id="@+id/viewCalendar2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:minWidth="25px"
+                    android:minHeight="25px"/>
+
+            </FrameLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_height="0dp"
+                android:layout_width="match_parent"
+                android:layout_weight="0.8"
+                android:background="#736f6f">
+
+                <FrameLayout
+                    android:id="@+id/layoutDifficulty"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.5"
+                    android:background="@color/fitnessPrimaryDark">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <RelativeLayout
+                            android:id="@+id/layoutBeginner"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:clickable="false"
+                            android:layout_weight="0.3">
+
+                            <TextView
+                                android:id="@+id/txtBeginnerSelector"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Beginner"
+                                android:layout_centerVertical="true"
+                                android:layout_marginLeft="30dp"
+                                android:maxLines="2"
+                                android:gravity="center_vertical"
+                                android:layout_marginRight="36dp"/>
+
+                            <RadioButton
+                                android:id="@+id/rbtnBeginnerSelector"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="end"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:layout_marginRight="10dp"/>
+
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:layout_gravity="end"
+                                android:layout_alignParentBottom="true"
+                                android:background="#e2e2e2"/>
+
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:layout_gravity="end"
+                                android:layout_alignParentTop="true"
+                                android:background="#e2e2e2"/>
+
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/layoutIntermediate"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:clickable="false"
+                            android:layout_weight="0.3">
+
+                            <TextView
+                                android:id="@+id/txtIntermediateSelector"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Intermediate"
+                                android:layout_centerVertical="true"
+                                android:layout_marginLeft="30dp"
+                                android:maxLines="2"
+                                android:gravity="center_vertical"
+                                android:layout_marginRight="36dp"
+                            />
+
+                            <RadioButton
+                                android:id="@+id/rbtnIntermediateSelector"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="end"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:layout_marginRight="10dp"
+                            />
+
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                                android:id="@+id/layoutIntermediate"
+                                android:layout_width="match_parent"
+                                android:layout_height="0dp"
+                                android:clickable="false"
+                                android:layout_weight="0.6">
+
+                                <fr.ganfra.materialspinner.MaterialSpinner
+                                    android:id="@+id/workoutSpinner"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    app:ms_enableFloatingLabel="true"
+                                    app:ms_floatingLabelText="Select workout"
+                                    app:ms_hint="Select workout"
+                                    app:ms_alignLabels="true"/>
+
+                                <View
+                                    android:layout_width="match_parent"
+                                    android:layout_height="1dp"
+                                    android:layout_gravity="end"
+                                    android:layout_alignParentTop="true"
+                                    android:background="#e2e2e2"/>
+
+                            </RelativeLayout>
+
+                    </LinearLayout>
+
+                </FrameLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.4">
+
+                    <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_gravity="top"
+                    android:background="#e2e2e2"/>
+
+                <EditText
+                    android:id="@+id/txtWorkoutInput2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Enter your workout"
+                    android:inputType="text"
+                    android:textColor="#fff"/>
+
+                <EditText
+                    android:id="@+id/txtRepInput2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Enter your amount of repetition"
+                    android:inputType="text"
+                    android:visibility="invisible"
+                    android:textColor="#fff"/>
+
+                </LinearLayout>
+
+            <Button
+                    android:id="@+id/btnSelfCalendarStart2"
+                    android:layout_width="300dp"
+                    android:layout_height="40dp"
+                    android:text="Start Workout"
+                    android:layout_gravity="center|bottom"
+                    android:textAllCaps="false"
+                    android:textColor="@color/fitnessWhite"
+                    android:background="@drawable/fitness_round_button"
+                    android:drawableLeft="@drawable/baseline_fitness_center_black_24"       
+                    android:paddingLeft="10dp"
+                    android:paddingRight="30dp"
+                    android:paddingTop="8dp"
+                    android:paddingBottom="8dp"
+                    android:elevation="2dp"
+                    android:translationZ="2dp"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+    <include layout="@layout/workout"/>
+    <include layout="@layout/workout_recycler_view"/>
+
+</android.support.design.widget.CoordinatorLayout>

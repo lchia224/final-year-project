@@ -1,12 +1,9 @@
 
 <android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/calendarView"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-
-    <FrameLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent">
 
         <LinearLayout
             android:orientation="vertical"
@@ -32,11 +29,131 @@
                 android:orientation="vertical"
                 android:layout_height="0dp"
                 android:layout_width="match_parent"
-                android:layout_weight="0.3"
-                android:padding="10dp"
+                android:layout_weight="0.8"
                 android:background="#736f6f">
 
-                 <View
+                <FrameLayout
+                    android:id="@+id/layoutDifficulty"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.5"
+                    android:background="@color/fitnessPrimaryDark">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <RelativeLayout
+                            android:id="@+id/layoutBeginner"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:clickable="false"
+                            android:layout_weight="0.3">
+
+                            <TextView
+                                android:id="@+id/txtBeginnerSelector"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Beginner"
+                                android:layout_centerVertical="true"
+                                android:layout_marginLeft="30dp"
+                                android:maxLines="2"
+                                android:gravity="center_vertical"
+                                android:layout_marginRight="36dp"/>
+
+                            <CheckBox
+                                android:id="@+id/cbBeginnerSelector"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="end"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:layout_marginRight="10dp"/>
+
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:layout_gravity="end"
+                                android:layout_alignParentBottom="true"
+                                android:background="#e2e2e2"/>
+
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:layout_gravity="end"
+                                android:layout_alignParentTop="true"
+                                android:background="#e2e2e2"/>
+
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/layoutIntermediate"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:clickable="false"
+                            android:layout_weight="0.3">
+
+                            <TextView
+                                android:id="@+id/txtIntermediateSelector"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="Intermediate"
+                                android:layout_centerVertical="true"
+                                android:layout_marginLeft="30dp"
+                                android:maxLines="2"
+                                android:gravity="center_vertical"
+                                android:layout_marginRight="36dp"
+                            />
+
+                            <CheckBox
+                                android:id="@+id/cbIntermediateSelector"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="end"
+                                android:layout_alignParentRight="true"
+                                android:layout_centerVertical="true"
+                                android:layout_marginRight="10dp"
+                            />
+
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/layoutIntermediate"
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:clickable="false"
+                            android:layout_weight="0.7">
+
+                            <fr.ganfra.materialspinner.MaterialSpinner
+                                android:id="@+id/workoutSpinner"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                app:ms_enableFloatingLabel="true"
+                                app:ms_floatingLabelText="Select workout"
+                                app:ms_hint="Select workout"
+                                app:ms_alignLabels="true"/>
+
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="1dp"
+                                android:layout_gravity="end"
+                                android:layout_alignParentTop="true"
+                                android:background="#e2e2e2"/>
+
+                        </RelativeLayout>
+
+                    </LinearLayout>
+
+                </FrameLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="0.4">
+
+                    <View
                     android:layout_width="match_parent"
                     android:layout_height="1dp"
                     android:layout_gravity="top"
@@ -59,13 +176,14 @@
                     android:visibility="invisible"
                     android:textColor="#fff"/>
 
-                <Button
+                </LinearLayout>
+
+            <Button
                     android:id="@+id/btnSelfCalendarStart"
                     android:layout_width="300dp"
                     android:layout_height="40dp"
                     android:text="Start Workout"
                     android:layout_gravity="center|bottom"
-                    android:layout_marginTop="40dp"
                     android:textAllCaps="false"
                     android:textColor="@color/fitnessWhite"
                     android:background="@drawable/fitness_round_button"
@@ -79,7 +197,6 @@
 
             </LinearLayout>
         </LinearLayout>
-    </FrameLayout>
 
     <include layout="@layout/workout"/>
     <include layout="@layout/workout_recycler_view"/>

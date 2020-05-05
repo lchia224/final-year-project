@@ -1,0 +1,44 @@
+{
+   "core":[
+      {
+         "workout":"Leg Raises",
+         "reps":"5"
+      },
+      {
+         "workout":"Russian Twists",
+         "reps":"10"
+      },
+      {
+         "workout":"Crunches",
+         "reps":"10"
+      }
+   ],
+   "glutes":[
+      {
+         "workout":"Glute Bridges",
+         "reps":"10"
+      },
+      {
+         "workout":"Squats",
+         "reps":"10"
+      },
+      {
+         "workout":"Lunges",
+         "reps":"5"
+      }
+   ],
+   "hiits":[
+      {
+         "workout":"Jumping Jacks",
+         "reps":"30s"
+      },
+      {
+         "workout":"Mountain Climbers",
+         "reps":"20s"
+      },
+      {
+         "workout":"High Knee Taps",
+         "reps":"30s"
+      }
+   ]
+}

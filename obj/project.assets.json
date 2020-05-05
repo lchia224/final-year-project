@@ -14,6 +14,19 @@
           "lib/monoandroid44/GoogleGson.dll": {}
         }
       },
+      "MaterialSpinner-Xamarin/1.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Android.Support.v7.AppCompat": "22.1.1",
+          "Xamarin.NineOldAndroids": "0.0.1"
+        },
+        "compile": {
+          "lib/MonoAndroid/MaterialSpinner.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid/MaterialSpinner.dll": {}
+        }
+      },
       "Naxam.Ittianyu.BottomNavExtension/2.0.4": {
         "type": "package",
         "dependencies": {
@@ -1345,6 +1358,15 @@
         "build": {
           "build/MonoAndroid90/Xamarin.GooglePlayServices.Tasks.targets": {}
         }
+      },
+      "Xamarin.NineOldAndroids/0.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/MonoAndroid/NineOldAndroids.dll": {}
+        },
+        "runtime": {
+          "lib/MonoAndroid/NineOldAndroids.dll": {}
+        }
       }
     }
   },
@@ -1360,6 +1382,18 @@
         "googlegson.2.8.5.nupkg.sha512",
         "googlegson.nuspec",
         "lib/monoandroid44/GoogleGson.dll"
+      ]
+    },
+    "MaterialSpinner-Xamarin/1.1.1": {
+      "sha512": "SiYaHEPqsPJn8Vu8N6g9Vuoh3276JIS8DAXtane+fgD4vNs4ovLRjOl0a4aF1JVbTal2XMveUStrzpz+rlUgGQ==",
+      "type": "package",
+      "path": "materialspinner-xamarin/1.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid/MaterialSpinner.dll",
+        "materialspinner-xamarin.1.1.1.nupkg.sha512",
+        "materialspinner-xamarin.nuspec"
       ]
     },
     "Naxam.Ittianyu.BottomNavExtension/2.0.4": {
@@ -2852,10 +2886,23 @@
         "xamarin.googleplayservices.tasks.71.1601.0.nupkg.sha512",
         "xamarin.googleplayservices.tasks.nuspec"
       ]
+    },
+    "Xamarin.NineOldAndroids/0.0.1": {
+      "sha512": "7OALtKn4GmqNYLt/ZiOycGZqDL9lOhGZxo91camWKsD5gcVOxKgL/rcWh35NjAPiXoyJpCiGcNbVMOrrvuhvOg==",
+      "type": "package",
+      "path": "xamarin.nineoldandroids/0.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid/NineOldAndroids.dll",
+        "xamarin.nineoldandroids.0.0.1.nupkg.sha512",
+        "xamarin.nineoldandroids.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v9.0": [
+      "MaterialSpinner-Xamarin >= 1.1.1",
       "Naxam.Ittianyu.BottomNavExtension >= 2.0.4",
       "Newtonsoft.Json >= 12.0.3",
       "Refractored.Controls.CircleImageView >= 1.0.1",
@@ -2914,6 +2961,10 @@
     "frameworks": {
       "monoandroid90": {
         "dependencies": {
+          "MaterialSpinner-Xamarin": {
+            "target": "Package",
+            "version": "[1.1.1, )"
+          },
           "Naxam.Ittianyu.BottomNavExtension": {
             "target": "Package",
             "version": "[2.0.4, )"

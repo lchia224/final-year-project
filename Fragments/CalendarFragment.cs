@@ -22,6 +22,12 @@ using Fitness_Diary.Helpers;
 using Fitness_Diary.Models;
 using Android.Support.V7.Widget;
 using Fitness_Diary.Adapter;
+using FR.Ganfra.Materialspinner;
+using Newtonsoft.Json.Linq;
+using System.IO;
+using Newtonsoft.Json;
+using Android.Content.Res;
+using System.Collections;
 
 namespace Fitness_Diary.Fragments
 {
@@ -36,11 +42,18 @@ namespace Fitness_Diary.Fragments
         CalendarView calendarCalendarView;
 
         //TextBoxes
-        TextView calendarWorkoutTextBox;
-        TextView calendarRepTextBox;
+        EditText calendarWorkoutTextBox;
+        EditText calendarRepTextBox;
 
         //Buttons
         Button selfStartButton;
+
+        //Radio Button
+        CheckBox beginnerCheckBox;
+        CheckBox intermediateCheckBox;
+
+        //Spinner
+        MaterialSpinner workoutSpinner;
 
         //Layouts
         BottomSheetBehavior workoutLayoutBottomSheetBehaviour;
@@ -59,7 +72,12 @@ namespace Fitness_Diary.Fragments
         RecyclerView myRecyclerView;
 
         //List
-        List<Workout> WorkoutList;
+        List<WorkoutDatabase> workoutDatabaseList;
+        List<string> muscleGroupList;
+        List<WorkoutJson> workoutJsonList;
+
+        //ArrayAdapter
+        ArrayAdapter<string> muscleGroupAdapter;
 
         //TaskCompletionListeners
         TaskCompletionListener taskCompletionListener = new TaskCompletionListener();
@@ -73,6 +91,7 @@ namespace Fitness_Diary.Fragments
         public string rep { get; set; }
         public string workoutID { get; set; }
         public static string selectedDay { get; set; }
+        public string jsonData { get; set; }
 
         public override void OnCreate(Bundle savedInstanceState)
         {
@@ -90,14 +109,21 @@ namespace Fitness_Diary.Fragments
             testText = view.FindViewById<TextView>(Resource.Id.txttest);
 
             //TextBoxes
-            calendarWorkoutTextBox = view.FindViewById<TextView>(Resource.Id.txtWorkoutInput);
-            calendarRepTextBox = view.FindViewById<TextView>(Resource.Id.txtRepInput);
+            calendarWorkoutTextBox = view.FindViewById<EditText>(Resource.Id.txtWorkoutInput);
+            calendarRepTextBox = view.FindViewById<EditText>(Resource.Id.txtRepInput);
 
             //CalendarViews
             calendarCalendarView = view.FindViewById<CalendarView>(Resource.Id.viewCalendar);
 
             //Buttons
             selfStartButton = view.FindViewById<Button>(Resource.Id.btnSelfCalendarStart);
+
+            //RadioButton
+            beginnerCheckBox = view.FindViewById<CheckBox>(Resource.Id.cbBeginnerSelector);
+            intermediateCheckBox = view.FindViewById<CheckBox>(Resource.Id.cbIntermediateSelector);
+
+            //Spinner
+            workoutSpinner = view.FindViewById<MaterialSpinner>(Resource.Id.workoutSpinner);
 
             //Layouts
             FrameLayout workoutLayout = view.FindViewById<FrameLayout>(Resource.Id.layoutWorkout);
@@ -113,6 +139,8 @@ namespace Fitness_Diary.Fragments
             calendarCalendarView.DateChange += CalendarCalendarView_DateChange;
             selfStartButton.Click += SelfStartButton_Click;
             calendarWorkoutTextBox.TextChanged += CalendarWorkoutTextBox_TextChanged;
+            beginnerCheckBox.Click += BeginnerButton_Click;
+            intermediateCheckBox.Click += IntermediateButton_Click;
 
             if(selectedDay == null)
             {
@@ -122,16 +150,39 @@ namespace Fitness_Diary.Fragments
                 selectedDay = today;
             }
 
-           //RetrieveWorkout();
+            SetupWorkoutSpinner();
+            GetJsonData();
 
             return view;
         }
 
+        public void SetupWorkoutSpinner()
+        {
+            muscleGroupList = new List<string>();
+            muscleGroupList.Add("Core");
+            muscleGroupList.Add("HIITs");
+            muscleGroupList.Add("Glutes");
+
+            muscleGroupAdapter = new ArrayAdapter<string>(Activity, Android.Resource.Layout.SimpleSpinnerDropDownItem, muscleGroupList);
+            muscleGroupAdapter.SetDropDownViewResource(Android.Resource.Layout.SimpleSpinnerDropDownItem);
+
+            workoutSpinner.Adapter = muscleGroupAdapter;
+        }
+
+        private void IntermediateButton_Click(object sender, EventArgs e)
+        {
+            beginnerCheckBox.Checked = false;
+        }
+
+        private void BeginnerButton_Click(object sender, EventArgs e)
+        {
+            intermediateCheckBox.Checked = false;
+        }
 
         private void SetupRecyclerView()
         {
             myRecyclerView.SetLayoutManager(new Android.Support.V7.Widget.LinearLayoutManager(Activity.BaseContext));
-            WorkoutAdapter adapter = new WorkoutAdapter(WorkoutList);
+            WorkoutDatabaseAdapter adapter = new WorkoutDatabaseAdapter(workoutDatabaseList);
             myRecyclerView.SetAdapter(adapter);
         }
 
@@ -218,7 +269,7 @@ namespace Fitness_Diary.Fragments
 
         private void WorkoutListener_WorkoutRetrieved(object sender, WorkoutListener.WorkoutDataEventArgs e)
         {
-            WorkoutList = e.Workout;
+            workoutDatabaseList = e.Workout;
             SetupRecyclerView();
         }
 
@@ -243,6 +294,31 @@ namespace Fitness_Diary.Fragments
             RetrieveWorkout();
 
             workoutRecyclerViewBottomSheetBehaviour.State = BottomSheetBehavior.StateExpanded;
+        }
+
+        void GetJsonData()
+        {
+            AssetManager assets = Activity.Assets;
+
+            using (StreamReader stream = new StreamReader(assets.Open("beginner.json")))
+            {
+                jsonData = stream.ReadToEnd();
+
+                WorkoutJson workoutList = JsonConvert.DeserializeObject<WorkoutJson>(jsonData);
+
+                var dictionary = JsonConvert.DeserializeObject<IDictionary>(jsonData);
+                foreach(DictionaryEntry entry in dictionary)
+                {
+                    testText.Text = entry.Value.ToString();
+                }
+            }
+
+            WorkoutJson workoutJson = new WorkoutJson();
+
+            workoutJson = JsonConvert.DeserializeObject<WorkoutJson>(jsonData);
+
+            Console.WriteLine(workoutJson);
+            
         }
     }
 }

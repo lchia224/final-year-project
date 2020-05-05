@@ -21,13 +21,13 @@ namespace Fitness_Diary.EventListeners
     {
         FirebaseAuth mAuth;
 
-        List<Workout> workoutList = new List<Workout>();
+        List<WorkoutDatabase> workoutList = new List<WorkoutDatabase>();
 
         public event EventHandler<WorkoutDataEventArgs> WorkoutRetrieved;
 
         public class WorkoutDataEventArgs : EventArgs
         {
-            public List<Workout> Workout { get; set; }
+            public List<WorkoutDatabase> Workout { get; set; }
         }
 
         public void OnCancelled(DatabaseError error)
@@ -44,7 +44,7 @@ namespace Fitness_Diary.EventListeners
 
                 foreach(DataSnapshot workoutData in child)
                 {
-                    Workout workout = new Workout();
+                    WorkoutDatabase workout = new WorkoutDatabase();
 
                     workout.WorkoutID = workoutData.Key;
                     workout.Date = workoutData.Child("date").Value.ToString();

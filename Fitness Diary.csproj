@@ -70,7 +70,7 @@
     <Compile Include="Activities\LoginActivity.cs" />
     <Compile Include="Activities\RegisterActivity.cs" />
     <Compile Include="Adapter\ViewPagerAdapter.cs" />
-    <Compile Include="Adapter\WorkoutAdapter.cs" />
+    <Compile Include="Adapter\WorkoutDatabaseAdapter.cs" />
     <Compile Include="EventListeners\TaskCompletionListener.cs" />
     <Compile Include="EventListeners\WorkoutListener.cs" />
     <Compile Include="Fragments\CalculatorFragment.cs" />
@@ -84,12 +84,14 @@
     <Compile Include="Helpers\LocationCallbackHelper.cs" />
     <Compile Include="Helpers\MapFunctionHelper.cs" />
     <Compile Include="MainActivity.cs" />
-    <Compile Include="Models\Workout.cs" />
+    <Compile Include="Models\WorkoutJson.cs" />
+    <Compile Include="Models\WorkoutDatabase.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <GoogleServicesJson Include="google-services.json" />
+    <AndroidAsset Include="Assets\beginner.json" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Assets\AboutAssets.txt" />
@@ -119,6 +121,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\ic_launcher_round.png" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="MaterialSpinner-Xamarin">
+      <Version>1.1.1</Version>
+    </PackageReference>
     <PackageReference Include="Naxam.Ittianyu.BottomNavExtension">
       <Version>2.0.4</Version>
     </PackageReference>
