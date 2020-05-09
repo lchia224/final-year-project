@@ -25,7 +25,6 @@ namespace Fitness_Diary
         //Fragments
         CalendarFragment calendarFragment = new CalendarFragment();
         MapFragment mapFragment = new MapFragment();
-        CalculatorFragment calculatorFragment = new CalculatorFragment();
         DietPlannerFragment dietPlannerFragment = new DietPlannerFragment();
         HelpFragment helpFragment = new HelpFragment();
 
@@ -51,7 +50,7 @@ namespace Fitness_Diary
             BnveToAccentColor(0);
 
             viewpager = (ViewPager)FindViewById(Resource.Id.viewpager);
-            viewpager.OffscreenPageLimit = 5;
+            viewpager.OffscreenPageLimit = 4;
             viewpager.BeginFakeDrag();
 
             SetupViewPager();
@@ -70,20 +69,15 @@ namespace Fitness_Diary
                 viewpager.SetCurrentItem(1, true);
                 BnveToAccentColor(1);
             }
-            else if (e.Item.ItemId == Resource.Id.navCalculator)
+            else if (e.Item.ItemId == Resource.Id.navDiet)
             {
                 viewpager.SetCurrentItem(2, true);
                 BnveToAccentColor(2);
             }
-            else if (e.Item.ItemId == Resource.Id.navDiet)
+            else if (e.Item.ItemId == Resource.Id.navHelp)
             {
                 viewpager.SetCurrentItem(3, true);
                 BnveToAccentColor(3);
-            }
-            else if (e.Item.ItemId == Resource.Id.navHelp)
-            {
-                viewpager.SetCurrentItem(4, true);
-                BnveToAccentColor(4);
             }
         }
 
@@ -100,18 +94,13 @@ namespace Fitness_Diary
             img1.SetColorFilter(Color.Rgb(255, 255, 255));
             txt1.SetTextColor(Color.Rgb(255, 255, 255));
 
-            var img2 = bnve.GetIconAt(2);
-            var txt2 = bnve.GetLargeLabelAt(2);
-            img2.SetColorFilter(Color.Rgb(255, 255, 255));
-            txt2.SetTextColor(Color.Rgb(255, 255, 255));
-
-            var img3 = bnve.GetIconAt(3);
-            var txt3 = bnve.GetLargeLabelAt(3);
+            var img3 = bnve.GetIconAt(2);
+            var txt3 = bnve.GetLargeLabelAt(2);
             img3.SetColorFilter(Color.Rgb(255, 255, 255));
             txt3.SetTextColor(Color.Rgb(255, 255, 255));
 
-            var img4 = bnve.GetIconAt(4);
-            var txt4 = bnve.GetLargeLabelAt(4);
+            var img4 = bnve.GetIconAt(3);
+            var txt4 = bnve.GetLargeLabelAt(3);
             img4.SetColorFilter(Color.Rgb(255, 255, 255));
             txt4.SetTextColor(Color.Rgb(255, 255, 255));
 
@@ -128,7 +117,6 @@ namespace Fitness_Diary
             ViewPagerAdapter adapter = new ViewPagerAdapter(SupportFragmentManager);
             adapter.AddFragment(calendarFragment, "Calendar");
             adapter.AddFragment(mapFragment, "Map");
-            adapter.AddFragment(calculatorFragment, "Calculator");
             adapter.AddFragment(dietPlannerFragment, "Diet Planner");
             adapter.AddFragment(helpFragment, "Help & Support");
             viewpager.Adapter = adapter;

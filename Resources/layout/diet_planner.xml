@@ -1,17 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="210dp">
+
+        <EditText
+            android:id="@+id/txtFood"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter your food"
+            android:inputType="text"
+            android:layout_marginTop="5dp"/>     
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp">
+            
+            <EditText
+                android:id="@+id/txtFat"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3"
+                android:hint="Fat"
+                android:inputType="number"/>
+
+            <EditText
+                android:id="@+id/txtProtein"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3"
+                android:hint="Protein"
+                android:inputType="number"/>
+
+            <EditText
+                android:id="@+id/txtCarb"
+                android:layout_width="0dp"
+                android:layout_weight="0.3"
+                android:layout_height="wrap_content"
+                android:hint="Carb"
+                android:inputType="number"/>
+            
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/txtCalories"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:hint="Enter your Calories"
+            android:inputType="number"/>
+
+        <Button
+            android:id="@+id/btnSubmitFood"
+            android:layout_width="150dp"
+            android:layout_height="35dp"
+            android:text="Submit"
+            android:layout_gravity="right"
+            android:textAllCaps="false"
+            android:textColor="@color/fitnessWhite"
+            android:background="@drawable/fitness_round_button"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="3dp"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="7dp"
+            android:background="#e2e2e2"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center">
+        
+        <TextView
+            android:id="@+id/txtChartOption"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="PointChart"/>
+
+        <ImageView
+            android:id="@+id/sortdownImage"
+            android:src="@drawable/sortdown"
+            android:layout_marginLeft="10dp"
+            android:layout_width="20dp"
+            android:layout_height="30dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="18sp"
-        android:text="Diet Planner"
-        android:textColor="#000"
-        android:layout_centerInParent="true"
-        android:gravity="center"
-    />
+        android:orientation="vertical"
+        android:padding="10dp">
 
-</RelativeLayout>
+        <Microcharts.Droid.ChartView
+            android:id="@+id/chartView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+</LinearLayout>

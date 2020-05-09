@@ -73,7 +73,6 @@
     <Compile Include="Adapter\WorkoutDatabaseAdapter.cs" />
     <Compile Include="EventListeners\TaskCompletionListener.cs" />
     <Compile Include="EventListeners\WorkoutListener.cs" />
-    <Compile Include="Fragments\CalculatorFragment.cs" />
     <Compile Include="Fragments\CalendarFragment.cs" />
     <Compile Include="Fragments\DietPlannerFragment.cs" />
     <Compile Include="Fragments\HelpFragment.cs" />
@@ -84,6 +83,7 @@
     <Compile Include="Helpers\LocationCallbackHelper.cs" />
     <Compile Include="Helpers\MapFunctionHelper.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="Models\Diet.cs" />
     <Compile Include="Models\WorkoutJson.cs" />
     <Compile Include="Models\WorkoutDatabase.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
@@ -124,6 +124,9 @@
     <PackageReference Include="MaterialSpinner-Xamarin">
       <Version>1.1.1</Version>
     </PackageReference>
+    <PackageReference Include="Microcharts">
+      <Version>0.7.1</Version>
+    </PackageReference>
     <PackageReference Include="Naxam.Ittianyu.BottomNavExtension">
       <Version>2.0.4</Version>
     </PackageReference>
@@ -143,6 +146,9 @@
       <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Core.Utils">
+      <Version>28.0.0.1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Android.Support.CustomTabs">
       <Version>28.0.0.1</Version>
     </PackageReference>
     <PackageReference Include="Xamarin.Android.Support.Design" Version="28.0.0.1" />
@@ -222,11 +228,6 @@
     </AndroidResource>
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\layout\calculator.xml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
-  </ItemGroup>
-  <ItemGroup>
     <AndroidResource Include="Resources\layout\diet_planner.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
@@ -292,6 +293,9 @@
     <AndroidResource Include="Resources\layout\workout_row.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\sortdown.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.

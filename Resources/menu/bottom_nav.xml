@@ -14,12 +14,6 @@
       />
 
   <item
-    android:id="@+id/navCalculator"
-    android:title="Calculator"
-    android:icon="@drawable/baseline_whatshot_black_24"
-      />
-
-  <item
     android:id="@+id/navDiet"
     android:title="Diet"
     android:icon="@drawable/baseline_restaurant_black_24"
