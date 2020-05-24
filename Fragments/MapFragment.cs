@@ -415,7 +415,6 @@ namespace Fitness_Diary.Fragments
 
                 if (grantResults[0] == Permission.Granted)
                 {
-                    Toast.MakeText(Activity, "Permission was denied", ToastLength.Long).Show();
                     StartLocationUpdates();
                 }
             }

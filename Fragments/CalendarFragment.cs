@@ -37,6 +37,8 @@ namespace Fitness_Diary.Fragments
         TextView workoutText;
         TextView repText;
         TextView testText;
+        TextView beginnerText;
+        TextView intermediateText;
 
         //CalendarViews
         CalendarView calendarCalendarView;
@@ -92,6 +94,7 @@ namespace Fitness_Diary.Fragments
         public string workoutID { get; set; }
         public static string selectedDay { get; set; }
         public string jsonData { get; set; }
+        private string spinnerData { get; set; }
 
         public override void OnCreate(Bundle savedInstanceState)
         {
@@ -107,6 +110,8 @@ namespace Fitness_Diary.Fragments
 
             //TextViews
             testText = view.FindViewById<TextView>(Resource.Id.txttest);
+            beginnerText = view.FindViewById<TextView>(Resource.Id.txtBeginnerSelector);
+            intermediateText = view.FindViewById<TextView>(Resource.Id.txtIntermediateSelector);
 
             //TextBoxes
             calendarWorkoutTextBox = view.FindViewById<EditText>(Resource.Id.txtWorkoutInput);
@@ -141,6 +146,7 @@ namespace Fitness_Diary.Fragments
             calendarWorkoutTextBox.TextChanged += CalendarWorkoutTextBox_TextChanged;
             beginnerCheckBox.Click += BeginnerButton_Click;
             intermediateCheckBox.Click += IntermediateButton_Click;
+            workoutSpinner.ItemSelected += WorkoutSpinner_ItemSelected;
 
             if(selectedDay == null)
             {
@@ -151,9 +157,22 @@ namespace Fitness_Diary.Fragments
             }
 
             SetupWorkoutSpinner();
-            GetJsonData();
 
             return view;
+        }
+
+        private void WorkoutSpinner_ItemSelected(object sender, AdapterView.ItemSelectedEventArgs e)
+        {
+            spinnerData = workoutSpinner.GetItemAtPosition(e.Position).ToString();
+
+            if (workoutSpinner.GetItemAtPosition(e.Position).ToString() == "Select workout")
+            {
+                EnableSelfFunction();
+            }
+            else 
+            {
+                DisableSelfFunction();
+            }
         }
 
         public void SetupWorkoutSpinner()
@@ -167,16 +186,35 @@ namespace Fitness_Diary.Fragments
             muscleGroupAdapter.SetDropDownViewResource(Android.Resource.Layout.SimpleSpinnerDropDownItem);
 
             workoutSpinner.Adapter = muscleGroupAdapter;
+
         }
 
         private void IntermediateButton_Click(object sender, EventArgs e)
         {
             beginnerCheckBox.Checked = false;
+
+            if (intermediateCheckBox.Checked == true)
+            {
+                DisableSelfFunction();
+            }
+            else
+            {
+                EnableSelfFunction();
+            }
         }
 
         private void BeginnerButton_Click(object sender, EventArgs e)
         {
             intermediateCheckBox.Checked = false;
+
+            if (beginnerCheckBox.Checked == true)
+            {
+                DisableSelfFunction();
+            }
+            else
+            {
+                EnableSelfFunction();
+            }
         }
 
         private void SetupRecyclerView()
@@ -187,16 +225,20 @@ namespace Fitness_Diary.Fragments
         }
 
         private void CalendarWorkoutTextBox_TextChanged(object sender, Android.Text.TextChangedEventArgs e)
-        {         
+        {
+            DisableAutoFunction();
+
             if(string.IsNullOrWhiteSpace(calendarWorkoutTextBox.Text))
             {
                 selfStartButton.Text = "Start Workout";
-                calendarRepTextBox.Visibility = ViewStates.Invisible;       
+                calendarRepTextBox.Visibility = ViewStates.Invisible;
+                EnableAutoFunction();
             }
             else
             {
                 selfStartButton.Text = "Log Workout";
                 calendarRepTextBox.Visibility = ViewStates.Visible;
+                DisableAutoFunction();
             }
         }
 
@@ -226,8 +268,6 @@ namespace Fitness_Diary.Fragments
 
         void LogWorkout()
         {
-            if (calendarWorkoutTextBox.Text != "" && calendarRepTextBox.Text != "")
-            {
                 if (selectedDay == null)
                 {
                     string today = DateTime.Now.ToString("d/M/yyyy");
@@ -252,12 +292,7 @@ namespace Fitness_Diary.Fragments
                 userReference.SetValue(workoutInfo);
 
                 calendarWorkoutTextBox.Text = "";
-                calendarRepTextBox.Text = "";
-            }
-            else
-            {
-                Snackbar.Make(calendarCoordinatorLayout, "Please ensure both text boxes are filled", Snackbar.LengthShort).Show();
-            }
+                calendarRepTextBox.Text = "";          
         }
 
         void RetrieveWorkout()
@@ -275,13 +310,28 @@ namespace Fitness_Diary.Fragments
 
         private void SelfStartButton_Click(object sender, EventArgs e)
         {
-            if (calendarWorkoutTextBox.Text == "")
-            {
-                workoutLayoutBottomSheetBehaviour.State = BottomSheetBehavior.StateExpanded;          
-            } 
-            else
+            if(!string.IsNullOrWhiteSpace(calendarWorkoutTextBox.Text))
             {
                 LogWorkout();
+            }
+            else if (spinnerData != "Select workout")
+            {
+                if(beginnerCheckBox.Checked)
+                {
+                    LogJsonWorkout(beginnerText.Text);
+                    beginnerCheckBox.Checked = false;
+                    workoutSpinner.SetSelection(0);
+                }
+                else if(intermediateCheckBox.Checked)
+                {
+                    LogJsonWorkout(intermediateText.Text);
+                    intermediateCheckBox.Checked = false;
+                    workoutSpinner.SetSelection(0);
+                }
+            }
+            else
+            {
+                Snackbar.Make(calendarCoordinatorLayout, "Please ensure requirements are filled", Snackbar.LengthShort).Show();
             }
         }
 
@@ -296,29 +346,80 @@ namespace Fitness_Diary.Fragments
             workoutRecyclerViewBottomSheetBehaviour.State = BottomSheetBehavior.StateExpanded;
         }
 
-        void GetJsonData()
+        void LogJsonWorkout(string jsonFile)
         {
+            if (selectedDay == null)
+            {
+                string today = DateTime.Now.ToString("d/M/yyyy");
+                selectedDay = today;
+            }
+
+            string day = selectedDay;
+
             AssetManager assets = Activity.Assets;
 
-            using (StreamReader stream = new StreamReader(assets.Open("beginner.json")))
+            using (StreamReader stream = new StreamReader(assets.Open(jsonFile + ".json")))
             {
                 jsonData = stream.ReadToEnd();
 
                 WorkoutJson workoutList = JsonConvert.DeserializeObject<WorkoutJson>(jsonData);
 
-                var dictionary = JsonConvert.DeserializeObject<IDictionary>(jsonData);
-                foreach(DictionaryEntry entry in dictionary)
+                HashMap workoutInfo = new HashMap();
+
+                workoutInfo.Put("date", day);
+
+                if(spinnerData == "Core")
                 {
-                    testText.Text = entry.Value.ToString();
+                    foreach (var w in workoutList.Core)
+                    {
+                        workoutInfo.Put("workout", w.Workout);
+                        workoutInfo.Put("reps", w.Reps);
+                    }
+                } else if(spinnerData == "HIITs")
+                {
+                    foreach (var w in workoutList.Hiits)
+                    {
+                        workoutInfo.Put("workout", w.Workout);
+                        workoutInfo.Put("reps", w.Reps);
+                    }
+                } else if(spinnerData == "Glutes")
+                {
+                    foreach (var w in workoutList.Glutes)
+                    {
+                        workoutInfo.Put("workout", w.Workout);
+                        workoutInfo.Put("reps", w.Reps);
+                    }
                 }
-            }
 
-            WorkoutJson workoutJson = new WorkoutJson();
+                DatabaseReference userReference = database.GetReference("workouts").Push();
+                userReference.SetValue(workoutInfo);
+            }           
+        }
 
-            workoutJson = JsonConvert.DeserializeObject<WorkoutJson>(jsonData);
+        void DisableAutoFunction()
+        {
+            beginnerCheckBox.Enabled = false;
+            intermediateCheckBox.Enabled = false;
+            workoutSpinner.Clickable = false;
+        }
 
-            Console.WriteLine(workoutJson);
-            
+        void DisableSelfFunction()
+        {
+            calendarWorkoutTextBox.Enabled = false;
+            calendarRepTextBox.Enabled = false;             
+        }
+
+        void EnableAutoFunction()
+        {
+            beginnerCheckBox.Enabled = true;
+            intermediateCheckBox.Enabled = true;
+            workoutSpinner.Clickable = true;
+        }
+        
+        void EnableSelfFunction()
+        {
+            calendarWorkoutTextBox.Enabled = true;
+            calendarRepTextBox.Enabled = true;
         }
     }
 }

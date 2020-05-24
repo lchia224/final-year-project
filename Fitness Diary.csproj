@@ -91,7 +91,8 @@
   </ItemGroup>
   <ItemGroup>
     <GoogleServicesJson Include="google-services.json" />
-    <AndroidAsset Include="Assets\beginner.json" />
+    <AndroidAsset Include="Assets\Intermediate.json" />
+    <AndroidAsset Include="Assets\Beginner.json" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Assets\AboutAssets.txt" />

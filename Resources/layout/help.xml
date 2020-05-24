@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -7,11 +10,58 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="18sp"
-        android:text="Help and Support"
-        android:textColor="#000"
-        android:layout_centerInParent="true"
-        android:gravity="center"
-    />
+        android:text="Contact Us"
+        android:textStyle="bold"
+        android:textSize="50dp"
+        android:gravity="center_horizontal"/>
 
-</RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="7dp"
+        android:background="#e2e2e2"/>
+
+    <EditText
+        android:id="@+id/txtContactName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:inputType="text"
+        android:layout_marginTop="10dp"/>   
+    
+    <EditText
+        android:id="@+id/txtContactEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:inputType="text"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/txtContactSubject"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Subject"
+        android:inputType="text"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/txtContactDescription"
+        android:inputType="textMultiLine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Description"
+        android:layout_marginTop="20dp"/>
+    
+    <Button
+        android:id="@+id/btnContactSubmit"
+        android:layout_width="150dp"
+        android:layout_height="35dp"
+        android:text="Submit"
+        android:layout_gravity="center"
+        android:textAllCaps="false"
+        android:textColor="@color/fitnessWhite"
+        android:background="@drawable/fitness_round_button"
+        android:layout_marginTop="300dp"/>
+
+</LinearLayout>

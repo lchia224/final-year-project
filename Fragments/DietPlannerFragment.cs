@@ -63,9 +63,9 @@ namespace Fitness_Diary.Fragments
             PopupMenu popupMenu = new PopupMenu(Activity, chartOptionsText);
             popupMenu.MenuItemClick += PopupMenu_MenuItemClick;
 
-            popupMenu.Menu.Add(Menu.None, 1, 1, "PointChart");
+            popupMenu.Menu.Add(Menu.None, 1, 1, "BarChart");
             popupMenu.Menu.Add(Menu.None, 2, 2, "LineChart");
-            popupMenu.Menu.Add(Menu.None, 3, 3, "BarChart");
+            popupMenu.Menu.Add(Menu.None, 3, 3, "PointChart");
             popupMenu.Menu.Add(Menu.None, 4, 4, "RadarChart");
 
             popupMenu.Show();
@@ -73,6 +73,7 @@ namespace Fitness_Diary.Fragments
 
         private void PopupMenu_MenuItemClick(object sender, PopupMenu.MenuItemClickEventArgs e)
         {
+            chartOptionsText.Text = e.Item.TitleFormatted.ToString();
             string charttype = e.Item.TitleFormatted.ToString();
             DrawChart(charttype);
         }
@@ -84,6 +85,9 @@ namespace Fitness_Diary.Fragments
             diet.Food = foodTextBox.Text;
             diet.Calories = int.Parse(caloriesTextBox.Text);
             dietList.Add(diet);
+
+            foodTextBox.Text = "";
+            caloriesTextBox.Text = "";
 
             DrawChart("BarChart");       
         }

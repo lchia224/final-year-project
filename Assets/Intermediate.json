@@ -1,0 +1,20 @@
+{
+   "core":[
+      {
+         "workout":"In Out Russian Twists",
+         "reps":"20"
+      }
+   ],
+   "glutes":[
+      {
+         "workout":"Lunges",
+         "reps":"20"
+      }
+   ],
+   "hiits":[
+	  {
+	  	  "workout":"Jump Squats",
+		  "reps":"20"
+	  }
+   ]
+}

@@ -161,10 +161,5 @@ namespace Fitness_Diary.Activities
             editor.PutString("email", email);
             editor.Apply();
         }
-
-        void RetrieveData()
-        {
-            string email = preferences.GetString("email", "");
-        }
     }
 }
