@@ -18,7 +18,7 @@ using Fitness_Diary.EventListeners;
 
 namespace Fitness_Diary.Activities
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/FitnessTheme", MainLauncher = false)]
+    [Activity(Label = "@string/app_name", Theme = "@style/FitnessTheme", MainLauncher = true)]
     public class LoginActivity : AppCompatActivity
     {
         TextInputLayout emailText;

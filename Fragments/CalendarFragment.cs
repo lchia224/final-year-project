@@ -148,14 +148,6 @@ namespace Fitness_Diary.Fragments
             intermediateCheckBox.Click += IntermediateButton_Click;
             workoutSpinner.ItemSelected += WorkoutSpinner_ItemSelected;
 
-            if(selectedDay == null)
-            {
-                string today;
-                today = DateTime.Now.ToString("d/M/yyyy");
-
-                selectedDay = today;
-            }
-
             SetupWorkoutSpinner();
 
             return view;
@@ -225,9 +217,7 @@ namespace Fitness_Diary.Fragments
         }
 
         private void CalendarWorkoutTextBox_TextChanged(object sender, Android.Text.TextChangedEventArgs e)
-        {
-            DisableAutoFunction();
-
+        { 
             if(string.IsNullOrWhiteSpace(calendarWorkoutTextBox.Text))
             {
                 selfStartButton.Text = "Start Workout";
@@ -268,31 +258,30 @@ namespace Fitness_Diary.Fragments
 
         void LogWorkout()
         {
-                if (selectedDay == null)
-                {
-                    string today = DateTime.Now.ToString("d/M/yyyy");
-                    selectedDay = today;
-                }
+            if (selectedDay == null)
+            {
+                string today = DateTime.Now.ToString("d/M/yyyy");
+                selectedDay = today;
+            }  
 
-                Snackbar.Make(calendarCoordinatorLayout, "Workout was logged successfully", Snackbar.LengthShort).Show();
+            string day = selectedDay;
+            string workout = calendarWorkoutTextBox.Text;
+            string reps = calendarRepTextBox.Text;
 
-                string day = selectedDay;
-                string workout = calendarWorkoutTextBox.Text;
-                string reps = calendarRepTextBox.Text;
+            //Creating HashMap to store user information to Firebase
+            HashMap workoutInfo = new HashMap();
 
-                //Creating HashMap to store user information to Firebase
-                HashMap workoutInfo = new HashMap();
+            workoutInfo.Put("date", day);
+            workoutInfo.Put("workout", workout);
+            workoutInfo.Put("reps", reps);
 
-                workoutInfo.Put("date", day);
-                workoutInfo.Put("workout", workout);
-                workoutInfo.Put("reps", reps);
+            //sets user's id to be the unique id in database
+            DatabaseReference userReference = database.GetReference("workouts").Push();
+            userReference.SetValue(workoutInfo);
+            Snackbar.Make(calendarCoordinatorLayout, "Workout was logged successfully", Snackbar.LengthShort).Show();
 
-                //sets user's id to be the unique id in database
-                DatabaseReference userReference = database.GetReference("workouts").Push();
-                userReference.SetValue(workoutInfo);
-
-                calendarWorkoutTextBox.Text = "";
-                calendarRepTextBox.Text = "";          
+            calendarWorkoutTextBox.Text = "";
+            calendarRepTextBox.Text = "";          
         }
 
         void RetrieveWorkout()
@@ -393,6 +382,7 @@ namespace Fitness_Diary.Fragments
 
                 DatabaseReference userReference = database.GetReference("workouts").Push();
                 userReference.SetValue(workoutInfo);
+                Snackbar.Make(calendarCoordinatorLayout, "Workout was logged successfully", Snackbar.LengthShort).Show();
             }           
         }
 
@@ -400,7 +390,7 @@ namespace Fitness_Diary.Fragments
         {
             beginnerCheckBox.Enabled = false;
             intermediateCheckBox.Enabled = false;
-            workoutSpinner.Clickable = false;
+            workoutSpinner.Enabled = false;
         }
 
         void DisableSelfFunction()
@@ -413,7 +403,7 @@ namespace Fitness_Diary.Fragments
         {
             beginnerCheckBox.Enabled = true;
             intermediateCheckBox.Enabled = true;
-            workoutSpinner.Clickable = true;
+            workoutSpinner.Enabled = true;
         }
         
         void EnableSelfFunction()

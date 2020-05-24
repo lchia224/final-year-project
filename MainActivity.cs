@@ -15,7 +15,7 @@ using Android.Content;
 
 namespace Fitness_Diary
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/FitnessTheme", MainLauncher = true)]
+    [Activity(Label = "@string/app_name", Theme = "@style/FitnessTheme", MainLauncher = false)]
     public class MainActivity : AppCompatActivity
     {
         //Views
